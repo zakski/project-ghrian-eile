@@ -1,0 +1,1347 @@
+From malloy@nprdc.arpa Tue Aug 30 13:45:57 1988
+Return-Path: <malloy@nprdc.arpa>
+Received: from nprdc.arpa by stdc.jhuapl.edu (3.2/SMI-3.2)
+	id AA14297; Tue, 30 Aug 88 13:44:56 EDT
+Received: by nprdc.arpa (5.54/ 1.1)
+	id AA09983; Tue, 30 Aug 88 10:51:18 PDT
+Received: by pacific.ARPA (5.54/4.7)
+	id AA11679; Tue, 30 Aug 88 10:50:17 PDT
+Date: Tue, 30 Aug 88 10:50:17 PDT
+From: malloy@nprdc.arpa (Sean Malloy)
+Message-Id: <8808301750.AA11679@pacific.ARPA>
+X-Mailer: Mail User's Shell (6.3 6/25/88)
+#! /bin/sh
+# This is a shell archive, meaning:
+# 1. Remove everything above the #! /bin/sh line.
+# 2. Save the resulting text in a file.
+# 3. Execute the file with /bin/sh (not csh) to create the files:
+#	hexstar1.c
+#	hexstar2.p
+#	hexstar3.p
+#	makestardata.c
+#	stardata
+#	constel.p
+#	constell.p
+# This archive created: Tue Aug 30 10:39:28 1988
+export PATH; PATH=/bin:$PATH
+echo shar: extracting "'hexstar1.c'" '(7444 characters)'
+if test -f 'hexstar1.c'
+then
+	echo shar: will not over-write existing file "'hexstar1.c'"
+else
+sed 's/^	X//' << \SHAR_EOF > 'hexstar1.c'
+	X/*****************************************/
+	X/* Program:      Star_Generator          */
+	X/* Version:      1.0                     */
+	X/* Filename:     HEXSTAR1.TEXT           */
+	X/* Author:       Sean R. Malloy          */
+	X/* Created:      19-Oct-83               */
+	X/* Last Update:  13-Jun-84               */
+	X/*****************************************/
+	X/* This program generates star positions */
+	X/* in a 120 light year hex, suitable for */
+	X/* mapping purposes for Other Suns.      */
+	X/* The companion programs are HEXSTAR2   */
+	X/* and HEXSTAR3, which set up and output */
+	X/* the information created by this file. */
+	X/*****************************************/
+	X
+	X/*------------------------------------------------------------------------
+	XThe changes necessary to make this program generate star positions within
+	Xa volume other than a 'hex' 120 light years across are trivial, and are
+	Xaccomplished simply by setting different constraints on the generation
+	Xof the x, y, and z coordinates of the star.
+	X------------------------------------------------------------------------*/
+	X
+	X
+	X#include <stdio.h>
+	X#include <math.h>
+	X
+	X#define TRUE 1
+	X#define FALSE 0
+	X
+	Xtypedef int boolean;
+	X
+	Xtypedef struct 			/* record type for data on a star type */
+	X        {						/* examples for Sol: */
+	X            char s_type[2];		/* "G2" */
+	X            float mass;			/* 1.00 */
+	X            float radius;		/* 1.00 */
+	X            float luminosity;	/* 1.00 */
+	X        } star_rec;
+	X    
+	Xtypedef struct 			/* record type for generic system info */
+	X        {
+	X            int x_pos, y_pos, z_pos;	/* coords of primary */
+	X            int star_quant;				/* number of stars in system */
+	X            int stars[4];				/* indices into array of star_rec */
+	X            boolean companion;			/* primary has dark companion */
+	X            boolean planets;			/* primary has planets */
+	X        } starsys_rec;
+	X
+	Xchar *clearfunc = "/bin/clear";
+	X
+	Xint roll;
+	Xchar ch;
+	Xstarsys_rec starsys_data;
+	X  
+	Xmain()
+	X{
+	X    system(clearfunc);
+	X    printf(stderr,"Other Suns Star System Generator, Program 1 of 3\n");
+	X    printf(stderr,"Working...\n");
+	X    srand(time() % 32768);
+	X    mainloop();
+	X    printf(stderr,"Done...\n");
+	X}
+	X
+	Xint random(lo,hi)		/* return a random number x such that lo <= x <= hi */
+	Xint lo,hi;
+	X{
+	X    return(lo + ((hi-lo)*(((double) rand())/32768.0)));
+	X}
+	X
+	Xint dice(num,size)		/* roll <num> <size>-sided dice */
+	Xint num,size;
+	X{
+	X    int i,sum;
+	X
+	X    sum= 0;
+	X    for (i == 0; i< num;i++)
+	X        sum= sum + random(1,size);
+	X    return(sum);
+	X} 
+	X
+	Xboolean subrange(val,lo,hi)	/* returns TRUE if  lo <= val <= hi */
+	Xint val,lo,hi;
+	X{
+	X    if ((val>=lo)&&(val<=hi)) return(TRUE);
+	X    return(FALSE);
+	X}
+	X
+	X
+	Xint f_type()
+	X{
+	X    int rollf;
+	X
+	X    rollf= random(1,100);
+	X    if (subrange(rollf,1,17)) return(1);	/* star is type F5 */
+	X    if (subrange(rollf,18,36)) return(2);	/* star is type F6 */
+	X    if (subrange(rollf,37,57)) return(3);	/* star is type F7 */
+	X    if (subrange(rollf,58,78)) return(4);	/* star is type F8 */
+	X    if (subrange(rollf,79,100)) return(5);	/* star is type F9 */
+	X}
+	X
+	Xint g_type()
+	X{
+	X    int rollg;
+	X
+	X    rollg= random(1,100);
+	X    if (subrange(rollg,1,8)) return(6);		/* star is type G0 */
+	X    if (subrange(rollg,9,16)) return(7);	/* star is type G1 */
+	X    if (subrange(rollg,17,24)) return(8);	/* star is type G2 */
+	X    if (subrange(rollg,25,33)) return(9);	/* star is type G3 */
+	X    if (subrange(rollg,34,42)) return(10);	/* star is type G4 */
+	X    if (subrange(rollg,43,51)) return(11);	/* star is type G5 */
+	X    if (subrange(rollg,52,61)) return(12);	/* star is type G6 */
+	X    if (subrange(rollg,62,73)) return(13);	/* star is type G7 */
+	X    if (subrange(rollg,74,86)) return(14);	/* star is type G8 */
+	X    if (subrange(rollg,87,100)) return(15);	/* star is type G9 */
+	X}
+	X
+	Xint k_type()
+	X{
+	X    int rollk;
+	X
+	X    rollk= random(1,100);
+	X    if (subrange(rollk,1,8)) return(16);	/* star is type K0 */
+	X    if (subrange(rollk,9,16)) return(17);	/* star is type K1 */
+	X    if (subrange(rollk,17,24)) return(18);	/* star is type K2 */
+	X    if (subrange(rollk,25,33)) return(19);	/* star is type K3 */
+	X    if (subrange(rollk,34,42)) return(20);	/* star is type K4 */
+	X    if (subrange(rollk,43,52)) return(21);	/* star is type K5 */
+	X    if (subrange(rollk,53,62)) return(22);	/* star is type K6 */
+	X    if (subrange(rollk,63,74)) return(23);	/* star is type K7 */
+	X    if (subrange(rollk,75,86)) return(24);	/* star is type K8 */
+	X    if (subrange(rollk,87,100)) return(25);	/* star is type K9 */
+	X}
+	X
+	Xint m_type()
+	X{
+	X    int rollm;
+	X
+	X    rollm= random(1,100);
+	X    if (subrange(rollm,1,4)) return(26);	/* star is type M0 */
+	X    if (subrange(rollm,5,9)) return(27);	/* star is type M1 */
+	X    if (subrange(rollm,10,15)) return(28);	/* star is type M2 */
+	X    if (subrange(rollm,16,22)) return(29);	/* star is type M3 */
+	X    if (subrange(rollm,23,32)) return(30);	/* star is type M4 */
+	X    if (subrange(rollm,33,47)) return(31);	/* star is type M5 */
+	X    if (subrange(rollm,48,70)) return(32);	/* star is type M6 */
+	X    if (subrange(rollm,71,100)) return(33);	/* star is type M7 */
+	X}
+	X
+	X/*-------------------------------------------------------------
+	Xnote - The Other Suns star system generation rules only deal with 
+	Xmain sequence stars between types F5 and M7.
+	X-------------------------------------------------------------*/
+	X
+	Xint get_star()	
+	X{
+	X    roll= random(1,100);
+	X    if (subrange(roll,1,3)) return(f_type());		/* 3% type F */
+	X    if (subrange(roll,4,12)) return(g_type());		/* 9% type G */
+	X    if (subrange(roll,13,29)) return(k_type());		/* 17% type K */
+	X    if (subrange(roll,30,100)) return(m_type());	/* 71% type M */
+	X}
+	X
+	Xvoid coordinates(x_pos, y_pos, z_pos)
+	Xint *x_pos,*y_pos,*z_pos;
+	X{
+	X    do								/* generate x-y pairs */
+	X    {								/* until x-y position is within */
+	X        *x_pos= random(-60,60);		/* the boundaries of the hex */
+	X        *y_pos= random(-60,60);
+	X    }
+	X    while (abs(*x_pos) >= (120 - 2*abs(*y_pos)));	
+	X    *z_pos= random(-60,60);			/* then generate the z coord */
+	X}
+	X    
+	Xvoid mainloop()
+	X{
+	X    int i,j;
+	X    extern starsys_rec starsys_data;
+	X
+	X    for (i= 0; i<1000; i++)		/* make 1000 stars in hex */
+	X    {		/* volume is ~1.12E6 cu. ly; 1 star per 1122 cu. ly */
+	X       coordinates(&starsys_data.x_pos,&starsys_data.y_pos,&starsys_data.z_pos);
+	X        starsys_data.companion= FALSE;
+	X        starsys_data.planets= FALSE;
+	X        roll= dice(1,100);
+	X			/* 1% chance for quaternary star system */
+	X        if (roll == 1) starsys_data.star_quant= 4;
+	X			/* 7% chance for trinary star system */
+	X        if (subrange(roll,2,8)) starsys_data.star_quant= 3;
+	X			/* 45% chance for binary star system */
+	X        if (subrange(roll,9,54)) starsys_data.star_quant= 2;
+	X			/* 46% chance for single primary star system */
+	X        if (subrange(roll,55,100)) starsys_data.star_quant= 1;
+	X        if (subrange(roll,55,67)) starsys_data.companion= TRUE;
+	X        if (subrange(roll,90,100)) starsys_data.planets= TRUE;
+	X        for (j= 0;j<starsys_data.star_quant;j++)
+	X            starsys_data.stars[j]= get_star();
+	X	/*****/
+	X	/* output star system info to stdout. Really primitive output setup, */
+	X	/* but I wasn't trying for sophistication with this version */
+	X	/*****/
+	Xprintf("%5d %5d %5d ",starsys_data.x_pos,starsys_data.y_pos,starsys_data.z_pos);
+	X    printf("%5d ",starsys_data.star_quant);
+	Xfor (j=0;j<starsys_data.star_quant;j++)
+	X    printf("%5d ",starsys_data.stars[j]);
+	Xprintf("%5d %5d\n",starsys_data.companion,starsys_data.planets);
+	X        printf(stderr,".");
+	X        if (i % 50) printf(stderr,"\n");
+	X    }
+	X}
+	X
+SHAR_EOF
+if test 7444 -ne "`wc -c < 'hexstar1.c'`"
+then
+	echo shar: error transmitting "'hexstar1.c'" '(should have been 7444 characters)'
+fi
+fi # end of overwriting check
+echo shar: extracting "'hexstar2.p'" '(2834 characters)'
+if test -f 'hexstar2.p'
+then
+	echo shar: will not over-write existing file "'hexstar2.p'"
+else
+sed 's/^	X//' << \SHAR_EOF > 'hexstar2.p'
+	X{=======================================}
+	X{ Program:      Star_Sorter             }
+	X{ Version:      1.0                     }
+	X{ Filename:     HEXSTAR2.TEXT           }
+	X{ Author:       Sean R. Malloy          }
+	X{ Created:      19-Oct-83               }
+	X{ Last Update:  13-Jun-84               }
+	X{---------------------------------------}
+	X{ This program performs a three-tape    }
+	X{ merge sort on the data created by the }
+	X{ HEXSTAR1 program, leaving the data    }
+	X{ sorted in ascending order by their    }
+	X{ coordinate positions. The output file }
+	X{ is formatted for use by HEXSTAR3.     }
+	X{=======================================}
+	X
+	XProgram Star_Sorter;
+	X
+	Xtype
+	X    System_Record = record
+	X                      x_pos : integer;
+	X                      y_pos : integer;
+	X                      z_pos : integer;
+	X                      star_quant : integer;
+	X                      stars : array[1..4] of integer;
+	X                      companion : boolean;
+	X                      planets : boolean;
+	X                    end;
+	X
+	Xvar
+	X  system_file : file of System_Record;
+	X  System_Data : array[1..1000] of System_Record;
+	X  tmp : System_Record;
+	X  seed : integer;
+	X  ch : char;
+	X  filename : string;
+	X
+	X{ Do a bubble sort on the star system coordinates, first on x, then on
+	X  y, then on z.
+	X  NOTE: Turn this into a quicksort when converting this program to C	}
+	X  
+	XProcedure SortCoords;
+	Xvar i,j : integer;
+	X  
+	X  Procedure Swap(index:integer);
+	X  begin
+	X    tmp:= system_data[index];
+	X    system_data[index]:= system_data[index+1];
+	X    system_data[index+1]:= tmp;
+	X  end; { Swap }
+	X
+	Xbegin
+	X  for i:= 1 to 1000 do
+	X  begin
+	X    for j:= 999 downto i do
+	X      if system_data[j].x_pos > system_data[j+1].x_pos then
+	X          Swap(j)
+	X      else if system_data[j].x_pos = system_data[j+1].x_pos then
+	X        if system_data[j].y_pos > system_data[j+1].y_pos then
+	X            Swap(j)
+	X        else if system_data[j].y_pos = system_data[j+1].y_pos then
+	X          if system_data[j].z_pos > system_data[j+1].z_pos then
+	X              Swap(j);
+	X    write('.');
+	X    if (i mod 50) = 0 then writeln;
+	X  end;
+	Xend; { SortCoords }
+	X  
+	XProcedure MainLoop;
+	Xvar i : integer;
+	Xbegin
+	X  seek(system_file,0);
+	X  for i:= 1 to 1000 do
+	X  begin
+	X    get(system_file);
+	X    system_data[i]:= system_file^;
+	X  end;
+	X  Sort_Coords;
+	X  seek(system_file,0);
+	X  for i:= 1 to 1000 do
+	X  begin
+	X    system_file^:= system_data[i];
+	X    put(system_file);
+	X  end;
+	Xend; { MainLoop }
+	X
+	X
+	X{ This program does nothing but read a file of data produced by the
+	X  hexstar1 program and sort it into increasing coordinate order in
+	X  x, y, z priority. 												}
+	Xbegin
+	X  page(output);
+	X  writeln('Other Suns Star System Generator, Program 2 of 3');
+	X  write('File of star data: ');
+	X  readln(filename);
+	X  reset(system_file,concat(filename,'.POS'));
+	X  writeln('Working...');
+	X  MainLoop;
+	X  writeln('Done...');
+	X  close(system_file,lock);
+	Xend.
+	X
+SHAR_EOF
+if test 2834 -ne "`wc -c < 'hexstar2.p'`"
+then
+	echo shar: error transmitting "'hexstar2.p'" '(should have been 2834 characters)'
+fi
+fi # end of overwriting check
+echo shar: extracting "'hexstar3.p'" '(10390 characters)'
+if test -f 'hexstar3.p'
+then
+	echo shar: will not over-write existing file "'hexstar3.p'"
+else
+sed 's/^	X//' << \SHAR_EOF > 'hexstar3.p'
+	X{=======================================}
+	X{ Program:      Star_Generator          }
+	X{ Version:      1.0                     }
+	X{ Filename:     HEXSTAR3.TEXT           }
+	X{ Author:       Sean R. Malloy          }
+	X{ Created:      19-Oct-83               }
+	X{ Last Update:  13-Jun-84               }
+	X{---------------------------------------}
+	X{ Star_Generator creates random star    }
+	X{ systems according to the algorithms   }
+	X{ presented in Book 2 of Other Suns     }
+	X{ (copyright 1983 by Niall Shapero),    }
+	X{ with modifications added to deal with }
+	X{ planetary atmospheres more cleanly.   }
+	X{=======================================}
+	X
+	XProgram Star_Generator;
+	X
+	Xtype
+	X    Star_Record = record
+	X                    s_type : string[2];
+	X                    mass : real;
+	X                    radius : real;
+	X                    luminosity : real;
+	X                  end;
+	X    Star_Data = array[1..33] of Star_Record;
+	X    
+	X    Planet_Record = record
+	X                      dist : real;		{ distance from primary (AU) }
+	X                      year : real;		{ orbital period (years) }
+	X                      temp : real;		{ average surface temp (Kelvin) }
+	X                      radius : real;	{ planetary radius (Earth radii) }
+	X                      density : real;	{ planetary density (g/cc) }
+	X                      grav : real;		{ surface gravity (gees) }
+	X                      escape : real;	{ escape velocity (Earth =1) }
+	X                      atm : real;		{ atm. pressure (atmospheres) }
+	X                      moons : integer;	{ number of moons }
+	X                      giant : boolean;	{ planet is gas giant }
+	X                    end;
+	X    Planet_Data = array[1..17] of Planet_Record;
+	X    Stellar_Array = array[-30..30,-30..30] of char;
+	X    System_Record = record
+	X                      x_pos : integer;
+	X                      y_pos : integer;
+	X                      z_pos : integer;
+	X                      star_quant : integer;
+	X                      stars : array[1..4] of integer;
+	X                      companion : boolean;
+	X                      planets : boolean;
+	X                    end;
+	X
+	Xvar
+	X  system_file : file of System_Record;
+	X  Star_File : File of Star_Data;
+	X  Planet_Table : Planet_Data;
+	X  Star_Map : Stellar_Array;
+	X  outfile : text;
+	X  filename : string;
+	X  seed : integer;
+	X  ch : char;
+	X  
+	XProcedure randomize(var seed : integer); external;
+	X
+	XFunction random(var seed : integer; lo,hi : integer):integer; external;
+	X
+	XFunction dice(num,size : integer):integer;
+	Xvar i,sum : integer;
+	Xbegin
+	X  sum:= 0;
+	X  for i:= 1 to num do
+	X    sum:= sum + random(seed,1,size);
+	X  dice:= sum;
+	Xend; { dice }
+	X
+	XProcedure Make_Planets(S_Mass,S_Lum : real); { make planets for star system }
+	Xvar 
+	X    i, num : integer;
+	X    bode1,bode2 : real;
+	X
+	X  Procedure Planet_Stuff(index : integer);
+	X  var s : real;
+	X      q : integer;
+	X  begin
+	X    with Planet_Table[index] do
+	X    begin
+	X      (*****
+	X      density:= (dice(12,8) - 4) / 50;
+	X      *****)
+	X      density:= dice(8,11) / 50;
+	X      radius:= (dice(2,10) - 1) / 10;
+	X      grav:= radius * density;
+	X      escape:= sqrt(grav * radius);
+	X      s:= (escape * escape * dist) / S_Lum; { bugger factor for hydrogen }
+	X      if (s > 2.4) and (temp < 273) then	{ retention by planet }
+	X      begin
+	X        giant:= TRUE;						{ planet is gas giant }
+	X        moons:= dice(2,12);					{ lots of moons }
+	X        radius:= 3 + dice(dice(3,6),6)/7;	{ lots bigger }
+	X        density:= dice(10,10)/185;			{ less dense }
+	X        grav:= radius * density;
+	X        escape:= sqrt(grav * radius);
+	X      end
+	X      else if s < 0.32 then					{ airless rockball }
+	X      begin
+	X        atm:= 0;
+	X        moons:= random(seed,1,2) - 1;
+	X      end
+	X      else
+	X      begin
+	X        moons:= random(seed,1,4) - 1;
+	X        atm:= (grav + escape) / 2 + (random(seed,0,10) - 5) / 40;
+	X        if moons = 0 then atm:= 1.1 * atm;  { effect of moon on atmosphere }
+	X        if atm < 0 then atm:= 0;
+	X      (*** 
+	X        q:= dice(3,6);
+	X        case q of
+	X         3,4,5,6,7,8,9 : atm:= 0.1 * (q-2);
+	X                 10,11 : atm:= 0.2 * (q-5);
+	X                    12 : atm:= 1.35;
+	X              13,14,15 : atm:= 0.3 * (q-8);
+	X              16,17,18 : atm:= 0.4 * (q-10) + 0.1;
+	X        end;
+	X        ***)
+	X        if (atm > 2.00) or (temp > 373) then	{ thick, hot atmosphere? }
+	X          if temp > (233.75 + (12.5 * atm)) then { venusian atmosphere }
+	X            (***if moons = 0 then***)
+	X            begin
+	X              temp:= temp * 2;					{ surface temp goes up }
+	X              atm:= 79 + 0.41 * random(seed,1,100); {atmosphere thickens}
+	X            end;
+	X        if temp < 180 then                      { bugger factor for }
+	X        begin                                   { inevitable hole in rules }
+	X          q:= trunc( (180 - temp) / 50);		{ for _really_ cold planets }
+	X          for i:= 0 to q do 					{ atmosphere gases will }
+	X            atm:= 0.1 * atm;					{ freeze out, pressure drops }
+	X        end;
+	X      end;
+	X    end;
+	X  end; { Planet_Stuff }
+	X    
+	Xbegin { Make_Planets }
+	X  fillchar(Planet_Table,sizeof(Planet_Data),0);
+	X  num:= dice(2,8) + 1;			{ make 3-17 planets for system }
+	X  Bode1:= dice(6,10) / 100;		{ generate Bode constants}
+	X  Bode2:= dice(6,12) / 100;		{ generate Bode constants}
+	X  for i:= 1 to num do
+	X    with Planet_Table[i] do		{ determine orbital radius }
+	X    begin
+	X      if i = 1 then dist:= bode2
+	X      else
+	X      begin
+	X        dist:= bode2 + bode1;
+	X        bode1:= 2 * bode1;
+	X      end;
+	X      year:= sqrt(dist * dist * dist / S_Mass);	{ period by Kepler's Law }
+	X      temp:= 295 * sqrt(sqrt(S_Lum/dist/dist));	{ base surface temp for orbit }
+	X      Planet_Stuff(i);		{ get the skinny on the planet itself }
+	X    end;
+	Xend; { Make_Planets }
+	X
+	X{ Output the information on the star system in a convenient, easy-to-read,
+	X  tabular format, one system per page										}
+	X 
+	XProcedure Do_System(S_Mass,S_Lum : real);
+	Xvar i : integer;
+	Xbegin
+	X  Make_Planets(S_Mass,S_Lum);
+	X  writeln(outfile,' #       Year   Distance   Temp.  Rad. Dens.',
+	X          '  Grav.  Vesc.  Atm.  Moons');
+	X  for i:= 1 to 17 do
+	X  begin
+	X    with Planet_Table[i] do
+	X      if dist > 0 then
+	X      begin
+	X        write(outfile,i:3,year:12:2,dist:9:2,temp:8:1);
+	X        write(outfile,radius:6:1,density:6:2,grav:7:2,escape:7:2);
+	X        if giant then
+	X            write(outfile,'   ****')
+	X        else
+	X            write(outfile,atm:7:2);
+	X        if moons = 0 then write(outfile,' no moons')
+	X        else if moons = 1 then write(outfile,' 1 moon')
+	X        else write(outfile,' ',moons,' moons');
+	X      end;
+	X    writeln(outfile);
+	X  end;
+	Xend; { Do_ System }
+	X
+	X
+	X{ Output the information about the system primary as a header to the 
+	X  info on the planetary system											}
+	X
+	XProcedure Show_Systems;
+	Xvar i,j : integer;
+	Xbegin
+	X  writeln('Printing planetary system data');
+	X  seek(system_file,0);
+	X  j:= 1;
+	X  for i:= 1 to 1000 do
+	X  begin
+	X    get(system_file);
+	X    if system_file^.planets then
+	X      with system_file^, Star_File^[stars[1]] do
+	X      begin
+	X        writeln(outfile,'^X');
+	X        writeln(outfile,' ':30,'Star System ',i);
+	X        writeln(outfile,' ':10,'Coordinates: X: ',x_pos:4,' Y: ',y_pos:4,
+	X                                           ' Z: ',z_pos:4);
+	X        writeln(outfile);
+	X        writeln(outfile,'Primary:');
+	X        writeln(outfile,'    ',s_type,' mass: ',mass:6:3,' radius: ',radius:6:3,
+	X            ' luminosity: ',luminosity:6:3);
+	X        writeln(outfile);
+	X        Do_System(mass,luminosity);
+	X        if (j mod 2) = 0 then
+	X          writeln(outfile,'^F')
+	X          else writeln(outfile,'^8');
+	X        j:= j+1;
+	X      end;
+	X  end;
+	Xend; { Show_Systems }
+	X
+	X{ Output the coords of the star system at the top of a page. If the system
+	X  has multiple stars or no planets, print this info as well, and skip
+	X  printing the more detailed system information								}
+	X
+	XProcedure Write_Coords;
+	Xvar i,j,k : integer;
+	X
+	X  Procedure Write_Specifics;
+	X  var str : string;
+	X  begin
+	X    for j:= 1 to 50 do
+	X    begin
+	X      write('.');
+	X      get(system_file);
+	X      with system_file^ do
+	X      begin
+	X        write(outfile,(50*i+j):4,': ',x_pos:4,y_pos:4,z_pos:4,'     ');
+	X        for k:= 1 to star_quant do
+	X        begin
+	X          write(outfile,StarFile^[stars[k]].s_type);
+	X          if k < star_quant then write(outfile,'/');
+	X        end;
+	X        str:= '';
+	X        case star_quant of
+	X          2 : str:= ' binary           (no planets)';
+	X          3 : str:= ' trinary       (no planets)';
+	X          4 : str:= ' quaternary (no planets)';
+	X        end;
+	X        write(outfile,str);
+	X        if star_quant = 1 then
+	X          if companion then write(outfile,', dark companion     (no planets)')
+	X          else if planets then write(outfile,', planetary system')
+	X          else write(outfile,', planetismals only  (no planets)');
+	X        writeln(outfile);
+	X      end;
+	X    end;
+	X    writeln;
+	X  end; { Write_Specifics }
+	X  
+	Xbegin
+	X  writeln('Printing star system coordinates');
+	X  seek(system_file,0);
+	X  for i:= 0 to 19 do
+	X  begin
+	X    writeln(outfile,'^X');
+	X    writeln(outfile,' ':20,'Stellar Map for Area __________________',
+	X                    ' ':10,i+1,' of 20');
+	X    writeln(outfile,'       Coordinates');
+	X    writeln(outfile,'Num     X   Y   Z      System Description');
+	X    Write_Specifics;
+	X    writeln(outfile,'^F');
+	X  end;
+	Xend; { Write_Coords }
+	X
+	X{ Print a 'look-from-above' star map of the star systems in the hex }
+	X
+	XProcedure Do_Star_Map;
+	Xvar x,y : integer;
+	Xbegin
+	X  writeln('Printing stellar map of area');
+	X  fillchar(Star_Map,sizeof(Star_Map),32);
+	X  for x:= -30 to 30 do
+	X  begin
+	X    Star_Map[x,0]:= '-';
+	X    Star_Map[0,x]:= '|';
+	X  end;
+	X  Star_Map[0,0]:= '+';
+	X  for x:= -30 to 30 do
+	X    for y:= -30 to 30 do
+	X      if abs(x) > (60 - 2*abs(y)) then Star_Map[x,y]:= '#';
+	X  seek(system_file,0);
+	X  for x:= 1 to 1000 do
+	X  begin
+	X    get(system_file);
+	X    with system_file^ do
+	X      Star_Map[x_pos div 2,y_pos div 2]:= '*';
+	X  end;
+	X  writeln(outfile,'^X');
+	X  writeln(outfile,' ':20,'Stellar Map for Area __________________');
+	X  writeln(outfile);
+	X  for y:= 30 downto -30 do
+	X  begin
+	X    write(outfile,'     #####');
+	X    for x:= -30 to 30 do write(outfile,Star_Map[x,y]);
+	X    writeln(outfile,'#####');
+	X  end;
+	X  writeln(outfile,'^F');
+	Xend; { Do_Star_Map }
+	X
+	Xbegin
+	X  randomize(seed);
+	X  reset(Star_File,'#5:STAR_DATA');
+	X  page(output);
+	X  write('File of star data: ');
+	X  readln(filename);
+	X  reset(system_file,concat(filename,'.POS'));
+	X  rewrite(outfile,concat(filename,'.TEXT'));
+	X  Do_Star_Map;
+	X  Write_Coords;
+	X  Show_Systems;
+	X  close(system_file,lock);
+	X  close(outfile,lock);
+	X  close(Star_File);
+	Xend.
+	X
+SHAR_EOF
+if test 10390 -ne "`wc -c < 'hexstar3.p'`"
+then
+	echo shar: error transmitting "'hexstar3.p'" '(should have been 10390 characters)'
+fi
+fi # end of overwriting check
+echo shar: extracting "'makestardata.c'" '(703 characters)'
+if test -f 'makestardata.c'
+then
+	echo shar: will not over-write existing file "'makestardata.c'"
+else
+sed 's/^	X//' << \SHAR_EOF > 'makestardata.c'
+	XProgram File_Generator;
+	X
+	Xtypedef struct
+	X        {
+	X	    st_type : char[2];
+	X	    mass : float;
+	X	    radius : float;
+	X	    luminosity : float;
+	X         }  Star_Record;
+	X    Star_Record Star_Data[33];
+	X
+	Xvar
+	X  Star_File : File of Star_Data[33];
+	X  infile : text;
+	X  i : integer;
+	X  
+	Xbegin
+	Xpage(output);
+	X  reset(infile,'#5:stardata.text');
+	X  rewrite(Star_File,'#5:Star_Data');
+	X  fillchar(Star_File^,sizeof(Star_Data),0);
+	X  for i:= 1 to 33 do
+	X    with star_File^[i] do
+	X    begin
+	X      readln(infile,st_type);
+	X      readln(infile,mass,radius,luminosity);
+	X      writeln(st_type:10,mass:6:3,radius:6:2,luminosity:8:4);
+	X    end;
+	X  seek(star_file,0);
+	X  put(star_File);
+	X  close(infile,lock);
+	X  close(star_file,lock);
+	Xend.
+SHAR_EOF
+if test 703 -ne "`wc -c < 'makestardata.c'`"
+then
+	echo shar: error transmitting "'makestardata.c'" '(should have been 703 characters)'
+fi
+fi # end of overwriting check
+echo shar: extracting "'stardata'" '(653 characters)'
+if test -f 'stardata'
+then
+	echo shar: will not over-write existing file "'stardata'"
+else
+sed 's/^	X//' << \SHAR_EOF > 'stardata'
+	XF5
+	X1.30 1.24 2.70
+	XF6
+	X1.28 1.22 2.32
+	XF7
+	X1.24 1.19 2.07
+	XF8
+	X1.14 1.10 1.55
+	XF9
+	X1.06 1.05 1.22
+	XG0
+	X1.02 1.02 1.20
+	XG1
+	X1.01 1.01 1.04
+	XG2
+	X1.00 1.00 1.00
+	XG3
+	X0.985 0.99 0.956
+	XG4
+	X0.955 0.97 0.814
+	XG5
+	X0.910 0.95 0.720
+	XG6
+	X0.900 0.92 0.610
+	XG7
+	X0.870 0.90 0.525
+	XG8
+	X0.850 0.88 0.501
+	XG9
+	X0.825 0.96 0.408
+	XK0
+	X0.800 0.84 0.363
+	XK1
+	X0.775 0.82 0.316
+	XK2
+	X0.750 0.80 0.282
+	XK3
+	X0.730 0.78 0.252
+	XK4
+	X0.705 0.76 0.216
+	XK5
+	X0.680 0.74 0.200
+	XK6
+	X0.655 0.72 0.162
+	XK7
+	X0.630 0.70 0.145
+	XK8
+	X0.600 0.68 0.123
+	XK9
+	X0.570 0.65 0.105
+	XM0
+	X0.540 0.64 0.0912
+	XM1
+	X0.505 0.61 0.0726
+	XM2
+	X0.470 0.58 0.0596
+	XM3
+	X0.435 0.56 0.0486
+	XM4
+	X0.380 0.52 0.0317
+	XM5
+	X0.330 0.49 0.0232
+	XM6
+	X0.270 0.45 0.0152
+	XM7
+	X0.220 0.42 0.0120
+	X
+SHAR_EOF
+if test 653 -ne "`wc -c < 'stardata'`"
+then
+	echo shar: error transmitting "'stardata'" '(should have been 653 characters)'
+fi
+fi # end of overwriting check
+echo shar: extracting "'constel.p'" '(7133 characters)'
+if test -f 'constel.p'
+then
+	echo shar: will not over-write existing file "'constel.p'"
+else
+sed 's/^	X//' << \SHAR_EOF > 'constel.p'
+	X  {L #1:}
+	X{=======================================}
+	X{ Program:      Constellations          }
+	X{ Version:      1.0                     }
+	X{ Filename:     CONSTEL.TEXT            }
+	X{ Author:       Sean R. Malloy          }
+	X{ Created:      17-Jul-84               }
+	X{ Last Update:   3-Aug-84               }
+	X{---------------------------------------}
+	X{ This program generates star charts    }
+	X{ from the star positions generated by  }
+	X{ the HEXSTAR1 program.                 }
+	X{=======================================}
+	X
+	X{===========================================================================}
+	X{ This program reads a star position data file and, given the postion and   }
+	X{ coordinate shifts for the particular planet, transforms the positions to  }
+	X{ planetocentric positions and computes relative luminosity for each star   }
+	X{ in the data file. Output is in azimuth and elevation relative to the      }
+	X{ equator and 'Greenwich meridian' of the planet.                           }
+	X{ A companion program to read the output file and display the star chart    }
+	X{ graphically was written for a TERAK microcomputer, but the graphics code  }
+	X{ is unique enough that presenting the code would not be useful, as the     }
+	X{ routines to project spherical coords onto a plane are well-known.         }
+	X{===========================================================================}
+	XProgram Constellations;
+	X
+	X{$S+}
+	X
+	Xconst
+	X    degtorad = 57.29578;
+	X
+	Xtype
+	X    Star_Record = record
+	X                    s_type : string[2];
+	X                    mass : real;
+	X                    radius : real;
+	X                    luminosity : real;
+	X                  end;
+	X    Star_Data = array[1..33] of Star_Record;
+	X    
+	X    System_Record = record
+	X                      x_pos : integer;
+	X                      y_pos : integer;
+	X                      z_pos : integer;
+	X                      star_quant : integer;
+	X                      stars : array[1..4] of integer;
+	X                      companion : boolean;
+	X                      planets : boolean;
+	X                    end;
+	X    
+	X    nibble = 0..15;
+	X    
+	X    Star_Pos_Rec = record
+	X                     azimuth : real;
+	X                     elevation : real;
+	X                     lumin : real;
+	X                   end;
+	X
+	Xvar
+	X    Star_File : File of Star_Data;
+	X    System_File : file of System_Record;
+	X    system_data : system_record;
+	X    spos : array[1..1000] of Star_Pos_Rec;
+	X    inclin,Na_Azimuth,G_Na_Azimuth,
+	X    x0,y0,z0,seed : integer;
+	X    ch : char;
+	X    filename : string;
+	X
+	X
+	XSegment Procedure Coordinates(index,x,y,z : integer);
+	Xvar
+	X    i,dx,dy,dz : integer;
+	X    tmp_elevation,tmp_azimuth,
+	X    tlumin,rtemp : real;
+	X
+	X  Function FullArcTan(y,x:real):real;
+	X  const pi = 3.1415926;
+	X  var result : real;
+	X  begin
+	X    if (x=0) AND (y=0) then result:= 0
+	X    else if x=0 then result:= pi/2
+	X    else result:= atan(abs(y/x));
+	X    if x<0 then result:= pi - result;
+	X    if y<0 then result:= -result;
+	X    (**
+	X    if result<0 then result:= result + 2*pi;
+	X    **)
+	X    FullArcTan:= result * degtorad;
+	X  end; {FullArcTan}
+	X  
+	X  Function asin(x:real):real;
+	X  begin
+	X    if x <> 1 then asin:= atan(x/sqrt(1- (x*x)))
+	X              else asin:= 1.570796;
+	X  end; { asin }
+	X
+	Xbegin
+	X  dx:= x - x0;
+	X  dy:= y - y0;
+	X  dz:= z - z0;
+	X  { Convert the relative (x,y,z) position to an azimuth/elevation position,
+	X	using the inclination and offset of the 'galactic' coordinates.			}
+	X  tmp_azimuth:= FullArcTan(dy/1.0,dx/1.0) / degtorad;
+	X  rtemp:= sqrt((dx*dx)+(dy*dy));
+	X  tmp_elevation:= FullArcTan(dz/1,rtemp) / degtorad;
+	X  spos[index].elevation:= asin(sin(tmp_elevation)*cos(inclin/degtorad) + 
+	X               cos(tmp_elevation)*sin(inclin/degtorad) *
+	X                   sin(tmp_azimuth - G_Na_azimuth/degtorad));
+	X  spos[index].azimuth:= FullArcTan(
+	X       (cos(tmp_elevation)*cos(tmp_azimuth - G_Na_azimuth/degtorad)) /
+	X           cos(spos[index].elevation),
+	X       (cos(tmp_elevation)*cos(inclin/degtorad) *
+	X           sin(tmp_azimuth - G_Na_azimuth/degtorad) -
+	X               sin(tmp_elevation)*sin(inclin/degtorad)) /
+	X                   cos(spos[index].elevation) );
+	X  spos[index].elevation:= spos[index].elevation * degtorad;
+	X  spos[index].azimuth:= spos[index].azimuth + Na_azimuth;
+	X  { get the absolute luminosity of the star system from the luminosity
+	X	of the stars in the system											}
+	X  with system_data do
+	X  begin
+	X    tlumin:= 0;
+	X    for i:= 1 to star_quant do
+	X      tlumin:= tlumin + Star_File^[stars[i]].luminosity;
+	X  end;
+	X  apparent luminosity is inversely proportional to square of distance }
+	X  spos[index].lumin:= tlumin / ((dx*dx)+(dy*dy)+(dz*dz));
+	Xend;
+	X  
+	X
+	XSegment Procedure Display_Stars;
+	Xvar 
+	X    starpos : text;
+	X    i,maxindex : integer;
+	X    maxlumin,tlumin : real;
+	X    Mag : nibble;
+	X
+	Xbegin
+	X  page(output);
+	X  rewrite(starpos,concat(filename,'.P.TEXT'));
+	X  { Find the most luminous star in the sky }
+	X  maxindex:= 1;
+	X  for i:= 2 to 1000 do
+	X    if spos[i].lumin > spos[maxindex].lumin then
+	X      maxindex:= i;
+	X  maxlumin:= spos[maxindex].lumin;
+	X  { luminosity ratio between magnitudes is 2.512 }
+	X  { compute magnitudes for all the stars. Any star less than 2.512 times
+	X	as dim as the brightest star is first magnitude; any star less than
+	X	2.512 times as dim as the cutoff for first magnitude is second
+	X	magnitude, and so on. An arbitrary cutoff was placed at 7th mag.	}
+	X  for i:= 1 to 1000 do
+	X    with spos[i] do
+	X    begin
+	X      tlumin:= lumin * 2.512 / maxlumin;
+	X      if tlumin > 1 then Mag:= 1
+	X      else
+	X      begin
+	X        tlumin:= tlumin * 2.512;
+	X        if tlumin > 1 then Mag:= 2
+	X        else
+	X        begin
+	X          tlumin:= tlumin * 2.512;
+	X          if tlumin > 1 then Mag:= 3
+	X          else
+	X          begin
+	X            tlumin:= tlumin * 2.512;
+	X            if tlumin > 1 then Mag:= 4
+	X            else
+	X            begin
+	X              tlumin:= tlumin * 2.512;
+	X              if tlumin > 1 then Mag:= 5
+	X              else
+	X              begin
+	X                tlumin:= tlumin * 2.512;
+	X                if tlumin > 1 then Mag:= 6
+	X                              else mag:= 7;
+	X              end;
+	X            end;
+	X          end;
+	X        end;
+	X      end;
+	X      if Mag < 7 then
+	X        writeln(starpos,round(azimuth):4,round(elevation):4,Mag:4);
+	X    end;
+	X  close(starpos,lock);
+	Xend; { Display_Stars }
+	X    
+	XSegment Procedure MainLoop;
+	Xvar i,j,roll : integer;
+	Xbegin
+	X  for i:= 1 to 1000 do
+	X  begin
+	X    system_data:= system_file^;
+	X    with system_data do
+	X      Coordinates(i,x_pos,y_pos,z_pos);
+	X    write('.');
+	X    if (i mod 50) = 0 then writeln;
+	X    get(system_file);
+	X  end;
+	X  close(system_file,lock);
+	X  close(Star_File,lock);
+	X  Display_Stars;
+	Xend;
+	X
+	Xbegin
+	X  page(output);
+	X  writeln('Other Suns Star Chart Generator');
+	X  reset(Star_File,'#5:STAR_DATA');
+	X  write('File to read star data from: ');
+	X  readln(filename);
+	X  reset(system_file,concat(filename,'.POS'));
+	X  write('x, y, and z coordinates of observation point: ');
+	X  readln(x0,y0,z0);
+	X  write('Inclination of galactic equator to celestial equator: ');
+	X  readln(inclin);
+	X  write('Equatorial longitude of ascending node: ');
+	X  readln(Na_Azimuth);
+	X  write('Galactic longitude of ascending node: ');
+	X  readln(G_Na_Azimuth);
+	X  writeln('Working...');
+	X  MainLoop;
+	X  writeln('Done...');
+	Xend.
+	X
+SHAR_EOF
+if test 7133 -ne "`wc -c < 'constel.p'`"
+then
+	echo shar: error transmitting "'constel.p'" '(should have been 7133 characters)'
+fi
+fi # end of overwriting check
+echo shar: extracting "'constell.p'" '(7046 characters)'
+if test -f 'constell.p'
+then
+	echo shar: will not over-write existing file "'constell.p'"
+else
+sed 's/^	X//' << \SHAR_EOF > 'constell.p'
+	X/*==============================================================================*/
+	X/* program:      constellations          */
+	X/* version:      1.0                     */
+	X/* filename:     constel.text            */
+	X/* author:       sean r. malloy          */
+	X/* created:      17-jul-84               */
+	X/* last update:  18-jun-84               */
+	X/*---------------------------------------*/
+	X/* this program generates star charts    */
+	X/* from the star positions generated by  */
+	X/* the hexstar1 program.                 */
+	X/*==============================================================================*/
+	Xprogram constellations;
+	X/*$s+*/
+	X
+	Xtype
+	X    star_record == record
+	X                    s_type : string[2];
+	X                    mass : real;
+	X                    radius : real;
+	X                    luminosity : real;
+	X                  }
+	X    star_data == array[1..33] of star_record;
+	X    
+	X    system_record == record
+	X                      x_pos : integer;
+	X                      y_pos : integer;
+	X                      z_pos : integer;
+	X                      star_quant : integer;
+	X                      stars : array[1..4] of integer;
+	X                      companion : boolean;
+	X                      planets : boolean;
+	X                    }
+	X    
+	X    screen_type == packed array[0..239,0..319] of boolean;
+	X    
+	X    star_pos_rec == record
+	X                     azimuth : real;
+	X                     elevation : real;
+	X                     lumin : real;
+	X                   }
+	X
+	Xvar
+	X    /*foto : file of screen_type;*/
+	X    star_file : file of star_data;
+	X    system_file : file of system_record;
+	X    system_data : system_record;
+	X    spos : array[1..1000] of star_pos_rec;
+	X    x0,y0,z0,seed : integer;
+	X    ch : char;
+	X    filename : string;
+	X
+	X
+	Xsegment procedure coordinates(index,x,y,z : integer);
+	Xvar
+	X    i,dx,dy,dz : integer;
+	X    tlumin,rtemp : real;
+	X
+	X  function fullarctan(y,x:real):real;
+	X  const pi == 3.1415926536;
+	X  var
+	X    result : real;
+	X  {
+	X    if (x==0) and (y==0) then result= 0
+	X    else if x==0 then result= pi/2
+	X    else result= atan(abs(y/x));
+	X    if x<0 then result= pi - result;
+	X    if y<0 then result= -result;
+	X    (**
+	X    if result<0 then result= result + 2*pi;
+	X    **)
+	X    fullarctan= result * 180 / pi;
+	X  } /*fullarctan*/
+	X
+	X{
+	X  dx= x - x0;
+	X  dy= y - y0;
+	X  dz= z - z0;
+	X  spos[index].azimuth= fullarctan(dy/1.0,dx/1.0);
+	X  rtemp= sqrt((dx*dx)+(dy*dy));
+	X  spos[index].elevation= fullarctan(dz/1,rtemp);
+	X  with system_data do
+	X  {
+	X    tlumin= 0;
+	X    for (i= 1; i<=star_quant; i++)
+	X      tlumin= tlumin + star_file^[stars[i]].luminosity;
+	X  }
+	X  spos[index].lumin= tlumin / ((dx*dx)+(dy*dy)+(dz*dz));
+	X}
+	X
+	Xsegment procedure display_stars;
+	Xvar 
+	X    screen : screen_type;
+	X    tmp,i,maxindex : integer;
+	X    maxlumin,tlumin : real;
+	X
+	X  procedure mag1(az,el:integer);
+	X  {
+	X    screen[120+el-2,160+tmp-1]= true;
+	X    screen[120+el-2,160+tmp]= true;
+	X    screen[120+el-2,160+tmp+1]= true;
+	X    screen[120+el-1,160+tmp-2]= true;
+	X    screen[120+el-1,160+tmp-1]= true;
+	X    screen[120+el-1,160+tmp]= true;
+	X    screen[120+el-1,160+tmp+1]= true;
+	X    screen[120+el-1,160+tmp+2]= true;
+	X    screen[120+el,160+tmp-2]= true;
+	X    screen[120+el,160+tmp-1]= true;
+	X    screen[120+el,160+tmp]= true;
+	X    screen[120+el,160+tmp+1]= true;
+	X    screen[120+el,160+tmp+2]= true;
+	X    screen[120+el+1,160+tmp-2]= true;
+	X    screen[120+el+1,160+tmp-1]= true;
+	X    screen[120+el+1,160+tmp]= true;
+	X    screen[120+el+1,160+tmp+1]= true;
+	X    screen[120+el+1,160+tmp+2]= true;
+	X    screen[120+el+2,160+tmp-1]= true;
+	X    screen[120+el+2,160+tmp]= true;
+	X    screen[120+el+2,160+tmp+1]= true;
+	X  }
+	X  
+	X  procedure mag2(az,el:integer);
+	X  {
+	X    tmp= az div 2;
+	X    screen[120+el-2,160+tmp]= true;
+	X    screen[120+el-1,160+tmp-1]= true;
+	X    screen[120+el-1,160+tmp]= true;
+	X    screen[120+el-1,160+tmp+1]= true;
+	X    screen[120+el,160+tmp-2]= true;
+	X    screen[120+el,160+tmp-1]= true;
+	X    screen[120+el,160+tmp]= true;
+	X    screen[120+el,160+tmp+1]= true;
+	X    screen[120+el,160+tmp+2]= true;
+	X    screen[120+el+1,160+tmp-1]= true;
+	X    screen[120+el+1,160+tmp]= true;
+	X    screen[120+el+1,160+tmp+1]= true;
+	X    screen[120+el+2,160+tmp]= true;
+	X  }
+	X  
+	X  procedure mag3(az,el:integer);
+	X  {
+	X    tmp= az div 2;
+	X    screen[120+el-1,160+tmp-1]= true;
+	X    screen[120+el-1,160+tmp]= true;
+	X    screen[120+el-1,160+tmp+1]= true;
+	X    screen[120+el,160+tmp-1]= true;
+	X    screen[120+el,160+tmp]= true;
+	X    screen[120+el,160+tmp+1]= true;
+	X    screen[120+el+1,160+tmp-1]= true;
+	X    screen[120+el+1,160+tmp]= true;
+	X    screen[120+el+1,160+tmp+1]= true;
+	X  }
+	X  
+	X  procedure mag4(az,el:integer);
+	X  {
+	X    tmp= az div 2;
+	X    screen[120+el-1,160+tmp]= true;
+	X    screen[120+el,160+tmp-1]= true;
+	X    screen[120+el,160+tmp]= true;
+	X    screen[120+el,160+tmp+1]= true;
+	X    screen[120+el+1,160+tmp]= true;
+	X  }
+	X  
+	X  procedure mag5(az,el:integer);
+	X  {
+	X    tmp= az div 2;
+	X    screen[120+el-1,160+tmp-1]= true;
+	X    screen[120+el-1,160+tmp]= true;
+	X    screen[120+el,160+tmp-1]= true;
+	X    screen[120+el,160+tmp]= true;
+	X  }
+	X  
+	X  procedure mag6(az,el:integer);
+	X  {
+	X    tmp= az div 2;
+	X    screen[120+el,160+tmp]= true;
+	X  }
+	X
+	X{
+	X  page(output);
+	X  fillchar(screen,sizeof(screen),0);
+	X  unitwrite(3,screen,63);
+	X  for (i= 70; i<=250; i++)
+	X  {
+	X    screen[30,i]= true;
+	X    screen[120,i]= true;
+	X    screen[210,i]= true;
+	X  }
+	X  for (i= 30; i<=210; i++)
+	X  {
+	X    screen[i,70]= true;
+	X    screen[i,160]= true;
+	X    screen[i,250]= true;
+	X  }
+	X  maxindex= 1;
+	X  for (i= 2; i<=1000; i++)
+	X    if spos[i].lumin > spos[maxindex].lumin then
+	X      maxindex= i;
+	X  maxlumin= spos[maxindex].lumin;
+	X  for (i= 1; i<=1000; i++)
+	X    with spos[i] do
+	X    {
+	X      tlumin= lumin * 2.512 / maxlumin;
+	X      if tlumin > 1 then mag1(round(azimuth),round(elevation))
+	X      else
+	X      {
+	X        tlumin= tlumin * 2.512;
+	X        if tlumin > 1 then mag2(round(azimuth),round(elevation))
+	X        else
+	X        {
+	X          tlumin= tlumin * 2.512;
+	X          if tlumin > 1 then mag3(round(azimuth),round(elevation))
+	X          else
+	X          {
+	X            tlumin= tlumin * 2.512;
+	X            if tlumin > 1 then mag4(round(azimuth),round(elevation))
+	X            else
+	X            {
+	X              tlumin= tlumin * 2.512;
+	X              if tlumin > 1 then mag5(round(azimuth),round(elevation))
+	X              else
+	X              {
+	X                tlumin= tlumin * 2.512;
+	X                if tlumin > 1 then mag6(round(azimuth),round(elevation))
+	X              }
+	X            }
+	X          }
+	X        }
+	X      }
+	X    }
+	X} /* display_stars */
+	X    
+	Xsegment procedure mainloop;
+	Xvar i,j,roll : integer;
+	X{
+	X  for (i= 1; i<=1000; i++)
+	X  {
+	X    system_data= system_file^;
+	X    with system_data do
+	X      coordinates(i,x_pos,y_pos,z_pos);
+	X    write('.');
+	X    if (i mod 50) == 0 then writeln;
+	X    get(system_file);
+	X  }
+	X  close(system_file,lock);
+	X  close(star_file,lock);
+	X  display_stars;
+	X}
+	X
+	X{
+	X  page(output);
+	X  writeln('other suns star chart generator');
+	X  reset(star_file,'#5:star_data');
+	X  write('file to read star data from: ');
+	X  readln(filename);
+	X  reset(system_file,concat(filename,'.pos'));
+	X  write('x, y, and z coordinates of observation point: ');
+	X  readln(x0,y0,z0);
+	X  writeln('working...');
+	X  mainloop;
+	X  writeln('done...');
+	X}
+	X
+	X
+SHAR_EOF
+if test 7046 -ne "`wc -c < 'constell.p'`"
+then
+	echo shar: error transmitting "'constell.p'" '(should have been 7046 characters)'
+fi
+fi # end of overwriting check
+#	End of shell archive
+exit 0
+
+
