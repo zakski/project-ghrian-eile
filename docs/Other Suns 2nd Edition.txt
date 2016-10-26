@@ -1,0 +1,524 @@
+John Redden:
+------------------ OS ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero. This gaming material is distributed on a shareware basis. If you do not use the material you owe the author
+nothing. If you do use it please pay him what you think it is worth at a fair price because it took a damn lot of work to develop and playtest. The USmail
+address is:
+    Niall Shapero
+    2536 Short Ave
+    Los Angeles
+    CA 90066
+    USA
+
+Those of you with modems can dial into his BBS using this phone number:(213)822-6729
+Please email any comments to my electronic mailing address and I will pass them on to Niall.
+
+---------------- end of preamble -------------------------------------------
+The outline for Other Suns, 2nd edition is as follows:                
+        Chapter  1 -- Introduction         
+        Chapter  2 -- Characteristics and Bonuses 
+        Chapter  3 -- Psychological Profiles 
+        Chapter  4 -- Intelligent Species   
+        Chapter  5 -- Specialties and Skills   
+        Chapter  6 -- Previous Experience   
+        Chapter  7 -- Making a Living   
+        Chapter  8 -- Psionics and the Use of Will
+        Chapter  9 -- Mechanics and Melee       
+        Chapter 10 -- Combat   
+        Chapter 11 -- Experience and Training
+        Chapter 12 -- Technology   
+        Chapter 13 -- Starships and FTL Travel 
+        Chapter 14 -- World Building     
+        Chapter 15 -- Optional Rules     
+        Chapter 16 -- Appendix (includes flow for character generation)       
+        Index      -- based on paragraph number rather than final page number       
+
+
+                                OTHER SUNS: CHAPTER 1  COPYRIGHT 1982, 1989 by N. C. Shapero
+
+                                INTRODUCTION    WHAT IS ROLE PLAYING
+A role playing game is a game of character development, a game approach that has been likened to improvisational theater. The player acts out a role in the
+world designed by the  Referee just as he might act a role as a character in a play.
+
+                                WHAT IS THE PURPOSE OF THIS GAME 
+                      "Earth is the cradle of Mankind, but one cannot remain in the cradle forever"  -- Tsiolkovskii
+
+        OTHER SUNS is a game of exploration and discovery set in the future, when mankind has found new homes on worlds orbiting other suns far from mother
+Earth. The player creates one or more characters, known as Adventurers, and plays  them in various scenarios designed by the Referee. The Adventurer has the
+use of scientific and other skills, equipment, and, as a last resort (hopefully) combat. The Referee has the use of assorted traps, strange and eldritch
+creatures, and his own wicked imagination to keep the Adventurer from his goal within the rules of the game. A surviving Adventurer gains experience in
+scientific and other skills, psionics, and fighting, as well as gaining money with which to purchase further training. The Adventurer progresses in this way
+(either in military service or in merchant service) until he is so proficient, or has  such  an incredible reputation for success, that he comes to the
+attention of the High Lords of the Hegemony (either the flag rank officers of the Admiralty if the character is in the military, or one of the merchant
+princes if he is an interstellar trader). At this point, he will either be promoted to the command of a star-ship, or he will receive additional financial
+backing, or some other form of reward will be offered (depending upon whether he is in the military, or is in some civilian occupation). The ultimate goal
+for the Adventurer is success --  measured in terms of knowledge, prestige, power, position, and money. In order to reach that goal, the Adventurer's primary
+desire is to stay alive. As a result, combat is to be avoided if at all possible. For combat is more realistic in this game than in some other
+science-fiction  role playing games, and so is extremely dangerous. Glory in battle in OTHER SUNS has been made an exceedingly dangerous path to
+recognition, though a path still open to those wishing to risk its dangers. A far safer, though still perilous, path to glory for the Adventurer is that of
+the inter-stellar explorer. And it is this path to glory  which  is  the   primary goal of the Adventurer in this game.   
+
+                                 HOW TO USE THESE RULES       
+        First, read through the rules once in their entirety. Roll up a human character. Next, together with a few friends, begin play with a few simple
+scenarios, adding the more exotic non-human species and the more exotic capabilities (psionics, other senses) as the group's experience with the mechanics of
+play improves. Once all features of the game have become reasonably well understood by all players, add features of your own (added technology, equipment,
+alien races, etc.)
+                                 EQUIPMENT NEEDED TO PLAY
+    Besides this set of rules, OTHER SUNS players will need dice of many shapes for the game. The mix of dice suggested for play is as follows:
+                    Type                                    Abbreviation   
+                    two pair of 20-sided percentile dice    1D100
+                    one 20-sided die marked from 1 to 20    1D20
+                    four 12-sided dice                      1D12
+                    four 8-sided dice                       1D8
+                    four 6-sided dice                       1D6
+                    two 4-sided dice                        1D4
+
+    Within these rules, dice will be referred to using the above abbreviations. Thus, if it is necessary to roll the sum of two 12-sided dice, it will be
+written as 2D12. Other die sizes will occasionally be required for which there are no regular dice; a 16-sided die (1D16) for example might be needed for a
+telekinetic attack. In this particular example, one could roll 1D8 and 1D4 and if the 1D4 equaled 1 or 2, read the 1D8 as the value rolled, and if the 1D4
+roll was 3 or 4, add 8 to the 1D8 roll (in much the same way that a 1D4 and a 1D10 can be used to produce the equivalent of a 1D20). Other die rolls desired
+can be produced with other combinations of the above listed dice, or by rolling the above dice and either ignoring certain rolls and rerolling, or  by
+dividing the roll by some constant and rounding  fractions consistently up or down. In this way, a 1D7 roll can be produced (roll 1D8 and reroll if an 8 is
+rolled) or a 1D3 roll can be produced from a 1D6 (divide by 2 and round all fractions up). 
+
+    No dice are provided with the game; they can be purchased from any hobby store or mail order house that sells role-playing or war games. 1D12 can be
+simulated by rolling 2D6: if the first D6 roll is 4-6, add 6 to the roll of the second die, otherwise add 0 to the roll of the second die. 1D8 can be
+simulated by rolling 1D10 and ignoring and rerolling die rolls of 9 or 10. 1D4 can be simulated by rolling 1D6 and ignoring and rerolling die rolls of 4 or 5
+or alternatively by rolling 2D6 as described above to produce a 1D12 roll, dividing the result by 3, and rounding all fractions up to the next largest whole
+number. 
+
+    OTHER SUNS does not need a playing board. The player's imagination provides the stage on which the characters act. As assistance in this drama, the player
+will find the following items helpful:
+        (1) Paper,
+        (2) Pencils and pens,
+        (3) Lead or plastic figures,
+        (4) a great deal of time,
+
+and finally
+
+        (5) imagination (the more, the better). 
+
+   While not essential to the play of the game, a simple four function calculator with square root will greatly reduce the time and effort required for
+calculations.  
+
+                                 BACKGROUND HISTORY
+        The  L'Doran Hegemony is a multi-species  multi-star system government that developed while the human race was building the pyramids in Egypt. In the
+years while mankind developed on Earth, the myriad races of the Hegemony forged a multi-species empire that covered almost a third of the galactic rim. When
+Homo Sapiens went out to the stars in the latter part of the twenty-first century, he did so armed to the teeth.
+
+        The Hegemony had and has one real hard rule: "Thou shalt not make war upon any species of the Hegemony". When the Terran Empire met the L'Doran
+Hegemony in the fourth century of the Atomic Era the contact was explosive. Humanity lost the first Hegemony-Empire War on the battlefield, then won it at
+the peace tables. A brief period of peace followed the first war while the human leaders re-thought their position in the galaxy and prepared for the next
+war. It is a tribute to the force of will, the strength, the spirit, and the sheer unmitigated chutzpah of the human race that it went about preparing, in
+all seriousness, to take on  practically a third of the rest of the galaxy single handed.
+
+        What the heck, it almost worked! But though the human race had adopted virtually all of the technological wonders of their opponents, and though the
+humans were by and large better at the bloody game of mass warfare and killing than the majority of the Hegemonic species, Homo Sapiens was terribly
+outnumbered  in  the  second   Hegemony-Empire War. 
+
+       At the end of the war Earth was a radioactive cinder and the Terran Empire (though not the human race) had been utterly  destroyed. But the Empire was
+not alone in death. The economic stresses and strains imposed by the war did what the human star-ships had failed to do.  And the starlanes were clear of
+both Hegemonic and Imperial starships.
+
+       In the ninth century of the Atomic Era, the Hegemony began to rebuild and reform as various former member races reacquired sufficient investment
+capital and sufficient risk money to  begin building starships once more. In the eighteenth century of the Atomic Era, the L'Doran Hegemony covers one
+quarter of the galactic rim. Human worlds, former Imperial colonies, have joined the Hegemony, and the combined efforts of all races are being directed
+towards peaceful exploration, expansion, rediscovery  of  old   worlds, and the development of new worlds.
+
+       In this era of starfaring Drakes and Magellans, in this era of freebooters, explorers and exploiters of all kinds, the  players must make their
+fortunes.   
+
+
+                                 TECHNOLOGICAL BASE
+        The L'Doran Hegemony is an FTL-starflight capable society (FTL = faster than light). Contragravity drives for normal space and atmospheric flight are
+commonplace. Power for all common needs is provided by cheap and efficient total conversion devices. Privately owned FTL starships are common. Planetary  
+weather control techniques are well known and planetary engineering to order is an expensive though scientifically trivial  project. Time travel, and
+cross-time travel are  possible, though extremely difficult (in much the same way that space travel is now).   
+
+                                 MONETARY BASE
+        The unit of exchange in the L'Doran Hegemony is called the System Monetary Unit (or SMU) and is worth roughly 0.02 troy ounces  of  gold.  The unit
+of exchange in the Second Empire is called the Mark and is worth roughly 0.025 troy ounces of gold. Inflation is a factor of interest only in some primitive
+local economies -- it is not a factor in the economy of either the Hegemony or the Second Empire.
+     
+                                OTHER SUNS: CHAPTER 2  COPYRIGHT 1982, 1989 by N. C. Shapero
+
+                                CHARACTERISTICS
+        To create an Adventurer, the player rolls dice for each of the following characteristics. This provides the basic parameters of the Adventurer's
+development. The die rolls given are for  humans. Other intelligent races may use different die rolls for the various characteristics. These differences are
+dealt with in CHAPTER 4, INTELLIGENT SPECIES.
+
+        1.  Strength (STR): helps determine the damage a character does, how much equipment he can carry, and what weapons he may use. Strength can be
+increased  through training up to the rating for the character's Constitution or Size, which ever is larger. Humans roll for strength on 3D6.
+
+        2.  Intelligence (INT): the character's ability to deal with abstractions and to learn from experience. Intelligence  for humans in the general
+population is rolled on 3D6. However, adventurous characters -- the spacers, the scientists, the space merchants -- are all a cut above average. Thus all
+human adventuring characters (i.e. all player run humans) roll for INT on 2D6+6.
+
+        3.  WILL (WIL): the character's strength of will and ego -- an important factor in the ability to resist and/or power certain kinds of psionic attack
+and possibly to affect the world through direct force of will (see CHAPTER 7, PSIONICS AND THE USE OF WILL). Will is also a  measure  of the character's
+overall self-confidence. Will can be increased through training up to the species maximum.  Humans roll for Will on 3D6.   
+
+        4.  Constitution (CON): the character's health. It helps determine how much punishment (in combat or otherwise) a character can take before he dies.
+Constitution can be increased through training up to the maximum of Strength or Size. Constitution is rolled on 3D6  for humans in the general population.
+However, adventurous characters -- the spacers, the  scientists, the space merchants, are all a cut above average. Thus all adventuring characters (i.e. all
+player run characters) roll for CON on 2D6+6. 
+
+        5.  Endurance (END): the character's ability to withstand pain and to engage in strenuous  activity for prolonged periods of time. Endurance is also
+a factor in determining how much physical punishment a character can take. Endurance can be increased through training up to species maximum. Humans roll for
+endurance on 4D10.
+
+        6. Dexterity (DEX): the character's ability to move quickly and accurately. Dexterity may be increased through training up to species maximum. Humans
+roll for dexterity on 3D6.
+
+        7. Charisma (CHA): the character's ability to lead. It is the ability to say "follow me" and find oneself leading a charge. Charisma is subject to
+change (both up and down) depending upon the success or failure of previous ventures. Humans roll for charisma on 3D6.
+
+        8. Length (LEN):  the height of the character, in centimeters (1 inch = 2.54 centimeters; 1 centimeter = 0.394  inches). This characteristic
+determines the reach of the character. It also helps determine the overall body mass of the character, the principal factor in the amount of total damage the
+ character can take before dying. It is assumed that all Adventurers have reached their full growth prior to entering play, so this characteristic cannot
+ increase during the course of the characters career. Humans roll for LEN on 110+6D20 for male characters, and on 100+6D20 for female characters.
+
+        9. Build (BLD): the massiveness of the character's bone structure -- indicating how stocky, and how bulky the Adventurer's body is -- the higher the
+roll, the stockier the build. It is an important factor in determining the overall size of the character (and hence his ability to withstand damage). This
+characteristic may only change by one point from the original roll once the Adventurer has begun his career. Human males roll for BLD on 3D6, human females
+roll for  BLD on 3D4+1. 
+
+        10. Telepathic Strike Capability (TSC): the measure of the character's ability to launch telepathic attacks, to probe minds, and to handle psionic
+devices. There is no species maximum for TSC and no limit to the amount of training that may be applied towards increasing this characteristic. Humans roll
+for TSC on 1D6-5. Characters  with TSC less than or equal to 0 are non-telepathic (though they may be trained). 
+
+        11. Telepathic  Resistance (TPR): the measure of the character's resistance to telepathic probes and  attacks. There is no species  maximum for
+telepathic  resistance, and  TPR  may be trained  without  limit. Humans roll for telepathic resistance on 1D4+1.
+
+******************************************************* 
+        To provide a running series of examples for the reader, we will be presenting the tale of Mikhail Andreivitch throughout this book. For now, let's
+roll up his characteristics...   
+
+        STR=12 -- A high average STR, allowing Mikhail to  handle most weapons without penalties. See CHAPTER 10, COMBAT, for more details on the precise limits
+involved. 
+
+        INT=17 -- An excellent roll. As will be seen later, it gives him a number of advantages in gaining expertise in skills. His starting skills will also
+be much improved (see CHAPTER 6, PREVIOUS EXPERIENCE) by this high intelligence.
+
+        WIL=9 -- A below average roll. So Mikhail's force of will and strength of ego are, perhaps, a little bit below average, but not enough to cause him
+any serious difficulty. However, his WIL score is sufficiently low that he might as well give up any hope of developing anything of the psionic "wild
+talents" until his WIL score can be improved (see CHAPTER 8, PSIONICS AND THE USE OF WILL for more details).
+
+        CON=9 -- A below average roll. And Mikhail Andreivitch will be somewhat vulnerable to  disease  and  poison. Obviously, the Man of Steel he is not.
+
+        END=22 -- A strictly average roll. So Mikhail is able to take just about as much pain as the next person before passing out, and of working just about
+as hard (STR and CON permitting). 
+
+        DEX=18 -- The highest roll for a Human. Obviously, what Mikhail lacks in bodily strength and toughness, he more than makes up for in speed and
+agility. He will be able to use all equipment and weapons a bit better than average as a result of his quick reflexes and great agility. 
+
+        CHA=13 -- At this point, Mikhail is a bit above average as a leader. This has nothing to do with his looks. 
+
+        LEN=180 -- Mikhail is 180 centimeters tall, or roughly 5'11".
+
+        BLD=9 -- Mikhail is not particularly heavily boned, but he is no lightweight either -- just on the low side of average.
+
+        TSC=1 -- Mikhail is an active telepath, though a poor one by the standards of the era. His range is only 10 meters, and he has a 10% chance of
+communicating with another equally adept telepath.
+
+        TPR=3-- A typical average telepathic resistance. So Mikhail, though telepathic himself, has no particularly great resistance to telepathic probes
+and/or attacks. Yet.   
+
+MIKHAIL'S POTENTIAL INCREASES :
+
+        STR -- Mikhail's STR can be increased to 20 (his SIZ).
+
+        INT -- Failing some incredible miracle, Mikhail will be stuck with his current INT (not that he would complain, mind you)
+
+        WIL -- This characteristic may be increased up to species maximum eventually, though Mikhail has a long way to go here.
+         
+        CON -- Mikhail may increase his CON, as explained  later, to a maximum of 20 (his SIZ).
+
+        END -- This attribute can be increased to the species maximum, as explained later, though in Mikhail's case it would take many months of training to
+do so. 
+
+        DEX -- This attribute can be increased to the species maximum, as explained later.   
+
+        CHA -- As shown later, Mikhail's CHA will rise and fall with events.   
+
+        LEN -- As with INT, Mikhail is stuck with his current length. He is assumed to have finished his growth by the time he enters play. 
+
+        BLD -- Though difficult, it would be possible for Mikhail to change his BLD by 1 point (either up or down).  See Increasing Characteristics later in
+        this  chapter  for   further details. 
+
+        TSC -- The sky is the limit for Mikhail in this area. 
+
+        TPR -- Here again, the sky is the limit, though training this characteristic is both expensive and time consuming.
+******************************************************* 
+
+                                MAXIMUM AND MINIMUM CHARACTERISTICS
+        No characteristic save TSC and TPR may be increased by any means save cyborging (see CHAPTER 12, HEGEMONIC TECHNOLOGY) beyond the maximum amount
+rollable on the characteristic dice plus the number of dice rolled (plus one if an adder is present). Thus a human may not have a dexterity higher than 21
+(=18+3), and a Korli with dexterity rolled on 3D6+6 may not have a dexterity higher than 28 (= 24 + 3 + 1).
+
+        The  minimum characteristic possible for any reason is the number of dice rolled (for example, 3 for human CON). No characteristics save END and  WIL
+may be reduced below this point voluntarily. If WIL is reduced below zero, however, the character dies, and  no amount of medical assistance will prevent his
+ death or later restore him to life.
+                                COMPUTED CHARACTERISTICS
+        SIZE (SIZ): This is a combined indicator of the mass and bulk of the character. SIZ = (LEN/10) + (BLD/3) - 1 where fractions are rounded up to the
+next largest whole number.
+
+*******************************************************
+Mikhail's SIZ = (180/10) + (9/3) - 1 = 18 + 3 - 1 = 20. 
+******************************************************* 
+
+        MASS (MAS): The total mass of the character (in  kilograms). MAS = (SIZ3)/100 (cube the size, and divide the result by 100). One kilogram mass equals
+2.2 pounds weight (in a  1 gee gravitational field).
+
+*******************************************************
+Mikhail's  MAS  = (20 * 20 * 20)/100 = 8000/100 = 80 kilograms (a fairly hefty 176 pounds in a 1 gee field).
+*******************************************************
+
+        HIT POINTS (HIT): Hit points are the measure of how much damage the character can take before he dies. Total hit points are determined as follows: 
+            (1) multiply SIZ by 2/3, and take the next  largest whole number;
+            (2) multiply CON by 1/3, subtract 3, and take the next largest whole number; 
+            (3) multiply END by 1/4, subtract 5, and take the next largest whole number;
+            (4) multiply WIL by 1/8, subtract 1, and take the largest whole number LESS THAN this value.
+            (5) add the results of calculations (1) through (4); the result is the total hit points for the character.
+
+*******************************************************       
+Mikhail is SIZ 20: calculation 1 yields 20 x  2/3 or 40/3 which equals 13 1/3. The next largest whole number is 14.
+Mikhail's CON is 9: calculation 2 yields (9/3) - 3 = 0.  
+Mikhail's END is 22:  calculation 3 yields (22/4) - 5 or 5.5 - 5 = 0.5, and taking the next largest whole number yields a result of 1 in this calculation.  
+His WIL is 9: calculation 4 yields (9/8) - 1 or 1/8, which rounds down to 0.
+Thus Mikhail will have 14 + 0 + 1 + 0 hit points for a total of 15 hit points. 
+*******************************************************
+
+        DAMAGE (DAM): Damage represents the ability to combine strength and mass to do more damage to an opponent than is ordinarily done by a hand to hand
+or natural weapon.
+        
+        STR+SIZ                 ADDED DAMAGE (melee weapons)     ADDED DAMAGE(thrown weapons)
+        01-15                   -1D4                             -1D4
+        16-31                   0                                0
+        32-41                   +1D4                             +1D2
+        42-50                   +1D6                             +1D3
+        51-58                   +1D8                             +1D4
+        59-66                   +2D6                             +2D3
+        Each further +8         +1D6                             +1D3
+
+*******************************************************
+Mikhail  has  a SIZ of 20, and a STR of 12, for total of 32. Thus, consulting the table, we see that he has a damage bonus of +1D4.
+******************************************************* 
+
+      LUCK (LUC): Luck may be described as the ability to fall into a compost heap and find a diamond. Unlike most the other abilities  listed, Luck is given
+as a straight point value. Depending upon the difficulties or the odds involved, a player will have roll at or below some multiple (between one and six) for
+this characteristic on 1D100 in order to have "made a luck roll". This procedure is referred to elsewhere in the rules as a "characteristic roll" (in this
+case, for LUC). LUC = (INT + WIL) / 2 where  fractions  are rounded up to the next largest whole number.
+
+*******************************************************
+Mikhail has a luck of 13, computed as follows: (INT + WIL)/2 = (17 + 9)/2 = 26/2 = 13. Mikhail's high intelligence more than compensates for his below
+average will, resulting in a luck value of 13   (well above average).
+*******************************************************
+
+                                ABILITIES BONUSES AND HOW CHARACTERISTICS INFLUENCE THEM
+    Each character has various skills which he will be able to improve through training and experience; his characteristics will influence how well he will do
+in each category of skill. Positive modifiers add to the category bonus, negative modifiers subtract from the characteristic bonus. Primary modifiers add
+(subtract) twice the characteristic value to (from) the category bonus. Secondary modifiers add (subtract) the characteristic value to (from) the category
+bonus. Tertiary modifiers add (subtract) one half of the characteristic value to   (from) the category bonus. 
+
+    All primary, secondary, and tertiary positive and negative modifiers are added, then the Finagle Factor is then added to the result to give the final
+category bonus; the Finagle Factor has been defined so that a typical Human character will have a zero category bonus. 
+
+    ACCURACY (ACC): Accuracy measures the ability to handle aimed weapons (such as bows, crossbows, pistols, and rifles). 
+    Positive Primary Modifiers: INT, DEX    Positive Secondary Modifiers: WIL       Positive Tertiary Modifiers:  (none)
+    Negative Tertiary Modifiers:  (none)    Negative Secondary Modifiers: (none)    Negative Primary Modifiers:   (none)
+    Finagle Factor: -52
+
+******************************************************* 
+Mikhail has  an accuracy bonus of  +27%, computed as follows:
+2 x INT = 34
+2 x DEX = 36
+1 x WIL =  9
+===============           
+Subtotal = +79
+Finagle =  -52
+=============== 
+Total = +27
+Obviously, Mikhail is a natural rifleman... 
+*******************************************************
+
+        ATTACK (ATT): Attack measures the adventurer's added ability to strike at an opponent with a hand to hand or natural weapon (hands, teeth, feet, etc). 
+        Positive Primary Modifiers: INT, DEX    Positive Secondary Modifiers: STR, WIL  Positive Tertiary Modifiers:  (none)
+        Negative Tertiary Modifiers:  (none)    Negative Secondary Modifiers: (none)    Negative Primary Modifiers:   (none)
+        Finagle Factor: -63
+
+*******************************************************
+Mikhail  has an attack bonus of +28%, computed as follows:
+2 x INT = 34
+2 x DEX = 36
+1 x STR = 12
+1 x WIL =  9
+===============
+Subtotal = +91
+Finagle =  -63
+===============
+Total   =   +28 
+******************************************************* 
+
+      DODGE (DOD): The Dodge is adventurer's ability to avoid being where an  attack is directed. The dodge ability, unlike the Martial Arts Evasion skill
+(described in detail in CHAPTER 5, SPECIALTIES AND SKILLS), may not be used to avoid attacks with most modern high velocity or energy weapons (it may be
+applied against the taser and the shoulder fired rocket, both described in  CHAPTER  9,   COMBAT  SKILLS). In addition, it may not be applied against area
+effect weapons (such as hand grenades -- also  described  in CHAPTER 9). In addition, if the adventurer is immobilized, unconscious, or surprised, his
+dodge ability may not be employed. A negative value for the natural dodge ability is treated as a zero dodge ability in combat (thus, it is no easier than
+normal for the attacker to hit a creature with a negative dodge ability).
+ 
+    How the Dodge Works:
+    Applied versus a Single Opponent's Single Attack:
+    An attacker must subtract the defender's Dodge ability from his attack, PROVIDED that the defender could see the attack coming. If an opponent has a
+dodge ability of 14%, and the attacker has a 47% chance of hitting with a broadsword, then the attacker has only a  33% chance of hitting that opponent with
+his attack.
+
+    Applied versus Multiple Opponents:
+    When facing several foes or multiple attacks from a single opponent in one melee round, a character may apply all of his Dodge ability against one
+attack, hoping the all other attacks will miss, divide his Dodge among the attacks of all the opponents, or dodge some, but not all of his foes' attacks. Thus,
+a character with a 40% Dodge against four attackers each of whom is attacking once in the melee round may apply all of his Dodge against one, or put whatever
+Dodge he wishes against each foe, so long as the total Dodge applied against all attacks in that melee round totals no more than 40%.
+ 
+   How Dodge is Increased
+   As a character's DEX or WILL increases, his Dodge ability will also increase. And each time that his Dodge saves him from an attack (i.e. the use of the
+Dodge ability resulted in an attack failing where it would otherwise have succeeded) the adventurer has a chance of increasing his Dodge ability by 1D10%.
+The player must roll the INT of the character or less on 1D100 in order for the Dodge ability to increase through use. This roll may be attempted once for
+each successful use of the Dodge ability during the course of an expedition, though the Dodge ability may only be increased once per expedition. (Thus if
+Mikhail Andreivitch used the Dodge ability three times in an expedition, the player running this character would have three opportunities to roll 17 or less
+on  1D100. And even if two of those rolls were made, the Dodge ability would only improve once for this expedition, by 1D10 percentile points).
+
+NOTE: This rule is in total contrast to the usual experience increasing rules shown elsewhere. If a character has no natural Dodge, it cannot be improved by
+this method until, through increase in DEX and/or WIL, the character acquires a Dodge ability. 
+        Positive Primary Modifiers: INT, DEX    Positive Secondary Modifiers: WIL   Positive Tertiary Modifiers:  (none)
+        Negative Tertiary Modifiers:  (none)    Negative Secondary Modifiers: BLD   Negative Primary Modifiers:   (none)
+        Finagle Factor: -42
+
+*******************************************************
+Mikhail has a dodge bonus of +28%, computed as follows:
+2 x INT = 34
+2 x DEX = 36
+1 x WIL =  9
+===============
+Subtotal = +79
+-1 x BLD =  -9
+Finagle =  -42
+===============         
+Total = 28
+******************************************************* 
+
+      KNOWLEDGE (KNO): Knowledge includes all formal "book" learning. Thus all of the scientific fields will be included in this category, as well as such
+skills as speaking, reading and writing languages.
+      Positive Primary Modifiers: INT       Positive Secondary Modifiers: WIL       Positive Tertiary Modifiers:  (none)
+      Negative Tertiary Modifiers: (none)   Negative Secondary Modifiers: (none)    Negative Primary Modifiers:   (none)
+      Finagle Factor: -31
+
+*******************************************************
+Mikhail has a knowledge bonus of +12%, computed as follows:
+2 x INT = 34
+1 x WIL =  9
+===============
+Subtotal = 43
+Finagle = -31
+===============         
+Total = 12
+*******************************************************
+
+    MANIPULATION (MAN): This is the ability to work with small and intricate things as well as the ability to control large (and perhaps unwieldy) objects or
+vehicles.
+    Positive Primary Modifiers: INT, WIL    Positive Secondary Modifiers: STR, DEX  Positive Tertiary Modifiers:  DEX
+    Negative Tertiary Modifiers:  (none)    Negative Secondary Modifiers: (none)    Negative Primary Modifiers:   (none)
+    Finagle Factor: -68 
+
+*******************************************************
+Mikhail has a manipulation bonus of +23%, computed as follows: 
+2 x INT = 34
+2 x WIL = 18
+1 x DEX = 18
+1 x STR = 12
+1/2xDEX =  9
+===============
+Subtotal = +91
+Finagle =  -68
+===============
+Total = 23
+******************************************************* 
+
+    OBSERVATION (OBS): Observational abilities allow the individual to  detect and properly interpret subliminal sensory clues and to jump directly from the
+uncertain observation to the foregone conclusion, and to do so without error.
+    Positive Primary Modifiers: INT, WIL    Positive Secondary Modifiers: (none)    Positive Tertiary Modifiers:  (none)
+    Negative Tertiary Modifiers:  (none)    Negative Secondary Modifiers: (none)    Negative Primary Modifiers:   (none)
+    Finagle Factor: -42 
+
+******************************************************* 
+Mikhail has an observation bonus of +10%, computed as follows:
+2 x INT = 34
+2 x WIL = 18
+=============== 
+Subtotal = +52
+Finagle =  -42 
+===============
+Total = 10
+*******************************************************   
+
+    PARRY (PAR): To parry is to interpose a shield and/or weapon in the path of an attacking weapon in order to deflect its blow harmlessly to one side.
+    Positive Primary Modifiers:   DEX       Positive Secondary Modifiers: WIL   Positive Tertiary Modifiers:  STR, INT
+    Negative Tertiary Modifiers:  (none)    Negative Secondary Modifiers: SIZ   Negative Primary Modifiers:   (none)
+    Finagle Factor: -22
+
+*******************************************************
+Mikhail has a parry bonus of +18%, computed as follows:
+2 x DEX = 36
+1 x WIL =  9
+1/2xSTR =  6
+1/2xINT =  8.5 
+================= 
+Subtotal =  59.5
+-1 x SIZ =   -20 
+=================
+Subtotal =  39.5 
+Finagle =   -22 
+================= 
+Total    =   17.5; the next largest whole number is 18. 
+******************************************************* 
+
+    PERSUASION (PER): The persuasion ability modifies those skills related to the swaying of a crowd through voice and through force of personality towards
+whatever goals the adventurer wishes. 
+    Positive Primary Modifiers:   (none)       Positive Secondary Modifiers: WIL, CHA       Positive Tertiary Modifiers:  CHA, INT       
+    Negative Primary Modifiers:  (none)       Negative Secondary Modifiers: (none)          Negative Tertiary Modifiers:   (none)
+    Finagle Factor: -32 
+
+*******************************************************
+Mikhail has a persuasion bonus of +5%, computed as follows:       
+1 x WIL = 9
+1 x CHA = 13
+1/2xCHA = 6.5 
+1/2xINT = 8.5 
+================= 
+Subtotal = 37
+Finagle = -32
+===============
+Total = 5
+*******************************************************   
+
+    STEALTH (STE): This is the measure of the character's ability to act surreptitiously and without detection.
+    Positive Primary Modifiers: INT, DEX    Positive Secondary Modifiers: (none)    Positive Tertiary Modifiers:  (none)
+    Negative Primary Modifiers:   SIZ       Negative Secondary Modifiers: WIL       Negative Tertiary Modifiers:  (none)
+    Finagle Factor: +9 
+
+*******************************************************
+Mikhail has a stealth bonus of +30%, computed as follows:
+2 x INT = 34 
+2 x DEX = 36
+===============
+Subtotal = 70
+-2 x SIZ = -40 
+-1 x WIL = -9
+===============
+Subtotal = 21
+Finagle =   9     
+===============
+Total = 30
+*******************************************************
+
+(End of Chapter 2)

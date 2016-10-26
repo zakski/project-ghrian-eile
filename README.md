@@ -8,10 +8,12 @@ google groups, however it does not record the actual dates the messages where or
 not record, but primarily taking the information from google groups.
 
 ## Other Suns 2nd Edition Manual
-This documentation largely comes from the unfinished (as far as I know) 2nd Edition of the RPG. It was published on usenet between 1990-1991 alongside an 
-iceworld supplement. 
+This comes from the unfinished (as far as I know) 2nd Edition draft of the RPG. It was published on usenet between 1990-1991 alongside the 
+iceworld supplement. Consists of posts 0-2 by John Redden.
 
-1. Ice World supplement contains sample random encounters, arctic equipment and a description of the harsh conditions.
+## Other Suns Ice World Supplement
+The Ice World supplement contains sample random encounters, arctic equipment and a description of the harsh conditions. Its unclear which version of the rpg 
+it targeted. Consists of posts 17-30 by John Redden.
 
     
     

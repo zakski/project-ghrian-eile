@@ -1,0 +1,128 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/R8YT0JX5f0Y / http://www.hoboes.com/pub/Role-Playing/Future/Other%20Suns/01/
+TITLE: Other Suns # 1 
+
+----------------------------------------------------------------------------
+
+Monday, 24 September 1990 15:16:16 UTC+1 - John Redden:
+------------------ OS.1 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero.  This gaming material is distributed on a shareware basis. If you do not use the material you owe the author
+nothing. If you do use it please pay him what you think it is worth at a fair price because it took a damn lot of work to develop and playtest. The USmail
+address is:
+    Niall Shapero
+    2536 Short Ave
+    Los Angeles
+    CA 90066
+    USA
+
+Those of you with modems can dial into his BBS using this phone number:(213)822-6729
+Please email any comments to my electronic mailing address and I will pass them on to Niall.
+
+----------------  end of preamble -------------------------------------------
+                                OTHER SUNS: CHAPTER 1  COPYRIGHT 1982, 1989 by N. C. Shapero
+
+                                INTRODUCTION    WHAT IS ROLE PLAYING
+A role playing game is a game of character development, a game approach that has been likened to improvisational theater. The player acts out a role in the
+world designed by the  Referee just as he might act a role as a character in a play.
+
+                                WHAT IS THE PURPOSE OF THIS GAME 
+                      "Earth is the cradle of Mankind, but one cannot remain in the cradle forever"  -- Tsiolkovskii
+
+        OTHER SUNS is a game of exploration and discovery set in the future, when mankind has found new homes on worlds orbiting other suns far from mother
+Earth. The player creates one or more characters, known as Adventurers, and plays  them in various scenarios designed by the Referee. The Adventurer has the
+use of scientific and other skills, equipment, and, as a last resort (hopefully) combat. The Referee has the use of assorted traps, strange and eldritch
+creatures, and his own wicked imagination to keep the Adventurer from his goal within the rules of the game. A surviving Adventurer gains experience in
+scientific and other skills, psionics, and fighting, as well as gaining money with which to purchase further training. The Adventurer progresses in this way
+(either in military service or in merchant service) until he is so proficient, or has  such  an incredible reputation for success, that he comes to the
+attention of the High Lords of the Hegemony (either the flag rank officers of the Admiralty if the character is in the military, or one of the merchant
+princes if he is an interstellar trader). At this point, he will either be promoted to the command of a star-ship, or he will receive additional financial
+backing, or some other form of reward will be offered (depending upon whether he is in the military, or is in some civilian occupation). The ultimate goal
+for the Adventurer is success --  measured in terms of knowledge, prestige, power, position, and money. In order to reach that goal, the Adventurer's primary
+desire is to stay alive. As a result, combat is to be avoided if at all possible. For combat is more realistic in this game than in some other
+science-fiction  role playing games, and so is extremely dangerous. Glory in battle in OTHER SUNS has been made an exceedingly dangerous path to
+recognition, though a path still open to those wishing to risk its dangers. A far safer, though still perilous, path to glory for the Adventurer is that of
+the inter-stellar explorer. And it is this path to glory  which  is  the   primary goal of the Adventurer in this game.   
+
+                                 HOW TO USE THESE RULES       
+        First, read through the rules once in their entirety. Roll up a human character. Next, together with a few friends, begin play with a few simple
+scenarios, adding the more exotic non-human species and the more exotic capabilities (psionics, other senses) as the group's experience with the mechanics of
+play improves. Once all features of the game have become reasonably well understood by all players, add features of your own (added technology, equipment,
+alien races, etc.)
+                                 EQUIPMENT NEEDED TO PLAY
+    Besides this set of rules, OTHER SUNS players will need dice of many shapes for the game. The mix of dice suggested for play is as follows:
+                    Type                                    Abbreviation   
+                    two pair of 20-sided percentile dice    1D100
+                    one 20-sided die marked from 1 to 20    1D20
+                    four 12-sided dice                      1D12
+                    four 8-sided dice                       1D8
+                    four 6-sided dice                       1D6
+                    two 4-sided dice                        1D4
+
+    Within these rules, dice will be referred to using the above abbreviations. Thus, if it is necessary to roll the sum of two 12-sided dice, it will be
+written as 2D12. Other die sizes will occasionally be required for which there are no regular dice; a 16-sided die (1D16) for example might be needed for a
+telekinetic attack. In this particular example, one could roll 1D8 and 1D4 and if the 1D4 equaled 1 or 2, read the 1D8 as the value rolled, and if the 1D4
+roll was 3 or 4, add 8 to the 1D8 roll (in much the same way that a 1D4 and a 1D10 can be used to produce the equivalent of a 1D20). Other die rolls desired
+can be produced with other combinations of the above listed dice, or by rolling the above dice and either ignoring certain rolls and rerolling, or  by
+dividing the roll by some constant and rounding  fractions consistently up or down. In this way, a 1D7 roll can be produced (roll 1D8 and reroll if an 8 is
+rolled) or a 1D3 roll can be produced from a 1D6 (divide by 2 and round all fractions up). 
+
+    No dice are provided with the game; they can be purchased from any hobby store or mail order house that sells role-playing or war games. 1D12 can be
+simulated by rolling 2D6: if the first D6 roll is 4-6, add 6 to the roll of the second die, otherwise add 0 to the roll of the second die. 1D8 can be
+simulated by rolling 1D10 and ignoring and rerolling die rolls of 9 or 10. 1D4 can be simulated by rolling 1D6 and ignoring and rerolling die rolls of 4 or 5
+or alternatively by rolling 2D6 as described above to produce a 1D12 roll, dividing the result by 3, and rounding all fractions up to the next largest whole
+number. 
+
+    OTHER SUNS does not need a playing board. The player's imagination provides the stage on which the characters act. As assistance in this drama, the player
+will find the following items helpful:
+        (1) Paper,
+        (2) Pencils and pens,
+        (3) Lead or plastic figures,
+        (4) a great deal of time,
+
+and finally
+
+        (5) imagination (the more, the better). 
+
+   While not essential to the play of the game, a simple four function calculator with square root will greatly reduce the time and effort required for
+calculations.  
+
+                                 BACKGROUND HISTORY
+        The  L'Doran Hegemony is a multi-species  multi-star system government that developed while the human race was building the pyramids in Egypt. In the
+years while mankind developed on Earth, the myriad races of the Hegemony forged a multi-species empire that covered almost a third of the galactic rim. When
+Homo Sapiens went out to the stars in the latter part of the twenty-first century, he did so armed to the teeth.
+
+        The Hegemony had and has one real hard rule: "Thou shalt not make war upon any species of the Hegemony". When the Terran Empire met the L'Doran
+Hegemony in the fourth century of the Atomic Era the contact was explosive. Humanity lost the first Hegemony-Empire War on the battlefield, then won it at
+the peace tables. A brief period of peace followed the first war while the human leaders re-thought their position in the galaxy and prepared for the next
+war. It is a tribute to the force of will, the strength, the spirit, and the sheer unmitigated chutzpah of the human race that it went about preparing, in
+all seriousness, to take on  practically a third of the rest of the galaxy single handed.
+
+        What the heck, it almost worked! But though the human race had adopted virtually all of the technological wonders of their opponents, and though the
+humans were by and large better at the bloody game of mass warfare and killing than the majority of the Hegemonic species, Homo Sapiens was terribly
+outnumbered  in  the  second   Hegemony-Empire War. 
+
+       At the end of the war Earth was a radioactive cinder and the Terran Empire (though not the human race) had been utterly  destroyed. But the Empire was
+not alone in death. The economic stresses and strains imposed by the war did what the human star-ships had failed to do.  And the starlanes were clear of
+both Hegemonic and Imperial starships.
+
+       In the ninth century of the Atomic Era, the Hegemony began to rebuild and reform as various former member races reacquired sufficient investment
+capital and sufficient risk money to  begin building starships once more. In the eighteenth century of the Atomic Era, the L'Doran Hegemony covers one
+quarter of the galactic rim. Human worlds, former Imperial colonies, have joined the Hegemony, and the combined efforts of all races are being directed
+towards peaceful exploration, expansion, rediscovery  of  old   worlds, and the development of new worlds.
+
+       In this era of starfaring Drakes and Magellans, in this era of freebooters, explorers and exploiters of all kinds, the  players must make their
+fortunes.   
+
+
+                                 TECHNOLOGICAL BASE
+        The L'Doran Hegemony is an FTL-starflight capable society (FTL = faster than light). Contragravity drives for normal space and atmospheric flight are
+commonplace. Power for all common needs is provided by cheap and efficient total conversion devices. Privately owned FTL starships are common. Planetary  
+weather control techniques are well known and planetary engineering to order is an expensive though scientifically trivial  project. Time travel, and
+cross-time travel are  possible, though extremely difficult (in much the same way that space travel is now).   
+
+                                 MONETARY BASE
+        The unit of exchange in the L'Doran Hegemony is called the System Monetary Unit (or SMU) and is worth roughly 0.02 troy ounces  of  gold.  The unit
+of exchange in the Second Empire is called the Mark and is worth roughly 0.025 troy ounces of gold. Inflation is a factor of interest only in some primitive
+local economies -- it is not a factor in the economy of either the Hegemony or the Second Empire.
+     
