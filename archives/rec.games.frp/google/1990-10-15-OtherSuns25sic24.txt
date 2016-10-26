@@ -1,0 +1,124 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/An1cwqeTmAk
+TITLE: Other Suns : 25 (sic 24) 
+
+----------------------------------------------------------------------------
+
+Monday, 15 October 1990 16:11:29 UTC+1 - John Redden:
+------------------ OS.24 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero. This gaming material is distributed on a shareware basis. If you do not use the material you owe the author
+nothing. If you do use it please pay him what you think it is worth at a fair price because it took a damn lot of work to develop and playtest. The USmail
+address is:
+    Niall Shapero
+    2536 Short Ave
+    Los Angeles
+    CA 90066
+    USA
+
+Those of you with modems can dial into his BBS using this phone number:(213)822-6729
+Please email any comments to my electronic mailing address and I will pass them on to Niall.
+
+---------------- end of preamble -------------------------------------------
+    An emergency shelter takes 10 man-minutes to dig per person to be sheltered;  two people digging a shelter for five would take 25 minutes to complete the
+task (five persons times ten minutes divided by two workers). If hard pack snow is being excavated, tools (shovels, picks, or improvised equivalents thereof)
+are necessary or the work time is tripled. A blaster on wide beam may be used to prepare a shelter able to hold one person per 200 points of damage done
+(this calls for roughly 15 shots with a handblaster, taking about a minute).
+
+    A temporary shelter can be built in a deep snow drift (only). A successful Arctic Survival roll will locate an area suitable for a temporary shelter in
+any area of deep snow (skill roll may be attempted once per two-minute turn). Excavation takes 30 man-minutes per person to be sheltered (or 600 points of
+damage done with a blaster on wide beam). Construction of a safe temporary shelter (i.e. one that won't immediately collapse) requires either that the work
+be supervised by an individual with an Arctic Survival skill of 30% or better or that ALL workers in-volved in the excavation make their Arctic Survival
+skill rolls.
+
+    Temporary shelters are enclosed and hence protected from all elements. If a heat source is available, interior temperatures can be raised to a point
+    permitting rest or clothing changes without fear of frostbite or hypothermia. A temporary shelter lasts 12+2D6 hours.
+
+    A permanent shelter (an igloo) can be constructed from ice blocks. Such shelters require the supervision of at least one individual with a 30% skill level
+(or better) in Arctic Survival; if no such individual is present, all workers must make their Arctic Survival skill rolls (or the igloo collapses). The time
+required for construction is 4 man-hours per person to be accommodated in the igloo. As with temporary shelters, igloos provide a completely protected
+environment which can be heated to a safe temperature level (if a heat source is available). Igloos remain as long as the temperature remains below freezing.
+
+    Permanent shelters require tools for shaping blocks of ice for construction to be attempted; without such tools, they cannot be built. Any cutting tool,
+firmer, or continuous emission laser may be used to shape the blocks.
+
+    Firmers may be used to aid in the construction (or to compact limited quantities of snow). However, as a firmer can compress, powder, or disintegrate
+only up to 40 cubic centimeters of material per second (see Section 11.3.2 of Other Suns), their use will be generally limited to cutting or putting
+finishing touches on large blocks; construction of a 2 meter x 2 meter wall 6 centimeters thick from ice would require almost 17 hours of work with a single
+firmer (though the wall would be somewhat denser than stone).
+
+    Where snow cover is absent, dirt, rocks, vegetation, and the like can be used to construct similar types of shelter, but the construction times given
+above are doubled. Construction work is generally considered to be at least Heavy Activity; digging in frozen earth is generally considered to be Very Heavy
+Activity.
+
+                        ICE WORLD I (PART 18 OF 28)
+    Hunting: Hunting for food in subzero conditions is generally harder than for other wilderness survival situations. In hunting, characters will need to
+apply one of several skills -- Hide in Cover, Set Ambush, Move Quietly, Tracking, or Trap Set/Disarm, depending upon the precise type of hunting being
+undertaken.
+
+    If the character wishes to lie in wait and let game come to him before attacking it with some available weapon, he must make Set Ambush and Hide in Cover
+rolls in order to avoid detection by an approaching animal. Of course, the animal may make its Sense Ambush and Spot Hidden rolls, thereby spotting the
+hunter DESPITE his successful rolls. The character is considered to be RESTING while hunting in this fashion. Normally, an encounter roll is made on the
+appropriate encounter/event table once per hour; however, if an Arctic Survival skill roll is made, the encounter roll is made once each 20 minutes (the
+successful Arctic Survival roll indicating that the adventurer has chosen a particularly suitable location in which to lie in wait).
+
+    If the character wishes to actively pursue game, the Tracking skill will allow him to do so. For each 20 minutes spent searching for game, roll once on
+the appropriate encounter table (or each 2 minutes if an Arctic Survival skill roll is made). Once the animal has been located (and the tracking roll also
+allows positive identification of the animal tracked) Move Quietly and Hide in Cover rolls must be made to close to point blank distance.
+
+    If the character wishes to acquire the most small game for the least effort, he will set out traps. To set each trap properly requires a Trap Set/Disarm
+roll (which may be attempted each turn). Roll for an encounter on the appropriate table once for each trap for each hour period (or for each 20 minutes if a
+successful Arctic Survival roll has been made to select the ideal locations to set the traps). If the animal does not make its Spot Traps roll, and it does
+not roll under LUC on 1D100, it is trapped. Many animals become extremely frantic when caught and in certain types of traps (leg traps, for example) an
+animal may chew one of its limbs off (or perform a similarly distasteful maneuver) in order to escape the trap (allow for this on a roll of WIL of the animal
+ or less on 1D100).
+
+    A normal trap cannot trap more than one animal; however, other animal encounter rolls should continue to be made even after the trap is sprung. A
+predator might, after all, show up to eat the animal in the trap.
+
+    In all cases above, the Arctic Survival skill should act as a limiting skill for the skills of Hide in Cover, Move Quietly, Tracking, and Set Ambush.
+
+    Fishing: Fishing makes use of the Trap Set/Disarm skill, as discussed above. A character on temporary or pack ice may fish through a polynya (a natural
+opening in the ice -- see the Encounters and events section of this booklet for more details) or through a cut he makes in the ice (cutting requires that
+1D10 x 20 points of damage be done). Once a hole is available, the trapping procedure described above is used.
+
+    Gathering Food: Edible plant life is at a minimum in most arctic settings. On a roll of LUC or less on 1D100, allowed once per hour on any terrain but
+ice, characters will discover edible plant life. The quantity obtained is 1D10 x 100 grams of edible matter.
+
+NOTE: only omnivore and herbivore life forms can draw sustenance from plant matter; carnivores, like the Altani and the H'Reli, need meat to survive.
+
+    Going Without Food: The food and water requirements for adventur-ers in arctic conditions are as follows: 100/SIZ grams of meat per kilograms of body
+mass per day, 1 liter of water per 40 kilograms of body mass per day. For omnivores, plant matter may be substituted for meat in the diet in a ratio of 4
+grams of plant matter per gram of meat. A character can go CON/2 days without food (round fractions up) and CON/10 (round fractions up) days without water
+before he suffers unfortunate consequences.
+
+    For each N periods of CON/2 days without food and M periods of CON/10 days without water, increase the END cost of all activities performed and the time
+    required to recover 1D6 END by N+M. A day in which less than the requisite amount of food is eaten (or water drunk) counts proportionally towards days
+    without food (or water). That is, if only half the needed food is eaten that day, the count of days without food would be increased by 1/2 day.
+
+    Example: Mikhail Andreivitch (see Other Suns for Mikhail's full statistics) has a CON of 9. after 5 days without food or 1 day without water, Mikhail
+will begin to suffer. On the second day without water, all Mikhail's END expenditures will double -- and he will only recover END at half the normal rate
+(1D6 per 40 minutes as opposed to 1D6 per 20 minutes). On the third day without water, his END expenditures will TRIPLE, and he will recover END at a rate of
+only 1D6 per hour. If he has been with-out water for two days and without food for four, he will expend END at twice his normal rate and recover half as
+fast; the next day, if he has had no food or water, he will expend END at FOUR times the normal rate (having gone 3 days without water AND 5 days without
+food) and will recover 1D6 END only every 80 minutes.
+
+    After 2 x CON days without food, a 1 point attack is made each day vs. CON and the result taken against both CON and total hit points (if the attack
+fails, no damage is taken). A successful Control of Self roll (one attempt allowed per day) prevents any damage being taken from this source.
+
+    After CON/2 days without water, a 2D4 point attack is made each day vs. CON and the result taken against both CON and total hit points. A successful
+Control of Self roll, one attempt allowed per day, halves the damage taken from this source; how ever, even a successful Control of Self roll will not reduce
+the damage below 1 point.
+
+                        ICE WORLD I (PART 19 OF 28)
+    OPTIONAL RULE: Without food, the body will quickly lose its ability to maintain a normal temperature in the face of a subnormal ambient temperature.
+After N intervals of CON/2 days without food, increase the chance of hypothermia by 50x(N-1)%. Thus in our preceding example, Mikhail's chance of going into
+hypothermia would increase by 50% starting on the 5th day without food. If Mikhail, then, were in air at -3o C with a 16 kph wind (after adjustments for
+clothing) he would normally have a 10xCON- 12% chance of avoiding hypothermia (78% for Mikhail). After 5 days without food, his daily chance of avoiding
+hypothermia under these conditions would drop from 78% to 28%, after 10 days with-out food, his chances of avoiding hypothermia would be less than 0%.
+
+    Water: It may seem strange, but water is often the hardest element to obtain in arctic conditions. A heat source is necessary to obtain water from snow
+or ice; alternatively, a hole cut into ice (see Fishing, above) can be used to reach a fresh-water pond, lake, stream, or river. Remember that a salt-water
+ocean cannot provide drinking water; only fresh water may be so used.
+
+    Snow can be melted by body heat, but each liter of water obtained

@@ -1,0 +1,114 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/b1hqlHMGcOY
+TITLE: Other Suns : 27 (sic 26) 
+
+----------------------------------------------------------------------------
+
+Tuesday, 16 October 1990 15:24:09 UTC+1 - John Redden:
+------------------ OS.26 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero. This gaming material is distributed on a shareware basis. If you do not use the material you owe the author
+nothing. If you do use it please pay him what you think it is worth at a fair price because it took a damn lot of work to develop and playtest. The USmail
+address is:
+    Niall Shapero
+    2536 Short Ave
+    Los Angeles
+    CA 90066
+    USA
+
+Those of you with modems can dial into his BBS using this phone number:(213)822-6729
+Please email any comments to my electronic mailing address and I will pass them on to Niall.
+
+---------------- end of preamble -------------------------------------------
+somewhat fragile; five points of damage penetrating the three point protection will destroy the unit.
+    Heater masks may be worn interchangeably among species with similar facial structures. Thus, for example, a Skiltaire, a H'Reli and a Sanchenzii could
+all use a single heater mask. A Human could also use this same Skiltaire/H'Reli/Sanchenzii mask -- but an Altani, with her pronounced muzzle, could not wear
+a Human specific heater mask (designed for the relatively flat face of Humans).
+
+    Battery Pack: A light battery used to supply power to Class IV CWG, heatsuits, and/or heater masks. A battery pack masses 100 grams and costs 10 smu.
+    On a single charge, the battery will provide sufficient power to heater filaments for 900o C-hours of heating. If used for a Class IV CWG set to an
+additional +20o C and a heatsuit set at +10o C, the battery would last for 900/(20+10) = 900/30 = 30 hours. Increasing the heatsuit setting to +30oC would
+decrease the battery life to 900/(20+30) = 900/50 = 18 hours. Recharge time is 1 turn and recharge cost is 1 smu.
+
+    Heat Pack: A heavier battery used to power Class IV CWG, heat-suits, and/or heater masks. A heat pack masses 500 grams and costs 50 smu.
+    On a single charge, the battery will provide sufficient power to heater filaments for 10,000o C-hours of heating. If used for a Class IV CWG set to an
+additional +25o C and a heatsuit set at +15o C, the battery would last for 10,000/(25+15) = 10,000/40 = 250 hours. Increasing the heatsuit setting to +50oC
+and adding a heater mask at +5o C would decrease the battery life to 10,000/(25+50+5) = 10,000/80 = 125 hours. Recharge time is 1 turn and recharge cost is
+10 smu.
+
+    Catalytic Heater: A small non-reusable chemical heat source used to provide augmentation (see Clothing Protection Table) under other clothing. A +5o C
+temperature modifier is applied (above and beyond all other clothing modifiers) when this type of heater is used. Additional heaters can be used to increase
+the tempera-ture modifier (add an additional +5o C per added heater). Mass is 0.1 kg; cost is 10 smu per heater. Multispecies. Provides 6 hours of heat,
+after which it is discarded.
+
+                        TRANSPORTATION
+    The following equipment is available for personal (individual) transportation.
+
+    Skis: Basic skis are long, flat runners worn to travel quickly over snow. Usually, skis are worn in pairs. Human skis measure from 150 to 220 centimeters
+in length; those for other species are proportional to LEN. All skis are considered to include bindings for the appropriate number of feet and types thereof.
+Skis are tailored to individual species requirements, though members of two roughly similar species could use each others skis if desired. Skis mass 10 grams
+per centimeter of length, and have 10 hit points and 10 points of impact and energy protection. Skis cost 7.5 smu per kilogram.
+
+    Ski Boots: Special boots are usually required to ski that give extra support to the ankle (or equivalent location). One boot is required per foot.
+    Boots mass 1% of body mass per hit number covered (a typical boot only covers only one hit number, the foot) and cost 10 smu per kilogram mass.
+
+    Ski Poles: Poles are needed to propel the skier over snow, and assist in maintaining an upright stance. They measure 0.7 x LEN of user, mass 1 gram per
+centimeter length, and cost .02 smu per centimeter length. Poles can be used as the equivalent of short spears in combat situations; they are treated as 10
+point weapons in this case.
+
+    Snowshoes: Snowshoes are a means of cross country travel, measuring 25 centimeters by 100 centimeters (for typical Human units). Increase (or decrease)
+the surface of the snowshoe proportional to the MASS of the wearer. Snowshoes mass 1 kilogram for the typical SIZ 20 Human (mass varies proportional to mass
+of wearer) and cost 5 smu per kilogram mass. Snowshoes have 10 hit points.
+
+    Snowshoes may be manufactured in the field from available materials through a use of the Arctic Survival skill. Manufacture of one pair of snowshoes
+takes 1 man-hour. Field manufactured snow-shoes mass twice as much as indicated above. Snowshoes are designed for a single-species. Ski poles may be used
+with snowshoes -- if this is done, the skill is subject to a +25% modifier.
+
+                        ICE WORLD I (PART 22 OF 28)
+
+    Primitive Ice Skates: Ice skates manufactured in the field have runners of bone, wood, or low-grade metal (these materials must, of course, be available).
+They must be sharpened after every 8 hours of use; a -15% skill modifier is applied for each 8 hours of use without sharpening. Sharpening requires an hour's
+Light Activity per pair. Skates cover one hit location each (the foot) and mass 0.0175% of body mass each. They have 10 Hit points.
+
+    Ice Skates: Standard ice skates are those typically available in industrial societies. Edges last indefinitely. Skates cover one hit location each (the
+foot) and mass 0.01% of body mass each. They cost 10 smu per kilogram of mass. Normal ice skates have 10 hit points.
+
+    Stabilized Ice Skates: An advanced type of ice skate, stabilized skates incorporate gryostabilizers and sophisticated computer systems to aid the skater
+in staying upright and moving at high speed (add 20% to skill). These skates mass as per normal ice skates, but cost significantly more and require a power
+source. They have 8 points of impact and energy protection and 5 hit points. Stabilized skates cost 10 times the cost of standard skates of the same mass. The
+battery pack for stabilized ice skates masses 0.1 kilograms, and will operate one pair of skates for 100 hours. The battery pack can be recharged in 1 turn
+at a cost of 0.1 smu. A new battery pack costs 5 smu.
+
+                        SNOWMOBILES AND ACCESSORIES
+    Light Snowmobile: A light, one-man vehicle, the light snowmobile is designed with two forward ski runners and a centrally mounted rear track. The driver
+stands at the rear of the vehicle, grip-ping the controls. The driver is exposed to the elements while driving -- only one Human sized passenger is allowed,
+and no cargo space is provided. This vehicle masses 150 kilograms. The body of the light snowmobile will provide 10 points of impact and energy protection.
+If 15 points of damage penetrate this armor, the snowmobile will be ruined. The light snowmobile is electrically powered with a range of 500 kilometers at 50
+ kilometers per hour; battery recharges take three full turns and cost 0.1 smu. The typical unit sells for 325 smu.
+
+    Standard Snowmobile: This vehicle is larger and more robust than the light snowmobile. Saddles provide seating for up to 3 Human sized characters, and
+there is 100 kilograms of additional cargo capacity. The driver and all passengers are again exposed to the elements. This vehicle masses 500 kilograms. The
+body of the snowmobile will provide 15 points of impact and energy protection. If 15 points of damage penetrate this armor, the snowmobile will be ruined. The
+snowmobile is electrically powered with a range of 500 kilometers at 50 kilometers per hour; battery recharges take three full turns and cost 0.2 smu. The
+typical unit sells for 500 smu.
+
+    Racing Snowmobile: An expensive, short-range, but ultra-fast version of the snowmobile, the racing model is essentially identical to the light snowmobile
+save in performance characteristics and price. The racing snowmobile is electrically powered with a range of 150 kilometers at 90 kilometers per hour. The
+typical unit sells for 585 smu.
+
+    Wheel Kit: This is an adapter kit which permits wheels to be mounted on snowmobiles and snowmobile trailers. One kit is required per 500 kilograms of
+vehicle mass. When mounted, wheels enable snowmobiles to operate as standard wheeled vehicles, with speed and performance characteristics as given for the
+specific vehicle type. Mass is 10 kilograms per kit, and the cost is 15 smu. Multispecies gear.
+
+    Float Kit: This is another adapter kit, used to mount pontoon floats and a propeller on the snowmobile. This turns the snowmobile into a makeshift boat.
+One kit is required for every 250 kilograms of vehicle mass. Water speed is 1/10th the land speed. The kit masses 25 kilograms and costs 10 smu. Multispecies
+gear.
+
+    Trailers: Three models of snowmobile trailer are available, designed to be towed by any model of snowmobile. With one trailer attached, the basic speed
+is 0.75 times the normal speed. Two trailers cut speed in half; three trailers reduce speed to one quarter. No more than three trailers may be pulled by a
+single snowmobile. Vehicle Operations skill is also reduced by 10% for each trailer pulled. The frames of the trailers provide 15 points of impact and energy
+protection (and are destroyed by 10 points of penetrating damage). All can be fitted with either wheels or floats. All trailers protect from the environment.
+
+    Cargo Trailer: Carries up to 500 kilograms of cargo. Mass (empty) is 300 kilograms. Cost is 125 smu.
+
+    Passenger Trailer: Carries up to 4 Human sized passengers. Mass

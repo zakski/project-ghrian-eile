@@ -1,0 +1,1441 @@
+John Redden:
+------------------ OS ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero. This gaming material is distributed on a shareware basis. If you do not use the material you owe the author
+nothing. If you do use it please pay him what you think it is worth at a fair price because it took a damn lot of work to develop and playtest. The USmail
+address is:
+    Niall Shapero
+    2536 Short Ave
+    Los Angeles
+    CA 90066
+    USA
+
+Those of you with modems can dial into his BBS using this phone number:(213)822-6729
+Please email any comments to my electronic mailing address and I will pass them on to Niall.
+
+---------------- end of preamble -------------------------------------------
+                         ICE WORLD I (PART 1 OF 28)
+    The following is material from an unpublished supplement to Other Suns by Niall C. Shapero and J. Andrew Keith:
+
+                         Introduction
+    ICE WORLD is a supplement for Other Suns dealing with operations in sub-zero, arctic environments. Extreme cold can affect a party of adventurers in many
+ways; just surviving in arctic conditions can be a major endeavor in itself, and movement, combat and other activities become correspondingly more difficult
+as the environment becomes more hostile. Representing the hazards and difficulties of arctic adventuring in Other Suns is the subject of this booklet.
+
+    Despite its name, ICE WORLD is not necessarily limited in scope to dealing with planets which are entirely ice locked. Indeed, although science fiction
+film and literature is filled with "ice planets" and "jungle planets" and "desert planets," the fact is that no world is likely to be so monolithic in nature.
+There is room on any planet for a variety of environments, and arctic conditions may be encountered somewhere on almost any type of reasonably Earth-like world.
+Whether the entire planet is locked in perpetual cold, or is a perfectly terrestrial planet with frigid zones at the poles, or even if the adventure in progress
+just happens to be set in an ordinary temperate region during that hemisphere's winter months, the rules presented in this booklet will be equally valid and
+useful to the referee who must administer the situation the adventurers must meet and overcome.
+
+    The material presented here is intended to expand, not replace, the rules in the basic Other Suns booklets. These rules should be considered as optional
+additions to the original game, concepts and guidelines to be implemented or ignored as desired. None of these ideas need be regarded as gospel; it is up to the
+individual referee to use or discard these different rules' concepts, or possibly to expand upon them even further to develop even more detailed approaches
+to the problems of arctic environments and operations. The referee always has the final word on how the game should be played.
+
+    ICE WORLD is divided into four separate sections. The first, Rules, deals with game rules for handling a wide variety of arctic conditions and situations,
+from weather to terrain to skills to movement and combat effects and beyond. Equipment presents a number of equipment types, with information capabilities,
+availability, reliability and price. In the third section, Encounters and Events, and extensive set of encounter tables and rules are presented for use in
+Other Suns adventures. These tables are generic, applicable to almost any world or locale where arctic conditions are found, and can be further modified as
+desired to broaden their applicability. Various events are de-fined and discussed in this section as well.
+
+    ICE WORLD may be used in conjunction with other, similar Other Suns supplements, both published and forthcoming. Arctic conditions can be found on high
+mountain peaks, so that ICE WORLD's rules can be combined with those in MOUNTAIN WORLD [forthcoming]. The entire series of forthcoming World Supplements is
+designed to link together, so that the Other Suns adventurers can move comfortably from one environment to another using this common game system.
+
+                         Rules
+    All of the rules and procedures found in Other Suns are assumed to remain in force when using ICE WORLD, except where alterations or conflicts are
+specifically noted. In such instances, this booklet should prevail, but the Referee should always feel free to alter or disregard any of this material in order
+to tailor it to the tastes and abilities of the specific group of players involved in the game. It is important to remember, however, that a change in the
+structure of these rules could affect more than just the one rule altered, and the Referee should always take care to see to it that no modifications that
+are made cause unforeseen damage to the rest of the game system.
+
+                         SKILLS
+    Four skills must be added to Other Suns to reflect the ability of individual characters to deal with the hazards of arctic conditions: Arctic Travel,
+Arctic Survival, Skating and Snowshoeing.
+
+    Arctic Travel: This skill is available as a secondary subfield to First-In Colonists and Soldiers. It is a primary subfield of Survival Experts.
+
+    Arctic Survival: Arctic Survival skill is available as a second-ary subfield to First-In Colonists and Soldiers, and as a primary subfield to Survival
+    Experts. As an option, the Referee may allow the skill as a secondary subfield to Permanent Colonists who come from or settle a planet where arctic conditions
+    are common.
+
+                         ICE WORLD I (PART 2 OF 28)
+
+    Snowshoeing: This skill is available as a secondary subfield to First-In Colonists and as a primary subfield of Survival Experts. As an option, the
+    Referee may allow the skill as a secondary subfield to Permanent Colonists who come from or settle a planet where arctic conditions are common.
+
+    Skating: This skill is available as a secondary subfield to First-In Colonists and as a primary subfield of Survival Experts. As an option, the Referee
+    may allow the skill as a secondary subfield to Permanent Colonists who come from or settle a planet where arctic conditions are common.
+
+    SKILL DESCRIPTIONS
+    Arctic Travel: This skill represents the character's knowledge of the special difficulties involved in travel under severe arctic conditions. It is a
+    limiting skill for Skiing, Snowshoeing, and Vehicular operations under these special conditions.
+
+    This is a Knowledge skill, with a 3% base for non-Altani and a 30% base for Altani. The training costs are as follows: 50/150/350/500/650.
+
+    Arctic Survival:
+    This is the adventurer's ability to cope with the rigors of staying alive in sub-zero conditions.
+    The Arctic Survival skill is used in many different situations, whether it be to locate sources of food and water, constructing or finding shelter, or
+    staying alive for the longest period of time under extremes of temperature and harsh weather. Many exact rolls and procedures are noted throughout this
+    booklet; others may be invented by the Referee on the spot to deal with unusual situations.
+
+    When characters are cooperating and in communication, the survival skill of the GROUP is set equal to the Arctic Survival skill of the highest skilled
+    character -- only the highest skilled member need make his skill roll for the entire group to benefit. Should the best trained individual in the group
+    FAIL his roll, the remaining characters may still attempt to make their own skill rolls; however, if the group's resident expert fumbles his Arctic Survival
+    skill, the remaining characters may NOT attempt their skill rolls. Thus, an expert will generally improve the group survival chances through his guidance
+    and assistance, but he may also lead the group astray -- and into disaster if he fails too badly.
+
+    This is a Knowledge skill with a 0% base for non-Altani and a 30% base for Altani. The training costs are as follows: 50/100/200/400/800.
+
+    Skating: This is a measure of the character's ability to travel on ice skates (and is applied as per the Skiing skill).
+    This is a Manipulation skill, with a 6% base for non-Altani and a 30% base for Altani. The training costs are as follows: 50/150/350/500/650.
+
+    Snowshoeing: This is a measure of the character's ability to travel through snow conditions effortlessly.
+    This is a Manipulation skill, with a 6% base for non-Altani and a 30% base for Altani. The training costs are as follows: 100/200/400/800/1200.
+    While snowshoeing, a character must make his Snowshoeing skill or expend 1D4 END points (on a temporary basis) every hour.
+
+    While Skating or Skiing, a character must make his skating or skiing roll or expend 1D3 END points (on a temporary basis) every hour.
+    In any hour period in which a clean action roll is made, there is a possibility of recovering 1 END point previously lost through snowshoeing, skating or
+skiing: if a roll on 1D100 is less than or equal to the WIL of the character, one point of END will be recovered. In any hour spent snowshoeing, skating or
+skiing in which a critical roll is made in the snowshoeing skill, one point of END lost through snowshoeing will be recovered on a roll of WIL x 5 or less on
+1D100.
+
+    As described later, Snowshoeing constitutes HEAVY activity, and both Skating and Skiing constitute MODERATE activity.
+
+                         THE SUBZERO ENVIRONMENT
+    The problems of surviving in arctic conditions stem primarily from two factors (or, more exactly, two facets of a single fac-tor) -- terrain and weather.
+Determining just how severe or hazardous the conditions to be faced will be is the province of the Referee, but the guidelines given in this section should
+provide a fairly effective starting point.
+
+                         Subzero Regions:
+    In general, there are three basic regions where subzero conditions will be encountered. Each has its own characteristics in terms of terrain, weather,
+and problems to be overcome.
+
+                         ICE WORLD I (PART 3 OF 28)
+
+    Temperate Winter Regions: These are regions of a world where the average temperature is normally above freezing, except during winter months. On an
+    earth-like planet, many temperate zone areas would fall into this category. Worlds with highly eccentric orbits or that orbit variable stars might be
+    subject to unusual and extreme surface temperature variations.
+
+    Subarctic Regions: Similar to temperate winter regions, save that average temperature is lower (perhaps below freezing). The winters are long and cold,
+    though summers can still be quite warm.
+
+    Arctic Regions: In these frozen zones the winter temperatures will be extremely low, and summer, if it occurs at all, will be cold by temperate zone
+    standards. Tidally locked worlds, or worlds where the illuminance from the primary is low enough will consist mostly or completely of arctic regions. There
+    is, of course, a considerable degree of overlap between areas, and it can be difficult to neatly categorize any specific area of a planet into one of
+    these regions. The assignment of regional classification and characteristics is left strictly up to the Referee's discretion, rather than being tied to
+    any hard and fast set of creation rules. Generally, the Referee will know what sort of region he wants to set a given adventure in prior to the start of
+    the adventure. In cases where random explorations are being carried out, logic, common sense, or an idea of what seems most exciting or interesting for
+    the situation at hand can be applied to choose the overall region type. Once an area has been classified, the Referee will be able to determine many
+    specifics concerning terrain and conditions in that area.
+
+    Terrain and Snow Cover Determination:
+    Terrain conditions and the presence and extent of snow and ice must be determined when traveling through any region. To do this, the following four step
+process is to be followed.
+
+    1. Determine General Terrain: General terrain type defines the overall nature of the ground over which the adventure is taking place. In many cases, the
+    general terrain will be known already, if the Referee has already prepared a map of the world in question. In this case, the general location of the party
+    will be known, and hence the overall conditions in that location. General terrain types are open/clear, coastal, open water, or mountainous.
+
+    2. Determine Local Terrain: Local terrain represents the terrain being traveled through at any given time. Local terrain types can be established through
+    prior mapping or via a free form system. When the Referee wishes to establish the overall picture of the ground to be covered, he would be well advised
+    to map out all local terrain in advance. A scale no courser than 1 hex per 30 kilometers is recommended (this represents one day's march under fairly
+    ideal conditions). The Local Terrain Table may be used to determine map hex contents in advance of the adventure. The free form approach is used when the
+    Referee does not wish to make detailed maps in advance. Roll once on the Local Terrain Table for each eight hours of party movement on foot (regardless
+    of the actual rate of movement). This roll establishes the local terrain to be passed through for the next eight hour period. For parties using vehicles,
+    roll for local terrain on an hourly basis, again regardless of actual rate of movement (provided that it is not zero, of course).
+
+    3. Snow Chance Determination: Once terrain has been established, it is necessary to determine the chance of snow cover being present. The Cloudiness and
+    Humidity Table is used to determine this chance. For each mapped hex or area crossed during free form travel, roll 1D100 for Cloud Percentage. Checking
+    under the "Snow Cover Chance" for the current Cloud Percentage in the table gives the percentage probability for snow cover (to be modified by situation
+    as noted) in the current location.
+
+    4. Snow Cover Determination: The final step is to determine the nature and extent of snow cover in the area. Choose the appropri-ate terrain for the
+    area, and roll 1D100 (with modifiers as noted) three times to determine the type of snow cover present. Snow cover is defined by type (wet or powder),
+    depth (spotty, shallow, deep) and the presence or absence of hard packed snow, which can extend several meters under the new snow which is being
+    described by the other rolls in this process.
+
+    Changes in Snow Cover: It is possible for the amount and nature of the snow cover to change significantly over the course of a journey through a given
+    region as snowfall or melting occurs. This process is discussed in the rules section dealing with weather.
+
+    Explanation of Terrain and Snow Cover: Results obtained from the snow cover and terrain tables each have a distinct nature, and may pose different
+    problems to adventurers who are forced to travel through these regions.
+
+    Tundra: Tundra terrain typically occurs only in subarctic regions. A tundra plain is broad, flat, and treeless; in the win-ter, the ground is frozen
+    solid, but in summer the plain becomes wet and marshy. Because they are open and level, tundra plains are easy to cross, though in the summer, movement
+    on foot can be hazardous. Tundra terrain is ideal for hovercraft, but (again in summer) can sometimes bog down ATVs and other ground vehicles.
+
+                         ICE WORLD I (PART 4 OF 28)
+    Permafrost: Permafrost is very much like tundra, but occurs in regions where there is no summertime to melt the water locked in the frozen ground. Like
+    tundra plains, permafrost regions tend to be level and open, and thus easy to cross. But adventurers who need to dig -- to find minerals, or to build
+    shelters -- soon discover that perpetually frozen ground can be almost impossible to work with.
+
+    Rugged Terrain: Rugged terrain can slow down a party in the best of weather. In subzero, arctic weather conditions, rugged ground can become far more
+    hazardous. Uneven accumulations of snow over rugged ground can make deceptively level surfaces out of areas where obstacles and dips alike are hidden.
+    The result is a treacherous region where men or vehicles can flounder in unexpectedly deep snow, or suffer accidents from concealed rocks or barriers.
+    Even hovercraft can be badly knocked about by the uncertainties of rough ground of this kind.
+
+    Mountainous Terrain: Mountainous regions are even more hazardous than rugged ground. Even the easy parts of mountainous terrain have the same
+    characteristics as rugged ground; beyond that there are the problems of steep slopes, unexpected ravines or preci-pices, and the ever present danger of
+    avalanche.
+
+    Wilderness Terrain: Wilderness terrain can include a wide variety of specific terrain types: clear, woods, rolling hills, forest, and so forth. The
+    Referee should establish the exact nature of any wilderness area based on planetary conditions and the needs of the adventure. Generally, wilderness
+    terrain will be easier to traverse than any other terrain types, though in wooded or hilly regions, some vehicles might be slowed down somewhat.
+
+    Temporary Ice: Temporary ice forms over small bodies of land-locked water. When the temperature rises above freezing the temporary ice melts, but
+    prolonged subzero temperatures can cause small bodies of water to freeze solid. Temporary ice can be very hazardous. As on ice, footing on temporary ice
+    can be uncertain; more importantly, the temporary ice is not always as solid as it might appear. Thin ice can break under the weight of a vehicle or even
+     a single character. This makes movement over temporary ice a dangerous task.
+
+    Pack Ice: Pack ice forms in arctic and subarctic oceans, well away from major land masses. Even in the coldest arctic regions, pack ice is unstable;
+    warming caused by sunlight and by shifting warm ocean currents can cause pack ice to break up. Terrain shifts resulting from these changes can
+    drastically alter the nature of the "ground" over a relatively short period of time. A party could easily find itself cut off by the formation of
+    polynyas (open water or very thin ice between floes), or could lose contact with a submersible vehicle forced to leave as the polynya freezes up around it.
+
+    Shelf Ice: This form of ice has greater stability and permanence than pack ice. It forms near continental land masses, where shallow water and the
+    cooling effect of nearby land keeps temper-ature changes to a minimum. Though major alterations in the local temperature can still cause configuration
+    changes -- particularly at the edges of shelf ice, where conditions gradually shift into the realm of pack ice -- there is less likelihood of major or
+    dramatic shifts over any period of time likely to be covered in a single adventure. Specifics of movement over any of these types of ice are discussed in
+    a later section of the rules.
+
+    Powder Snow: Humidity and temperature dictate the nature of any sort of snowfall. Powder snow is a soft, loosely packed, type of snow which offers the
+    most advantageous conditions for movement.
+
+    Wet Snow: Wet snow is a far more difficult to cross than powder snow. Specifics on movement over snow are discussed in a later section.
+
+    Spotty Snow Cover: Spotty snow cover means just what the name says. Snow has not accumulated significantly, except in spots. These spots can be easily
+    avoided, thus negating the difficulties of movement through snow. Spotty snow over hard pack can still be a problem, however.
+
+    Shallow Snow Cover: Shallow snow cover is generally optimum for arctic travel. Shallow snow provides traction over underlying hard pack or ice, but is
+    not deep enough to impede travel significantly when traveling on foot or in arctic vehicles. Shallow snow covers range from 0.25 to 8 centimeters depth.
+
+    Deep Snow Cover: When the new snow exceeds eight centimeters depth, it is classified as deep. Deep snow can be treacherous; it hides irregularities in
+    the ground, may lie in large drifts, and will generally slow both vehicle and personnel movement. It poses the greatest hazards of any form of snow cover
+    to both men and equipment.
+                         ICE WORLD I (PART 5 OF 28)
+    Hard Pack Snow: Hard pack is the term used in the rules to refer to "old" snow, which has accumulated on previous days. The weight of new snow compacts
+    the older snow, producing a potentially slick base. Each day, new snow from the previous day becomes hard pack if the temperature does not rise high
+    enough to permit melting. If hard pack snow is present under spotty snow cover, movement is more difficult for both vehicles and walking personnel. By
+    the time snow becomes deep, however, underlying hard pack is no longer relevant.
+
+    Limitations on Snow and Ice:
+    If a world has no water vapor (values for "S" in the planetary atmosphere equation between 0.56 and 0.32), then snow and ice are obviously not going to
+be present. Cryogenic worlds, like pluto, may well have hydrogen "ice" on the surface, but in these rules we are assuming basically terrestrial type
+oxygen-nitrogen atmosphere worlds.
+
+                         WEATHER
+    Several tables elsewhere in this booklet can be used to establish weather conditions. They were prepared for use on terrestrial type worlds; the Referee
+should feel free to modify these tables to cover unusual or extreme conditions on specific worlds in his campaign.
+
+    Snowfall is based on humidity, which is in turn derived from the general cloudiness of the area. Every day, the Referee should roll for cloudiness
+percentage (on 1D100). Reading across from the result, the Referee finds a Cloudiness Factor and a Humidity Factor for the world (the Snow Cover Chance is
+used, as described earlier, only when creating initial terrain conditions; daily weather changes do not randomly alter the snow cover). Use of the
+"Cloudiness Factor" is covered in a later section. The Humidity Factor gives the chance for snowfall.
+
+    Every eight hours (three times per day) the Referee should roll 1D100 and compare the result to the Humidity Factor. If the roll is less than the number
+shown, snow will fall during that period of time. Should the temperature be above freezing, rain will fall instead of snow. The three Snow Storm tables are
+used to determine the intensity, duration, and nature of the snowfall once it is established that a snow storm is taking place. Roll first on Table I for the
+intensity, using 1D10. The result describes the snow fall rate and accumulation, and gives a die modifier to be applied to the roll on the second table. A
+roll on 1D10 is then made on Table II to determine the number of hours that snow will fall. Another 1D10 roll is made and Table II used to determine type of
+snow (wet or powder).
+
+    Snowfall may continue for more than one 8 hour period. If a storm is determined to last all the way through a given period, no new roll for snow storms
+is made. If it is to end in a given period, new rolls are made, and the current storm duration is extended by that of any new storm that might occur. New
+cloudiness ranges should be determined every 24 hours, though in some cases they will not influence the day's weather.
+
+    For the sake of convenience, itast. Once the storms end, however, new areas entered should only have the snow cover that is established from the terrain
+determination process, and no more. The Referee, however, should feel free to make any modifications in procedures or results that seem reasonable for a
+given world or situation. Additional tables to provide for wider variations between worlds or climate zones can be developed, or elaborate rules for movement
+and behavior of storm fronts and the like could be introduced. The basic procedures here, however, are quite sufficient to simulate the most important aspects
+of snow storms in the game.
+
+    Cloudiness and Visibility: Clouds may serve to make navigation difficult, or to inhibit the effective use of aircraft or space-craft. Visibility is
+determined from the Cloudiness and Humidity chart. First roll 1D100 once every 8 hours to determine the percent cloud cover. Roll 1D100 again and if the
+result is less than or equal to the Cloudiness factor, there is a low overcast.
+
+    When the sky is overcast, navigation without instruments is impossible for characters or vehicles on the ground. Air vehicles must fly in "Nape Of the
+Earth" mode (NOE) to maintain visual contact with the ground -- and are fully subject to ad verse ef-fects of wind and weather when doing so. At high speeds,
+modifiers must be applied to the appropriate skill (piloting or vehicu-lar operations) to avoid accidents in NOE mode. Pilots may avoid risk and fly above
+cloud level, but they lose visual con tact with the ground. They must descend below the cloud cover to land, risking local weather problems as they do so.
+Vehicular situations are discussed more fully in a later section of the booklet.
+
+                         ICE WORLD I (PART 6 OF 28)
+                         TEMPERATURE
+    The basic mean day temperature of a world is given in the tables in book 2 of Other Suns. This temperature represents the mean day temperature found at
+30o north or south latitude on the planet.
+
+    On a typical Terrestrial planet, the mean day temperature de-clines at a rate of 1.5oC per degree of latitude north of 30o North or south of 30o South
+latitude. On a world with a mean day temperature of 25oC (298 Kelvin) the mean day temperature at 76o N latitude would be -44oC. Moving inward from the 30o
+latitude line towards the equator, temperatures increase at a basic rate of 1oC per two degrees of latitude shift. At the equator, a world with a mean day
+temperature of 25oC (298 Kelvin) would have a mean day temperature of 40oC.
+
+    Axial Tilt also affects a world's temperature variations. Axial tilt for a Terrestrial world is (8D6-8) degrees (this yields tilts of from 0 to 40
+degrees, with 20o being average -- Earth has an axial tilt of 23o). Once the axial tilt has been determined, two other factors are established: the tropical
+bands, and the rate of temperature variation enjoyed by the world.
+
+    The tropical bands are set at the lines of latitude north and south of the equator equal to the axial tilt itself; thus, on Earth, the tropical zone runs
+between 23o N and 23o S latitude. Within this band there are no seasonal variations. Outside the tropics, apply the following seasonal temperature modifiers:
+
+    Summer: Add 0.6oC per degree of axial inclination.
+
+    Winter: Subtract 1oC per degree of axial inclination.
+
+    By way of example, our sample world, with a mean day temperature of 25o has an axial tilt determined to be 17o. At 30o N latitude, the temperature varies
+from 8oC in winter to 35oC in summer. At 76o N latitude this figure ranges from a winter low of -71oC to a summer high of -34oC.
+
+    These basic steps -- base temperature, modifications for latitude and modifications for axial tilt and season -- enable the Referee to determine the
+expected local temperature for any point on the globe for any time of year. Once this temperature has been established, additional modifiers are applied to
+cover specific situations that may arise in the course of the game.
+
+    Altitude: Temperatures derived from the steps above are for sea level. For every 200 meters elevation above sea level, temperature decreases by 1oC.
+
+    Daytime: The temperature derived from the previous steps can be determined to be for early evening (just after sunset). In the course of the day,
+    temperatures will slowly increase to a maximum temperature, then fall to this "daytime" temperature just after sunset. Roll 1D10 and divide the result by
+    the atmospheric pressure of the planet; this amount is added to the local temperature (as modified by altitude) to yield the daytime high. The actual
+    temperature will increase evenly over the hours between sunrise and mid-afternoon (halfway between mid-day and sunset), then decrease to the "daytime"
+    temperature at dusk.
+
+    Nighttime: The opposite effect occurs at night. Roll 1D10, divide by the atmospheric pressure, and subtract this value from the local temperature to find
+    the low temperature for the night. Again, the actual change should be spread over the time from sunset to one hour before dawn; the temperature gradually
+    increases from this low value to the standard local temperature at dawn.
+
+    Referee's note: It should be remembered that rotational periods vary from world to world and, moreover, planets with extreme axial tilt will have a
+    diurnal cycle wherein a single "day" can be six months long, even if the rotation period is close to twenty-four hours. Add the possibility of tidally
+    locked worlds where the sun never shines on half the globe and the result is a wide variation in how these day/night temperature changes should be applied.
+
+    Temperature Effects: Variations in temperature have three major effects: on the environment, on equipment, and on characters themselves. When the
+    temperature is above freezing, snowfall becomes rainfall and snow already on the ground begins to melt. Melting is an uneven process, but a workable rule
+     of thumb is to remove 1D6 x 1 millimeter of snow cover per hour per 5 degrees C. Should rain fall on melting snow, treat a moderate storm as adding 10
+     degrees C to the temperature, a heavy storm 20 degrees.
+
+                        ICE WORLD I (PART 7 OF 28)
+                         WIND
+    Wind can kill in subzero temperatures. The speed of arctic wind can make all the difference between life and death, if a character is caught in the open.
+Wind velocities should be determined with snowfall for each 8 hour period. The Wind Velocity Table is used to determine average velocity and also whether the
+winds are steady or gusty. Wind gusts will reach twice the specified velocity 1D6 times within each 2 hour period for 20 minutes each time. Wind speed and
+type is checked even if the weather is constant over more than one eight hour period.
+
+    Wind Effects: The principal effect of wind is to alter the "wind chill factor". Winds can lower the apparent air temperature dramatically. Even
+    comparatively mild temperatures can be made lethal by high winds. Details are covered in a later section on temperature. In addition, high winds can pose
+    a threat to air vehicles flying below the cloud layer, and can whip up snow to hamper visibility and cause savage drifts.
+
+                        MOVEMENT ON SNOW AND ICE
+    Both snow and ice pose special problems for characters attempting to move under their own power. The speed and safety of such movement depends on many
+factors, as outlined below.
+
+    The Basic Movement Rate: For cross-country travel on foot, much use is made of the standard Basic Movement rate which measures the average speed of a
+character. The Basic Movement rate varies from race to race, and, like the melee movement rates in Other Suns, is a function of length, method of locomotion,
+and movement class.
+
+    The basic movement rates of existing intelligent races have been calculated below. They are based on the averages for each race; the player or Referee
+who wishes to calculate an individual's exact Basic Movement rate may do so using the formula presented later in this section. For Altani, Dakti (stages I
+and III), H'Reli, Humans, Sanchenzii and Uquoi, allow 30 kilometers per day (3.750 kph). For Korli and Dakti (stage II, walking) allow 20 kilometers per day
+(2.500 kph). For Skiltaire allow 25 kilometers per day (3.125 kph). For Bjora allow 50 kilometers per day (6.250 kph). Allow 60 kilometers per day (7.500
+kph) for Ata'a, and for Dakti (stage II, flying) allow 200 kilometers per day (25.000 kph).
+
+    If calculating the basic movement rate for a new race or animal (such as a riding or pack beast) the following information must be known:
+
+    Length: the average (expected) LEN stat is generally used, though specifics may be substituted instead.
+
+    Locomotory Mode: (bipedal, quadrupedal, flier, or other): deter-mined by the description of the being in question.
+
+    Movement Class: Most creatures have a Movement Class (MC) of 8. Ata'a and Skiltaire have MCs of 12 and 10 respectively (both being treated as quadrupeds).
+
+    Length and Locomotory Mode are cross-indexed into the table in section 3.3.2 in Other Suns to determine the Meters Traveled per Movement Point expended.
+To determine the Basic Movement rate in kilometers per day, multiply Movement Class by Meters Traveled per Movement Point expended and multiply the result by
+ 1.25. This produces a 30 kilometer per day Basic Movement rate for the average Human (in agreement with the basic rates given in section 3.3.1.1 in Other
+ Suns). This rate assumes 8 hours spent walking each day -- so determine the Basic Movement rate in kilometers per hour, simply divide this value by 8.
+
+    Using the Basic Movement Rate: When traveling across country under normal conditions of terrain and climate, characters may move at the full value of
+their basic movement rate and suffer minimal problems from exertion (the movement is considered Light Activity for purposes of Endurance losses -- see
+Endurance). Movement at this rate is considered to be broken by occasional rest stops, and to be, on the whole, steady but not particularly fast or strenuous.
+Characters may make a forced march of half again the Basic Movement rate (60 kilometers in 12 hours for the average Human); however, a forced march
+constitutes Moderate Activity, and so costs more Endurance. Characters may also set a running pace of 2.5 times their normal Melee Movement rate (see section
+ 5.3.80 for details on the Running skill) but this will constitute an extreme drain on Endurance.
+
+                        ICE WORLD I (PART 8 OF 28)
+    When moving using the Basic Movement rate, any of three scales may be used. Increments of twenty minutes are useful when detailed activities are in order.
+Increments of one hour are particularly versatile, and recommended for most standard situa-tions. Increments of eight hours may be used to regulate long
+marches when very little is happening; these increments should be tied into the mapping and weather processes discussed previously. In any event, actual
+distance covered depends upon speed and travel time; endurance losses and other problems can be factored into the game according to the scale used. It is
+perfectly permissible, even desirable, to shift freely from one scale to another as the needs of the scenario direct. The various movement and endurance
+tables in this booklet are designed to handle each time scale to ease the bookkeeping burden.
+
+    Snow and Ice Movement: The basic movement rate assumes fairly easy terrain and a lack of complicating factors which might slow movement down. Snow and
+ice are treacherous surfaces to traverse and they slow down foot movement considerably. Snow hampers rapid movement and limits the ability of the character
+to run, and sometimes masks hazards such as rocks or depressions. Ice cover also provides the added risk of uncertain foot-ing.
+
+    The Movement Effects Chart is used to regulate the speed with which characters move over various types of terrain. Multipliers are listed for various
+combinations of terrain and movement type; these multipliers are applied to the Basic Movement Rate to yield a movement rate over that particular terrain
+type in the specified mode. The chart also gives the endurance cost of movement.
+
+    Several entries are provided showing movement rates using special types of arctic equipment, as follows:
+
+    Snowshoes: Snowshoes are broad, flat, webbed frames designed to distribute an individual's weight over snow, keeping him from becoming bogged down in
+    deep snow. They are fairly easy to use. Characters using snowshoes apply the modifiers shown to the basic movement rate. Snowshoes are tiring to use, as
+    mentioned in the Snowshoe skill described earlier.
+
+    Skis: The use of skis in cross-country travel is one of the most efficient methods of movement in arctic conditions known to any sophont, though some are
+    better adapted to it than others (either through biology or cultural background). Skis will not work in the absence of adequate snow cover, but in
+    shallow or deep snow (or, less effectively, on bare ice) skis make rapid movement fairly easy. There is a possibility of accident, but if the skier is
+    cautious, it is a minimal one.
+
+    Movement on skis is not subject to the character's Basic Movement Rate. Instead, maximum ski movement speeds are shown in the Ski Movement Chart, with
+    speeds being primarily dependent on the degree of slope. Most cross-country skiing is done over fairly level ground, but the Referee may indicate when
+    periods of downhill or uphill travel take place, and alter maximum speeds accordingly. Truly rugged country is the realm of a separate forthcoming
+    supplement/adventure, Mountain World, and is not dealt with here. Over bare ice, maximum speeds are cut in half.
+
+    Within the limits set by the ski movement chart, characters have considerable control over their actual speeds. The maximum safe speed that any skier may
+    move is his percentage skill in skiing (as limited by his Arctic Travel skill) in kilometers per hour. Thus with an Arctic Travel skill of 70% and a
+    Skiing skill of 45%, a character could safely ski at 45 kilometers per hour. A skier must make his skiing roll MINUS 1% per kph traveled above his safe
+    speed for each ten turn (20 minute) period or fraction thereof that he skis above his safe speed; the skiing roll may be modified further by severe
+    conditions (see the Movement Effects Charts for terrain and cover for modifiers). If the resultant skill value (skill as limited by Arctic travel and as
+    modified by speed and conditions) is still 30% or better, the roll need not be made (though it may still be attempted). If the roll for overspeed is
+    attempted and failed, in addition to any damage resulting from the resultant fall, a temporary 1D3 END expendi-ture is taken for that 20 minute period
+    due to exertion.
+
+    Moving downhill, the problem is to control and limit speed. In such a case, the skill level provides the allowable reduction in speed from the maximum.
+    For each 1% in skiing, the adventurer may reduce his actual speed by no more than 1 kilometer per hour from the maximum speed given for the slope. The
+    maximum safe speed described above then applies.
+
+    It should be noted that the table of speeds given for skiing reflects optimum conditions; the Referee may freely vary the allowable speeds by up to 50%
+    in either direction to handle varying circumstances or situations.
+
+    Skates: Ice skates can be extremely useful, in the hands of skilled characters, for movement across wide expanses of fairly level ice.
+
+                         ICE WORLD I (PART 9 OF 28)
+    The basic movement rate for characters on skates is set by the character's skill: allow 1 kph per 2% skill (or fraction thereof). Speed can be doubled
+    for a brief period (to 1 kph per 1% skill) but the Endurance expenditure is increased thirty-fold (a skill roll is required once per 2 minute interval,
+    with 1D3 END loss and a fall per failed roll).
+
+    Tumbles and Falls: In the event of a failed skill roll, a fall has occurred sometime during the time period under consideration.
+
+    Armor does not protect against tumbling damage. If a jumping roll is made, reduce the damage done by 3D6 and allow the player to select the location(s)
+landed on. If a roll of LUC x 1 on 1D100 is made, halve the damage -- and the luck roll may be repeated until a roll is failed (the damage being halved for
+each successful roll).
+
+    Damage from tumbles is resolved as per falling damage: i.e. it is done to the location struck until that location is down to zero END points, then hit
+point damage is done to that location until it has been reduced to zero hit points, and this procedure is repeated with the next logical hit location until
+all locations have been reduced to zero hit points and zero END points. The initial location struck then takes hit point damage until it is at -8 hit points
+and remaining damage points are allocated to the next logical hit location, (moving on to a new location each time the current location has been reduced to
+-8 hit points).
+
+    The base damage done by tumbling is based upon the speed at which the adventurer is moving when he falls as follows: (1) at speeds up to 40 kph, damage
+is 1D6, (2) for 41 to 55 kph, damage is 2D6, (3) for 56-70 kph damage is 3D6, (4) for speeds up to 100 kph, add 1D6 damage for each additional 10 kph above
+70 kph (or fraction thereof), (4) for speeds above 100 kph, add 1D6 for each 5 kph or fraction thereof beyond 100 kph.
+
+    If, in addition, there is a simultaneous fall from a height involved, use the Falling rules (section 14.2.2 in Other Suns) to determine additional
+falling damage -- and add this to the total tumbling damage before the jumping and luck rolls to reduce damage are attempted.
+
+    Endurance: The charts provide information on Endurance costs of various types of movement. This is covered in more detail in a later section of this booklet.
+Using the Movement Charts: When calculating travel speeds and other information, two tables must be consulted. Table #1, Terrain, gives movement rates
+multipliers, Endurance costs, and skill roll modifiers for movement over various terrain types. These values have been selected under the assumption of no
+snow cover on the ground. Table #2, Snow Cover, gives movement rate multipliers, Endurance costs, and skill roll modifiers for movement over various types of
+snow cover.
+
+    Movement rate multipliers are cumulative: the Basic Movement rate for the character is multiplied by each applicable modifier. The result is then rounded
+to the nearest tenth of a kilometer per hour. Thus, a human moving over rugged terrain in wet deep snow cover on foot moves at 0.75 (Rugged Terrain modifier)
+times 0.5 (Wet Deep Snow modifier) times 3.75 kilometers per hour (Basic Movement Rate) for an overall travel rate of 1.40625 kph, which rounds to 1.4 kph.
+
+    The largest Endurance expenditure given for the applicable terrain and snow cover is used. The human character in the preceding example uses the Very
+Heavy activity Endurance expenditure rate (1D6 per hour). The terrain and snow cover tables also provides skill modifiers for movement skills (snowshoeing,
+skiing, vehicular operations, etc.) under the specified conditions. These modifiers are cumulative.
+
+                        VEHICLES IN ARCTIC CONDITIONS
+    The use of vehicles in an arctic setting can be hampered by considerations of surface conditions or weather. Some vehicles are better suited to the
+environment than others, and many types have their own unique advantages and/or disadvantages, as noted below.
+
+    In the Hegemony, vehicles are powered by total conversion (TC) -- either directly, or through batteries charged using TC power generators. The batteries,
+unlike those of 1st Century Atomic Era (AE) Earth, are unaffected by cold. And moving parts on the vehicles are lubricated using non-freezing lubricants. In
+short, under conditions that would freeze First Century Terrestrial internal combustion powered vehicles in their tracks, 18th Century AE Hegemonic vehicles
+will operate without problem or hesitation.
+
+                        ICE WORLD I (PART 10 OF 28)
+    Wheeled Vehicles: Wheeled vehicles are the least effective form of wilderness transportation, and in arctic conditions can be particularly unreliable.
+    The movement charts include entries for wheeled vehicle movement. The movement multiplier for wheeled vehicles in the Movement Effects Tables is applied
+    to the maximum speed assigned to the vehicle in the equipment descriptions. This regulates the top speed at which the vehicle may move safely; the top
+    speed at which they driver may drive, however, can be less than this -- HIS maximum safe speed is 1 kph per 1% vehicle skill level (as limited by his
+    Arctic Travel skill). Vehicles may be driven at above these two safe speeds; however for each kph above the safe vehicle speed or above the driver's safe
+    speed, deduct 1% from the skill level of the driver. Thus for each kph above the larger of these two values, the driver's skill is reduced by 2%.
+
+    The endurance value reflects the endurance expenditure assessed against the driver and all passengers, in accordance with the rules on endurance.
+
+    The skill modifiers indicate additional adjustment to the driver skill level. For each 20 minute period (or fraction thereof), the driver of each vehicle
+    must make is vehicular operations skill roll (as limited by Arctic travel, and as modified by speed of travel, terrain and surface conditions). If the
+    skill roll is failed, roll for tumbling/falling damage for the driver and all passengers (as per skiing and skating earlier in this booklet) where the
+    vehicle speed is reduced 1 kph per 1% skill of the driver, as modified by circumstances (if the result-ant effective speed is less than 1 kph, no damage
+    is done). Jumping rolls may not be used to reduce this damage, though luck rolls (as per tumbling/falling) may be attempted. If the skill roll is
+    fumbled, roll for tumbling/falling damage as with fail-ure; the resultant damage minus the vehicle armor is taken by the vehicle and double the rolled
+    tumbling/falling damage is done to the driver and each passenger (vehicle armor is NOT deducted from the damage to the driver and passengers).
+
+    Tracked Vehicles: As the Movement Effects Tables show, tracked vehicles are significantly more effective in both wilderness and arctic terrain types than
+    are wheeled vehicles. All procedures, however, remain unchanged from those described above; only the movement multipliers and condition modifiers are
+    different.
+
+    Ground Effect Vehicles: GEVs (or hovercraft) are vehicles which ride on a cushion of air over the ground, rather than using wheels or tracks in contact
+    with the ground. The effects of snow and ice are thus minimal on hovercraft performance. But the nature of GEV movement does make it very susceptible to
+    difficulties associated with terrain. A Ground Effect Vehicle is at its best over water, ice, or broad, open plains (such as most typical tundra regions),
+    but is at a severe disadvantage in rugged or mountainous terrain. Because the air cushion that supports the vehicle is only a few feet deep, the vehicle
+    must skim low over the surface. Sudden changes in ground level can wreck a hover-craft almost without warning. And, in addition, GEVs are difficult to
+    handle in high winds, showing noticeable instability when wind velocities mount to the levels common in the arctic.
+
+    The procedure for handling GEV movement is basically the same as previously presented for the other vehicle types. There are, however, no modifications
+    applied (either to speed or skill level) from the Movement Effects Table for Snow Cover; the skill level of the driver is, however, reduced by 1% per
+    kilometer per hour of wind.
+
+    Snowmobiles: Snowmobiles are small vehicles especially designed for travel over snow and ice; typical models are included in the Equipment section of
+    this booklet. Snowmobiles use the procedures discussed above for wheeled and tracked vehicles in determining movement and skill modifier effects, but
+    standard snowmobiles may be used only when snow cover is shallow, deep, or hard packed, or on ice. In the absence of sufficient snow, a snowmobile cannot
+    ordinarily be used. However, special adapter kits -- described in the Equipment section -- permit the addition of wheels or tracks to the standard
+    snowmobile. If such special gear is installed, the snowmobile can be handled on ground where insufficient snow is present and the appropriate wheeled or
+    tracked sections of the Movement Effects Tables are used.
+
+    Sleds: Animal-drawn sleds are a primitive but fairly efficient form of transport in arctic conditions. The basic movement rate of the sled depends upon
+    the speed of the animals drawing it; this, in turn, is determined using the same process as the foot movement rates discussed earlier. Thus the Length,
+    Movement Class, and Locomotory mode of the animals must be determined for the animals in question in order to establish their basic speed. The movement
+    modifiers on the Movement Effects Tables are then used to modify this basic movement rate.
+
+                        ICE WORLD I (PART 11 OF 28)
+    Because the animals in question are drawing a burden, the Encum-brance (ENC) of the animals and the Endurance of the animals should also be determined.
+    The mass of the load being drawn should be halved (as it is being pulled, rather than carried) and then divided equally among the animals used for
+    purpose of determination of load for each animal. An average END figure may be set for the animal team, and then the Endurance expenditure rules applied
+    to the team to track its ability to maintain a long or hard pace.
+
+    Like snowmobiles, sleds are designed to move over snow and ice, and so require either ice terrain or shallow, deep, or hard packed snow to move. Wheels
+    can be mounted if desired; sled movement over bare ground (or spotty cover) is at half the sled movement rate.
+
+    A failed skill roll using a sled means that the driver has tum-bled (minimum 1D6 tumbling damage, jumping and luck rolls ap-plicable as earlier).
+
+    Aircraft: Aircraft (including primitive aircraft of all kinds, contragravity vehicles, shuttlecraft and spacecraft) are able to avoid the effects of
+    snow, ice, and the terrain itself when moving from one point to another. They are not, however, com-pletely safe from the hazards of arctic travel.
+
+    Take-offs and landings (as any pilot will tell you) are the most dangerous events in any flight. Landings in arctic conditions require that a skill roll
+    be made (in either vehicle operations or piloting, as appropriate to the type of vehicle and to the skills of the pilot); this skill is limited by the
+    pilot's Arctic Travel skill. Take-offs with primitive aircraft also require that this skill roll be made (in both take-offs and landings with primitive
+    aircraft the applicable skill reduced by 1% per kph wind speed). Contragravity vehicles of all varieties (grav cars, shuttles, and spacecraft) are far
+    more capable of slow, majestic, and more importantly SAFE take-offs; if the pilot's skill is at least 30%, subject to a -1% modifier per 5 kph of wind,
+    then no skill roll need be made. Landings in CG vehicles are somewhat more risky -- the skill roll (limited by Arctic travel, and reduced by 1% per 5 kph
+    wind speed) must be made for a safe landing.
+
+    During each flight, the flight mode of the aircraft must be specified -- either High or NOE (Nape Of the Earth) -- at all times. High mode represents
+    flight above the overcast or cloud layer (if any) and above all surface wind effects; such flight is never exposed to wind or weather problems. NOE mode
+    involves flight below any overcast or cloud layer -- it involves flying at the treetop level (dangerous in the extreme at high speed).
+
+    High mode flight over even the thickest cloud cover does not prevent observation of ground conditions. On Earth in the First Century AE, the development
+    of synthetic aperture radar (SAR) first allowed Man to see deep into Earth's oceans, and far into the soil of Earth itself; the successor sensor systems
+    of the Eighteenth Century of the Atomic Era are no more troubled by cloud cover and fog than were the earlier SAR systems. Detection of non-metallic or
+    small collections of organic materials (such as living creatures) is not, however, practical using these penetrating sensor systems. Thus individual's in
+    High mode flying aircraft could have some difficulty locating people on the ground.
+
+    Flight in or through a cloud layer, overcast, or fog must be done on instrument alone: the vehicular operations skill is reduced by 30% to represent the
+    difficulty in shifting from VFR (visual flight rules) to IFR (instrument flight rules). Spacecraft pilots are taught from the very beginning to rely on
+    their instruments -- accordingly there is no skill penalty in flying through cloud using the Piloting skill.
+
+    Attempting to fly NOE is dangerous and difficult, trying to do so at high speeds can be suicidal. For each 10 kph (or fraction thereof) at which the
+    vehicle is being flown, reduce the flight skill (either vehicular operations or piloting as appropriate) by 1%. This roll must be made for each 20
+    minutes spent in NOE mode. During landing and takeoff, insufficient time is spent in NOE mode (either by aircraft or contragravity using vehicles) to
+    require the above roll be made.
+
+    Personal Flight: Characters who fly using natural wings, powered suits, or other personal flight equipment always do so in NOE mode. The applicable skill
+    level is reduced by 1% per kph of wind when taking off or landing. Natural fliers apply this modifier to their flight skill (a 30% base manipulation
+    skill for such natural fliers) while airborne; powered suits, and other similar small massive "vehicles" do not -- although both types apply the
+    aforementioned skill modifier on landing and takeoff.
+
+    The speeds given for flight are in terms of air speed. To determine the true ground speed it is necessary to add in the air speed. To do this, first plot
+the character's movement assuming no wind, then move the character in the direction the wind would carry him a distance equal to the wind speed times the
+duration of the character's flight movement.
+
+                        ICE WORLD I (PART 12 OF 28)
+                        SURVIVAL IN THE ARCTIC WILDERNESS
+    The following rules simulate the effects of exertion and low temperatures on characters working in arctic conditions.
+
+    Endurance and Exertion:
+    The rules in this section are intended to extend the basic rules on endurance and encumbrance presented in Other Suns. They are not intended so much to
+alter the original rules as they are to expand them, making it possible to judge the effects of cross- country travel and other strenuous activities in more
+detail.
+
+    Endurance: Various activities cause the character to lose endur-ance points on a temporary basis. (The effects of reducing a character's END to zero or
+below are described in detail in Section 3.6.2 of Other Suns.) Endurance gains and losses should be regulated on the basis of 20-minute (10 turn, 100 melee
+round) or 1-hour (30 turn, 300 melee round) periods.
+
+    Activities: There are four general levels of exertion possible for characters: Light, Moderate, Heavy and Very Heavy. Light activity includes any form of
+non-demanding work, such as most forms of driving (whether as driver or passenger), any desk or console-bound job, and so forth. Light activity also includes
+such work as normal walking pace movement (30 kilometers/8 hour day for average humans). Moderate activity represents the physi-cal exertion required to
+travel at a fast pace over roughly level ground (as in the forced march speed -- 5 kilometers/hour for the average Human). Heavy and Very Heavy activities
+are progressively more tiring, and more difficult.
+
+    Virtually any actions or activities can be classified as one of these four types. The Exertion Table shows how each sort takes its toll on the
+character's endurance over the course of both 20 minute and hourly time periods.
+
+    Procedure: The Referee may use whichever time period seems most suitable. The nature of the activity undertaken in the time period is determined, either
+from the movement tables (if the character is traveling) or by using common sense -- pitching a tent in open ground could be considered to be Moderate activity,
+where digging a trench in permafrost is more likely to be Very Heavy. These are Referee judgment calls, usually, but should always be consistent with the
+situation, the expressed intentions of the group, and the abilities and capabilities of the charac-ters themselves. Once the activity level is known,
+endurance points appropriate to the activity and time period are deducted.
+
+    It is suggested that the Referee keep a record of each new activity and the endurance cost that he has assigned to that activity together with the
+conditions under which it is performed. This will greatly aid the Referee in maintaining campaign consistency.
+
+    In addition to activity effects on endurance, 2D4 END is expended for each hour for each 10% excess encumbrance (see Section 3.1 of Other Suns). To ease
+the integration of 20-minute and one hour time scales, it is suggested that half of this END expenditure be taken in the first 20-minute period of each hour
+spent over-encumbered, and half in the last 20-minute period.
+
+    A character who spends 20 minutes resting (doing nothing at all) recovers 1D6 END points. When attempting to rest as a passenger in a moving vehicle or
+in other circumstances which the Referee judges to be distracting or disturbing, either a WIL x 5 roll or a Control of Self skill roll must be made in order
+for the character to rest properly and recover any END. Endurance can never be recovered beyond the character's initial END level.
+
+    If at the end of any time period, the character's END is less than zero, the character is considered to be Fatigued, and he is subject to physical damage
+(see Section 3.6.2 in Other Suns for details).
+
+    It should be noted that endurance loses are taken only against the character's total endurance, not against the endurance values for each body location.
+
+    Optional Rule: A Referee may wish to allow a character to remain conscious despite his total endurance having been reduced below zero. For each 20-minute
+period for which a roll of WIL or less on 1D100 or on a successful Control of Self skill roll, the character may remain conscious. The character is not,
+however, able to rest in this condition -- hence no END may be recovered during this 20-minute period, even if the character is resting.
+
+    Optional Rule: Exertion and Air Pressure: The given levels of END expenditure assume that the activities are performed by the character in an atmosphere
+to which he, she, or it is acclimated. Differences in atmospheric pressure or, more importantly, in the partial pressure of oxygen in the atmosphere, can be
+of major importance in determining any individual's ability to function; work in thinner than normal atmospheres can be fatiguing, and can be dangerous until
+ the character becomes accustomed to the lower partial pressure of oxygen. [Historical note: Human astronauts from the old United States of America during
+ the First Century of the Atomic Era commonly flew missions breathing pure oxygen at 1/5 normal atmospheric pressure; it is the partial pressure of oxygen that
+ is important, not the overall atmospheric pressure.]
+
+    Roll 6D6 to determine the percent of the atmosphere that is oxygen. 760 mm Hg equals 1 atmosphere, so determine the partial pressure of oxygen in the
+atmosphere, multiply 760 by the plane-tary atmospheric pressure, and multiply this by the result of the 6D6 roll divided by 100.
+
+                        ICE WORLD I (PART 13 OF 28)
+    The endurance costs shown in the table assume that the character is in an atmosphere with an Oxygen partial pressure comparable to that for his species
+(i.e. 160 mm Hg, for humans and in fact for most of the races of the Hegemony). When operating on a world with an atmosphere poorer in oxygen, the endurance
+costs of activities are modified as described below.
+
+    At partial pressures below 60 mm Hg, hypoxia sets in (below 20 mm for Dakti). From 80 mm and above 60 mm (20 to 30 mm for Dakti) all endurance
+expenditures are tripled and recovery rates divided by 3. From 81 mm to 100 mm (31 to 40 mm for Dakti) all endurance expenditures are doubled and recovery
+rates are halved. Beyond 400 mm Hg (120 mm Hg for Dakti) oxygen poisoning occurs.
+
+    In the hypoxia regime, the character will lose 1D4 END PER MELEE ROUND until he dies. In the oxygen poisoning regime, the charac-ter will be subject to a
+1D4 attack vs. CON each day that he is in the overly rich atmosphere -- damage done by the attack is done both to CON and to the CHEST hit location (or to
+the THORAX, FOREQUARTERS, OR BODY if no CHEST location is present).
+
+    The range of pressure under which endurance costs are tripled is referred to as the Minimal Oxygen regime for the species. The range of pressure under
+which endurance costs are doubled is referred to as the Subnormal Oxygen regime for the species. To adapt to Subnormal regime from Normal regime takes 41-CON
+ days. To adapt to Minimal regime from Subnormal regime takes 69- CON days. To adapt to Minimal regime from Normal regime takes 98-2xCON days. Once adapted
+ to the new oxygen regime, endurance costs return to the "normal" values. Adaptation is lost if the character is returned to a normal atmosphere for more
+ than 1/2 the number of days originally required to adapt to the lowered oxygen partial pressure atmosphere. On the average, an adventurer will adapt to
+ Subnormal regime in 4 weeks, or to Minimal regime in 12 weeks (and lose this adaptation after 2 or 6 weeks respec-tively in a normal atmosphere).
+
+    NOTE: Atmospheric pressures for worlds in Other Suns are sea-level pressures; high altitudes can cause considerable drops in air pressures. A more
+    detailed account of how this works is included in the upcoming Other Suns adventure/supplement Mountain World.
+
+    Cold Weather Effects:
+    Distinct from the problems associated with fatigue are the ef-fects of low temperatures on life forms which are not adapted to extreme cold. Most
+carbon-based life forms suffer in sufficiently low subzero temperatures, and lack of proper protection can result in quick and unpleasant death.
+
+    Determining Temperature: The "apparent air temperature" is used to determine the effects of cold air on living beings. It is found by combining two
+factors -- the local temperature (found in the manner discussed earlier) and the force of the wind. High winds can cause the apparent air temperature to drop
+quite a bit, a phenomenon known as the "Wind Chill Factor." The Wind Chill Table is used to determine the apparent air temperature by cross-indexing the
+local temperature and the wind speed. [NOTE: this table does not precisely duplicate the official U.S. Army Wind Chill table, and should NOT be used to
+determine danger levels in real low temperature survival situations.]
+
+    When base temperatures are much below -54oC, or winds exceed 64 kph, little additional effect is observed beyond what is shown on the table with one very
+important exception -- when the still air temperature falls below -60oC, the air is no longer safely breathable; it will freeze lung tissue. If the air
+temperature falls below -60oC and heater masks (or other protective equip-ment) are not used, 1D4 damage will be done to the CHEST (or THORAX, or
+FOREQUARTERS or BODY locations in cases where there is no CHEST location) each 20 minute period that the condition continues.
+
+    Effects of Low Temperatures: Low temperatures sap body heat, and can result in a condition referred to as hypothermia. When the air is sufficiently cold,
+lung damage can occur (as mentioned above) and other effects such as frostbite are discussed in a later section. Hypothermia results in a slow but steady
+weakening of the body which, unless halted, can only end in death.
+
+    Hypothermia (technically, a subnormal body temperature) may develop in any case where the adventurer has been exposed to an apparent air temperature
+below his racial tolerance. The actual air temperature and wind speed are modified by fur type and protective clothing worn before the Wind Chill Table is
+consulted to determine apparent air temperature. If this resultant apparent air temperature is less than the racial tolerance for the charac-ter, hypothermia
+may develop. Air temperature and Wind Speed modifiers for fur, feathers, and clothing and are given in the Temperature Protection Chart.
+
+    Hypothermia is more of a threat to small creatures than large ones: the surface area to volume ratio is higher, and thus there is a larger heat loss. The
+basic time interval for hypothermia checks is once per CON+SIZ-20 hours of exposure. A CON roll is attempted (roll CONx5 or less on 1D100) modified by -1%
+per degree the apparent temperature is below racial tolerance level. If this roll is failed, the character may attempt a Control of Self skill roll (if he
+has that skill at a non-zero percentage). If neither of these rolls is made, the character begins to suffer the effects of hypothermia: he can longer recover
+END from rest and will lose an additional 3D6 END per hour (1D6 per 20 minute period) until he loses consciousness and dies, or until he is warmed to his
+normal body temperature.
+
+                        ICE WORLD I (PART 14 OF 28)
+    Racial Tolerances: Each intelligent race in Other Suns has a temperature tolerance range and a daily variation range (see Chapter 9 of Other Suns). The
+second of these two ranges has provides the racial tolerances over short intervals. The minimum apparent temperature tolerated is repeated here, together
+with species' normal body temperatures.
+
+    Altani: -16o C minimum, 39o C body temperature.
+    Ata'a: -10o C minimum, 35o C body temperature.
+    Bjora: -16o C minimum, 38o C body temperature.
+    Dakti: -60o C minimum, 24o C body temperature.
+
+    Clothing and natural fur or feather protection is defined by two numbers: the number added to the ambient temperature before the wind is factored in, and
+the number of kilometers per hour deducted from the wind speed before the wind chill is determined. Type I protection has no temperature or wind speed
+modifiers. For each greater type, add +5 degrees to the temperature modifier and add -10 kph to the wind speed modifier.
+
+    Altani (winter pelt): Type IV
+    Altani (summer pelt): Type III
+    Bjora: Type II
+    Dakti (Stage 1 & 2): Type I
+    Dakti (Stage 3): Type III
+    H'Reli: Type II
+    Human: Type I
+    Uquoi: Type I
+    Korli: Type III
+    Sanchenzii: Type II
+    Skiltaire (Aquatic, winter pelt): Type VI
+    Skiltaire (Aquatic, summer pelt): Type IV
+    Skiltaire (Arboreal, winter pelt): Type V
+    Skiltaire (Arboreal, summer pelt): Type III
+
+    For any of the furred species above with differing winter and summer pelts, the change over from winter to summer pelt (or vice versa) takes four weeks.
+
+NOTE: The fur of the Aquatic variety of Skiltaire, when properly groomed, sheds water (just like the fur of the terrestrial sea otter), and thus immersion
+(discussed later in this section) is not a danger to aquatic variety Skiltaire.
+
+    Recovering from Hypothermia: In order to restore the body's temperature regulating ability, it is necessary to place the character in an environment
+where the ambient air temperature equals his normal body temperature. The simplest method of doing this is to place the victim in a thermally insulted
+package (such as an "old fashioned" sleeping bag) together with a heat source -- commonly a member of a species with the same or slightly higher body
+temperature. The victim must be kept in this environ-ment for CON+SIZ-20 hours, or he will slip immediately back into hypothermia on exposure to cold of ANY
+degree below his normal body temperature.
+
+    Exertion and Hypothermia: Activity helps to maintain body temper-ature, at least for a limited time. For each point of END expend-ed as a result of
+activity or exercise, increase the apparent temperature of the character by 3o C for the duration of the activity.
+
+    Protection: A modification which can be applied to hypothermia is that of protection -- clothing and fur as already mentioned, and shelter. Shelters
+block the wind even when no sources of heat are available, so characters inside shelters do not apply wind chill effects when determining theair temperature.
+With an artificial source of heat -- a fire or a portable heater of some kind -- shelters can be maintained at a comfortable temperature well above the
+racial minimum tolerance level, negating all hypother-mia effects.
+
+    Protection values for a number of types of clothing (including various armor types available in Other Suns) are provided in the Temperature Protection
+Chart elsewhere in this booklet.
+
+    As the head and extremities are major sources of body heat loss, characters not wearing protective covering over these locations decrease the probability
+of AVOIDING hypothermia by 50% (natural fur or body cover of type III or above constitutes protective cover for the extremities).
+
+                        ICE WORLD I (PART 15 OF 28)
+    OTHER ARCTIC HAZARDS
+    In addition to problems already discussed, several special dan-gers exist for characters adventuring in subzero conditions. These are presented in the
+sections that follow.
+
+    Immersion: Individuals who for any reason become immersed in water (from falling through thin ice, for instance) are in danger from the effects of arctic
+cold. For each melee round or fraction thereof that any character is in the water (except for aquatic Skiltaire characters), the character suffers a 1D4
+attack vs. CON. Ordinary clothes lose all protective value; only an en-closed, self-contained unit (any of the the Modern Armor suits or spacesuits) will
+continue to provide normal heat protection in the water. Altani may also panic if immersed in water that is deeper than their heads (see Section 5.3.96 in
+Other Suns for details).
+
+    Once a character has been immersed, all clothing worn (except modern suits, as above, or items worn under such suits) becomes ineffective for protection
+from cold. Aquatic Skiltaire do not lose the protection of their fur: other furred Hegemonic sophonts do. Stage III Dakti shells will also shed water, and
+will regain their normal protective value once removed from the water. In addition, the wind speed is doubled for purposes of computing apparent temperature,
+and a hypothermia check is required every CON+SIZ-20 MINUTES with HALF normal chance to avoid hypothermia. These checks continue until the character has been
+ dried off or gone into hypothermia.
+
+    Snow Blindness: Ice and snow are highly reflective not only of light but also of ultraviolet; on a bright day, the reflected glare of snow and ice can
+dazzle, temporarily blind, or even permanently damage the eyes of characters who are not protected from it adequately. This is especially true on worlds
+orbiting unusually bright stars, or occupying an orbit that results in more light than a being is accustomed to striking the surface.
+
+    The basic chance of avoiding dazzle is CONx5 (rolled on 1D100). This is modified by primary star type and orbital radius of the homeworld of the
+character and the world he is currently on as follows:
+
+    (1) Add the Dazzle factor for the primary of the character's racial homeworld to the basic chance;
+    (2) Subtract the Dazzle factor for the primary of the world on which the character is adventuring from the result;
+    (3) Add the Dazzle factor for the orbital distance from its primary of the character's racial homeworld to the result from (2);
+    (4) Subtract the Dazzle factor for the orbital distance from its primary of the world on which the character is adventuring from the result from (3);
+    (5) If there is no reflective material present (such as ice, snow, or the like), add 100 to the result from (4), otherwise add nothing to the result from
+     (4).Each hour that the character is exposed to glare conditions, he must roll 1D100 against the value in step 5. If this roll of 1D100 is less than or
+     equal to the result from step 5, then the character is not dazzled. If this dazzle avoidance roll is failed, the character may attempt a Control of Self
+      skill roll (if he has this skill at a non-zero percentage) -- if he fails, then the character is dazzled. If the dazzle roll is fumbled, the character
+      is snowblind.
+
+    Dazzle: Dazzled characters halve all sight based OBS, and all ACC, ATT, PAR skills for the duration of the dazzle. In addition, dazzled characters halve
+all vehicular operations, skiing, snow-shoeing, and similar skills. Dazzle recovers if a CON x 2 roll on 1D100 is made (attempts may be made once for each
+hour in which the character is NOT exposed to glare conditions). Each hour that a character is dazzled and remains exposed to glare conditions, he risks
+snowblindness: he must roll CON x 2 or less on 1D100 (modified as per the original dazzle avoidance chance) to avoid snowblindness (a Control of Self skill
+roll, if made, will prevent the snowblindness for 1 hour). 
+
+                        ICE WORLD I (PART 16 OF 28)
+    Snowblind: A snowblind character is blind. He uses all weapons at the -50% blinded penalty, and is NOT ALLOWED to use any sight-based observation skill
+(the psionic talent AWARENESS skill may, however, be substituted). Recovery from snowblindness occurs on a CON roll or less on 1D100, which may be attempted
+once per hour in which the character is not exposed to glare conditions; howev-er, if the character is exposed to glare conditions for CON hours while
+snowblind, the condition becomes permanent (subject to medical aid).
+
+    Given a medical facility (the equivalent of a starship sickbay) a single exercise of the Medical Skill for the character's species will restore sight to
+a snowblinded character. If the character was permanently blinded, a transplant will be necessary (requir-ing 4 hours); otherwise, only "simple" medical
+treatment of the eye damage is required (and 1 hour is needed).
+
+    The following are the Star Dazzle and Orbit Dazzle modifier tables:
+    Star type  Dazzle Factor========   =========== 
+      F5       729 
+      F6       538
+      F7       428 
+      F8       240 
+      F9       149 
+      G0       144 
+      G1       108 
+      G2       100 
+      G3        91 
+      G4        66 
+      G5        52 
+      G6        37 
+      G7        28 
+      G8        25 
+      G9        17 
+      K0        13 
+      K1        10 
+      K2         8 
+      K3         6 
+      K4         5 
+      K5         4 
+      K6         3 
+      K7         2 
+      K8         2 
+      K9 -- M1   1
+      M2 -- M9   0
+
+    These Star type dazzle factors are based on the square of the luminosity of the primary x 100.
+
+    Orbit    Dazzle    Orbit   Dazzle======== ======   ======== ======
+     0.5       400    1.81-1.9   31
+    0.51-0.6   278    1.91-2.0   28
+    0.61-0.7   204    2.01-2.1   25
+    0.71-0.8   156    2.11-2.2   23
+    0.81-0.9   123    2.21-2.3   21
+    0.91-1.1   100    2.31-2.4   19
+    1.11-1.2    83    2.41-2.5   17
+    1.21-1.3    69    2.51-2.6   15
+    1.31-1.4    59    2.61-2.7   14
+    1.41-1.5    51    2.71-2.8   13
+    1.51-1.6    44    2.81-2.9   12
+    1.61-1.7    39    2.91-3.0   11
+    1.71-1.8    35      3.0      10
+
+    These orbital dazzle factors are based on the inverse square of the orbital distance x 100.
+
+    Frostbite: Frostbite is a familiar hazard facing individual's in subzero conditions. It results when flesh is exposed to sufficiently subnormal
+temperatures for sufficient lengths of time -- and the exposed flesh quite literally freezes. The chances of frostbite occurrence are regulated by the Wind
+Chill Table, which divides various apparent air temperature results into three zones of frostbite hazard: "safe", "danger", and "great danger". The ambient
+air temperature and wind speeds must be modified for clothing, fur and/or shelter protection (as appropriate) before the apparent temperature is determined.
+
+    The "safe" zone offers little chance of frostbite: a roll of ((CON x 10) + apparent air temperature) or less on 1D100 means that frostbite has not
+developed. If the apparent air temperature is above freezing (0o C), frostbite will NOT occur. This roll is made for each two hours that the character is
+exposed to temperatures in the "safe" zone (where the apparent temperature is below freezing). If the roll is failed, either a Control of Self or an Arctic
+Survival skill roll may be attempted -- and if either succeeds, no frostbite damage is taken.
+
+    In the "danger" zone, a roll of ((CON x 7) + apparent temperature) or less on 1D100 must be made every 5 turns (10 minutes) or frostbite damage is taken. If
+the roll is failed, a Control of Self or an Arctic Survival skill roll may be attempted -- and if either is successful, no frostbite damage is taken.
+
+                        ICE WORLD I (PART 17 OF 28)
+    In the "great danger" zone, a roll of ((CON x 4) + apparent temperature) or less on 1D100 must be made every melee round or frostbite damage is taken. If
+the roll is failed, a Control of Self or an Arctic Survival skill roll may be attempted -- and if either is successful, no frostbite damage is taken.
+
+    If frostbite occurs, ALL locations that are not covered or pro-tected in some fashion from the environment take 1D4 HIT damage. If all locations are
+covered or protected, 1D4 damage is taken against total hit points.
+
+    Visibility: Visibility can sometimes be a problem in arctic conditions. Reduced visibility can be caused by snowfall or by windblown snow; as necessary,
+ the Referee should roll on the Visibility table to determine the maximum sighting range.
+
+    Attacks made against targets at greater than the maximum sighting range are made blind, with a 50% penalty. Lasers are totally ineffective against
+targets beyond the sighting range.
+
+                        SURVIVAL TECHNIQUES
+    Characters in subzero settings are faced with the most difficult of all survival situations. Some special points must be considered when
+attempting to overcome the hazards of the arctic.
+
+    Improvised Shelter: Shelters of varying quality and effectiveness can be improvised from natural materials as needed.
+
+    An emergency shelter can be built by digging a hole in deep and/or hard packed snow. The sides screen out some wind (treat winds as half their actual
+speed before adjusting wind chill for clothing worn), but do nothing against the other elements.
+
+    An emergency shelter takes 10 man-minutes to dig per person to be sheltered;  two people digging a shelter for five would take 25 minutes to complete the
+task (five persons times ten minutes divided by two workers). If hard pack snow is being excavated, tools (shovels, picks, or improvised equivalents thereof)
+are necessary or the work time is tripled. A blaster on wide beam may be used to prepare a shelter able to hold one person per 200 points of damage done
+(this calls for roughly 15 shots with a handblaster, taking about a minute).
+
+    A temporary shelter can be built in a deep snow drift (only). A successful Arctic Survival roll will locate an area suitable for a temporary shelter in
+any area of deep snow (skill roll may be attempted once per two-minute turn). Excavation takes 30 man-minutes per person to be sheltered (or 600 points of
+damage done with a blaster on wide beam). Construction of a safe temporary shelter (i.e. one that won't immediately collapse) requires either that the work
+be supervised by an individual with an Arctic Survival skill of 30% or better or that ALL workers in-volved in the excavation make their Arctic Survival
+skill rolls.
+
+    Temporary shelters are enclosed and hence protected from all elements. If a heat source is available, interior temperatures can be raised to a point
+    permitting rest or clothing changes without fear of frostbite or hypothermia. A temporary shelter lasts 12+2D6 hours.
+
+    A permanent shelter (an igloo) can be constructed from ice blocks. Such shelters require the supervision of at least one individual with a 30% skill level
+(or better) in Arctic Survival; if no such individual is present, all workers must make their Arctic Survival skill rolls (or the igloo collapses). The time
+required for construction is 4 man-hours per person to be accommodated in the igloo. As with temporary shelters, igloos provide a completely protected
+environment which can be heated to a safe temperature level (if a heat source is available). Igloos remain as long as the temperature remains below freezing.
+
+    Permanent shelters require tools for shaping blocks of ice for construction to be attempted; without such tools, they cannot be built. Any cutting tool,
+firmer, or continuous emission laser may be used to shape the blocks.
+
+    Firmers may be used to aid in the construction (or to compact limited quantities of snow). However, as a firmer can compress, powder, or disintegrate
+only up to 40 cubic centimeters of material per second (see Section 11.3.2 of Other Suns), their use will be generally limited to cutting or putting
+finishing touches on large blocks; construction of a 2 meter x 2 meter wall 6 centimeters thick from ice would require almost 17 hours of work with a single
+firmer (though the wall would be somewhat denser than stone).
+
+    Where snow cover is absent, dirt, rocks, vegetation, and the like can be used to construct similar types of shelter, but the construction times given
+above are doubled. Construction work is generally considered to be at least Heavy Activity; digging in frozen earth is generally considered to be Very Heavy
+Activity.
+
+                        ICE WORLD I (PART 18 OF 28)
+    Hunting: Hunting for food in subzero conditions is generally harder than for other wilderness survival situations. In hunting, characters will need to
+apply one of several skills -- Hide in Cover, Set Ambush, Move Quietly, Tracking, or Trap Set/Disarm, depending upon the precise type of hunting being
+undertaken.
+
+    If the character wishes to lie in wait and let game come to him before attacking it with some available weapon, he must make Set Ambush and Hide in Cover
+rolls in order to avoid detection by an approaching animal. Of course, the animal may make its Sense Ambush and Spot Hidden rolls, thereby spotting the
+hunter DESPITE his successful rolls. The character is considered to be RESTING while hunting in this fashion. Normally, an encounter roll is made on the
+appropriate encounter/event table once per hour; however, if an Arctic Survival skill roll is made, the encounter roll is made once each 20 minutes (the
+successful Arctic Survival roll indicating that the adventurer has chosen a particularly suitable location in which to lie in wait).
+
+    If the character wishes to actively pursue game, the Tracking skill will allow him to do so. For each 20 minutes spent searching for game, roll once on
+the appropriate encounter table (or each 2 minutes if an Arctic Survival skill roll is made). Once the animal has been located (and the tracking roll also
+allows positive identification of the animal tracked) Move Quietly and Hide in Cover rolls must be made to close to point blank distance.
+
+    If the character wishes to acquire the most small game for the least effort, he will set out traps. To set each trap properly requires a Trap Set/Disarm
+roll (which may be attempted each turn). Roll for an encounter on the appropriate table once for each trap for each hour period (or for each 20 minutes if a
+successful Arctic Survival roll has been made to select the ideal locations to set the traps). If the animal does not make its Spot Traps roll, and it does
+not roll under LUC on 1D100, it is trapped. Many animals become extremely frantic when caught and in certain types of traps (leg traps, for example) an
+animal may chew one of its limbs off (or perform a similarly distasteful maneuver) in order to escape the trap (allow for this on a roll of WIL of the animal
+ or less on 1D100).
+
+    A normal trap cannot trap more than one animal; however, other animal encounter rolls should continue to be made even after the trap is sprung. A
+predator might, after all, show up to eat the animal in the trap.
+
+    In all cases above, the Arctic Survival skill should act as a limiting skill for the skills of Hide in Cover, Move Quietly, Tracking, and Set Ambush.
+
+    Fishing: Fishing makes use of the Trap Set/Disarm skill, as discussed above. A character on temporary or pack ice may fish through a polynya (a natural
+opening in the ice -- see the Encounters and events section of this booklet for more details) or through a cut he makes in the ice (cutting requires that
+1D10 x 20 points of damage be done). Once a hole is available, the trapping procedure described above is used.
+
+    Gathering Food: Edible plant life is at a minimum in most arctic settings. On a roll of LUC or less on 1D100, allowed once per hour on any terrain but
+ice, characters will discover edible plant life. The quantity obtained is 1D10 x 100 grams of edible matter.
+
+NOTE: only omnivore and herbivore life forms can draw sustenance from plant matter; carnivores, like the Altani and the H'Reli, need meat to survive.
+
+    Going Without Food: The food and water requirements for adventur-ers in arctic conditions are as follows: 100/SIZ grams of meat per kilograms of body
+mass per day, 1 liter of water per 40 kilograms of body mass per day. For omnivores, plant matter may be substituted for meat in the diet in a ratio of 4
+grams of plant matter per gram of meat. A character can go CON/2 days without food (round fractions up) and CON/10 (round fractions up) days without water
+before he suffers unfortunate consequences.
+
+    For each N periods of CON/2 days without food and M periods of CON/10 days without water, increase the END cost of all activities performed and the time
+    required to recover 1D6 END by N+M. A day in which less than the requisite amount of food is eaten (or water drunk) counts proportionally towards days
+    without food (or water). That is, if only half the needed food is eaten that day, the count of days without food would be increased by 1/2 day.
+
+    Example: Mikhail Andreivitch (see Other Suns for Mikhail's full statistics) has a CON of 9. after 5 days without food or 1 day without water, Mikhail
+will begin to suffer. On the second day without water, all Mikhail's END expenditures will double -- and he will only recover END at half the normal rate
+(1D6 per 40 minutes as opposed to 1D6 per 20 minutes). On the third day without water, his END expenditures will TRIPLE, and he will recover END at a rate of
+only 1D6 per hour. If he has been with-out water for two days and without food for four, he will expend END at twice his normal rate and recover half as
+fast; the next day, if he has had no food or water, he will expend END at FOUR times the normal rate (having gone 3 days without water AND 5 days without
+food) and will recover 1D6 END only every 80 minutes.
+
+    After 2 x CON days without food, a 1 point attack is made each day vs. CON and the result taken against both CON and total hit points (if the attack
+fails, no damage is taken). A successful Control of Self roll (one attempt allowed per day) prevents any damage being taken from this source.
+
+    After CON/2 days without water, a 2D4 point attack is made each day vs. CON and the result taken against both CON and total hit points. A successful
+Control of Self roll, one attempt allowed per day, halves the damage taken from this source; how ever, even a successful Control of Self roll will not reduce
+the damage below 1 point.
+
+                        ICE WORLD I (PART 19 OF 28)
+    OPTIONAL RULE: Without food, the body will quickly lose its ability to maintain a normal temperature in the face of a subnormal ambient temperature.
+After N intervals of CON/2 days without food, increase the chance of hypothermia by 50x(N-1)%. Thus in our preceding example, Mikhail's chance of going into
+hypothermia would increase by 50% starting on the 5th day without food. If Mikhail, then, were in air at -3o C with a 16 kph wind (after adjustments for
+clothing) he would normally have a 10xCON- 12% chance of avoiding hypothermia (78% for Mikhail). After 5 days without food, his daily chance of avoiding
+hypothermia under these conditions would drop from 78% to 28%, after 10 days with-out food, his chances of avoiding hypothermia would be less than 0%.
+
+    Water: It may seem strange, but water is often the hardest element to obtain in arctic conditions. A heat source is necessary to obtain water from snow
+or ice; alternatively, a hole cut into ice (see Fishing, above) can be used to reach a fresh-water pond, lake, stream, or river. Remember that a salt-water
+ocean cannot provide drinking water; only fresh water may be so used.
+
+    Snow can be melted by body heat, but each liter of water obtained in this fashion takes 20 minutes and requires an Arctic Survival skill roll to do
+safely (regardless of level of skill); the penalty for failure in the Arctic Survival skill is 1D4 frostbite damage to one location (character's choice).
+
+    Any energy weapon can be used to melt snow or ice; each point of damage in a normal burst produces 10 cubic centimeters of usable water (and a good deal
+of steam); when fired on wide beam, four times as much usable water is produced. One liter of water equals 1000 cubic centimeters, so a character can expect
+to get roughly 1.68 liters of water if he completely expends the magazine in a typical handblaster (which he can do in one melee round if the weapon is set
+on wide beam).
+
+    If energy weapons are not used to melt the snow or ice, solving the water problem becomes a much more strenuous undertaking. Gathering ice costs 20
+minutes of Heavy Activity per 2 liters equivalent gathered, gathering snow costs 20 minutes of Moderate Activity per 10 liters equivalent gathered. Depending
+ on local conditions, however, snow may not be available.
+
+    Fires and Heat: Open fires can be lit only if the winds are less than 16 kph; if a barrier or emergency shelter is in place, the wind force is halved for
+    this purpose. Fuel for fires can be obtained from wood, carried chemical sources, or from animal fat (this last source requires the character either have
+    Arctic Survival skill at 30% or above or that he make a successful Arctic Survival skill roll).
+
+    Direction Finding: Characters close to the magnetic pole cannot use magnetic compasses for reliable direction finders. Instruments not relying upon
+magnetic fields (such as the inertial tracker described in the Equipment section, to follow) are not effected.
+
+    Improvised Clothing: It is possible for a character to make Class I cold weather gear (boots, pants, hooded coat, mittens, and face mask -- see Equipment
+section for more details on cold weather gear) from pelts of animals. Class I CWG (cold weather gear) will mass 0.6% of body mass per hit number covered --
+thus a typical full suit will mass 9.76 kilograms for a SIZ 20 Human (who masses 80 kilograms). The usable animal pelts will constitute slightly less than 5
+.5% of the animal mass (loses during curing, trimming and sewing to form the Class I CWG taken into account).
+
+    As a rule of thumb, multiply the mass of the individual who is to be outfitted by 2.2 -- this will yield the required aggregate mass of the animals to be
+used to make his Class I CWG. Please note, however: use of blasters for hunting will damage or destroy portions of the pelt. The Referee should exercise his
+judgment and reduce the mass contribution of animals killed using blasters to the total on a case by case basis.
+
+    Exclusive of hunting time, one person takes three or more days to dress, fit, and sew the hides. The first day is spent curing the pelts, a task which
+does not require any attention from the characters (it can be done on the move, or in addition to other activities). On the second day and subsequent days,
+though, the material must be cut, sewn, and fitted; this takes one man-hour per 10 kilograms of animal being used for the pelts. Other activities cannot be
+performed at the same time. The resulting cloth-ing is treated as Class I CWG for all purposes.
+
+    Minimum Times: All tasks whose completion times are expressed in man-hours take at least one hour to complete, regardless of the number of people working
+on the task.
+
+    Fliers: Beings or animals capable of personal winged flight do so at Heavy Activity rates (Very Heavy Activity rates if the gravity is higher or the air
+pressure lower than on their homeworld). Fliers may not protect their wings from direct exposure to the air (with concurrent possible hypothermia and
+frostbite effects) and still fly. It is to be noted, however, that feathers are typically far better insulation than fur. For more details on the subject of
+personal flight, the Wings of Fire supplement (which deals with the Auuri, a race of feathered fliers) should be consulted.
+
+                        ICE WORLD I (PART 20 OF 28)
+                        EQUIPMENT
+    A wide variety of gear is available for use in arctic conditions. Many such items are discussed in the sections below.
+
+    Racial Variations: Most equipment discussed in this chapter is designed (except where specified otherwise) for Human sized bipedal characters. Mass (and
+price) of some equipment may vary with the SIZ of the individual. In other cases, other races may need different quantities of an item, as well as different
+sizes. A quadruped, for instance, might use four skis instead of two. Generally, beings of one race cannot use equipment intended for another race unless the
+gear is noted as being "multispecies" in the equipment description. Vehicles can be used by any species, but if it is noted as seating a given number of a
+particular race (say, eight Humans) then members of other races are accommodated on the basis of relative mass (a Bjoran equals roughly 10.5 Humans, for
+instance). Where sizes are radically different, as with Bjora to Humans, a great deal of discomfort is likely to ensue ... try riding a small child's
+tricycle to see how a Bjoran might feel in a designed-for-Humans snowmobile. Vehicles designed for other races widely differing in size from Humans will cost
+ more (or less) based upon the relative expected masses of the driver and passengers; a ground car designed for six Bjora scaled directly from the standard
+ ground car would mass 10.5 times as much, would cost accordingly and could probably carry 63 average Humans (who might have a lot of trouble operating the
+ manual controls because of the size differential).
+
+                        COLD WEATHER GEAR
+    In addition to the armor discussed in the basic rules, the fol-lowing types of special protective clothing are available.
+
+    Class I Cold Weather Gear: A relatively primitive form of cold weather clothing using natural fabrics, hides, furs, etc., for protection from the
+elements. This type of clothing is bulky but can be obtained on frontier worlds (or even made from locally available materials in the field -- see Survival
+Techniques earlier). Full Class I CWG consists of simple "long johns" or an undercoat, worn under boots, pants, a hooded parka, face mask, and gloves.
+
+    Class I CWG masses 0.6% of body weight per hit number covered (thus full coverage Class I CWG masses 12.2% of body mass). It costs 3 smu per
+kilogram of mass, though the "price" in the field might be far higher; a corpse has little use for money, after all. Class I CWG has a +15o C temperature
+modifier and it has a -30 kph wind speed modifier (as per Type IV natural protection). Class I CWG is Armor Type 1 and provides 3 points of impact and
+energy protection.
+
+    Class II Cold Weather Gear: Substituting exotic synthetics for natural materials, Class II CWG is more efficient, lighter in weight, though somewhat more
+expensive than Class I CWG. Class II CWG cannot be manufactured "in the field".
+
+    Class II CWG masses 0.4% of body weight per hit number covered (thus full coverage Class II CWG masses 8% of body mass). It costs 5 smu per kilogram of
+mass. Class II CWG has a +20o C temperature modifier and a -40 kph wind speed modifier (as per Type V natural protection). Class II CWG is Armor Type 1 and
+provides 3 points of impact and energy protection.
+
+    Class III Cold Weather Gear: Making use of even more sophisticated and exotic synthetics, Class III CWG is the ultimate in ordi-nary (i.e. non-thermostat
+controlled) clothing. Again, it is more efficient, more expensive, and lighter in weight than Class I and II CWG. As per Class II CWG, it cannot be
+manufactured under primitive field conditions.
+
+    Class III CWG masses 0.3% of body weight per hit number covered (thus full coverage Class III CWG masses 6% of body mass). It costs 10 smu per kilogram
+of mass, has a +25o C temperature modifier and a -50 kph wind speed modifier (as per Type VI natural protection). Class III CWG is Armor Type 1 and provides
+3 points of impact and energy protection.
+
+    Class IV Cold Weather Gear: A development of the Class III CWG, Class IV gear incorporates a system of heat filaments that can be linked to a small
+battery pack for thermostatic control of the temperature modifier of the outfit. As per Class III, it cannot be manufactured under primitive field conditions.
+
+    Class IV CWG masses 0.3% of body weight per hit number covered (as per Class III CWG), however it costs 15 smu per kilogram of mass. With the
+thermostatic controls off (or the heating elements unpowered) it provides the same thermal and wind protection as Class III CWG. The temperature modifier,
+however, can be varied -- up to +50o C -- for as long as power is supplied to the suit (generally through batteries).
+
+    Heatsuit: A lightweight skintight suit, incorporating heater filaments, the thermostatic control provided by the heatsuit is the only protection it
+provides against the elements. A heatsuit may, however, be worn under other forms of cold weather protection (it may not, however, be worn if webbing is
+worn, nor may it be worn by any species not capable of wearing webbing -- such as Altani, H'Reli, Skiltaire, etc.)
+
+                       ICE WORLD I (PART 21 OF 28)
+    A heatsuit masses 0.3% of body weight per hit number covered (thus a full coverage suit masses 6% of body mass). It costs 20 smu per kilogram of mass,
+and has a variable temperature modifier (0-40o C). Power must be supplied to the suit (either through batteries or an external power source) for the heater
+filaments to function. A heatsuit is Armor Type 1 and provides 3 points of impact and energy protection.
+
+    Heater mask: When the ambient air temperature is -60o C or less, breathing the unheated air becomes dangerous. The heater mask will preheat inhaled air
+by up to 10o C (adjustable, 0-10). Heater masks cover one hit number (01 -- the face) and provide an additional 3 points of impact and energy protection.
+They are somewhat fragile; five points of damage penetrating the three point protection will destroy the unit.
+
+  Heater masks may be worn interchangeably among species with similar facial structures. Thus, for example, a Skiltaire, a H'Reli and a Sanchenzii could
+all use a single heater mask. A Human could also use this same Skiltaire/H'Reli/Sanchenzii mask -- but an Altani, with her pronounced muzzle, could not wear
+a Human specific heater mask (designed for the relatively flat face of Humans).
+
+    Battery Pack: A light battery used to supply power to Class IV CWG, heatsuits, and/or heater masks. A battery pack masses 100 grams and costs 10 smu.
+    On a single charge, the battery will provide sufficient power to heater filaments for 900o C-hours of heating. If used for a Class IV CWG set to an
+additional +20o C and a heatsuit set at +10o C, the battery would last for 900/(20+10) = 900/30 = 30 hours. Increasing the heatsuit setting to +30oC would
+decrease the battery life to 900/(20+30) = 900/50 = 18 hours. Recharge time is 1 turn and recharge cost is 1 smu.
+
+    Heat Pack: A heavier battery used to power Class IV CWG, heat-suits, and/or heater masks. A heat pack masses 500 grams and costs 50 smu.
+    On a single charge, the battery will provide sufficient power to heater filaments for 10,000o C-hours of heating. If used for a Class IV CWG set to an
+additional +25o C and a heatsuit set at +15o C, the battery would last for 10,000/(25+15) = 10,000/40 = 250 hours. Increasing the heatsuit setting to +50oC
+and adding a heater mask at +5o C would decrease the battery life to 10,000/(25+50+5) = 10,000/80 = 125 hours. Recharge time is 1 turn and recharge cost is
+10 smu.
+
+    Catalytic Heater: A small non-reusable chemical heat source used to provide augmentation (see Clothing Protection Table) under other clothing. A +5o C
+temperature modifier is applied (above and beyond all other clothing modifiers) when this type of heater is used. Additional heaters can be used to increase
+the tempera-ture modifier (add an additional +5o C per added heater). Mass is 0.1 kg; cost is 10 smu per heater. Multispecies. Provides 6 hours of heat,
+after which it is discarded.
+
+                        TRANSPORTATION
+    The following equipment is available for personal (individual) transportation.
+
+    Skis: Basic skis are long, flat runners worn to travel quickly over snow. Usually, skis are worn in pairs. Human skis measure from 150 to 220 centimeters
+in length; those for other species are proportional to LEN. All skis are considered to include bindings for the appropriate number of feet and types thereof.
+Skis are tailored to individual species requirements, though members of two roughly similar species could use each others skis if desired. Skis mass 10 grams
+per centimeter of length, and have 10 hit points and 10 points of impact and energy protection. Skis cost 7.5 smu per kilogram.
+
+    Ski Boots: Special boots are usually required to ski that give extra support to the ankle (or equivalent location). One boot is required per foot.
+    Boots mass 1% of body mass per hit number covered (a typical boot only covers only one hit number, the foot) and cost 10 smu per kilogram mass.
+
+    Ski Poles: Poles are needed to propel the skier over snow, and assist in maintaining an upright stance. They measure 0.7 x LEN of user, mass 1 gram per
+centimeter length, and cost .02 smu per centimeter length. Poles can be used as the equivalent of short spears in combat situations; they are treated as 10
+point weapons in this case.
+
+    Snowshoes: Snowshoes are a means of cross country travel, measuring 25 centimeters by 100 centimeters (for typical Human units). Increase (or decrease)
+the surface of the snowshoe proportional to the MASS of the wearer. Snowshoes mass 1 kilogram for the typical SIZ 20 Human (mass varies proportional to mass
+of wearer) and cost 5 smu per kilogram mass. Snowshoes have 10 hit points.
+
+    Snowshoes may be manufactured in the field from available materials through a use of the Arctic Survival skill. Manufacture of one pair of snowshoes
+takes 1 man-hour. Field manufactured snow-shoes mass twice as much as indicated above. Snowshoes are designed for a single-species. Ski poles may be used
+with snowshoes -- if this is done, the skill is subject to a +25% modifier.
+
+                        ICE WORLD I (PART 22 OF 28)
+
+    Primitive Ice Skates: Ice skates manufactured in the field have runners of bone, wood, or low-grade metal (these materials must, of course, be available).
+They must be sharpened after every 8 hours of use; a -15% skill modifier is applied for each 8 hours of use without sharpening. Sharpening requires an hour's
+Light Activity per pair. Skates cover one hit location each (the foot) and mass 0.0175% of body mass each. They have 10 Hit points.
+
+    Ice Skates: Standard ice skates are those typically available in industrial societies. Edges last indefinitely. Skates cover one hit location each (the
+foot) and mass 0.01% of body mass each. They cost 10 smu per kilogram of mass. Normal ice skates have 10 hit points.
+
+    Stabilized Ice Skates: An advanced type of ice skate, stabilized skates incorporate gryostabilizers and sophisticated computer systems to aid the skater
+in staying upright and moving at high speed (add 20% to skill). These skates mass as per normal ice skates, but cost significantly more and require a power
+source. They have 8 points of impact and energy protection and 5 hit points. Stabilized skates cost 10 times the cost of standard skates of the same mass. The
+battery pack for stabilized ice skates masses 0.1 kilograms, and will operate one pair of skates for 100 hours. The battery pack can be recharged in 1 turn
+at a cost of 0.1 smu. A new battery pack costs 5 smu.
+
+                        SNOWMOBILES AND ACCESSORIES
+    Light Snowmobile: A light, one-man vehicle, the light snowmobile is designed with two forward ski runners and a centrally mounted rear track. The driver
+stands at the rear of the vehicle, grip-ping the controls. The driver is exposed to the elements while driving -- only one Human sized passenger is allowed,
+and no cargo space is provided. This vehicle masses 150 kilograms. The body of the light snowmobile will provide 10 points of impact and energy protection.
+If 15 points of damage penetrate this armor, the snowmobile will be ruined. The light snowmobile is electrically powered with a range of 500 kilometers at 50
+ kilometers per hour; battery recharges take three full turns and cost 0.1 smu. The typical unit sells for 325 smu.
+
+    Standard Snowmobile: This vehicle is larger and more robust than the light snowmobile. Saddles provide seating for up to 3 Human sized characters, and
+there is 100 kilograms of additional cargo capacity. The driver and all passengers are again exposed to the elements. This vehicle masses 500 kilograms. The
+body of the snowmobile will provide 15 points of impact and energy protection. If 15 points of damage penetrate this armor, the snowmobile will be ruined. The
+snowmobile is electrically powered with a range of 500 kilometers at 50 kilometers per hour; battery recharges take three full turns and cost 0.2 smu. The
+typical unit sells for 500 smu.
+
+    Racing Snowmobile: An expensive, short-range, but ultra-fast version of the snowmobile, the racing model is essentially identical to the light snowmobile
+save in performance characteristics and price. The racing snowmobile is electrically powered with a range of 150 kilometers at 90 kilometers per hour. The
+typical unit sells for 585 smu.
+
+    Wheel Kit: This is an adapter kit which permits wheels to be mounted on snowmobiles and snowmobile trailers. One kit is required per 500 kilograms of
+vehicle mass. When mounted, wheels enable snowmobiles to operate as standard wheeled vehicles, with speed and performance characteristics as given for the
+specific vehicle type. Mass is 10 kilograms per kit, and the cost is 15 smu. Multispecies gear.
+
+    Float Kit: This is another adapter kit, used to mount pontoon floats and a propeller on the snowmobile. This turns the snowmobile into a makeshift boat.
+One kit is required for every 250 kilograms of vehicle mass. Water speed is 1/10th the land speed. The kit masses 25 kilograms and costs 10 smu. Multispecies
+gear.
+
+    Trailers: Three models of snowmobile trailer are available, designed to be towed by any model of snowmobile. With one trailer attached, the basic speed
+is 0.75 times the normal speed. Two trailers cut speed in half; three trailers reduce speed to one quarter. No more than three trailers may be pulled by a
+single snowmobile. Vehicle Operations skill is also reduced by 10% for each trailer pulled. The frames of the trailers provide 15 points of impact and energy
+protection (and are destroyed by 10 points of penetrating damage). All can be fitted with either wheels or floats. All trailers protect from the environment.
+
+    Cargo Trailer: Carries up to 500 kilograms of cargo. Mass (empty) is 300 kilograms. Cost is 125 smu.
+
+    Passenger Trailer: Carries up to 4 Human sized passengers. Mass is 300 kilograms (empty), cost is 125 smu.
+
+    Combination Trailer: Carries up to 250 kilograms of cargo and up to 3 Human sized passengers. Mass is 300 kilograms (empty), cost is 125 smu.
+
+    Driver Cab: A cockpit-style canopy that can be attached to any snowmobile. The cab provides protection from the elements, and can be heated. Two types
+    are available.
+
+    Standard Cab: Mass 40 kilograms, cost 225 smu. An armored cab that provides 10 points of impact and energy protection.
+
+    Pressurized Cab: Mass 150 kilograms, cost 1200 smu. Pressurized for use in hostile atmospheres. A small airlock mechanism is included, and both the cab
+and airlock are armored. Pressurization and life support are provided through tanked air -- 200 man-hours for a SIZ 20 individual (time varies proportional
+to SIZ). New tanks are 50 smu each; recharging old tanks requires a standard starship Life Support module, and takes 10 turns per tank (the usual recharge
+cost is 10 smu). The armored cab provides 30 points of impact and energy protection and is self sealing (up to a point); 20 points of penetrating damage will
+destroy the cab.
+
+                        ICE WORLD I (PART 23 OF 28)
+                        VEHICLE ACCESSORIES
+    Arctic Wheel Adapters: This is a general category of gear including snow tires, chains, spikes, and other methods of improving traction in snow and ice.
+Wheeled vehicles using these methods add 0.15 to all speed multiples less than 1 in snow or ice conditions. If adapters are used, 5% is added to the
+operation skill in snow and ice. One adapter is needed for each wheel. Mass is 2 kilograms, cost is 5 smu. Multispecies gear.
+
+    Jumper Cables: Simple cables permitting the charge of a vehicle battery to be partially drained into that of another vehicle. Mass is 0.5 kilograms per
+meter of cable, cost is 1 smu per meter of cable. Commonly available lengths are 2, 5, and 10 meters.
+
+                        OTHER EQUIPMENT
+    The following items are pieces of equipment with may be of general interest.
+
+    Food Converter: This device will convert any organic material into a food paste usable by the species for which it is programmed. The paste has a
+pleasant taste, though few sophonts will wish to eat it to the exclusion of more normal foods; the more charitable users refer to the taste as "bland" and
+what less tolerant (or more discriminating) individual's say about the paste we leave to the imagination of the reader.
+
+    In 1 hour, a food converter will process 1 kilogram of plant matter and produce 0.2 kilograms of meat equivalent or it will process 1 kilogram of meat
+and produce 0.8 kilograms of meat equivalent. It can be used to produce usable food for carnivores from plant matter, or to remove inedible components (such
+as poisons) from meat. A battery pack will run the food converter for 100 hours.
+
+    The food converter masses 2.3 kilograms exclusive of battery and programming cartridge. Both the programming cartridge and the battery pack mass 0.1
+kilograms. The food converter itself costs 2500 smu (this includes the cost of one programming pack for a species of the purchaser's choice), programming
+cartridges cost 50 smu each, and battery packs cost 5 smu each. A recharge for the battery pack costs 1 smu and takes 1 turn. The food converter has 20
+points of impact and energy protection; 10 points of damage penetrating this armor will destroy the unit. Both battery pack and programming cartridge are
+enclosed by the armor.
+
+    Glare Goggles: Variable polarization goggles, used to eliminate the dangers of dazzle and/or snowblindness. These units are solar powered, and allow the
+user to select any modifier to glare factor desired. A character wearing these goggles selects the desired adjustment to dazzle probability and then simply
+wears the goggles; they will automatically adjust to conditions of low light levels (so there is no visibility loss on entering a dark-ened room while
+wearing the goggles). Mass is 0.1 kilograms, cost is 10 smu per pair. Multispecies -- adjustable for different facial configurations. 10 hit point devices
+(no armor protection, either impact or energy).
+
+    Glare Lenses (Contact variety): These are variable polarization contact lenses, used to eliminate the dangers of dazzle and/or snowblindness. They are
+pre-set for a given dazzle probability modifier, and must be custom made for each individual. They will lighten in darkness and darken when exposed to
+ultraviolet light (or any other specified type of light); thus, as with glare goggles, there is no visibility loss encountered on entering a darkened room
+while wearing the glare lenses.
+
+    Glare lenses offer only three advantages over glare goggles: (1) they are inconspicuous, (2) they are easier to carry, and (3) they are not the ugly face
+covering that glare goggles are. Humans diplomats have commonly adopted the glare lens for their use on the Central Worlds of the Hegemony; even without snow
+or ice to reflect the sun glare, the normal light levels on an Altani, Bjoran, or H'Reli world will blind a Human in a remarka-bly short period of time. Mass
+ is negligible, cost is 125 smu per pair. Single species design -- custom made for each individual.
+
+    Battery Heater: A portable, electrically powered heat source. Batteries last 36 hours and must then be either replaced or recharged (1 turn, 0.1 smu cost
+to recharge). The battery heater masses 1 kilogram, and will heat a small (1 Human sized person) cabin or dugout +10o C above ambient. Additional heaters may
+ be used to increase the temperature or the volume heated. Battery heaters cost 10 smu, and have 10 point impact and energy protection. If 10 points of
+ damage penetrates the armor, the unit is destroyed.
+
+    Inertial Guidance Unit: This device (commonly referred to as an Inertracker, after the tradename of the best and most common unit) is used to navigate on
+a single world. It provides a dis-play of position relative to a given starting point. Once it is prepared for use by setting the start point it will display
+the current position on the planetary surface (latitude, longitude, and altitude changes relative to its starting point) with an accuracy of plus or minus
+100 meters. It must, however, be left in operation continuously or it will "lose fix" and require a reset of the zero position. Using a set of accurate maps
+on which the starting point for the uni has been marked, navigation becomes child's play; units sold for use on a particular world are typically pre-loaded
+with maps for that world. Mass is 1.5 kilograms exclusive of battery pack and map cartridge. Battery packs mass 0.1 kilograms, and will run the unit for 4
+terrestrial years (1461 days). A map cartridge masses 0.1 kilograms. The inertial guidance unit costs 800 smu, a map cartridge for a single world costs 25
+smu, and a battery pack costs 5 smu. A recharge for the battery pack takes 10 turns using a standard portable generator; recharges are typically available
+for 4 smu. The Inertracker has 20 points of impact and energy protection; 10 points of damage penetrating this armor will destroy the unit. Both battery pack
+and map cartridge are enclosed by the armor.
+
+                        ICE WORLD I (PART 24 OF 28)
+    Sled: On many newly colonized worlds, animal drawn sleds are used for cross-country travel over ice and snow. On many more civilized worlds, they are
+used for sport. But on fledgling colonies, it is common to use animals (which don't break down or need artificial fuel sources, and reproduce themselves) in
+place of machines (which, at first, must be imported at ruinous cost).
+
+    The dog sled of old Earth (First Century AE and earlier) is but one typical design. Commonly, sleds have a single Human sized driver and can carry up to
+two Human-sized passengers or 200 kilograms of cargo (treat each passenger as 100 kilograms of cargo). Such sleds mass 10 kilograms empty, and cost 50 smu.
+To draw the sled, one or more animals are needed. The ENC load for drawing the sled is halved (as it is being dragged, rather than carried) and the result is
+ divided evenly among the sled animals. k or run himself).
+
+    Larger sleds have greater cargo capacities and cost more. The standard cargo of 300 kg (one driver + 200 kg cargo) costs 10 smu. The cost of the sled is
+directly proportional to the cargo capacity, as is its mass. Sleds have 10 points of protection against impact and energy damage; 10 points of penetrating
+damage will destroy a sled. These figures are independent of sled size. Made from primitive materials in the field, a sled will mass twice as much. To make
+such a sled requires the use of the Arctic Survival skill and 1 hour per 5 kilograms mass of sled. Training sled animals is a persuasion skill (as per
+Riding). Trained sled animals are valuable on any world where such animals are used for transport (or sport). A typical animal will cost 10 smu (though this
+may vary depending upon the "pedigree" of the animal, the social value placed on the animals, and any of a thousand other factors).
+
+                        ENCOUNTERS AND EVENTS
+    In any Other Suns adventure, the Referee should be largely re-sponsible for regulating the flow of events and encounters, to ensure the smooth
+progression from initial situation to final resolution. For the most part, encounters and events which occur along the way should be planned by the Referee
+to shape the course of the scenario.
+
+    There are times, however, when random encounters or events are worthwhile. They can be used to add an element of uncertainty in the game -- is a given
+event important to the ultimate resolution of the original problem, or is it a "mere" random occurrence? In addition, random encounters or events can be used
+when the Referee is at a loss for a logical next step in the adventure, and they can be used to create a series of obstacles to be overcome where no hard and
+fast planned adventure actually exists.
+
+    Any or all of these reasons can contribute to a decision to use a set of random encounter tables. A sample set, tailored to use within an arctic setting,
+are included in the tables to follow.
+
+                        ENCOUNTER ROLLS:
+    When a party is traveling, one encounter roll should be made (on 1D100) once each hour, and the indicated result implemented. Tables are keyed according
+to terrain type and snow cover, with modifiers applied based on the current apparent air temperature.
+
+    When a group has halt[Y,n]? an unexpected crevasse.
+    Treat no snow cover or hard pack only snow cover as "spotty" snow cover in these tables.
+
+                        ENCOUNTER AND EVENT DESCRIPTIONS:
+    Whiteout: Whiteout is a condition which occurs when ground and sky are both so white as to be indistinct from one another, and visibility drops to almost
+nothing. Periods of whiteout generally accompany heavy storms and/or high winds (and whiteout can be mandated by the Visibility Table results as well as by
+Encounter Table results), but can happen as an incidental event as well. In whiteout conditions, movement guided by the unaided eye becomes impossible; both
+vehicles and individuals must stop for a period of 1D3 hours until visibility improves. If active sensor systems are available (e.g. in the powered suits)
+whiteout conditions can be ignored.
+
+    Avalanche Zone: Avalanche Zones are areas where there is a high potential for a mass of snow to be dislodged from above, flowing down mountainsides and
+into valleys below like a tidal wave. Actually, there are several distinct types of avalanche, each discussed separately below. The Referee should select
+which type occurs, keeping local conditions and the information noted here in mind.
+
+    Wet Avalanche: Wet avalanches usually occur when the temperatures rise above 0o C. The deep snow covering the mountain slopes then melts, loses adhesion,
+and slides. Wet Avalanches move at speeds of 90-100 kph (88+2D6), often carrying destruction for as far as 3 kilometers before losing momentum. There is a 1%
+ base chance per hour of a Wet Avalanche occurring once pre-avalanche conditions develop. Add 5% to this chance if the snow is in direct sunlight, add 5% if
+ the ambient air temperature is above -5o C, and add 15% if there are loud noises such as explosions during the hour. These modifiers are cumulative, and in
+ the event of repeated explosions or other loud noises over the course of the hour, the +15% modifier should (at the Referee's judgment) be added more than
+ once. An Arctic Survival roll guarantees recognition of potential avalanche conditions in an area, and allows the characters to take appropriate action so
+ as to avoid being caught in the avalanche should it occur.
+
+                        ICE WORLD I (PART 25 OF 28)
+    If a character is caught in a wet avalanche, he will take impact damage twice equal to the Tumbling damage corresponding to a tumble at the speed of the
+avalanche (this is between 6D6 and 7D6). As per Tumbles (described earlier) he may attempt a Jumping roll and LUC rolls to reduce the damage taken. These
+rolls are made against the first damage roll (corresponding to the damage done when the avalanche first strikes the character); he may then attempt LUC rolls
+ to reduce the second damage roll (corresponding to the damage done as the avalanche bounces him against the terrain as it slows). A Jumping roll may not be
+ attempted during the "slow down" phase; it is assumed that the character's tumbling ability is neutralized by the mass of snow and debris about him. THE
+ VALUE OF PROTECTIVE ARMOR IS DEDUCTED FROM THE DAMAGE DONE BY AN AVALANCHE IN EACH PHASE (BOTH INITIAL IMPACT AND FINAL SLOWDOWN).
+
+    If LUC roll is made (as a percentage), a character engulfed in a wet avalanche will end on the surface. Otherwise, he will be trapped under the snow,
+with sufficient air for 1D100 turns of life. If a trapped character is not retrieved (or does not extri-cate himself) from beneath the snow before his air
+supply gives out, he will die. An Arctic Survival, or a Spot Hidden roll limited by Arctic Survival (both rolls may be attempted) will locate a victim
+trapped beneath the snow by eye alone; if instruments or telepathy are used, the character should be found effortlessly. Once found, retrieval should be a
+matter dependent only upon depth of burial and equipment available for excavation.
+
+    Dry Avalanche: Dry avalanches are caused when accumulations of snow become excessive, and they can move at speeds of up to 175 kph for 5 kilometers or
+more (speed is 1D100+74 kph). There is a 1% base chance per hour of a Wet Avalanche occurring once pre-avalanche conditions develop. Add 5% to this chance
+for each 20 centimeters of new snow accumulated in the zone, and add 30% if there are loud noises such as explosions during the hour. These modifiers are
+cumulative, and in the event of repeated explosions or other loud noises over the course of the hour, the +30% modifier should (at the Referee's judgment) be
+added more than once.
+
+    An Arctic Survival roll guarantees recognition of potential avalanche conditions in an area, and allows the characters to take appropriate action so as
+to avoid being caught in the ava-lanche should it occur.
+
+    If a character is trapped in a dry avalanche, damage is determined as per wet avalanches (save that the higher speed of the dry avalanche is used). THE
+VALUE OF PROTECTIVE ARMOR IS DEDUCTED FROM THE DAMAGE DONE BY AN AVALANCHE IN EACH PHASE (BOTH INITIAL IMPACT AND FINAL SLOWDOWN).
+
+    White Death: The "white death" is an extremely rare form of dry avalanche, a variant occurring only when the snow is an unusually fine powder. If all
+snow is fine powder, there is a 1% chance of a dry avalanche being of the "white death" variety.
+
+    Individuals trapped underneath the snow by a "white death" avalanche will be trapped without air; if they do not have a sealed air source, he is in
+danger of suffocation (see Section 14.2.1 Drowning, in Other Suns for details regarding resolution of suffocation situations).
+
+    Other Considerations: A vehicle caught be an avalanche will be subjected to the full damage of the avalanche, and individuals within the vehicle take
+whatever damage remains after armor protection of the vehicle is accounted for (their own armor still deducts from damage taken).
+
+    Characters will almost invar projecting above an otherwise level surface. As water froze into ice, pressure forced more water together, and upwards to
+form the ridge, if freezing was fast enough. A pressure ridge can be several meters in height.
+
+    Though individuals can climb a ridge (and aircraft fly over it), ground vehicles are blocked by these terrain features. If de-sired, the vehicles can
+detour and search for the end of the ridge, moving parallel to it in one direction or another. If this option is chosen, the Referee should roll 6D6 for the
+number of kilometers the ridge extends (roll twice -- once for each direction). An Arctic Survival skill roll made allows the characters to know which
+direction provides the shorter detour; a clean action allows them to know the approximate length of the detour.
+
+    Alternatively, the group may seek to create a gap in the ridge. This requires that 1D10 x 1000 points of damage be done to a given section of the ridge
+(either through explosives, energy weapons, or brute physical strength). If this damage is done, the result is a breach wide enough for any large ground vehicle.
+
+    The Referee may freely designate the work as being more less difficult than indicated above (especially when the group is small or possessed only of
+extremely limited amounts of ammuni-tion), or can choose to designate the task as impossible. Hovercraft, like normal ground vehicles, are blocked by
+pressure ridges.
+
+    Polynya: A polynya is a gap in the ice, either open water or only thinly covered by ice. Polynyas provide open access to the water below, allowing
+fishing, water collection, or even arctic diving. If the temperature is much below 0o C, polynyas will tend to close (freezing over completely in 1D10
+hours); if the tempera-ture is above freezing, polynyas become wider with time.
+
+                        ICE WORLD I (PART 26 OF 28)
+    Rockfall: The thawing of snow and ice binding loose rocks togeth-er occasionally causes them to plunge down from above. When a rockfall occurs, roll 1D6
+to determine the number of rocks dropped on each individual. Assume 1 kilogram rocks and a fall of 2D10 meters (damage is resolved as per Section 14.2.2.1
+Dropped Objects in Other Suns). A successful Arctic Survival skill roll will allow an individual to spot potential rockfall conditions.
+
+    Dodge (rolled as a percentage) will allow a character to avoid being struck by one rock, Martial Evade may be used to avoid one rock (per 100% Evade
+skill or fraction thereof).
+
+    Suncups: Suncups are irregular depressions in snow and ice formed by uneven melting of snow in sunlight. Movement through an area where suncups are
+encountered is at 75% of normal. Skiers and snowmobilers proceed with a -5% skill modifier through suncups. The suncups last until superseded by a new event
+or a different terrain type.
+
+    Icebergs: Icebergs are large mountains of ice which break free of surrounding pack ice and drift free. When an iceberg result first occurs, the
+characters will find themselves isolated on a floe or iceberg which has just broken loose.
+
+    Characteristics of the iceberg are determined immediately. There is a 60% chance that the iceberg is of the familiar, pinnacled type; otherwise it has a
+    fairly flat an low surface. The latter are to be preferred, as pinnacled icebergs, constantly melting from below, tend to be unstable.
+
+    On each occurrence of an iceberg result when a group already occupies a iceberg, roll 1D100 apply the following results: (1) for 01-15 = collision with
+land, (2) for pinnacled icebergs, 91-100 = iceberg shifts; for flat icebergs, 98-100 = iceberg shifts, (3) all other rolls result in no change of status.
+
+    If the "collision with land" result occurs (and is not impossible given the rough position of the iceberg) the stranded group may escape; normally escape
+requires assistance of some type, or the ability to swim or fly over whatever gap has separated the iceberg from the land. If the iceberg is about to shift,
+an Arctic Survival skill or an Awareness talent roll will allow the adventurers sufficient advance warning to prepare so that they will not be
+unceremoniously tossed into the water. If neither of these rolls are made by any member of the group, a LUC as a percentage roll, or a Jumping roll is
+required of each adventurer in order to avoid a quick swim; however, ground vehicles cannot be saved if neither the Arctic Survival nor the Awareness rolls
+are made (though if properly equipped, they may still float).
+
+    Bog: During summer in tundra, glacial streams from melting snow can water-saturate large patches of land, and characters entering such areas may become
+enmired. If ANY of the following skill or characteristic rolls can be made, the bog will be detected before it can become a threat: Arctic Survival,
+Awareness, Spot Hidden, Spot Trap, Arctic Travel, or INT x 5.
+
+    A bog is not impossible to escape even if a character has become enmired; however, characters can sink and drown if they do not maintain control. At the
+start sinking, a character trapped in a bog must roll WIL x 8 or less on 1D100  or make a Control of Self skill roll) to avoid panicking. If he panics, a
+character may take no action until he comes to his senses (he may attempt both a roll of WIL x 5 or less on 1D100 and a Control of Self skill roll each melee
+ round until he recovers or sinks from view and drowns).
+
+    If an adventurer does not notice a bog, and neither do his fellow adventurers (or, at least, they don't warn him), it is assumed that he begins with all
+feet enmired in the bog. Hit numbers for feet are as follows (those for Dakti are self-evident from the charts): Tailed bipeds -- 15, 19, Tailless bipeds
+-- 16, 20, Tailed quadrupeds -- 6, 9, 16, 19, tailed centauroids -- 10, 12, 17, 19.
+
+    If an adventurer does not panic, he may attempt to move out of the bog. If the STR+DEX of the character overcomes his SIZ+the number of hit numbers
+enmired (see Chapter 6 of Other Suns for resistance rolls and their resolution) then he may reduce the number of hit numbers enmired by 1. If the resistance
+roll is failed by more than 25 on the 1D100 roll OR IF THE UNAIDED CHARACTER IS PANICKING, the number of hit numbers enmired is in-creased by 1 (extended
+logically from the already enmired loca-tions). Once all 20 hit numbers are enmired, the character will begin to drown.
+
+    After the first round, other characters may endeavor to assist in removing the adventurer enmired. If the trapped adventurer is not panicking, and his
+associates can reach him (either using a thrown line or by reaching out and grabbing him) they may add their STR and DEX values to his in attempting to
+overcome his SIZ+number of hit numbers enmired. Only if the resistance is not overcome as a result of a FUMBLE does an additional hit number become enmired.
+HOWEVER, if the trapped adventurer is panicking, those of his associates that can grab hold of him must overcome his STR+DEX+SIZ+number of hit numbers
+enmired in order to free one hit number from the bog.
+
+    If a vehicle becomes enmired, it is assumed that all driving wheels/tracks etc., have gotten onto the bog area. If no action is taken, the vehicle will
+sink to the bottom of the bog. Given sufficient skill on the part of the driver, any of the powered vehicles will have enough raw power to get clear of the bog.
+
+    A vehicle starts in a bog as if 2 hit numbers were enmired; for each hit number enmired, deduct 10% from the appropriate vehicular skill. A successful
+skill roll reduces the equivalent number of hit numbers enmired by 1, a failed skill roll increases the number by 1, a critical roll decreases the number by
+1D4 and a fumble increases the number by 1D4. When 0 hit numbers are en-mired, the vehicle is free from the bog; when 20 hit numbers are enmired, the vehicle
+ is lost to the bog. NOTE: the driver must avoid panicking, or he will fail to act correctly and 1 additional hit number will be enmired each melee round.
+
+                        ICE WORLD I (PART 28 OF 28)
+                        EXPLANATION OF RESULTS
+    Detour: The character is delayed 1D6 turns; no forward progress is made during this interval, the time being spent finding a way around the drifts.
+
+    Move Penalty: The character's movement is halved for the next hour. This represents the problems of going through or around the series of drifts. END
+expenditure is increased by one class for this hour of travel (Light Activity becomes Moderate, Moderate becomes Heavy, Heavy becomes Very Heavy, Very Heavy
+remains the same).
+
+    Fall: The character must make a skill roll (either Arctic Travel or the skill roll for the appropriate mode of travel) or fall 1D6 meters; Jumping and
+LUC rolls may be attempted to reduce damage if the fall occurs.
+
+    END Penalty: The character is exerting additional effort (typically needlessly so) in order to fight through the drifts. END expenditure is increased by
+one class for one hour of travel (as described above under Move Penalty).
+
+    Crevasse: Crevasses are deep cracks in shelf or pack ice, diffi-cult to cross and time-consuming to avoid. When a crevasse is encountered, roll 1D4 to
+determine the number of roughly parallel crevasses encountered. It is assumed that a crevasse roll on the encounter tables means that the crevasse lies
+across the desired line of travel of the adventurers.
+
+    A detour may be attempted around the crevasses -- determine the length of the detour required as per pressure ridges earlier (except that instead of
+rolling 6D6 roll 4D6+10 for the number of kilometers that the crevasse runs in each direction). As was the case for pressure ridges, an Arctic Survival skill
+roll made allows the characters to know which direction provides the short-er detour; a clean action allows them to know the approximate length of the detour.
+
+    There is a 40% chance of a bridge of snow or ice being present on EACH crevasse (roll separately) that may allow passage across the crevasse. Roll using
+the Thin Ice table to determine the thickness (and load limit) on this ice/snow bridge. An Arctic Travel, Arctic Survival, or Awareness skill rolls will
+provide information regarding the thickness of the bridge.
+
+    If the crossing is attempted, and the bridge breaks, everyone on the bridge who does not manage to jump to safety will fall 2D100+20 meters. The normal
+falling rules will then apply to determine damage (see Section 14.2.2 Falling in Other Suns for details).
+
+    Crevasse with Cornice: As with crevasse, but with an additional hazard, that of cornices (shelves) of solid-seeming snow over-hanging the edge of the
+crevasse. Use the Thin Ice Table to determine the thickness of each crevasses cornices with a 1D100+25 roll instead of a 1D100 roll (treat results of over
+100 as 100). Any bridges across a corniced crevasse can be no thicker than the cornice.
+
+    An Arctic Travel, Awareness, Arctic Survival, or Spot Hidden skill roll will detect the presence of the cornices; Arctic Travel, Arctic Survival, or
+Awareness skill rolls will then provide information regarding the thickness of the cornice.
+
+    Animal Encounter: An animal encounter result indicates that an animal has been spotted. The Referee should choose an animal already created for the world
+in question (either picking one, or consulting a previously created table of likely animals).
+
+    If the result is rolled for a trap, and the animal does not make a Spot Trap or LUC as a percentage roll, it is trapped (as de-scribed earlier in the
+section on Hunting). In any other in-stance, the animal may merely be sighted -- roll 1D10 (with no modifiers to the roll) and consult the Sighting range
+table. If the animal encountered is outside of visual range, the result is interpreted as being an opportunity to sight tracks of the animal at the limit of
+of visual range.
+
+    It is up to the Referee to establish the likely behavior of the animal. It may not notice the adventurers; if it does it may stay still, flee, attack, or
+otherwise act in an appropriate fashion, depending upon its habits, dietary preferences, intelligence, instincts, and other behavior patterns. The resolution
+ of an encounter is thus wholly dependent upon the Referee's decisions and upon the responses of the party.
+
+    In fairness to the players, however, the Referee should remember that there are few wild animals on any settled world that will still attack a party of
+Humans, Altani, or other sophonts. Either such sophonts have become common sights, and thus their danger thoroughly driven into the thick skulls of the local
+ life forms or they are still uncommon sights in the wild. In this latter case, they will represent a totally unknown quantity to the local predators, who w.
+  It is often best to tailor specific tables for specific worlds, adding new results, and changing proportions of others to suit different conditions, and
+  otherwise adapting the resources of the game to give the greatest variety an flexibility to the play of Other Suns in the planetary environment.
+                (End of ICE WORLD I) 

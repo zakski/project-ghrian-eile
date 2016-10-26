@@ -1,0 +1,124 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/LaSV1dPizR0
+TITLE: Other Suns : 26 (sic 25) 
+
+----------------------------------------------------------------------------
+
+Monday, 15 October 1990 16:13:25 UTC+1 - John Redden:
+------------------ OS.25 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero. This gaming material is distributed on a shareware basis. If you do not use the material you owe the author
+nothing. If you do use it please pay him what you think it is worth at a fair price because it took a damn lot of work to develop and playtest. The USmail
+address is:
+    Niall Shapero
+    2536 Short Ave
+    Los Angeles
+    CA 90066
+    USA
+
+Those of you with modems can dial into his BBS using this phone number:(213)822-6729
+Please email any comments to my electronic mailing address and I will pass them on to Niall.
+
+---------------- end of preamble -------------------------------------------
+    in this fashion takes 20 minutes and requires an Arctic Survival skill roll to do safely (regardless of level of skill); the penalty for failure in the
+    Arctic Survival skill is 1D4 frostbite damage to one location (character's choice).
+
+    Any energy weapon can be used to melt snow or ice; each point of damage in a normal burst produces 10 cubic centimeters of usable water (and a good deal
+of steam); when fired on wide beam, four times as much usable water is produced. One liter of water equals 1000 cubic centimeters, so a character can expect
+to get roughly 1.68 liters of water if he completely expends the magazine in a typical handblaster (which he can do in one melee round if the weapon is set
+on wide beam).
+
+    If energy weapons are not used to melt the snow or ice, solving the water problem becomes a much more strenuous undertaking. Gathering ice costs 20
+minutes of Heavy Activity per 2 liters equivalent gathered, gathering snow costs 20 minutes of Moderate Activity per 10 liters equivalent gathered. Depending
+ on local conditions, however, snow may not be available.
+
+    Fires and Heat: Open fires can be lit only if the winds are less than 16 kph; if a barrier or emergency shelter is in place, the wind force is halved for
+    this purpose. Fuel for fires can be obtained from wood, carried chemical sources, or from animal fat (this last source requires the character either have
+    Arctic Survival skill at 30% or above or that he make a successful Arctic Survival skill roll).
+
+    Direction Finding: Characters close to the magnetic pole cannot use magnetic compasses for reliable direction finders. Instruments not relying upon
+magnetic fields (such as the inertial tracker described in the Equipment section, to follow) are not effected.
+
+    Improvised Clothing: It is possible for a character to make Class I cold weather gear (boots, pants, hooded coat, mittens, and face mask -- see Equipment
+section for more details on cold weather gear) from pelts of animals. Class I CWG (cold weather gear) will mass 0.6% of body mass per hit number covered --
+thus a typical full suit will mass 9.76 kilograms for a SIZ 20 Human (who masses 80 kilograms). The usable animal pelts will constitute slightly less than 5
+.5% of the animal mass (loses during curing, trimming and sewing to form the Class I CWG taken into account).
+
+    As a rule of thumb, multiply the mass of the individual who is to be outfitted by 2.2 -- this will yield the required aggregate mass of the animals to be
+used to make his Class I CWG. Please note, however: use of blasters for hunting will damage or destroy portions of the pelt. The Referee should exercise his
+judgment and reduce the mass contribution of animals killed using blasters to the total on a case by case basis.
+
+    Exclusive of hunting time, one person takes three or more days to dress, fit, and sew the hides. The first day is spent curing the pelts, a task which
+does not require any attention from the characters (it can be done on the move, or in addition to other activities). On the second day and subsequent days,
+though, the material must be cut, sewn, and fitted; this takes one man-hour per 10 kilograms of animal being used for the pelts. Other activities cannot be
+performed at the same time. The resulting cloth-ing is treated as Class I CWG for all purposes.
+
+    Minimum Times: All tasks whose completion times are expressed in man-hours take at least one hour to complete, regardless of the number of people working
+on the task.
+
+    Fliers: Beings or animals capable of personal winged flight do so at Heavy Activity rates (Very Heavy Activity rates if the gravity is higher or the air
+pressure lower than on their homeworld). Fliers may not protect their wings from direct exposure to the air (with concurrent possible hypothermia and
+frostbite effects) and still fly. It is to be noted, however, that feathers are typically far better insulation than fur. For more details on the subject of
+personal flight, the Wings of Fire supplement (which deals with the Auuri, a race of feathered fliers) should be consulted.
+
+                        ICE WORLD I (PART 20 OF 28)
+                        EQUIPMENT
+    A wide variety of gear is available for use in arctic conditions. Many such items are discussed in the sections below.
+
+    Racial Variations: Most equipment discussed in this chapter is designed (except where specified otherwise) for Human sized bipedal characters. Mass (and
+price) of some equipment may vary with the SIZ of the individual. In other cases, other races may need different quantities of an item, as well as different
+sizes. A quadruped, for instance, might use four skis instead of two. Generally, beings of one race cannot use equipment intended for another race unless the
+gear is noted as being "multispecies" in the equipment description. Vehicles can be used by any species, but if it is noted as seating a given number of a
+particular race (say, eight Humans) then members of other races are accommodated on the basis of relative mass (a Bjoran equals roughly 10.5 Humans, for
+instance). Where sizes are radically different, as with Bjora to Humans, a great deal of discomfort is likely to ensue ... try riding a small child's
+tricycle to see how a Bjoran might feel in a designed-for-Humans snowmobile. Vehicles designed for other races widely differing in size from Humans will cost
+ more (or less) based upon the relative expected masses of the driver and passengers; a ground car designed for six Bjora scaled directly from the standard
+ ground car would mass 10.5 times as much, would cost accordingly and could probably carry 63 average Humans (who might have a lot of trouble operating the
+ manual controls because of the size differential).
+
+                        COLD WEATHER GEAR
+    In addition to the armor discussed in the basic rules, the fol-lowing types of special protective clothing are available.
+
+    Class I Cold Weather Gear: A relatively primitive form of cold weather clothing using natural fabrics, hides, furs, etc., for protection from the
+elements. This type of clothing is bulky but can be obtained on frontier worlds (or even made from locally available materials in the field -- see Survival
+Techniques earlier). Full Class I CWG consists of simple "long johns" or an undercoat, worn under boots, pants, a hooded parka, face mask, and gloves.
+
+    Class I CWG masses 0.6% of body weight per hit number covered (thus full coverage Class I CWG masses 12.2% of body mass). It costs 3 smu per
+kilogram of mass, though the "price" in the field might be far higher; a corpse has little use for money, after all. Class I CWG has a +15o C temperature
+modifier and it has a -30 kph wind speed modifier (as per Type IV natural protection). Class I CWG is Armor Type 1 and provides 3 points of impact and
+energy protection.
+
+    Class II Cold Weather Gear: Substituting exotic synthetics for natural materials, Class II CWG is more efficient, lighter in weight, though somewhat more
+expensive than Class I CWG. Class II CWG cannot be manufactured "in the field".
+
+    Class II CWG masses 0.4% of body weight per hit number covered (thus full coverage Class II CWG masses 8% of body mass). It costs 5 smu per kilogram of
+mass. Class II CWG has a +20o C temperature modifier and a -40 kph wind speed modifier (as per Type V natural protection). Class II CWG is Armor Type 1 and
+provides 3 points of impact and energy protection.
+
+    Class III Cold Weather Gear: Making use of even more sophisticated and exotic synthetics, Class III CWG is the ultimate in ordi-nary (i.e. non-thermostat
+controlled) clothing. Again, it is more efficient, more expensive, and lighter in weight than Class I and II CWG. As per Class II CWG, it cannot be
+manufactured under primitive field conditions.
+
+    Class III CWG masses 0.3% of body weight per hit number covered (thus full coverage Class III CWG masses 6% of body mass). It costs 10 smu per kilogram
+of mass, has a +25o C temperature modifier and a -50 kph wind speed modifier (as per Type VI natural protection). Class III CWG is Armor Type 1 and provides
+3 points of impact and energy protection.
+
+    Class IV Cold Weather Gear: A development of the Class III CWG, Class IV gear incorporates a system of heat filaments that can be linked to a small
+battery pack for thermostatic control of the temperature modifier of the outfit. As per Class III, it cannot be manufactured under primitive field conditions.
+
+    Class IV CWG masses 0.3% of body weight per hit number covered (as per Class III CWG), however it costs 15 smu per kilogram of mass. With the
+thermostatic controls off (or the heating elements unpowered) it provides the same thermal and wind protection as Class III CWG. The temperature modifier,
+however, can be varied -- up to +50o C -- for as long as power is supplied to the suit (generally through batteries).
+
+    Heatsuit: A lightweight skintight suit, incorporating heater filaments, the thermostatic control provided by the heatsuit is the only protection it
+provides against the elements. A heatsuit may, however, be worn under other forms of cold weather protection (it may not, however, be worn if webbing is
+worn, nor may it be worn by any species not capable of wearing webbing -- such as Altani, H'Reli, Skiltaire, etc.)
+
+                       ICE WORLD I (PART 21 OF 28)
+    A heatsuit masses 0.3% of body weight per hit number covered (thus a full coverage suit masses 6% of body mass). It costs 20 smu per kilogram of mass,
+and has a variable temperature modifier (0-40o C). Power must be supplied to the suit (either through batteries or an external power source) for the heater
+filaments to function. A heatsuit is Armor Type 1 and provides 3 points of impact and energy protection.
+
+    Heater mask: When the ambient air temperature is -60o C or less, breathing the unheated air becomes dangerous. The heater mask will preheat inhaled air
+by up to 10o C (adjustable, 0-10). Heater masks cover one hit number (01 -- the face) and provide an additional 3 points of impact and energy protection.
+They are

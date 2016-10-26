@@ -9,7 +9,12 @@ not record, but primarily taking the information from google groups.
 
 ## Other Suns 2nd Edition Manual
 This documentation largely comes from the unfinished (as far as I know) 2nd Edition of the RPG. It was published on usenet between 1990-1991 alongside an 
-iceworld supplement.
+iceworld supplement. 
+
+1. Ice World supplement contains sample random encounters, arctic equipment and a description of the harsh conditions.
+
+    
+    
 
 ## Other Suns 1st Edition Star System Generator
 The code itself comes from USML, the universe simulator mailing list which was active for a short period at the end of the 80's start of the 90's. It seems 

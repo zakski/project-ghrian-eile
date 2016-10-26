@@ -1,0 +1,120 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/xPwvvXfMo98
+TITLE: Other Suns : 17 
+
+----------------------------------------------------------------------------
+
+Friday, 12 October 1990 15:08:29 UTC+1 - John Redden:
+------------------ OS.17 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero. This gaming material is distributed on a shareware basis. If you do not use the material you owe the author
+nothing. If you do use it please pay him what you think it is worth at a fair price because it took a damn lot of work to develop and playtest. The USmail
+address is:
+    Niall Shapero
+    2536 Short Ave
+    Los Angeles
+    CA 90066
+    USA
+
+Those of you with modems can dial into his BBS using this phone number:(213)822-6729
+Please email any comments to my electronic mailing address and I will pass them on to Niall.
+
+---------------- end of preamble -------------------------------------------
+                         ICE WORLD I (PART 1 OF 28)
+    The following is material from an unpublished supplement to Other Suns by Niall C. Shapero and J. Andrew Keith:
+
+                         Introduction
+    ICE WORLD is a supplement for Other Suns dealing with operations in sub-zero, arctic environments. Extreme cold can affect a party of adventurers in many
+ways; just surviving in arctic conditions can be a major endeavor in itself, and movement, combat and other activities become correspondingly more difficult
+as the environment becomes more hostile. Representing the hazards and difficulties of arctic adventuring in Other Suns is the subject of this booklet.
+
+    Despite its name, ICE WORLD is not necessarily limited in scope to dealing with planets which are entirely ice locked. Indeed, although science fiction
+film and literature is filled with "ice planets" and "jungle planets" and "desert planets," the fact is that no world is likely to be so monolithic in nature.
+There is room on any planet for a variety of environments, and arctic conditions may be encountered somewhere on almost any type of reasonably Earth-like world.
+Whether the entire planet is locked in perpetual cold, or is a perfectly terrestrial planet with frigid zones at the poles, or even if the adventure in progress
+just happens to be set in an ordinary temperate region during that hemisphere's winter months, the rules presented in this booklet will be equally valid and
+useful to the referee who must administer the situation the adventurers must meet and overcome.
+
+    The material presented here is intended to expand, not replace, the rules in the basic Other Suns booklets. These rules should be considered as optional
+additions to the original game, concepts and guidelines to be implemented or ignored as desired. None of these ideas need be regarded as gospel; it is up to the
+individual referee to use or discard these different rules' concepts, or possibly to expand upon them even further to develop even more detailed approaches
+to the problems of arctic environments and operations. The referee always has the final word on how the game should be played.
+
+    ICE WORLD is divided into four separate sections. The first, Rules, deals with game rules for handling a wide variety of arctic conditions and situations,
+from weather to terrain to skills to movement and combat effects and beyond. Equipment presents a number of equipment types, with information capabilities,
+availability, reliability and price. In the third section, Encounters and Events, and extensive set of encounter tables and rules are presented for use in
+Other Suns adventures. These tables are generic, applicable to almost any world or locale where arctic conditions are found, and can be further modified as
+desired to broaden their applicability. Various events are de-fined and discussed in this section as well.
+
+    ICE WORLD may be used in conjunction with other, similar Other Suns supplements, both published and forthcoming. Arctic conditions can be found on high
+mountain peaks, so that ICE WORLD's rules can be combined with those in MOUNTAIN WORLD [forthcoming]. The entire series of forthcoming World Supplements is
+designed to link together, so that the Other Suns adventurers can move comfortably from one environment to another using this common game system.
+
+                         Rules
+    All of the rules and procedures found in Other Suns are assumed to remain in force when using ICE WORLD, except where alterations or conflicts are
+specifically noted. In such instances, this booklet should prevail, but the Referee should always feel free to alter or disregard any of this material in order
+to tailor it to the tastes and abilities of the specific group of players involved in the game. It is important to remember, however, that a change in the
+structure of these rules could affect more than just the one rule altered, and the Referee should always take care to see to it that no modifications that
+are made cause unforeseen damage to the rest of the game system.
+
+                         SKILLS
+    Four skills must be added to Other Suns to reflect the ability of individual characters to deal with the hazards of arctic conditions: Arctic Travel,
+Arctic Survival, Skating and Snowshoeing.
+
+    Arctic Travel: This skill is available as a secondary subfield to First-In Colonists and Soldiers. It is a primary subfield of Survival Experts.
+
+    Arctic Survival: Arctic Survival skill is available as a second-ary subfield to First-In Colonists and Soldiers, and as a primary subfield to Survival
+    Experts. As an option, the Referee may allow the skill as a secondary subfield to Permanent Colonists who come from or settle a planet where arctic conditions
+    are common.
+
+                         ICE WORLD I (PART 2 OF 28)
+
+    Snowshoeing: This skill is available as a secondary subfield to First-In Colonists and as a primary subfield of Survival Experts. As an option, the
+    Referee may allow the skill as a secondary subfield to Permanent Colonists who come from or settle a planet where arctic conditions are common.
+
+    Skating: This skill is available as a secondary subfield to First-In Colonists and as a primary subfield of Survival Experts. As an option, the Referee
+    may allow the skill as a secondary subfield to Permanent Colonists who come from or settle a planet where arctic conditions are common.
+
+    SKILL DESCRIPTIONS
+    Arctic Travel: This skill represents the character's knowledge of the special difficulties involved in travel under severe arctic conditions. It is a
+    limiting skill for Skiing, Snowshoeing, and Vehicular operations under these special conditions.
+
+    This is a Knowledge skill, with a 3% base for non-Altani and a 30% base for Altani. The training costs are as follows: 50/150/350/500/650.
+
+    Arctic Survival:
+    This is the adventurer's ability to cope with the rigors of staying alive in sub-zero conditions.
+    The Arctic Survival skill is used in many different situations, whether it be to locate sources of food and water, constructing or finding shelter, or
+    staying alive for the longest period of time under extremes of temperature and harsh weather. Many exact rolls and procedures are noted throughout this
+    booklet; others may be invented by the Referee on the spot to deal with unusual situations.
+
+    When characters are cooperating and in communication, the survival skill of the GROUP is set equal to the Arctic Survival skill of the highest skilled
+    character -- only the highest skilled member need make his skill roll for the entire group to benefit. Should the best trained individual in the group
+    FAIL his roll, the remaining characters may still attempt to make their own skill rolls; however, if the group's resident expert fumbles his Arctic Survival
+    skill, the remaining characters may NOT attempt their skill rolls. Thus, an expert will generally improve the group survival chances through his guidance
+    and assistance, but he may also lead the group astray -- and into disaster if he fails too badly.
+
+    This is a Knowledge skill with a 0% base for non-Altani and a 30% base for Altani. The training costs are as follows: 50/100/200/400/800.
+
+    Skating: This is a measure of the character's ability to travel on ice skates (and is applied as per the Skiing skill).
+    This is a Manipulation skill, with a 6% base for non-Altani and a 30% base for Altani. The training costs are as follows: 50/150/350/500/650.
+
+    Snowshoeing: This is a measure of the character's ability to travel through snow conditions effortlessly.
+    This is a Manipulation skill, with a 6% base for non-Altani and a 30% base for Altani. The training costs are as follows: 100/200/400/800/1200.
+    While snowshoeing, a character must make his Snowshoeing skill or expend 1D4 END points (on a temporary basis) every hour.
+
+    While Skating or Skiing, a character must make his skating or skiing roll or expend 1D3 END points (on a temporary basis) every hour.
+    In any hour period in which a clean action roll is made, there is a possibility of recovering 1 END point previously lost through snowshoeing, skating or
+skiing: if a roll on 1D100 is less than or equal to the WIL of the character, one point of END will be recovered. In any hour spent snowshoeing, skating or
+skiing in which a critical roll is made in the snowshoeing skill, one point of END lost through snowshoeing will be recovered on a roll of WIL x 5 or less on
+1D100.
+
+    As described later, Snowshoeing constitutes HEAVY activity, and both Skating and Skiing constitute MODERATE activity.
+
+                         THE SUBZERO ENVIRONMENT
+    The problems of surviving in arctic conditions stem primarily from two factors (or, more exactly, two facets of a single fac-tor) -- terrain and weather.
+Determining just how severe or hazardous the conditions to be faced will be is the province of the Referee, but the guidelines given in this section should
+provide a fairly effective starting point.
+
+                         Subzero Regions:
+    In general, there are three basic regions where subzero conditions will be encountered. Each has its own characteristics in terms of terrain, weather,
+and problems to be overcome.
