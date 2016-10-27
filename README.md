@@ -7,6 +7,9 @@ The Documentation comes from a smattering of usenet archive sources, hoboes.com 
 google groups, however it does not record the actual dates the messages where originally sent. So I will use both, hoboes filling in for what google groups did 
 not record, but primarily taking the information from google groups.
 
+The Naming Convention of these projects comes from a loose english to irish translation of words, in this case its the words 'other sun'.
+
+
 ## Other Suns 2nd Edition Manual
 This comes from the unfinished (as far as I know) 2nd Edition draft of the RPG. It was published on usenet between 1990-1991 alongside the 
 iceworld supplement. Consists of posts 0-2 by John Redden.
