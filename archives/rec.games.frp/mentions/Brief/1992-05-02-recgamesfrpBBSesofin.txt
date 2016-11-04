@@ -1,0 +1,320 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/oJGVi6eNdGU
+TITLE: [rec.games.frp] BBSes of interest to roleplayers 
+
+----------------------------------------------------------------------------
+
+Saturday, 2 May 1992 21:40:46 UTC+1 - mil...@wilma.wharton.upenn.edu:
+Archive-name: roleplay/part6
+Original-archive-name: rgf.6
+                         BBS's for Roleplayers
+
+Contents:
+        The Steve Jackson Games BBS -- Austin, Texas, USA
+        The Red October BBS (Hero Games) -- Austin, Texas, USA
+        The Harnline BBS (Columbia Games) -- Vancouver Canada
+        Blacksburg Tactical Research Center (BTRC) Internet Mail Address
+        Necropolis of Dreams (Ragnarok Games)   --   Austin, TX, USA
+        The Broken Blade BBS (Unaffiliated) -- Seattle, Washington, USA
+        Astral Void BBS (Unaffiliated) -- Mesa, Arizona, USA
+        Red Star BBS (Vervan Net backbone) -- Burlington, IL, USA
+        Purgatory BBS  (Unaffiliated) --  Salem, Oregon, USA
+        Bladerunner BBS (Unaffiliated) -- Waltham, Mass. USA
+        The DUNGEON BBS (Unaffiliated) -- western (?) NY State, USA
+        TeleDunjon III and IV (Unaffiliated) -- Dallas/Ft Worth, Texas, USA
+        Smasher Land BBS (Unaffiliated) -- Athens, Ohio, USA
+        U Want What!?! BBS (Unaffiliated), Macon, GA, USA
+        StormGate Aerie BBS (Other Suns), somewhere, 310 area code, USA
+        The Fantasy Shop (Unaffiliated), Suitland, Maryland, USA
+        Dave P. Martin's list of BBS's
+
+GAME COMPANY BBS's
+
+Several RPG companies now run their own electronic bulletin boards.  To
+connect to them, you must use a personal computer and a modem.
+(Exception: the BTRC address is not a BBS, but a real live game designer
+with an internet connection.)
+
+Name:           The Steve Jackson Games BBS -- Austin, TX, USA
+Dial:           (512)-447-4449
+Comm Settings:  8-N-1 (7-E-1 may work too)
+Baud:           300,1200,2400
+Info Updated:   3-Dec-1991
+Notes:          Steve Jackson Games operates a two line BBS, named the
+                Illuminati BBS, with discussion areas for most of SJG's
+                games, including GURPS. Much of the playtest feedback
+                for new products comes from the BBS.
+
+
+Name:           The Red October BBS (Hero Games) -- Austin, TX, USA
+Dial:           (512)-834-2548
+Comm Settings:  8-N-1???
+Baud:           300,1200,2400???
+Info Updated:   1-Feb-1991
+Notes:          Red October is the semi-official BBS of Hero Games. Many Hero
+                games supplement authors regularly call and there are several
+                discussion boards about Hero Games.
+                There are also pre-release beta test versions of most of the
+                upcoming supplements from Hero Games, as well as up-to-the-
+                minute news.
+
+Name:           The Harnline BBS (Columbia Games) -- Vancouver Canada
+Dial:           (604)-877-7752
+Comm Settings:  8-N-1
+Baud:           300,1200,2400
+Info Updated:   3-Jun-1991
+Notes:          Columbia Games (makers of the Harn series of campaign
+                supplements and the fantasy RPG system Harnmaster) has a BBS
+                called Harnline. There are currently about 50 files, mostly
+                unpublished material or revisions of published material.  User
+                contributions are encouraged.
+
+                The home of Harnline is Duffle Board - Rob Duff runs the board.
+
+                Because of the cost of calling Vancouver, Canada, from various
+                parts of North America and Europe, Columbia joined Vervan net
+                (see below for information on how to use it).
+
+Name:           Blacksburg Tactical Research Center (BTRC) Email Address
+Info Updated:   1-Apr-1991
+Notes:          Greg Porter of BTRC is available for any and all questions
+                relating to the BTRC's line of games and game products
+                (TimeLords and SpaceTime RPG's, Macho Women with Guns, 3G,
+                CORPS, WarpWorld, etc.). He can be reached on GMAST-L (see
+                above), or directly via email at:
+                Greg Porter <por...@jade.vcu.edu <>>
+
+Name:           Necropolis of Dreams (Ragnarok Games)   --   Austin, TX, USA
+Dial:           (512)-472-6905 (2400bps), (512)-472-6220 (1200bps)
+Comm Settings:  8-N-1
+Baud:           1200, 2400 (see above)
+Info Updated:   1-Feb-1991
+Notes:          Necropolis of Dreams has been online for almost 7 years.  It
+                features over 50 message bases with a heavy concentration on
+                gaming and game design as well as alternative political and
+                arts topics.  It is sponsored by Ragnarok Games (publishers of
+                Ysgarth, Suburban Slasher, To Challenge Tomorrow, etc), but
+                discussion is not limited by that and a wide variety of gaming
+                topics are addressed. The user base is very active and much
+                fun is to be had by all. Operating 24 hours on both lines.
+
+
+NON-AFFILIATED ROLE-PLAYING GAME BBS's
+
+There are quite a few Independent BBS's with a strong RPG slant out there in
+the great land of telecommunications.  Any comments on the suitability of
+including them in this file are welcomed.
+
+Note that the compiler of this list cannot check out these BBS's to
+ensure that they work as described.  If you send information about a BBS
+to me, please make sure your information is *complete* and accurate.
+Thanks.
+
+
+Name:           The Broken Blade BBS -- Seattle, Washington, USA
+Dial:           (206) 781-9424
+Comm Settings:  8-N-1
+Baud:           300,1200,2400
+Info Updated:   31-Oct-1991
+Notes:          Mike Owen <dun...@milton.u.washington.edu <>> is the sysop
+                of the Broken Blade: a free access bulletin board
+                system.
+
+                Although the message base is oriented toward
+                general-purpose discussions (there are only a couple of
+                RPG-oriented message areas), quite a few files are
+                available of interest to RPGers.
+
+Name:           Astral Void BBS -- Mesa, Arizona, USA
+Dial:           (602) 834-6065
+Comm Settings:  8-N-1
+Baud:           300,1200
+Info Updated:   6-26-1991
+Notes:          Tony Hamilton <tham...@ch3.intel.com <>> runs a
+                Roleplaying BBS.
+
+                The Astral Void BBS is home to role-players who conduct
+                games on the message boards, and also PBeM games.  The
+                BBS is single-lined, and currently is running 11 games.
+                New product information is posted for all the major game
+                companies, along with occasional reviews.  There are
+                also various text files on-line concerning various
+                role-playing topics.
+
+Name:           Red Star BBS (Vervan Net backbone) -- Burlington, IL, USA
+Dial:           (708) 683-2390 -- (vervan net is at other sites too)
+Comm Settings:  8-N-1
+Baud:           1200-9600 -- HST or V.32
+Info Updated:   15-Nov-1991
+Notes:          There's at least one BBS network devoted solely to
+                playing RPGs that you might want to look into. It's
+                called V-Net. For information about V-net, contact:
+
+                Joel Veeneman
+                P.O. Box 7
+                Burlington, IL 60109
+
+                Internet: jo...@redstar.marcal.com <>
+                UUnet:    uunet!devcom!marcal!redstar!joel
+                Fidonet:  1:115/639.0
+
+Name:           Purgatory BBS  --  Salem, Oregon, USA
+Dial:           (503) 370-9739
+Sysop:          ???
+Comm Settings:  8-N-1
+Baud:           300 - 14400
+Status:         Down ??? I've heard reports that Purgatory is down
+Info Updated:   16-Mar-1992
+Notes:          Linked to Vervan's Gaming Network as well as half a
+                dozen other nets (including Usenet through a Fido
+                Gateway operated by Joel Veeneman -- see entry for
+                Vervan Net).
+
+                Main thrust of the BBS is gaming and there are online
+                games for about a dozen systems. In addition we also are
+                one of the biggest Occult BBSs in the Pacific North-West
+                with a great deal of files on the subject. The other
+                thrusts are Fantasy/Sci Fi, and current events debate
+                and discussion type echos.
+
+Name:           Bladerunner BBS -- Waltham, Mass. USA
+Dial:           (617) 891-7338
+Sysop:          Laird Popkin (la...@think.com <>)
+Comm Settings:  8-N-1
+Baud:           300 - 2400 + PEP (Trailblazer Plus)
+Info Updated:   14-Sep-1991
+Notes:          Connected to the Citadel and usenet networks (as
+                blade.via.mind.org <http://blade.via.mind.org>). The BBS runs STadel (a Citadel variant)
+                on an Atari ST.
+
+                Topics discussed: Role Playing Games, GURPS, Warhammer,
+                AD&D, Call of Cthulhu, Hero/Champions, as well as assorted
+                Fantasy and SF and computer-related topics.  There are
+                also a number of online games, and discussions of SF, 
+                various computers, and whatever other topics arise.
+                There are no online time limits or upload/download rations.
+
+Name:           The DUNGEON BBS -- western (?) NY State, USA
+Dial:           (716) 656-8573
+Comm Settings:  8-N-1
+Sysop:          Master DaarKhan ???
+Baud:           300 - 2400
+Info Updated:   14-Sep-1991
+Notes:          Western New York's finest board devoted to fantasy role
+                playing. Features include over 50 message bases of all
+                types, most of which are WWIVnet, the world's second
+                largest private network.
+
+                WWIVnet @ 7653
+
+Name:           TeleDunjon III and IV -- Dallas/Ft Worth, Texas, USA
+Dial:           (214) 960-7654 and (214) 238-1568
+Sysop:          ???
+Comm Settings:  8-N-1
+Baud:           300 - 2400
+Info Updated:   14-Sep-1991
+Notes:          The Teledunjon III and Teledunjon IV boards offer
+                play-by-modem roleplaying games. They also publish the
+                TeleDunjon Journal, an irregular online magazine for
+                modem RPG enthusiasts.
+
+                If you're in the Dallas-Fort Worth Metroplex (north
+                Texas) or can afford to call it regularly, check out the
+                Teledunjon systems and join a game (or run your own).
+
+Name:          Pyramid BBS, DC Metro Area, Virginia
+Dial:          (703) 912-9878
+Sysop:         Terilee Edwards
+               Suite 548, 7010 Brookfield Plaza, Springfield, VA 22150
+Comm Settings: 8-N-1
+Baud:          300 to 2400 ?
+Info Updated:  1 October 1991
+Notes:         A free BBS, with two areas dedicated to gaming, with one
+               area for live action role playing gaming and discussion
+               and bulletins about the Interactive Literature Foundation
+               (a live gaming organization).
+
+Name:          Smasher Land BBS (Unaffiliated) -- Athens, Ohio, USA
+Dial:          (614) 593-8359
+Sysop:         Scott Mash <sm...@oucsace.cs.ohiou.edu <>>
+Comm Settings: 8-N-1 (Proboard v.1.17) Free
+Baud:          300 to 2400
+Info Updated:  29-Feb-1992
+Notes:         Smasher Land has textfiles and utilities for AD&D,
+               GURPS, Shadowrun, Fantasy Hero, Champions, Traveller,
+               etc.  As well as a messagebase for each.  Smasher Land
+               also offers a variety of online games that are
+               accessable by all users.
+
+               Internet/Usenet limited access is now available to all
+               users on Smasher Land BBS.  You can send email to any
+               internet, bitnet etc. address. Right now only one
+               newsgroup is received, rec.games.frp since it is an rpg
+               bbs.  I plan to add one or two more groups as soon as my
+               bbs users decide on what group.
+
+
+Name:          U Want What!?! BBS, Macon, GA, USA
+Dial:          (912) 471-7629 (soon 2 lines)
+Sysop:         Richard Weeks <rwe...@logdis1.wr.aflc.af.mil <>>
+Comm Settings: 8-N-1
+Baud:          300 to 2400
+Info Updated:  15-Feb-1992
+Notes:         Several RPG doors are functioning including Barons,
+               Axoru (shareware for now), Steller Quest, Trade Wars
+               2002, and others.  We have an AD&D and RPG message area
+               and I am a 14 yr Dungeon Master for AD&D, as well as
+               playing and GM for Dragon Quest, Champions, RIFTS, V&V
+               and others.
+
+Name:          StormGate Aerie BBS, somewhere, 310 area code, USA
+Dial:          310-822-6729
+Sysop:         Nicolai Shapero
+Comm Settings: 8-N-1
+Baud:          300/1200/2400/9600HST/14400HST
+Network:       Fidonet
+Info-Updated:  15-Apr-1992
+Notes:         OTHER SUNS (sf role playing game) headquarters.
+               Several multiplayer role playing games available
+               through echomail.  (A FidoNet echomail conference
+               is similar to an unmoderated Usenet newsgroup.)
+
+Name:          The Fantasy Shop, Suitland, Maryland, USA
+Dial:          301 967 1843
+Sponsor:       Washington Metropolitan Area Gaming Society
+Contact:       Jon F. Zeigler <jfz...@afterlife.ncsc.mil <>>
+Comm Settings: 8-N-1
+Baud:          300/1200/2400
+Info-Updated:  2-May-1992
+Notes:         The Fantasy Shop is a new (less than 2 months old) BBS
+               sponsored and operated by the Washington Metropolitan
+               Area Gaming Society.  It is devoted to discussion and
+               on-line play related to all aspects of the gaming hobby,
+               particularly role-playing games.  There are as yet no
+               user fees,  although access is greater for members of the
+               Society.  The new-user's password is "WMAGS".
+
+MORE LISTS OF BBS'S
+
+In addition to this list, David P. Martin <b...@ignem.Corp.Sun.COM <>> has
+decided to compile a more complete list much like it. This is an extract
+from his notice.
+
+        If possible, please use the following template.  Multiple lines
+        for each entry are OK.
+
+        Name            :
+        Type            :
+        Location        :
+        Administrator   :
+        To contact      :
+        Ph#/Address     :
+        Access Details  :
+        Fees            :
+        Description     :
+        Notes           :
+-- 
+whoah,
++++++++++++++++++++++++23
+Loren Miller                internet: MIL...@wharton.upenn.edu <>
+The more corrupt the government, the greater the number of laws
+                                                     -- Tacitus

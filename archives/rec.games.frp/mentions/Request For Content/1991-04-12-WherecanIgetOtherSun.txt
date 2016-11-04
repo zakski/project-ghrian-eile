@@ -1,0 +1,85 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/HxgzIOThsJ0
+TITLE: Where can I get Other Suns? 
+
+----------------------------------------------------------------------------
+
+Friday, 12 April 1991 14:40:16 UTC+1 - Nicolai Shapero:
+Mike O'Connor wrote in 
+Message-ID: <1991Apr9.0...@engin.umich.edu <>>:
+ MO>Does anyone have a complete copy of Other Suns available via 
+ MO>anonymous
+ MO>FTP or mail or somesuch?
+
+The first edition of OTHER SUNS is out of print; if anyone typed up a copy 
+and made it available on Internet, they violated the copyright law.
+
+The second edition of OTHER SUNS (which will be made available on a 
+shareware basis in computer readable form) is not yet finished.  When it is 
+finished, anyone can post it anywhere.
+
+When I finish the second edition, I'll be posting a note here on 
+rec.games.frp.  In the meantime, if you're REALLY desparate for an OTHER 
+SUNS fix, you can call up any of the following BBSs:
+
++---------------------------------------------------------------------+
+| Station Name            Number          PCP Outdial  FidoNet Number |
+| ======================  ==============  ===========  ============== |
+| StormGate Aerie *       1-213-822-6729     CALAN     102/524        |
+| Kitty's Sandbox         1-602-829-7522     AZPHO     114/110        |
+| The Polar Den           1-214-361-8992     TXDAL     124/1005       |
+| Armadillo Connection    1-813-378-2218    UNKNOWN    137/111        |
+| ClawMarks *             1-415-452-0350     CAOAK     161/314        |
+| The Phoenix Nest        1-415-571-1486     CAPAL     204/2          |
+| The Otter's Holt *!     1-714-986-1525     None      207/108        |
++---------------------------------------------------------------------+
+
+as each of them carries the OTHER SUNS FidoNet echo conference (a FidoNet 
+echo conference is much like an unmoderated usenet newsgroup).
+
+Stations marked with an "*" support 9600/14400 HST connects, stations 
+marked with an "!" support 9600 v.32 connects.  All stations support 
+300/1200/2400 connects.  All expect 8 data bits, 1 stop bit, no parity.
+
+-- Nicolai Shapero, the Mad Russian Sysop of StormGate Aerie
+ 
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Sunday, 14 April 1991 06:02:05 UTC+1 - Ryk E Spoor:
+        Amazing, someone who's heard of Other Suns, a space game as 
+obscure as Starships and Spacemen (Anyone out there have a copy? I'd
+kinda like one for nostalgia if nothing else...). Yes, I have a copy
+of Other Suns. 
+                                 Sea Wasp
+----------------------------------------------------------------------------
+
+Tuesday, 16 April 1991 17:49:59 UTC+1 - Viktor Haag:
+In article <2984.2...@ofa123.fidonet.org <>> Nicolai...@f524.n102.z1.fidonet.org <> (Nicolai Shapero) writes:
+>Mike O'Connor wrote in 
+>Message-ID: <1991Apr9.0...@engin.umich.edu <>>:
+>
+> MO>Does anyone have a complete copy of Other Suns available via 
+> MO>anonymous
+> MO>FTP or mail or somesuch?
+>
+>The first edition of OTHER SUNS is out of print; if anyone typed up a copy 
+>and made it available on Internet, they violated the copyright law.
+It may be out of print, but there are still plenty of copies hanging around.
+I just managed to pick up a new copy a month ago from my neighbourhood game
+store, and the owner has said that his supplier turns them up from time
+to time.  Perhaps the thing to do if you are really wanting to find a copy
+is to phone a number of game stores, and see if they have them, or can order
+them for you.
+
+
+-- 
+
+vik                                        an aspiring HERO guru
+
+veh...@crocus.uwaterloo.ca <>

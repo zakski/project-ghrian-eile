@@ -1,0 +1,47 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/xY0TdJW26QE
+TITLE: "!Hark!, what through yonder window squishes..." 
+
+----------------------------------------------------------------------------
+
+Saturday, 3 November 1990 15:25:46 UTC - Nicolai Shapero:
+ U>        1.  I am looking to meet some gamers in San Diego, as I 
+ U>am soon to be moving down there.  I play and GM a variety of 
+ U>games.  So if a few people out of 
+ U>all the So. Cal gamers could drop me a line (please) and 
+ U>corispond a bit, that
+ U>would be great.
+While it might be a bit of a drive from San Diego (120-140 miles,
+depending upon where in SD you fetch up) there's a reasonably active
+group centered here in Marina Del Rey (in the LA area).  OTHER SUNS
+is the primary game here (surprise, surprise), but CHAMPIONS or
+FANTASY HERO are also a possibility from time to time.
+
+-- Nicolai Shapero, the Mad Russian Sysop of StormGate Aerie
+ 
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Tuesday, 6 November 1990 21:00:10 UTC - John Charles Fiala:
+Like the electronic services (once-a-month) intro post says:
+An FTP site for storing character sheets in Postscript format
+was set up at St. Olaf's College by Matthew Pearson. Matthew
+has since graduated, so we don't know how much longer the
+archive will be operating.
+The FTP address is:     nic.stolaf.edu <http://nic.stolaf.edu> [130.71.128.8]
+ All files are in the directory /pub/ps-sheets
+ D&D fans should also look for the Net Spellbook, compiled by
+ Matthew Presley. It's in the directory /pub/net_spellbook
+
+Cool?
+(I also have some of them, should you not be able to ftp.  But I 
+hope you can use uudecode :)
+-john
+Ha!  No funny quote!  Go read a book!
+jf...@andrew.cmu.edu <>

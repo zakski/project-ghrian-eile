@@ -1,0 +1,232 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/A3MoMZojZ2U
+TITLE: More RuneQuest Experience 
+
+----------------------------------------------------------------------------
+
+Wednesday, 12 July 1989 01:30:55 UTC+1 - Eric Rowe;345 Mulford;x3-9092:
+The following is posted at the request of a friend who has just said
+farewell to his account but wanted to say a few last words about
+runequest experience.
+
+     I like the RuneQuest system, but it seems mandatory that every RQ 
+player make up their own "better" Experience system.  Well, here's 
+mine, and the reasons why I like it.  But first, an explanation of why I 
+did my own experience system...
+    I do like most of the features of the system put forth in RQ III, 
+especially the way it scales for the various skill levels.
+   To sum up this scaling, the rate of skill increase for ordinary checks 
+is:
+X x (1-X)  for skill levels less than 100%
+and
+X x (1- Bonus) for high skill levels.
+
+    This is fine and dandy, but there are still problems with RQ's system:
+The "frenzy," where characters frantically run around trying to succeed in 
+each of their skills only *once*.  Once they have done this, they don't 
+bother trying that skill any more.
+    This problem is caused by the fact that the only one check is needed to 
+increase the skill in question, and only one check is possible per 
+adventure.  Why should a character bother using a skill again once he's 
+gotten his "check?"
+    The other problem I've had with the system is that character 
+advancement is really slow.  It just takes forever to make any significant 
+improvements in characters, unless they do a lot of training...
+
+     This leads to my New and Improved RQ Experience System:
+
+Basically, the normal RuneQuest Experience Check system is still used, but 
+the characters may get multiple Experience Checks in the same skill.  
+However, these multiple checks get harder to get the more they have.
+
+To be specific:
+The first Check in a skill only requires a normal success.
+The second in the same skill requires a special (or better) success.
+Further checks require a critical success.
+
+These checks are then resolved at the end of adventure, as in the normal RQ 
+rules for experience.  However, for simplicity's sake,  skill increases 
+between checks is neglected.  I.e. make the experience checks all against 
+the same skill level.
+
+There are some further (optional) modifications to this system:
+Characters may get multiple checks for very good rolls the first time they 
+use a skill. i.e. If a character gets a special or critical success the 
+first time they use skill, they get two checks.
+
+
+But that's basically the whole of my system.  Here's a brief example to 
+show how it works:
+   Using good old Cormac, back when he has a 80 skill in his axe attack 
+skill.  He gets thrown into a gladiatorial duel.  His attack rolls for the 
+five round duel are: 60, 40, 10, 10, 02 (the critical defeats the foe).  He 
+gets three experience checks:  One for the 60, a normal success.  He needs a 
+special for the second check, so the 40 got him nothing, but the 10, a 
+special, did.  The 02 was a critical, and gives him the third check.  If 
+the critical hadn't have ended the duel, he could have gotten more checks 
+may making more critically successful attacks!
+   Later that week, while he is recuperating from wounds received in a less
+successful duel, he may resolve any gains he might have gotten from 
+experience.  His player rolls for the 4 experience checks Cormac has (he 
+got another critical before being knocked out...) and gets 66,98,32,78.  
+For his skill of 80 (+6 bonus), he needs a 75-100, so the 98 and 78 are 
+successful checks, and Cormac's skill in axe attack goes up by 2d6.  Note 
+that had the skill increase of individual checks been taken into account, 
+the 78 might not have been a successful experience check.
+
+
+Here are some comments on the advantages and disadvantages of this 
+experience system:
+
+Advantages:
+  1) It is very much like the normal RQ experience system.
+  2) The experience gains generally follow the normal RQ rates of increase.
+  3) Characters will improve faster.  (maybe a disadvantage)
+  4) Skills that are used frequently will improve faster than ones only 
+used rarely.
+  5)  There is incentive to use a skill even after a character has gotten 
+his "check."
+  6)  It is a simple system that doesn't require a lot of paperwork or 
+interruption of flow of play!
+
+Disadvantages, and possible fixes:
+  1)  Characters with very high skills (200+) may be increasing too fast as 
+they can easily get critical successes!
+      Fix:  Well, these characters should probably be Heroquesting anyway.  
+And for that they're probably going to need a high rate of skill increase 
+for just to survive!
+      If it is still a problem, only allow 3 checks, or require HyperCrits, 
+etc for further checks (See Steve Maurer's Heroquesting rules for details 
+on really awesome HyperCrits and such!)
+  2)  The frenzy is still possible, though it is more blatant (and there is 
+less incentive).  For example:
+   "I succeed in my sword attack!  That's one check, but I'll need a special 
+for the next one, so I punch the next round!  Gee, successful fist attack 
+for a fist attack check!   Better go back to sword, 'cuz it's more likely I 
+can special that for its second check!"  and so on...
+    If this problem arises, just make all the checks for similar skills 
+(like all melee weapon attack skills) used within a period (say, 5 minutes) 
+are treated as the same skill difficulty.  I.e., in the example above, the 
+fist attack would need a special for the check, even though it was the 
+character's first check in fist attack.  And if he switched back to sword 
+after getting a special in fist attack (for the check), he would need a 
+critical to get any sword check!
+    This fix may hurt sorcerors who use a variety of spells however, unless 
+their spells are deemed non-similar skills.
+
+
+    I must admit that this system hasn't been playtested much.  It does 
+look good on paper (well, to me, at least), so I'm posting it for comment.
+
+
+                                    Eric Mehlhaff
+
+  High Lethality = Better Roleplaying as dead characters are ridiculously
+  easy to roleplay!
+
+
+Reply e-mail if necessary to 
+--
+
+
+                                       ro...@enzyme.berkeley.edu <>
+----------------------------------------------------------------------------
+
+Wednesday, 12 July 1989 13:23:23 UTC+1 - VICC Project (Rose):
+Eric Mehlhaf (I hope I spelled that correctly) presented a nice system
+there. I especially like the analysis of possible problems.
+
+The system I used back when I played RQ was to give +1% to the experience
+roll for each additional check. I never ran a campaign long enough to know
+how well this would work. It requires a little more paperwork but is still
+simple.
+Another problem with RQs system (and Hero Games and GURPS) is the definition
+of 'adventure'. If you get one check per adventure then the epic adventure
+which took 7 sessions is worth no more (or little more) than the adventure
+which took one 2 hour session. One fix to this is to give the ep per some
+number of hours of playing, or per month or week or whatever of gametime.
+
+Frank Filz
+----------------------------------------------------------------------------
+
+Wednesday, 12 July 1989 15:09:43 UTC+1 - Sean Malloy:
+In article <59...@rpi.edu <>> vi...@unix.cie.rpi.edu <> (VICC Project (Rose)) writes:
+>Eric Mehlhaf (I hope I spelled that correctly) presented a nice system
+>there. I especially like the analysis of possible problems.
+>
+>The system I used back when I played RQ was to give +1% to the experience
+>roll for each additional check. I never ran a campaign long enough to know
+>how well this would work. It requires a little more paperwork but is still
+>simple.
+In the SFRPG _Other Suns_, whose working title while under development
+was 'Runes in Space' (the game designer originally wanted to sell it
+to Chaosium until he couldn't get a reasonable contract out of them,
+then changed the RQ-specific mechanics and sold it to FGU), the skill
+improvement mechanic takes usage into account.
+
+The base skill improvement chance is max(100-%age,0) + INT on D100. To
+this base chance is added 1% for every normal success at the skill,
++5% for every 'clean' success (RQ Impale equivalent), and +10% for
+every critical success. This is normally handled during play by making
+tickmarks on the character sheet (you _do_ use sheet protectors or
+have your character sheets stored on a computer, don't you?), and
+referenced when the session is over.
+
+
+ Sean Malloy                                        | "The proton absorbs a photon
+ Navy Personnel Research & Development Center        | and emits two morons, a
+ San Diego, CA 92152-6800                        | lepton, a boson, and a
+ mal...@nprdc.navy.mil <>                                | boson's mate. Why did I ever
+                                                | take high-energy physics?"
+----------------------------------------------------------------------------
+
+Thursday, 13 July 1989 02:56:15 UTC+1 - VICC Project (Rose):
+In article <2789@skinner.nprdc.arpa>, malloy@nprdc.arpa (Sean Malloy) writes:
+> In the SFRPG _Other Suns_, whose working title while under development
+> was 'Runes in Space'
+Ah good ole Other Suns. The other working title I heard was By the Light of
+Other Suns. I'm not surprised that got shortened.
+>
+> [ description of improvement system deleted to satisfy postnews ]
+
+>
+> This is normally handled during play by making
+> tickmarks on the character sheet (you _do_ use sheet protectors or
+> have your character sheets stored on a computer, don't you?), and
+> referenced when the session is over.
+I had forgotten that. Yes, sheet protectors are a must. I first bought
+sheet protectors when I was running RQ.
+
+Frank Filz
+----------------------------------------------------------------------------
+
+Thursday, 13 July 1989 15:28:26 UTC+1 - Sean Malloy:
+In article <59...@rpi.edu <>> vi...@unix.cie.rpi.edu <> (VICC Project (Rose)) writes:
+>In article <2789@skinner.nprdc.arpa>, malloy@nprdc.arpa (Sean Malloy) writes:
+>> In the SFRPG _Other Suns_, whose working title while under development
+>> was 'Runes in Space'
+>
+>Ah good ole Other Suns. The other working title I heard was By the Light of
+>Other Suns. I'm not surprised that got shortened.
+When FGU ran into financial problems, they let Other Suns go out of
+print, which under the terms of the contract Niall had with them meant
+that publishing rights reverted to him. He is now in the process of
+doing an update and rewrite of the Other Suns rules and the
+scenario/world/race supplements, most if not all of which never saw
+the light of day (_Ice World_ is apparently being folded into the
+basic rules set; I'm not sure what is being done with the supplement
+on the Auuri or the notes on minor races in the Hegemony).
+
+The new rules set is going to be released as shareware on disk; I
+believe registration will get you a printed set. Also, Niall has set
+up an evening-and-weekends BBS which has an _Other Suns_ area on it.
+The BBS is hooked into FidoNet, and a couple of other sysops are going
+to be getting feeds of the _Other Suns_ traffic. If anyone is
+interested, send me mail, and I will send them the number for the BBS
+(it's at home right now, and I'm not).
+
+
+ Sean Malloy                                        | "The proton absorbs a photon
+ Navy Personnel Research & Development Center        | and emits two morons, a
+ San Diego, CA 92152-6800                        | lepton, a boson, and a
+ mal...@nprdc.navy.mil <>                                | boson's mate. Why did I ever
+                                                | take high-energy physics?"

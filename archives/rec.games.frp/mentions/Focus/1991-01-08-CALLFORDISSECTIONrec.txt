@@ -1,0 +1,2696 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/gQEheO_-MU0
+TITLE: CALL FOR DISSECTION: rec.games.frp reorg 
+
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 02:53:33 UTC - tsource:
+It has been purposed that rec.games.frp be reorged here is
+my perposed reorg sceme (please post all comments to news):
+rec.games.rpg.d                  dissection
+rec.games.rpg.source*                software
+rec.games.rpg.characters        characters posted to the net
+rec.games.rpg.story*                stories
+rec.games.rpg.ref*                reference material
+rec.games.rpq.misc                miscalinus
+* moderated
+
+I want to know what people think of this
+Please note that we can have a differnt kind of reorg or
+differnt set up for these groups
+-- 
+ [=]    [=-=]    [=]
+ | |=-=-| c |-=-=| |
+_|_|____|_^_|____|_|_
+
+(ia...@ucscb.ucsc.edu <>)
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 03:45:29 UTC - Collins Walter III:
+In article <10...@darkstar.ucsc.edu <>> ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>
+>It has been purposed that rec.games.frp be reorged here is
+>my perposed reorg sceme (please post all comments to news):
+>rec.games.rpg.d                  dissection
+>rec.games.rpg.source*                software
+>rec.games.rpg.characters        characters posted to the net
+>rec.games.rpg.story*                stories
+>rec.games.rpg.ref*                reference material
+>rec.games.rpq.misc                miscalinus
+>
+>* moderated
+>
+>I want to know what people think of this
+I vote yes for whatever, but I think I would prefer the following:
+
+        1. rec.games.frp -- anything and everything that is currently here. 
+        2. rec.games.frp.stories -- stories, scenarios, characters,
+                        and miscellaneous roleplaying experiences.
+        3. rec.games.frp.ref -- net spellbooks, monster manuals, game
+                        system rules, new weapon/armor/etc descriptions.
+
+I'm also not sure we need a moderator.  This is a fairly free-form news
+board.  IMHO there is no need to change it drastically.  These suggestions
+should ruffle fewer feathers than your above splits.  People who don't
+choose to post to the new boards (#'s 2 & 3) wouldn't have to.  The two
+boards I suggested adding would take a significant amount of noise out of
+the main board.  I think there might be enough interest in all of them to
+stay alive, too.
+
+Tell me what you all think about the 3-part split.
+Walt
+
+
+--
+----> wcol...@eniac.seas.upenn.edu <> (Walter J. Collins, III)------------> :)
+4311 Spruce St/Apt B-8 |  Gamer, Musician, Veteran, Student, Computer Lover.
+Philadelphia, PA 19104 | 
+Home: (215) 386-4931   |     In my opinion, my opinion is right.  I think.
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 04:16:35 UTC - Willis F York:
+ia...@ucscb.UCSC.EDU <> (tsource) writes:
+
+
+>It has been purposed that rec.games.frp be reorged here is
+>my perposed reorg sceme (please post all comments to news):
+>rec.games.rpg.d                  dissection
+>rec.games.rpg.source*                software
+>rec.games.rpg.characters        characters posted to the net
+>rec.games.rpg.story*                stories
+>rec.games.rpg.ref*                reference material
+>rec.games.rpq.misc                miscalinus
+Well I don't think anyone would want to moderate the stuff.
+and there are too many seperations..
+
+I'd prefer a "gernral discussion" and a "Source of new Ideas"
+
+so ya gripes would go in one, ya new spells in the other...
+
+Seems that a 2 way split would give a break to everyone..
+
+my .02$.
+.
+
+--
+yo...@ecn.purdue.edu <>  Willis F York    
+----------------------------------------------
+Macintosh... Proof that a Person can use a Computer all day and still
+not know ANYTHING about computers.
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 05:35:22 UTC - Dave Buchthal:
+In article <35...@netnews.upenn.edu <>> wcol...@eniac.seas.upenn.edu <> (Collins Walter III) writes:
+>I vote yes for whatever, but I think I would prefer the following:
+>        1. rec.games.frp -- anything and everything that is currently here. 
+>        2. rec.games.frp.stories -- stories, scenarios, characters,
+>                        and miscellaneous roleplaying experiences.
+>        3. rec.games.frp.ref -- net spellbooks, monster manuals, game
+>                        system rules, new weapon/armor/etc descriptions.
+>
+>I'm also not sure we need a moderator.  This is a fairly free-form news
+>board.  IMHO there is no need to change it drastically.  These suggestions
+>should ruffle fewer feathers than your above splits.  People who don't
+>choose to post to the new boards (#'s 2 & 3) wouldn't have to.  The two
+>boards I suggested adding would take a significant amount of noise out of
+>the main board.  I think there might be enough interest in all of them to
+>stay alive, too.
+>
+>Tell me what you all think about the 3-part split.
+I think this proposal is ideal, with a modification or two, of course. ;-)
+The movement as of late is to avoid making a name both a hub for
+subgroups and an active group.  We should rename r.g.frp to r.g.frp.misc
+if we split.  Also, I believe that r.g.frp.ref is a poor choice for
+a group name since the abbreviation is very non-obvious for people
+who speak English as a second language, which is a growing segment
+of the net.  I would prefer .reference to .ref, but I bet someone else
+can come up with a name that is better than both.  Any takers?
+
+David M. Buchthal
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 15:17:12 UTC - Mike Basinger:
+In article <10...@darkstar.ucsc.edu <>> ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>
+>It has been purposed that rec.games.frp be reorged here is
+>my perposed reorg sceme (please post all comments to news):
+>rec.games.rpg.d                  dissection
+>rec.games.rpg.source*                software
+>rec.games.rpg.characters        characters posted to the net
+>rec.games.rpg.story*                stories
+>rec.games.rpg.ref*                reference material
+>rec.games.rpq.misc                miscalinus
+-------------------------------------------------------------------------------
+I personally like only having to check one topic for all the
+role-playing info. If people really want to divide it, I would do it
+by games.
+rec.games.rpg.adnd                   Advanced Dungeons & Dragons
+rec.games.rpg.hero                Hero System
+rec.games.rpg.RQ                Rune Quest
+rec.games.rpg.pbm                Play by Mail
+etc etc
+You get the idea!!!
+
+"The only law I seem to obey is Murphy's"
+Mike Basinger
+dbas...@silver.ucs.indiana.edu <>
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 16:27:53 UTC - Jason Pascucci:
+In article <1991Jan8.0...@math.lsa.umich.edu <>>,
+dbuc...@math.lsa.umich.edu <> (Dave Buchthal) writes:
+|> In article <35...@netnews.upenn.edu <>> wcol...@eniac.seas.upenn.edu <>
+(Collins Walter III) writes:
+
+|> >I vote yes for whatever, but I think I would prefer the following:
+|> >        1. rec.games.frp -- anything and everything that is currently here.
+|> >        2. rec.games.frp.stories -- stories, scenarios, characters,
+|> >                        and miscellaneous roleplaying experiences.
+|> >        3. rec.games.frp.ref -- net spellbooks, monster manuals, game
+|> >                        system rules, new weapon/armor/etc descriptions.
+|> >
+|> >I'm also not sure we need a moderator.  This is a fairly free-form
+news
+Agreed. I prefer unmoderated groups. And r.g.f.stories can also contain
+discussions pertaining directly to the stories, and ref (or what ever)
+can contain a bit of discussion about the docs..
+
+
+|> The movement as of late is to avoid making a name both a hub for
+|> subgroups and an active group.  We should rename r.g.frp to
+r.g.frp.misc
+I think this has stayed this way for too long to get changed. 
+However, I'm not sure that having a .misc wouldn't be such a bad
+idea. It could contain sources, announcements to con's, stuff
+not covered by the general group, and we save r.g.f for discussion only.
+
+
+|> if we split.  Also, I believe that r.g.frp.ref is a poor choice for
+r.g.frp.man? I think a majority of people have some form
+of  **IX experience. Man is the first thing they should be taught. :)
+
+|> 
+|> David M. Buchthal
+
+
+Jason R. Pascucci
+
+Disclaimer: My opinions are, my facts may be, and my typing is bad.
+I in no way constitute a normal member of the human race, the rat race,
+or the 10k race,  and thus nobody is in any way to be held responsible 
+for my behaviour, not even me. (Unless it's good in which case I take
+full responsibility, and even have it reflect on my school, my mother,
+and my dog Spike. Well, I actually don't have a dog Spike but if I did,
+he would be proud. Well, maybe he might have trouble reading, but.....
+*BANG!* Uhg. =Whump=)
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 17:08:17 UTC - slo...@kuhub.cc.ukans.edu:
+In article <10...@darkstar.ucsc.edu <>>, ia...@ucscb.UCSC.EDU <> (tsource) writes:
+> It has been purposed that rec.games.frp be reorged here is
+> my perposed reorg sceme (please post all comments to news):
+Or we could do what we usually do when someone suggests splitting
+r.g.frp (which is about every 6 months or so), we could just leave
+things the way they are.  Very few people think there is a problem, so
+why change anything?
+-- 
+USmail: Bob Sloane, University of Kansas Computer Center, Lawrence, KS, 66045
+E-mail: slo...@kuhub.cc.ukans.edu <>, sloane@ukanvax.bitnet, AT&T: (913)864-0444
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 17:23:50 UTC - Kirsten Jacobus:
+In article <10...@darkstar.ucsc.edu <>> ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>
+>It has been purposed that rec.games.frp be reorged here is
+>my perposed reorg sceme (please post all comments to news):
+>rec.games.rpg.d                  dissection
+>rec.games.rpg.source*                software
+>rec.games.rpg.characters        characters posted to the net
+>rec.games.rpg.story*                stories
+>rec.games.rpg.ref*                reference material
+>rec.games.rpg.misc             miscellaneous
+>*moderated
+
+
+I agree, with the most part, to most of the above suggestions.
+Here's where I differ.  Rec.games.rpg.d and rec.games.rpg.misc could collapse
+into one without any problem.  I don't quite know the difference between
+"reference material" and "software" when speaking of games.  Perhaps a more
+intuitive split would be rec.games.rpg.source for rules addenda and
+rec.games.rpg.campaign for modules and campaign materials.
+I do believe that a moderator would help in the .source and .campaign groups
+since such a person would facilitate compilation.  This, of course, does not
+mean that I support such a person acting a censor.
+
+
+Splitting the groups along genre would be workable, but cumbersome, at least to
+a person who prefers to jot from genre to genre.  Furthermore, some think
+things may not quite fit one genre.  Keeping the groups genre independent would
+prevent bandwidth eating crossposts in such cases.
+
+
+Splitting groups along game systems is just plain silly.  Reason one:
+
+
+rec.games.rpg.adnd
+rec.games.rpg.dnd
+rec.games.rpg.coc
+rec.games.rpg.ept
+rec.games.rpg.rq
+rec.games.rpg.gurps
+rec.games.rpg.othersuns
+rec.games.rpg.traveller
+rec.games.rpg.twilight
+rec.games.rpg.champions
+rec.games.rpg.hero   (still parallel with the superhero game, champions, but
+                         not identical.)
+rec.games.rpg.marvel
+rec.games.rpg.dc
+rec.games.rpg.paranoia
+rec.games.rpg.cns
+rec.games.rpg.traveller2000
+rec.games.rpg.shadowrun
+rec.games.rpg.cyberpunk
+rec.games.rpg.otherrealms
+rec.games.rpg.rqII    (For the real RuneQuest snobs)
+
+
+
+am I making my point?  The above list is hardly exhaustive.
+
+Secondly, I'm not a one-game munchkin.  Furthermore, I like looking over 
+the comparative discussions and the system-independent discussions.
+
+(I don't like the D&D munchkins vs. the world flame wars.  Could the 
+mature AD&D/D&D players speak up once in a while?  I know you exist, and there
+are a lot of you.)
+
+
+In short, I vote for my version of the "function-dependent" split (of course),
+or for some sort of function-dependent split.
+I would tolerate, but not vote for a genre-dependent split.
+I most vehemently vote against a game-dependent split.
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 18:11:14 UTC - Joseph E Poplawski:
+In article <10...@darkstar.ucsc.edu <>> ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>
+>rec.games.rpg.d                  dissection
+>rec.games.rpg.source*                software
+>rec.games.rpg.characters        characters posted to the net
+>rec.games.rpg.story*                stories
+>rec.games.rpg.ref*                reference material
+>rec.games.rpq.misc                miscalinus
+>
+>* moderated
+>
+>I want to know what people think of this Please note that we can have a 
+>differnt kind of reorg or differnt set up for these groups
+Well, this subject comes up all the time.  I am for it, but the problem lies
+in convincing the rest of the net (who get to vote on the issue) that we do
+really need it.  Keep in mind, many of them have no idea of what an rpg is!
+I will help support it as necessary, and would even be willing to collect
+the votes, but if this is gonna pass, we gotta do it by the rules and have to
+hustle to collect votes.
+
+Just my .02 cents worth.
+
+-Jo
+--
+Joseph E Poplawski (Jo), President   Fantasci Incorporated / Fantasci Gaming
+Addr:  222 Lemon Lane, Edgewater Park, NJ 08010-2703  Phone: +1 609 835-2846
+UUCP:  decwrl!twwells!fantasci!jep || telesci!fantasci!jep || jep@fantasci
+DISCLAIMER:  I AM my employer so I guess we have the same opinions! (hehehe)
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 18:17:31 UTC - Joseph E Poplawski:
+In article <35...@netnews.upenn.edu <>> wcol...@eniac.seas.upenn.edu <> (Collins Walter III) writes:
+>
+>        1. rec.games.frp -- anything and everything that is currently here. 
+>        2. rec.games.frp.stories -- stories, scenarios, characters,
+>                        and miscellaneous roleplaying experiences.
+>        3. rec.games.frp.ref -- net spellbooks, monster manuals, game
+>                        system rules, new weapon/armor/etc descriptions.
+>
+>Tell me what you all think about the 3-part split.
+I personally would prefer the larger split.  Why?  Well I would like to archive
+the posted stories, and reference materials, but I have no interest in using
+my disk space for other peoples characters.  (No offense to the character
+posting people, but they are either not usable in my campaign, or they are too
+unbelieveable to be allowed in my campaign).
+
+-Jo
+--
+Joseph E Poplawski (Jo), President   Fantasci Incorporated / Fantasci Gaming
+Addr:  222 Lemon Lane, Edgewater Park, NJ 08010-2703  Phone: +1 609 835-2846
+UUCP:  decwrl!twwells!fantasci!jep || telesci!fantasci!jep || jep@fantasci
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 18:28:17 UTC - Joseph E Poplawski:
+In article <yorkw.6...@stable.ecn.purdue.edu <>> yo...@stable.ecn.purdue.edu <> (Willis F York) writes:
+>ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>
+>>rec.games.rpg.source*                software
+>>rec.games.rpg.story*                stories
+>>rec.games.rpg.ref*                reference material
+>
+>Well I don't think anyone would want to moderate the stuff.
+I would not mind moderating one of the three above.  It might ensure that junk
+is kept down, and having a moderated group devoted to one particular topic 
+might start to encourage the archive sites to start archiving the groups.  So
+when someone first gets on the net 6 months from now, they don't have to post
+45 messages asking for everyone to send him/her everything that has passed
+through here.
+
+
+>Seems that a 2 way split would give a break to everyone..
+But it wouldn't provide the proper filtering to get the archive sites to look
+our way.  I could't see anyone wanting to archive 150 postings of characters
+in the "New Ideas" section you proposed of characters that have 95-100% of
+the maximums allowed, 20 magic items, and a personal place in their favorite
+dieties court.  However, if  we specifically had a stories group, and a group
+for resources such as the spell books, etc., and finally one for sources and
+binaries, people would know exactly what would be found there, and those that
+wanted to specifically archive that type of material could.
+
+-Jo
+--
+Joseph E Poplawski (Jo), President   Fantasci Incorporated / Fantasci Gaming
+Addr:  222 Lemon Lane, Edgewater Park, NJ 08010-2703  Phone: +1 609 835-2846
+UUCP:  decwrl!twwells!fantasci!jep || telesci!fantasci!jep || jep@fantasci
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 18:43:39 UTC - Bruce Onder:
+In article <10...@darkstar.ucsc.edu <>> ia...@ucscb.UCSC.EDU <> (tsource) writes:
+
+>my perposed reorg sceme (please post all comments to news):
+>rec.games.rpg.d                  dissection
+>rec.games.rpg.source*                software
+>rec.games.rpg.characters        characters posted to the net
+>rec.games.rpg.story*                stories
+>rec.games.rpg.ref*                reference material
+>rec.games.rpq.misc                miscalinus
+>
+>* moderated
+>
+>I want to know what people think of this
+>Please note that we can have a differnt kind of reorg or
+>differnt set up for these groups
+Sorry, I don't like the looks of this.  rec.games.rpg already exists,
+and I don't know that it's all that well propagated.
+
+Besides, there are just too many splits here.
+
+.d:  I hate .d groups.
+
+.source:  There isn't *all* that much software getting posted.  What
+does go across is usually posted once, then put on an ftp site or
+emailed.
+
+.characters:  Maybe.  But I think the vast majority of posted
+characters are champions sheets.
+
+.stories:  Another maybe.
+
+.ref:  Hmm.  I think this is in reaction to lots of requests for the
+net books by new users who haven't seen all the talk about them.  I
+don't know if the three-line "Me, too, please" posts are worth their
+own group.
+
+.misc:  I hate .misc groups.  I don't know what goes there.
+
+BREWSTER'S IDEAS:
+
+rec.games.frp.gm <http://rec.games.frp.gm>                gm forum
+rec.games.frp.players                players forum
+rec.games.frp.fiction                fiction
+
+My thinking is that most posts are either centered around "playing" or
+"gming", and the pigeonholing should be obvious.  Posts that concern
+both playing and gming should go to playing.  the .gm subgroup should
+be reserved for gm-specific stuff.
+
+Of course, subject lines should still reflect the nature/system of the
+post.
+
+Examples:
+
+RUNEQUEST:  Spells
+AD&D:  Playing Paladins and Cavaliers
+CoC:  New Character Classes
+
+Note that stories would no longer need to be labelled "STORY", since
+it would have its own group.
+
+Brewster
+
+--
+Bruce W. Onder                on...@isi.edu <>
+
+"Welcome to hell -- here's your accordion."
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 18:58:27 UTC - Robert Myhre:
+In article <35...@netnews.upenn.edu <>> wcol...@eniac.seas.upenn.edu <> (Collins Walter III) writes:
+>In article <10...@darkstar.ucsc.edu <>> ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>
+>I vote yes for whatever, but I think I would prefer the following:
+>        1. rec.games.frp -- anything and everything that is currently here. 
+>        2. rec.games.frp.stories -- stories, scenarios, characters,
+>                        and miscellaneous roleplaying experiences.
+>        3. rec.games.frp.ref -- net spellbooks, monster manuals, game
+>                        system rules, new weapon/armor/etc descriptions.
+> -Walt
+  
+  I also like this three part split.  I am not one to read most messages
+on here that doesn't concern AD&D, yet I see no reason to break the
+group into anything smaller.  I do have a problem reading the stories
+because there are som many that I just don't have time to read them all.
+I think breaking this up would help out because then I can just leave
+them unread until I do get some time.  Count me in as a second vote.
+Rezh, an ancient one
+
+*************************************************************************
+"Throughout time there has always been us.  We live to learn and we learn
+to live.  Sometimes it is not pleasant." -  Rezh (dateline unknown)
+*************************************************************************
+my...@plains.nodak.edu <>  (Internet)   Opinions are merely illusions of the
+uunet!plains!myhre      (UUCP)       mind for grasping reality.  Mine are
+myhre@plains            (Bitnet)     even more so!
+*************************************************************************
+
+ 
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 20:53:27 UTC - ez00...@shaggy.ucdavis.edu:
+Consider this a "yes" vote for the three part split.
+rec.games.frp (general blather)
+rec.games.frp.stories (guess)
+rec.games.frp.reference  (game material)
+As for those who consider it a waste of bandwidth,
+check out the ten or so amiga groups!
+
+Tim Prestero. UC Davis
+internet: ez00...@castor.ucdavis.edu <>
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 21:03:05 UTC - Kirsten Jacobus:
+I wish to amend my previous message vis a vis splitting the group.  Unaware
+that a "rec.games.rpg" already existed, I put .rpg in my suggestions
+more out of a feeling for accuracy.  Substitute "frp" for occurrences of 
+"rpg" in my previous message.
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 21:23:52 UTC - vincent.j.guinto:
+In article <10...@darkstar.ucsc.edu <>> ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>
+>It has been purposed that rec.games.frp be reorged here is
+>my perposed reorg sceme (please post all comments to news):
+>rec.games.rpg.d                  dissection
+>rec.games.rpg.source*                software
+>rec.games.rpg.characters        characters posted to the net
+>rec.games.rpg.story*                stories
+>rec.games.rpg.ref*                reference material
+>rec.games.rpq.misc                miscalinus
+I think splitting the group might be advantageous, simply because
+lots of the "Net XXX Book" postings are really large.
+
+But I disagree that SIX groups are really needed! How about just TWO:
+
+        1. a main group for miscellaneous general discussion,
+           rules questions, debates about classes vs. skills,
+           calls for help, etc.
+
+        2. a reference or resource group for reference materials,
+           like the net books, Tabolport (if something like that
+           comes around again), character sheets, programs, etc.,
+           and also for stories.
+
+As far as names go, I don't mind "rec.games.frp" at all, although
+I see the point of those who want to call it "rec.games.rpg."
+
+I guess the first group should be called "rec.games.[frp|rpg].d"
+or "rec.games.[frp|rpg].misc", although the ".d" suffix leaves me
+cold (not sufficiently descriptive).
+
+The second group could be called "rec.games.[frp|rpg].ref" or
+"rec.games.[frp|rpg].resources".
+
+Again, I DON'T think there is any need for SIX groups! Splitting
+it into two groups should do just fine. Besides, some of those
+proposed six groups would see little traffic, so why bother 
+creating them? (I haven't seen more than a dozen characters
+posted here in the last several months - they surely don't
+warrant a group of their own for just 12 posts!) Ditto ".source".
+
+And, do we need a moderator? People who mis-post will surely be
+flamed to a crisp without any moderator's interference needed.
+
+----------------------------------------------------------
+Vince Guinto                                 att!cblph!vjg
+AT&T Bell Laboratories                  Opinions are mine,
+Columbus, OH                                    not AT&T's
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 22:11:43 UTC - kue...@kuhub.cc.ukans.edu:
+In article <35...@netnews.upenn.edu <>>, wcol...@eniac.seas.upenn.edu <> (Collins Walter III) writes:
+> In article <10...@darkstar.ucsc.edu <>> ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>>
+>>It has been purposed that rec.games.frp be reorged here is
+>>my perposed reorg sceme (please post all comments to news):
+>>rec.games.rpg.d                  dissection
+>>rec.games.rpg.source*                software
+>>rec.games.rpg.characters        characters posted to the net
+>>rec.games.rpg.story*                stories
+>>rec.games.rpg.ref*                reference material
+>>rec.games.rpq.misc                miscalinus
+>>
+>>* moderated
+>>
+>>I want to know what people think of this
+> 
+> I vote yes for whatever, but I think I would prefer the following:
+>         1. rec.games.frp -- anything and everything that is currently here. 
+>         2. rec.games.frp.stories -- stories, scenarios, characters,
+>                         and miscellaneous roleplaying experiences.
+>         3. rec.games.frp.ref -- net spellbooks, monster manuals, game
+>                         system rules, new weapon/armor/etc descriptions.
+> 
+> I'm also not sure we need a moderator.  This is a fairly free-form news
+I agree entirely.
+
+
+> Tell me what you all think about the 3-part split.
+I prefer it to the bigger split!! The only comment I might add is that
+in the time reading this newsgroup, the only other split one might
+desire is among classes of rpgs - tech vs. fantasy (i.e., magic-based
+versus non-magic-based), with GURPS, of course, blurring the
+distinction. I think the three-way split would lighten traffic to the
+point where we need not worry about this much, but we all *might* want
+to consider splitting the main group (frp per se) into 
+rec.games.frp.magic
+rec.games.frp.tech
+and, if this riles up GURPSers, then add rec.games.gurps
+and leave the stories and refs groups as is, giving 4 or 5 groups with
+minimal overlap (for smaller kill files ;-)
+-------(please include "DY" in subj header of mail to this user)--------
+Doug "Speaker-To-Insects" Yanega      "UT!"       Bitnet: KUENTO@UKANVAX
+My card: 0 The Fool       (Snow Museum, Univ. of KS, Lawrence, KS 66045)
+"Can you tell a green field from a cold steel rail?" - Pink Floyd
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 23:23:00 UTC - Christofer Bertani:
+ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>It has been purposed that rec.games.frp be reorged here is
+>my perposed reorg sceme (please post all comments to news):
+>rec.games.rpg.d                  dissection
+        [other divisions deleted]
+>rec.games.rpq.misc                miscalinus
+
+>I want to know what people think of this
+>Please note that we can have a differnt kind of reorg or
+>differnt set up for these groups
+        Here we go again.  This argument shows up with annoying 
+        regularity, and nothing ever comes of it, because everyone
+        has his/her own interests.  For instance, the ideal divison 
+        (or reorg (sic)) would be;
+                rec.games.frp.what_chrisber_wants_to_read
+                rec.games.frp.articles_chrisber_could_care_less_about
+        At least, it is from my point of view... :-):-)
+        I wish this recurring discussion would get 'dissected' once
+        and for all.
+
+        Chris Bertani                chrisber@cobalt.caltech.edu <>
+
+-- 
+---------------------------------------------------------------------------
+"You do remember." Soulcatcher laughed again. "I'm so glad.  We're going to 
+have such fun.  The whole world thinks we're dead.  You can get away with 
+anything when you're dead."                (_Dreams_of_Steel_ by Glen Cook)
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 23:50:41 UTC - ez00...@shaggy:
+Here is for contradicting my previous statement:
+I, for one, was unaware that there was a rec.games.rpg group.
+I have heard it mentioned before, but our reader here at
+UCD doesn't get it. I wonder if I will have the same problem
+if r.g.frp splits into groups... Am I the only one with this
+problem? And what is wrong with killing the files you just
+can't bear to read? I think that more descriptive subject
+lines would solve a few problems.
+
+Tim Prestero. UC Davis
+internet: ez00...@castor.ucdavis.edu <>
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 23:55:47 UTC - Chris Klausmeier:
+In article <1991Jan8.2...@cbnews.att.com <>> v...@cbnews.att.com <> (vincent.j.guinto) writes:
+/ But I disagree that SIX groups are really needed! How about just TWO:
+/ 
+/         1. a main group for miscellaneous general discussion,
+/            rules questions, debates about classes vs. skills,
+/            calls for help, etc.
+/ 
+/         2. a reference or resource group for reference materials,
+/            like the net books, Tabolport (if something like that
+/            comes around again), character sheets, programs, etc.,
+/            and also for stories.
+
+Sounds like a good way to start, fairly moderately.
+
+/  [Stuff deleted]
+/ I guess the first group should be called "rec.games.[frp|rpg].d"
+/ or "rec.games.[frp|rpg].misc", although the ".d" suffix leaves me
+/ cold (not sufficiently descriptive).
+
+rec.games.frp.misc sounds best to me. It's becoming some sort of a
+Usenet standard, if there really IS such a thing, to avoid groups that
+contain both subgroups and posts.
+
+/ The second group could be called "rec.games.[frp|rpg].ref" or
+/ "rec.games.[frp|rpg].resources".
+
+I like the way rec.games.frp.resources sounds. It also makes sense; all
+these things that we're talking about (source code, net.books, character
+sheets, stories, etc.) are all resources. 
+
+/ ----------------------------------------------------------
+/ Vince Guinto                                 att!cblph!vjg
+/ AT&T Bell Laboratories                  Opinions are mine,
+/ Columbus, OH                                    not AT&T's
+
+-- 
+[] Chris Klausmeier -- cyaa01@mixcom.UUCP [][][][][][][]
+[] Alt.sex, talk.politics.drugs, and alt.rock-n-roll! []
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 00:00:57 UTC - Andrew Pearlman:
+Question:
+Why?
+
+Either
+A) You read most of the posts and hit 'n' real fast and set up kill files
+to deal with games/posters/whatever you don't want to see.
+B) You read articles to only certain games, in which case you hit '=' so
+as to see all the titles and pick out the games.
+
+The problem I see with most of the suggested splits(maybe all, dunno) is
+that either people want to split it into a lot of groups, many of which
+will get 3 posts a year, max...split it by games, where most articles that
+apply to games apply to all games...or split it by ref/player, where most
+people who have played for any length of time, are interested in both
+anyway.
+
+Andy Pearlman
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 00:32:22 UTC - Chris Klausmeier:
+In article <27749.2...@kuhub.cc.ukans.edu <>> slo...@kuhub.cc.ukans.edu <> writes:
+/ Or we could do what we usually do when someone suggests splitting
+/ r.g.frp (which is about every 6 months or so), we could just leave
+/ things the way they are.  Very few people think there is a problem, so
+/ why change anything?
+
+If very few people think there is a problem, why DOES it come up every 6
+months or so?
+
+I proposed a different split a few months ago, and got a lot of flame,
+but also a lot of agreement. This time, it looks like there is more
+desire for a split, and the group to be split off (hopefully
+rec.games.frp.resources) is a better idea than what I posted about.
+
+/ USmail: Bob Sloane, University of Kansas Computer Center, Lawrence, KS, 66045
+/ E-mail: slo...@kuhub.cc.ukans.edu <>, sloane@ukanvax.bitnet, AT&T: (913)864-0444 
+
+-- 
+[] Chris Klausmeier -- cyaa01@mixcom.UUCP [][][][][][][]
+[] Alt.sex, talk.politics.drugs, and alt.rock-n-roll! []
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 01:44:48 UTC - Chris Anderson:
+In article <10...@darkstar.ucsc.edu <>> ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>
+>It has been purposed that rec.games.frp be reorged here is
+>my perposed reorg sceme (please post all comments to news):
+>rec.games.rpg.d                  dissection
+>rec.games.rpg.source*                software
+>rec.games.rpg.characters        characters posted to the net
+>rec.games.rpg.story*                stories
+>rec.games.rpg.ref*                reference material
+>rec.games.rpq.misc                miscalinus
+>
+>* moderated
+>
+>I want to know what people think of this
+>Please note that we can have a differnt kind of reorg or
+>differnt set up for these groups
+I'm not in favor of it.  How much software do we get posted to
+this group?  Maybe two or three pieces per month?  Same for reference
+material, etc.  There's not enough traffic to split rec.games.frp.
+
+Chris
+-- 
++---------------------------------------------------------------+
+|  Chris Anderson, QMA, Inc.      utgard!ch...@csusac.csus.edu <>  |
+|      My employer doesn't listen to me... why should you?      |
++---------------------------------------------------------------+
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 01:53:50 UTC - Chris Anderson:
+In article <35...@netnews.upenn.edu <>> wcol...@eniac.seas.upenn.edu <> (Collins Walter III) writes:
+>I vote yes for whatever, but I think I would prefer the following:
+>        1. rec.games.frp -- anything and everything that is currently here. 
+>        2. rec.games.frp.stories -- stories, scenarios, characters,
+>                        and miscellaneous roleplaying experiences.
+>        3. rec.games.frp.ref -- net spellbooks, monster manuals, game
+>                        system rules, new weapon/armor/etc descriptions.
+Better than six groups, but still not needed.  The purpose of making
+a new group is to draw off traffic that is obscuring the discussion
+of topics in the original group.  rec.arts.startrek is a good 
+example.  Star-trek discussions were overwhelming the rest of the
+traffic in rec.arts.sf-lovers. 
+
+Do we have that much traffic in frp? No.  Do we have traffic that's 
+obscuring other discussions?  No. The Other Suns stuff might be a 
+candidate, but I find a KILL file works just as well.
+
+So, leave it alone, and let's not discuss this for another six 
+months.
+
+Chris
+-- 
++---------------------------------------------------------------+
+|  Chris Anderson, QMA, Inc.      utgard!ch...@csusac.csus.edu <>  |
+|      My employer doesn't listen to me... why should you?      |
++---------------------------------------------------------------+
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 03:16:23 UTC - Douglas F. Wilson:
+In article <35...@netnews.upenn.edu <>> wcol...@eniac.seas.upenn.edu <>
+        (Collins Walter III) writes:
+>In article <10...@darkstar.ucsc.edu <>> ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>>It has been purposed that rec.games.frp be reorged here is
+>>my perposed reorg sceme (please post all comments to news):
+>>rec.games.rpg.d                  dissection
+>>rec.games.rpg.source*                software
+>>rec.games.rpg.characters        characters posted to the net
+>>rec.games.rpg.story*                stories
+>>rec.games.rpg.ref*                reference material
+>>rec.games.rpq.misc                miscalinus
+>>
+>>* moderated
+>I vote yes for whatever, but I think I would prefer the following:
+>        1. rec.games.frp -- anything and everything that is currently here. 
+>        2. rec.games.frp.stories -- stories, scenarios, characters,
+>                        and miscellaneous roleplaying experiences.
+>        3. rec.games.frp.ref -- net spellbooks, monster manuals, game
+>                        system rules, new weapon/armor/etc descriptions.
+>
+>I'm also not sure we need a moderator.  This is a fairly free-form news
+1. rec.games.frp  -  General discussion, trying to change the name is just
+                        too much hassle.
+2. rec.games.frp.aid  -  Adventures, characters, monsters, spells, etc.
+                        (all the things that are currently being compiled,
+                        plus any modules people wish to create and share).
+
+Don't even think about splitting by game types/systems, that is why this
+group is still unified - too much of the discussions are independant of the
+system to make such a split useful.  I like it that way, and I'm not alone.
+
+Forget the moderators, too much work, not enough need.
+
+   -----------------------v--------------------------------------------
+ /        Doug Wilson          |        dwilson@polyslo.CalPoly.___                \
+X        San Luis Obispo          |                with:        .arpa .edu .com                 X
+ \        California 93405  |  or {sdsu,ucbvax,voder}\!polyslo\!dwilson        /
+   -----------------------^--------------------------------------------
+        Religion is the opiate of the masses.        ---  Karl Marx
+                I want a new drug!                ---  Huey Lewis
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 03:43:08 UTC - D...@psuvm.psu.edu:
+In article <16...@venera.isi.edu <>>, on...@ISI.EDU <> (Bruce Onder) says:
+>BREWSTER'S IDEAS:
+>
+>rec.games.frp.gm <http://rec.games.frp.gm>                gm forum
+>rec.games.frp.players           players forum
+>rec.games.frp.fiction           fiction
+>
+>Bruce W. Onder          on...@isi.edu <>
+Finally, an idea that I can almost live with.  I really would only have
+two groups:
+
+rec.games.frp.gm <http://rec.games.frp.gm>                 gm stuff (include net.books)
+rec.games.frp.players            everything else, including fiction
+
+I really feel that having the fiction in with the gaming stuff encourages
+those who would be too shy normally to post, feeling that flames will
+be lost in the crowd.  Also, I woundn't normally read a .fiction
+group, but I will read some of the more interesting stories when they
+are in the normal group.
+
+I would also like to strongly discourage cross-postings.  If anything
+is of use to players, stick it in the players group.  If anything would
+be labled (or SHOULD be labled) SPOILER, then put it into the .gm group.
+
+On the other hand, I'm really not bothered by the current grouping
+(that is, everything mixed together).  I can rapidly skip anything I
+don't like, or I can learn how to use a kill file analoge (assuming that
+such things exist in the IBM mainframe world).
+
+I've found that in the comp.sys.mac.* newsgroups too much stuff is
+cross-posted.  I'd rather the smaller number of useful groups.
+I read articles that I wouldn't otherwise read (I'd never read a
+specific D&D group), and found that some things apply to my campaigns.
+
+Oh, well, thats it for my two-cents worth.  I will vote when this comes
+up for it, and I suspect that it will fall through, like always.
+However, this is the most serious that I've seen splitting-fever in a
+while, so who knows?
+
+()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()
+D. Jay Newman                !  Just tell me this: who was Casper
+d...@psuvm.psu.edu <>            !  the Friendly Ghost before he died?
+CBEL--Teaching and Learning Technologies Group
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 03:51:38 UTC - James_J_...@cup.portal.com:
+ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>It has been purposed that rec.games.frp be reorged here is
+>my perposed reorg sceme (please post all comments to news):
+>rec.games.rpg.d                 dissection
+>rec.games.rpg.source*           software
+>rec.games.rpg.characters        characters posted to the net
+>rec.games.rpg.story*            stories
+>rec.games.rpg.ref*              reference material
+>rec.games.rpq.misc              miscalinus
+>
+>* moderated
+>
+>I want to know what people think of this
+>Please note that we can have a differnt kind of reorg or
+>differnt set up for these groups
+This has been discussed before.
+I personally think this is a bad idea in general, and in particular
+your suggestions are overkill. (Btw, I have never seen software in r.g.frp.)
+I will vote against any such "dissection" of rec.games.frp.
+
+If posters would just place KeyWords in the title of their posts
+(preferably as the first word of the title), then KillFiles would
+work just fine to accomplish the same thing as this proposed
+reorganization.
+
+Jim Kowalczyk
+                just my 2 cents worth
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 04:05:42 UTC - Mike Basinger:
+Is it broke, don't mess with it!!!!!!!!!!!!
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 04:37:55 UTC - Randy M. Roberts:
+In article <10...@aggie.ucdavis.edu <>> ez00...@shaggy.Ucdavis.EDU <> () writes:
+  <Tim's vote results omitted>
+>
+>As for those who consider it a waste of bandwidth,
+>check out the ten or so amiga groups!
+>
+>Tim Prestero. UC Davis
+>internet: ez00...@castor.ucdavis.edu <>
+The comparison to the Amiga groups is unfortunate.  The Amiga groups
+have many times the number of postings of rec.games.frp.
+
+I don't see the rec.games.frp group as very crowded (especially compared
+to comp.sys.amiga); therefore, I do not see the need for the split.
+On the other hand, many of you have brought up splitting the group up
+so many times that if not a majority, you are certainly a vocal minority.
+
+I feel that if there must be a split it should be a 2 or 3-way split, not
+a six-way split.
+
+rec.games.frp.misc  (or plain old rec.games.frp)
+rec.games.frp.stories (perhaps)
+rec.games.frp.resources (if you must)  (I think the .ref is to ambiguous)
+
+Whatever you do, DO NOT SPLIT ON GAME SYSTEMS!!!!!!!!!!!
+
+Regards,
+Randy
+
+-- 
+Randy M. Roberts
+r...@ccwf.cc.utexas.edu <>
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 04:42:37 UTC - Ron Dawson:
+In article <27749.2...@kuhub.cc.ukans.edu <>> slo...@kuhub.cc.ukans.edu <> writes:
+>In article <10...@darkstar.ucsc.edu <>>, ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>> It has been purposed that rec.games.frp be reorged here is
+>> my perposed reorg sceme (please post all comments to news):
+>
+>Or we could do what we usually do when someone suggests splitting
+>r.g.frp (which is about every 6 months or so), we could just leave
+>things the way they are.  Very few people think there is a problem, so
+>why change anything?
+  I agree.  I have no real problems with the group as it is.  Kill files
+  can always be set up, and the 'n' key is always readily available for
+  those net-books, stories, or whatever you just do not have time for.
+                                                                                                                  
+- Ron 
+
+
+-- 
+Internet: rda...@ccs.carleton.ca <>   UUCP: ...!uunet!ccs.carleton.ca <http://ccs.carleton.ca>!rdawson
+
+Castles are Built From Scattered Stones......
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 06:04:47 UTC - Chris Miller:
+In article <74...@plains.NoDak.edu <>>, my...@plains.NoDak.edu <> (Robert Myhre) writes:
+|> In article <35...@netnews.upenn.edu <>> wcol...@eniac.seas.upenn.edu <> (Collins Walter III) writes:
+|> >In article <10...@darkstar.ucsc.edu <>> ia...@ucscb.UCSC.EDU <> (tsource) writes:
+|> >
+|> >I vote yes for whatever, but I think I would prefer the following:
+|> >        1. rec.games.frp -- anything and everything that is currently here. 
+|> >        2. rec.games.frp.stories -- stories, scenarios, characters,
+|> >                        and miscellaneous roleplaying experiences.
+|> >        3. rec.games.frp.ref -- net spellbooks, monster manuals, game
+|> >                        system rules, new weapon/armor/etc descriptions.
+|> > -Walt
+|>   
+|> Rezh, an ancient one
+Hear hear!  I agree, Rezh is *quite* old.  :)
+But seriously folks,  Change 1. to rec.games.frp.misc and I think we got a
+winner.
+
+-- 
+Christopher Owen Miller
+c...@spacsun.rice.edu <>
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 08:16:12 UTC - George William Herbert:
+ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>>It has been purposed that rec.games.frp be reorged here is
+>>my perposed reorg sceme (please post all comments to news):
+There isn't enough traffic to justify such a reorganization.  
+Besides, with the recent chaos about reorganizations, i think that it's a 
+bad idea in general.
+
+
+  == George William Herbert ==   * UNIX ate my last .sig, Waiting for Plan 9! *
+ == JOAT for Hire: Anything, ==  ######### I do Naval Architecture,  ##########
+== + Anywhere, at my price. + == # Spacecraft Design, UNIX Systems Consulting #
+ == + g...@ocf.berkeley.edu <> + ==  # RPG writing/development, and lots of other #
+  == +   ucbvax!ocf!gwh   + ==   ## random stuff, of course.  I'm a JOAT 8-) ##
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 09:56:43 UTC - Dan Bernstein:
+In article <40...@ucbvax.BERKELEY.EDU <>> g...@tornado.Berkeley.EDU <> (George William Herbert) writes:
+> There isn't enough traffic to justify such a reorganization.  
+No, that's simply wrong. rec.games.frp, with more than 1000 messages per
+month, is one of the most overloaded groups on USENET. It needs a split.
+
+---Dan
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 14:02:05 UTC - Daniel Alan Fleming:
+>ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>It has been purposed that rec.games.frp be reorged here is
+>my perposed reorg sceme (please post all comments to news):
+>rec.games.rpg.d                 dissection
+>rec.games.rpg.source*           software
+>rec.games.rpg.characters        characters posted to the net
+>rec.games.rpg.story*            stories
+>rec.games.rpg.ref*              reference material
+>rec.games.rpq.misc              miscalinus
+>
+>* moderated
+>
+>I want to know what people think of this
+>Please note that we can have a differnt kind of reorg or
+>differnt set up for these groups
+I don't care for the idea.  I agree that rec.games.frp has its problems,
+I don't recieve it here because the volume is so high.  However, I don't
+think that this is the correct way to reorg the group.  I think a more
+appropriate reorg would break the group into subcatagories based one
+game system, not type of posting.  There was a tremendous volume of 
+D&D, Hero System and GURPS postings when I was reading a year ago.
+I was unable to find the articles I was interested in, those pertaining
+to Runequest and Harn, because of this high volume.  I'd say for people
+posting stories to add "STORY" in the subject line.
+
+- Alan
+{uunet}!gatech.edu <http://gatech.edu>!daysinns!alanf
+  While I was willing
+to dig through D&D, Hero System and GURPS posting for the Harn and Runequest
+articles I wanted to read if finally became un
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 14:06:27 UTC - Daniel Alan Fleming:
+- show quoted text -
+>ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>It has been purposed that rec.games.frp be reorged here is
+>my perposed reorg sceme (please post all comments to news):
+>rec.games.rpg.d                 dissection
+>rec.games.rpg.source*           software
+>rec.games.rpg.characters        characters posted to the net
+>rec.games.rpg.story*            stories
+>rec.games.rpg.ref*              reference material
+>rec.games.rpq.misc              miscalinus
+>
+>* moderated
+>
+>I want to know what people think of this
+>Please note that we can have a differnt kind of reorg or
+>differnt set up for these groups
+I don't care for the idea.  I agree that rec.games.frp has its problems,
+I don't recieve it here because the volume is so high.  However, I don't
+think that this is the correct way to reorg the group.  I think a more
+appropriate reorg would break the group into subcatagories based one
+game system, not type of posting.  There was a tremendous volume of 
+D&D, Hero System and GURPS postings when I was reading a year ago.
+I was unable to find the articles I was interested in, those pertaining
+to Runequest and Harn, because of this high volume.  I'd say for people
+posting stories to add "STORY" in the subject line.
+
+- Alan
+{uunet}!gatech.edu <http://gatech.edu>!daysinns!alanf
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 14:44:26 UTC - Tor Iver Wilhelmsen:
+In article <196@mixcom.UUCP> cyaa01@mixcom.UUCP (Chris Klausmeier) writes:
+   Path: ugle.unit.no <http://ugle.unit.no>!sunic!uupsi!rpi!zaphod.mps.ohio-state.edu <http://zaphod.mps.ohio-state.edu>!pacific.mps.ohio-state.edu 
+<http://pacific.mps.ohio-state.edu>!linac!uwm.edu <http://uwm.edu>!mixcom!cyaa01
+   From: cyaa01@mixcom.UUCP (Chris Klausmeier)
+   Newsgroups: rec.games.frp
+   Date: 9 Jan 91 00:32:22 GMT
+   References: <10...@darkstar.ucsc.edu <>> <27749.2...@kuhub.cc.ukans.edu <>>
+   Organization: MIX Communications, Milwaukee, WI (Public access Usenet, Email)
+   Lines: 21
+
+
+- show quoted text -   In article <27749.2...@kuhub.cc.ukans.edu <>> slo...@kuhub.cc.ukans.edu <> writes:
+
+- show quoted text -   / Or we could do what we usually do when someone suggests splitting
+   / r.g.frp (which is about every 6 months or so), we could just leave
+   / things the way they are.  Very few people think there is a problem, so
+   / why change anything?
+
+- show quoted text -   If very few people think there is a problem, why DOES it come up every 6
+   months or so?
+
+- show quoted text -   I proposed a different split a few months ago, and got a lot of flame,
+   but also a lot of agreement. This time, it looks like there is more
+   desire for a split, and the group to be split off (hopefully
+   rec.games.frp.resources) is a better idea than what I posted about.
+
+- show quoted text -   / USmail: Bob Sloane, University of Kansas Computer Center, Lawrence, KS, 66045
+   / E-mail: slo...@kuhub.cc.ukans.edu <>, sloane@ukanvax.bitnet, AT&T: (913)864-0444 
+
+- show quoted text -   -- 
+   [] Chris Klausmeier -- cyaa01@mixcom.UUCP [][][][][][][]
+   [] Alt.sex, talk.politics.drugs, and alt.rock-n-roll! []
+--------
+Please, move this discussion to news.announce.newgroups, which is a
+forum designed for the purpose!! There are several reasons why a split
+should not take place:
+
+1: Splitting up leads to cross-posting (esp. with a *.misc-list in
+there), thus INCREASING the network load.
+
+2: As someone already said, splitting causes attention from the
+administration, as the number of non-scientific discussions grows (I
+now have 1092 entries in my .newsrc, of which 19 are comp.sys.amiga*
+:) ), causing them to start rmgrouping. There isn't much chance of a
+global rmgrouping, but, anyway...
+
+3: It can be very frustrating to decide which sub-disc. to put a given
+article in, unless there are guidelines, and who are to write them??
+It will presumably end in a very active rec.games.frp.misc-list...
+
+SOLUTION: Use kill-files instead, and use bright intelligent
+news-readers like GNUS. :)
+
+--
+"Don't quote me." - Anonymous
+toriver@{lise,solan,siri}.unit.no <http://unit.no>         pumpkin@norunit.{sintef.no <http://sintef.no>, bitnet}
+
+How to convince people you are winning a war? "A victory might help." (D.D.)
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 15:11:17 UTC - Nicolai Shapero:
+Consider this, quite simply, a vote of NO on any split.  The whole
+idea, as I understood it, for a newsgroup covering frp as a whole was
+to allow one to get "everything at one gulp".  Using my off-line
+reader, I don't have access to a killfile, so I sometimes have to hit
+the "next message" key a few times in rapid succession to get past
+those (multiple) posts that I'm not the least bit interested in.  But
+if there's an uninteresting (to me) post, I just don't read it --
+it's that simple.  And every now and then, a comment for a game that I
+do not play will spark an idea for one of the games I DO play.  So I
+do NOT want rec.games.frp split into two, three, six, or however
+many different newsgroups -- if it splits into multiple groups, I'm
+not interested in the additional hassles of getting multiple feeds
+for newsgroups where only one message in a hundred is of interest to
+me, but I am interested in seeing that one message in
+a hundred.
+Just my small change ($0.02 won't buy ANYTHING these days...)
+ 
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 15:22:09 UTC - J|rgen Holmberg:
+In article <74...@plains.NoDak.edu <>> my...@plains.NoDak.edu <> (Robert Myhre) writes:
+>In article <35...@netnews.upenn.edu <>> wcol...@eniac.seas.upenn.edu <> (Collins Walter III) writes:
+>>In article <10...@darkstar.ucsc.edu <>> ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>>
+>>I vote yes for whatever, but I think I would prefer the following:
+>>        1. rec.games.frp -- anything and everything that is currently here. 
+>>        2. rec.games.frp.stories -- stories, scenarios, characters,
+>>                        and miscellaneous roleplaying experiences.
+>>        3. rec.games.frp.ref -- net spellbooks, monster manuals, game
+>>                        system rules, new weapon/armor/etc descriptions.
+>> -Walt
+>  
+Sorry, I just got back from the holidays. Why do we wish to split the group?
+I think it is small enough to be handled. If there will be a split the above
+three-way split gets my vote. More groups would bring lots of cross-posting.
+A split making groups for all the different systems is about the most stupid
+thing I have ever heard. I have some 40 different systems at home and can
+easily come up with 40 more for you to cover.
+
+/Jorgen
+-- 
+*******************************************************************************
+email dvl...@cs.umu.se <> - other ways to communicate are a waste of time.
+Everything I say is always true, just apply it to the right reality.
+"Credo, quia absurdum est."    Credo in absurdum est?
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 15:34:48 UTC - Kirsten Jacobus:
+In article <10...@aggie.ucdavis.edu <>> ez00...@shaggy.Ucdavis.EDU <> () writes:
+>Consider this a "yes" vote for the three part split.
+>rec.games.frp (general blather)
+>rec.games.frp.stories (guess)
+>rec.games.frp.reference  (game material)
+>
+>As for those who consider it a waste of bandwidth,
+>check out the ten or so amiga groups!
+>
+>Tim Prestero. UC Davis
+>internet: ez00...@castor.ucdavis.edu <>
+
+
+
+
+
+
+Bravo.
+
+Simple, elegant, does the job.  Revise my vote for the above.
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 15:36:23 UTC - Kirsten Jacobus:
+rec.games.frp.magic
+rec.games.frp.tech
+
+Why bother?   Don't forget Clarke's Law.
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 15:43:55 UTC - Kirsten Jacobus:
+>If posters just place keywords in the title of their posts
+(preferably as the first word of the title), then KillFiles would
+work just fine to accomplish the same thing as this proposed
+reorganization.
+
+
+That's pretty much like saying that if everyone never drank too much before
+driving, we wouldn't need DWI legislation.
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 15:59:53 UTC - Loren J. Miller:
+Basically, I'm against it. But as long as y'all are discussing it, here
+goes...
+In article <16...@venera.isi.edu <>>, on...@ISI.EDU <> (Bruce Onder) writes:
+> Sorry, I don't like the looks of this.  rec.games.rpg already exists,
+> and I don't know that it's all that well propagated.
+
+too true. besides, all you have to do to change the name of the group
+is, instead of thinking of it as rec.games.f(antasy)r(ole)p(laying)
+think of it as rec.games.f(ictional)r(ole)p(laying). It's all
+perception, dudes.
+
+> BREWSTER'S IDEAS:
+>
+> rec.games.frp.gm <http://rec.games.frp.gm>                gm forum
+> rec.games.frp.players                players forum
+> rec.games.frp.fiction                fiction
+>
+> My thinking is that most posts are either centered around "playing" or
+> "gming", and the pigeonholing should be obvious.  Posts that concern
+> both playing and gming should go to playing.  the .gm subgroup should
+> be reserved for gm-specific stuff.
+
+this is the only sort of split proposal that makes any sense. one group
+for gms, one for players. that way gm's can post things without fearing
+that their players will inadvertently read secret info about a campaign.
+
+imho stories are mostly written from the players' point of view and
+might as well go into that group, assuming this split has to be done at
+all.
+
+result. two groups:
+
+rec.games.frp.gm <http://rec.games.frp.gm>
+   would include gm stuff like scenario ideas, rules tinkering and
+   design, and rules questions, etc.
+
+rec.games.frp.player
+   would include player stuff like stories, adventure summaries,
+   character postings, and rules questions, etc.
+
+note that champions and d&d rules questions would probably be
+cross-posted to both groups. :-( the extensive cross-posting that would
+likely result from a split is one reason I'm instinctively against any
+such split.
+
+hey ho,
+the man with no pseudonym
++++++++++++++++++++++++23
+Loren Miller            internet: MIL...@wharton.upenn.edu <>
+
+Un pole cat de pew es en le audience! Take it vous on le lam!
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 16:14:43 UTC - Mark Hassman:
+In article <40...@ucbvax.BERKELEY.EDU <>> g...@tornado.Berkeley.EDU <> (George William Herbert) writes:
+
+>There isn't enough traffic to justify such a reorganization.  
+>Besides, with the recent chaos about reorganizations, i think that it's a 
+>bad idea in general.
+I agree totally.  There hasn't been enough volume on r.g.frp to justify
+splitting the group.  Kill files can easily control the volume and
+type of news you want to read.  Why don't we all relax and utilize the
+one group we have instead of creating six groups which are just
+minor BS from the one good group. 
+
+Just my opinion....
+
+
+Mark Hassman
+mhas...@zephyr.cair.du.edu <>
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 16:15:40 UTC - Allan J. Mikkola:
+>Tim Presto writes:
+>I, for one, was unaware that there was a rec.games.rpg group.
+>I have heard it mentioned before, but our reader here at
+>UCD doesn't get it. I wonder if I will have the same problem
+>if r.g.frp splits into groups... Am I the only one with this
+>problem? And what is wrong with killing the files you just
+>can't bear to read? I think that more descriptive subject
+>lines would solve a few problems.
+
+No, I don't think you're the only one with that problem.  Something like this
+happened to me once before when one of my other favorite newsgroups was split:
+I couldn't access the new group (which contained the material I wanted to read)
+and my cries for help went unanswered; the original group stunk, and I never
+read it again.  I don't want this to happen to rec.games.frp!  If I won't be
+able to access the new groups, I'll be quite pissed! (especially since I
+consider myself a fairly major contributor to the various net books).
+
+I really don't see the need for a split; sure the net book postings are large,
+but they occur quite infrequently (no more than once a week, as far as I can
+tell).  So if we had a newsgroup dedicated to this, we would get a meaningful
+post once in a great while (it takes a LOT of work to put one of these babies
+together); other than that we would have people begging for a copy of this or
+that book - seems like a wasted newsgroup.  Also, what happens when these net
+book postings die out?  There goes the group!
+
+As other people have mentioned, IF IT AIN'T BROKE (and it isn't) DON'T FIX IT!!
+We can accomplish what we need to by using more efficient key words and kill
+files (LEARN TO USE YOUR KILL FILES!!!!).  When an article comes up that you
+don't want to read, skip it, kill it, or whatever.  But, just because you don't
+want to read it, others may; why make it hard (or impossible) for some people 
+to do so?
+
+As for those of you who say frp is such a high volume group, there are groups
+out there that are a lot worse (check out rec.arts.startrek which gets about 
+double what frp does); if they don't need to split, why do we?  1000 articles a
+month?  So what!!  That's only 33 a day; using kill files and the 'n' key, you 
+can get thru that in no time.
+
+In summary, 
+USE YOUR KILL FILES EFFECTIVELY, AND LEAVE REC.GAMES.FRP THE WAY IT IS!!!!
+
+ONE SCREAMING ***NO*** VOTER,
+
+AJ Mikkola
+
+===========================================================================
+|| Allan J. Mikkola                                                      ||
+|| uucp:     {uunet!crdgw1|sun!sunbrew}!gemed!vulcan!allanm              ||
+|| Internet: all...@vulcan.med.ge.com <>                                    ||
+===========================================================================
+
+--
+===========================================================================
+|| Allan J. Mikkola                                                      ||
+|| uucp:     {uunet!crdgw1|sun!sunbrew}!gemed!vulcan!allanm              ||
+|| Internet: all...@vulcan.med.ge.com <>                                    ||
+===========================================================================
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 16:29:32 UTC - Andrew Pearlman:
+In article <196@mixcom.UUCP> cyaa01@mixcom.UUCP (Chris Klausmeier) writes:
+>If very few people think there is a problem, why DOES it come up every 6
+>months or so?
+New people going on the net who didn't see what happened the *last* time
+it was brought up.  If you want to archive stuff, hit '=', find the articles
+that have STORY in the first part of the post, then archive that specific one.
+If you are on low baud, again hit 'n' or '='.  If the title says something
+that you know you won't like, skip it.
+
+Just for reference, virtually every subject comes up somewhere on the net
+every six months.
+
+Andy Pearlman
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 16:32:16 UTC - Chris Cheung:
+Part of the reason why people don't post "no, don't split the group" is
+because we're sick of seeing "let's split the group" posts.  I'm always
+tempted to just kill the topic, but paranoia always makes me read the
+posts.
+A good number of readers are from University or Educational sites, most of
+which are on break right now.  When they get back, they'll see that they
+are thousands of messages behind.  They'll catch up to most posts by
+checking out what the subjects are (with =) and see hundreds of posts on
+splitting the group, and just kill the topic (as I would if I were in
+their position).  
+
+If anyone really wants a split, I would suggest that whoever is organizing
+the motion, wait at least 1 week (maybe even 2) and post a message with the
+header being "IMPORTANT" rather than anything to do with reorganization.
+That, I'm sure will attract some attention.  In that "important" post,
+describe whatever procedure they want on voting, etc.  This way, most of
+the rec.games.frp community will be involved.  (Hopefully anyway.)
+
+Hoping for a good representative sample,
+Chris C.
+
+==========================================
+internet: che...@cs.buffalo.edu <>
+uucp:     {rutgers,boulder}!sunybcs!cheung
+BITNET:   cheung@sunybcs
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 16:55:37 UTC - Steven A. Schrader:
+In article <16...@venera.isi.edu <>>, on...@ISI.EDU <> (Bruce Onder) says:
+>
+>In article <10...@darkstar.ucsc.edu <>> ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>
+>BREWSTER'S IDEAS:
+>
+>rec.games.frp.gm <http://rec.games.frp.gm>                gm forum
+>rec.games.frp.players           players forum
+>rec.games.frp.fiction           fiction
+>
+I like this split, and I think it makes more sense than ref. What would ref be
+anyway? Generally, I only read the GM type stuff that goes out, so this fits
+into my reading habits quite well.
+----------------------------------------------------------------------
+         Steven A.  Schrader (SAS102 @ Psuvm.Bitnet)
+         Student Consultant Coordinator
+         Student Support Initiative, The Center for Academic Computing
+         The Pennsylvania State University
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 17:12:26 UTC - Scott Holter:
+I'm not crazy about splitting the group.  Sure, there's lots of material
+that goes through here, and lots of it is what I consider garbage, but
+I don't have a problem wading through it to find material of interest to
+me.  As another witty poster put it, it would be nice if the group was
+split into "stuff I personally like" and "stuff I don't want to read."
+But I'm willing to live with the bad to get the good.
+If the net consensus requires a split, I stongly favor the suggested:
+   *  rec.games.frp.misc:  discussion of general interest
+   *  rec.games.frp.stories:  fiction and anecdotes about gaming
+   *  rec.games.frp.resources:  net books, homebrew rules
+
+I strongly reject any split along the lines of system or genre.  Many
+articles are indeed of interest only to the players of a specific game.
+However, many more are of much wider interest, covering a topic that
+spans most or all systems and genres.  What's worse, some threads start
+out as ostensibly system-dependent, only to mutate into generalized
+discussion.
+-- 
+Scott Holter  +  hol...@summation.wa.com <>  +  My ideas.  My responsibility.
+                        "Homey don't play that."
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 17:55:52 UTC - Gary Tse:
+ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>It has been purposed that rec.games.frp be reorged here is
+>my perposed reorg sceme (please post all comments to news):
+>rec.games.rpg.d                  dissection
+>rec.games.rpg.source*                software
+>rec.games.rpg.characters        characters posted to the net
+>rec.games.rpg.story*                stories
+>rec.games.rpg.ref*                reference material
+>rec.games.rpq.misc                miscalinus
+>
+>* moderated
+
+I posted this proposal a while ago, but I guess the message got
+eaten by the line eater or something.  In any case, your proposal
+is a good start, but it doesn't go nearly far enough.  We need to
+have a very fine grained division of rec.games.frp to avoid anyone
+possibly reading anything he isn't specifically interested in.
+
+In any case, my proposal...
+
+    * sci.math.frp - to discuss the underlying mathematics of fantasy
+        role-playing games (e.g. Fantasy Hero)
+    * sci.math.rpg - to discuss the underlying mathematics of role-
+        playing games (e.g. Champions)
+    * sci.math.stat.frp - to discuss the statistical aspect of fantasy
+        role-playing games
+    * sci.math.stat.rpg - to discuss the statistical aspect of role-
+        playing games
+    * sci.psychology.frp - to discuss the psychological implications
+        and effects of fantasy role-playing games
+    * sci.psychology.rpg - to discuss the psychological implications
+        and effects of role-playing games
+    * sci.physics.frp - hardcore discussion of physics in a fantasy
+        role-playing game
+    * sci.physics.rpg - hardcore discussion of physics in a role-
+        playing game
+    * soc.culture.frp - to discuss the fantasy role-playing game
+        subculture and its relation with the mundanes 
+    * soc.culture.rpg - to discuss the role-playing game subculture
+        and its relation with the mundanes
+    * comp.sources.frp - for source material used in fantasy role-
+        playing games
+    * comp.sources.rpg - for source material used in role-playing 
+        games
+    * rec.arts.frp - for fantasy role-playing game related stories
+    * rec.arts.rpg - for role-playing game related stories
+    * news.groups.frp - to discuss new fantasy role-playing game 
+        newsgroups
+    * news.groups.rpg - to discuss new role-playing game newsgroups
+
+I am sure there are many other newsgroup ideas I have missed.
+Please followup on this the discussion to news.groups.frp or
+news.groups.rpg.  Since most of us only read one of those 
+groups, please also cross-post what you post to one group to
+the other.
+
+I thank you, and the net thanks you.
+
+By the way, I have come up with this truly great idea for a 
+notesfile.  This bbs has grown so large that most of us cannot
+follow all the discussions going on.  Often times some 
+interesting thread would appear and disappear without most of
+us noticing.  What we need is a newsgroup to announce the 
+presence of interesting discussions so the rest of us can know
+where to "tune in". 
+
+Hey, the guy in the next cubicle is snickering.  He says we
+should call this notesfile mod.ber.  Isn't he funny?  I thought
+all the mod groups disappeared a couple of years ago.  And why
+is he laughing?  I am SOOOOOOO confused.
+
+-- 
+Gary Tse,    ga...@ios.Convergent.COM <> || ..!pyramid!ctnews!ios!garyt
+                t...@soda.Berkeley.EDU <> || ..!ucbvax!soda!tse
+               "What can you say about a society that says God is 
+                dead and Elvis is alive?"  -- Irv Kupcinet
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 17:56:32 UTC - vincent.j.guinto:
+In article <37...@cup.portal.com <>>, James_J_...@cup.portal.com <> writes:
+> If posters would just place KeyWords in the title of their posts
+> (preferably as the first word of the title), then KillFiles would
+> work just fine to accomplish the same thing as this proposed
+> reorganization.
+> 
+> Jim Kowalczyk
+But I don't want to KILL anything! I already have a kill file that
+does me pretty well.
+
+I want to SORT the articles. The volume of articles has been ranging
+in the 30-60 range each day since I started reading this newsgroup
+over a year ago. I think it would be a lot more convenient for me if
+large articles like stories, spell book entries, and scenarios (to
+pick a few examples) were in a separate newsgroup, so that I could
+browse their Subject lines (using = in rn) to see what I want to
+read now, what I want to read later, what I just want to ship off
+to my home system without reading, etc. As for the general discussion
+articles, I usually like to read them right away.
+
+Sure, I can do that now with a single group, but it's inconvenient
+to look through headers of 40 articles when I only need to see
+the headers of 10 or so. No, I suppose it's not a big deal, but it
+would be nice, and given a chance, I'd support an attempt at
+splitting the group along the proposed lines.
+
+No split along genre/game system, though! I like the discussions
+all mixed together.
+
+----------------------------------------------------------
+Vince Guinto                                 att!cblph!vjg
+AT&T Bell Laboratories                  Opinions are mine,
+Columbus, OH                                    not AT&T's
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 18:55:04 UTC - Mark Perew:
+I agree whole heartedly with Vince.  Two groups are more than 
+adequate.
+ 
+I would suggest that rec.games.frp be left alone.  What is needed
+is a rec.games.frp.long (ala BIX).  Anything over 40 lines should
+go in the .long ng with a brief message in the base ng stating that
+such and such book, story, software, etc. has been posted in the
+.long ng.
+ 
+BTW, I *am* an RQII snob.
+
+
+--  
+Mark Perew
+Internet: Mark....@ofa123.fidonet.org <>
+Compuserve: >internet:...@ofa123.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 19:26:07 UTC - David B. Williams:
+Egads.  All this talk about dissection and not much about role playing.
+The group is fine like it is, and selection of infomation can be achieved
+with proper use of net.manners -- don't change Subject field unless the
+subject really changes!!!  How many different Subjects did I see just for
+this DISSECTION business alone?
+
+Dave -- just say NO to the split -- Williams.
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 20:06:34 UTC - Dave Buchthal:
+In article <TORIVER.91...@lise1.lise.unit.no <>> tor...@lise.unit.no <> (Tor Iver Wilhelmsen) writes:
+>1: Splitting up leads to cross-posting (esp. with a *.misc-list in
+>there), thus INCREASING the network load.
+This is a common misconception.  On most systems, a cross-posted message
+creates only one file, with the exception of those people who are not
+really on Usenet, but instead get an EMail feed.  There may be other exceptions,
+but at least 90% of Usenet works this way.
+
+
+>3: It can be very frustrating to decide which sub-disc. to put a given
+>article in, unless there are guidelines, and who are to write them??
+>It will presumably end in a very active rec.games.frp.misc-list...
+A charter will have to be written before the vote can be held, according
+to Group Creation Guidelines.  Where do you envision problems of decision
+in the proposed 3-way split?
+
+David M. Buchthal
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 20:33:50 UTC - Kay Shapero:
+On <Jan 08 02:53>, tsource (1:103/208) wrote to All:
+ t>Organization: University of California, Santa Cruz; Open Access 
+ t>Computing
+ t>Message-ID: <10...@darkstar.ucsc.edu <>>
+ t>Newsgroups: rec.games.frp,news.groups
+
+
+ t>It has been purposed that rec.games.frp be reorged here is
+ t>my perposed reorg sceme (please post all comments to news):
+ t>rec.games.rpg.d                 dissection
+ t>rec.games.rpg.source*           software
+ t>rec.games.rpg.characters        characters posted to the net
+ t>rec.games.rpg.story*            stories
+ t>rec.games.rpg.ref*              reference material
+ t>rec.games.rpq.misc              miscalinus
+
+ t>* moderated
+
+ t>I want to know what people think of this
+ t>Please note that we can have a differnt kind of reorg or
+ t>differnt set up for these groups
+
+Let's not.
+
+
+
+--  
+Kay Shapero
+Internet: Kay.S...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:K...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 20:41:21 UTC - Kay Shapero:
+On <Jan 08 21:23>, vincent.j.guinto (1:103/208) wrote to All:
+ v>But I disagree that SIX groups are really needed! How about just 
+ v>TWO:
+
+ v>        1. a main group for miscellaneous general discussion,
+ v>           rules questions, debates about classes vs. skills,
+ v>           calls for help, etc.
+
+ v>        2. a reference or resource group for reference materials,
+ v>           like the net books, Tabolport (if something like that
+ v>           comes around again), character sheets, programs, etc.,
+ v>           and also for stories.
+
+Now THAT I could go along with.  FAR less messy than the original idea.
+But on the whole as long as people clearly identify reference, stories,
+programs et all in the titles I don't think it's really necessary.  (And
+would someone repost the "how to use killfiles on messages of the MY
+GREATEST ADVENTURE part X variety" information on a regular basis to 
+cut down on the "don't put the part number on the subject line" requests?  
+When people do that it makes it hard to tell what you do or don't have.)
+
+ 
+
+--  
+Kay Shapero
+Internet: Kay.S...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:K...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 20:51:20 UTC - sfellows@csm9a.colarodo.edu. (Steven B. Fellows):
+How about rec.games.frp.newgroup for all these discussions about
+creating new groups?
+sure, there may be about 1000 posts a month, but they are of such a broad
+spectrum, that I don't think any justification of splitting up the rec.games.frpcan be made.
+
+As far as I can tell , we get on this discussion whenever:
+
+1) Some new game appears and everybody starts talking about that for a while.  Examples are Shadowrun and Champions 4th edition.  Each time, it was proposed 
+we split the group up, and we didn't.  Notice how many posts about these games now, not much more than others.
+
+2) Somebody complains about seeing posts about other games, and can't kill or n through the letters.  To that I say, "tough", because these people are much in 
+the minority.
+
+
+I actually prefer a group with a lot of posts in it.  It is easier to just jump
+through themusing '=' or 'n'.  (listing them by subject).  Also, with the way we jump around between subjects so much, many of the groups will be empty most 
+of the time.
+
+for the record, I vote NO to a split.
+
+Steven B. Fellows
+sfel...@slate.mines.colorado.edu <>
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 21:13:11 UTC - sfellows@csm9a.colarodo.edu. (Steven B. Fellows):
+In article <TORIVER.91...@lise1.lise.unit.no <>> tor...@lise.unit.no <> (Tor Iver Wilhelmsen) writes:
+>   / r.g.frp (which is about every 6 months or so), we could just leave
+>   / things the way they are.  Very few people think there is a problem, so
+>   / why change anything?
+>
+>   If very few people think there is a problem, why DOES it come up every 6
+>   months or so?
+It comes up every 2 (two, 2, that is 2, [1+1], get my drift, son!) months
+because of:
+
+1) New people are constantly subscribing to this group, and they are unaware of all the previous discussions.
+
+2) A bunch of selfish dweebs feel that "their game" is the only game, and they 
+should have their own group.
+
+I understand reason number 1, because it is very reasonable for someone who doesn't know to ask to form a new group.
+
+As for the people who fall under number 2, they should be ignored.
+
+The problem is to distinguish between the people in number 1 and number 2.
+
+Steven B. Fellows
+sfel...@slate.mines.colorado.edu <>
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 22:01:46 UTC - Douglas F. Wilson:
+In article <74...@plains.NoDak.edu <>> my...@plains.NoDak.edu <> (Robert Myhre) writes:
+>In article <35...@netnews.upenn.edu <>> wcol...@eniac.seas.upenn.edu <> (Collins Walter III) writes:
+>>In article <10...@darkstar.ucsc.edu <>> ia...@ucscb.UCSC.EDU <> (tsource) writes:
+>>I vote yes for whatever, but I think I would prefer the following:
+>>        1. rec.games.frp -- anything and everything that is currently here. 
+>>        2. rec.games.frp.stories -- stories, scenarios, characters,
+>>                        and miscellaneous roleplaying experiences.
+>>        3. rec.games.frp.ref -- net spellbooks, monster manuals, game
+>>                        system rules, new weapon/armor/etc descriptions.
+>        [...]        I do have a problem reading the stories
+>because there are som many that I just don't have time to read them all.
+>I think breaking this up would help out because then I can just leave
+>them unread until I do get some time.  Count me in as a second vote.
+It may seem like a lot of stories when you're trying to read them, but in
+general we don't get that many stories; often we go for long periods of time
+without _any_ stories at all.  If you're using rn, just mark the stories and
+continue.  That way you can always go back and read them (unless they have
+expired, but they would do that in their own newsgroup as well).
+
+   -----------------------v--------------------------------------------
+ /        Doug Wilson          |        dwilson@polyslo.CalPoly.___                \
+X        San Luis Obispo          |                with:        .arpa .edu .com                 X
+ \        California 93405  |  or {sdsu,ucbvax,voder}\!polyslo\!dwilson        /
+   -----------------------^--------------------------------------------
+        Religion is the opiate of the masses.        ---  Karl Marx
+                I want a new drug!                ---  Huey Lewis
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 22:41:19 UTC - Dave Buchthal:
+In article <1991Jan09.2...@slate.mines.colorado.edu <>> sfel...@slate.mines.colorado.edu <> (sfel...@csm9a.colarodo.edu <>.  (Steven B. Fellows)) writes:
+>It comes up every 2 (two, 2, that is 2, [1+1], get my drift, son!) months
+>because of:
+>1) New people are constantly subscribing to this group, and they are 
+>unaware of all the previous discussions.
+>
+>2) A bunch of selfish dweebs feel that "their game" is the only game, 
+>and they should have their own group.
+Well, Dad, I've been around here for 2 [that's 1+1] years, and I've
+suffered through a number of these discussions before.  I guess I
+don't quite fit (1).  As for being a selfish dweeb who's only interested
+in "my game," get a clue.  Have you read a recent proposal?  The
+current 3-way split with .misc, .fiction or .stories, and .references
+or .resources has nothing to do with game systems.  Wake up and
+pay attention before you post.
+
+Followups are redirected to alt.flame, where this thread seems to be
+heading.
+
+David M. Buchthal
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 23:28:28 UTC - Gary Weiner:
+In article <35...@netnews.upenn.edu <>> wcol...@eniac.seas.upenn.edu <> (Collins Walter III) writes:
+>In article <10...@darkstar.ucsc.edu <>> ia...@ucscb.UCSC.EDU <> (tsource) writes:
+
+>I vote yes for whatever, but I think I would prefer the following:
+>        1. rec.games.frp -- anything and everything that is currently here. 
+>        2. rec.games.frp.stories -- stories, scenarios, characters,
+>                        and miscellaneous roleplaying experiences.
+>        3. rec.games.frp.ref -- net spellbooks, monster manuals, game
+>                        system rules, new weapon/armor/etc descriptions.
+>
+>I'm also not sure we need a moderator. 
+                Down With All Moderators!!  ;-)
+
+>Tell me what you all think about the 3-part split.
+>
+>Walt
+
+        Sounds good to me Walt. Certainly a much better idea than splitting
+along game system/genre lines. I vote yea!
+
+
+
+Gary J. Weiner  | Brookhaven National Laboratories  | "I'm not a bigot,
+PO BOX 715      | National Synchrotron Light Source | I hate everybody!"
+Upton,NY 11973  |    wei...@bnlls1.nsls.bnl.gov <>     |
+----------------------------------------------------------------------------
+
+Thursday, 10 January 1991 00:43:26 UTC - kru...@ohstpy.mps.ohio-state.edu:
+As someone else pointed out in the middle on a long discourse on the subject .
+  - If we got rid of this thread of discussion the group wouldn't be too
+    busy!!!
+Why don't we all agree not to discuss splitting the group anymore.  It would
+cetainly keep everyones KILL FILE smaller since they wouldn't have to spend
+all their time putting all the "SPLIT" topics into the KILL file and could go
+about reading what they read the group for RPG stuff!
+
+I don't really care if the group gets split or not since I can use KILL files
+but I wish everyone would quit clogging up the net with a discussion that has
+absolutly nothing to do with Role Paying Games.
+
+Split or Don't Split but lets get back to gaming material.
+
+===========================================================================
+Flame away I got on my asbestos jockey shorts!
+===========================================================================
+----------------------------------------------------------------------------
+
+Thursday, 10 January 1991 02:23:30 UTC - Thomas L. Talley:
+>Consider this a "yes" vote for the three part split.
+>rec.games.frp (general blather)
+>rec.games.frp.stories (guess)
+>rec.games.frp.reference  (game material)
+I also would like to vote yes on this three way split
+
+
+-- 
+Tom Talley                    grey...@cscihp.ecst.csuchico.edu <>
+ 
+                    under construction.
+----------------------------------------------------------------------------
+
+Thursday, 10 January 1991 04:29:22 UTC - jhre...@happy.colorado.edu:
+Just for the record, have any of the yea-sayers considered the full
+implications of a split?
+I don't think the majority have. The purposed 3-way split will result in two
+groups having next to zero traffic, and the r.g.frp.whatever group receiving
+the same amount of traffic. The stories group will have very few postings after
+a while, because nobody will read or comment on them. A ".reference" group can
+be better served by indepent archivers. The postings there derserve to be
+stored for a long period of time.
+
+The other problem I have, is this "behind the backs" route that this call for
+"dissection" has been carried out. It seems to me that the most ardent
+supporters waited till the Xmas break to bring this up. The majority of the
+people who read this group are not here to voice their opinions, and they need
+to be heard. I suggest that we hold off on this discussion till after the start
+of the new semester/quarter. Let's do this properly, let's do this right.
+
+-- 
+
+John H. Reiher Jr.
+Internet: John.H....@Happy.colorado.edu <>
+Bitnet: JHREIHER@COLOSPGS.BITNET
+-------------------------------------------------------
+Standard disclaimer, mainly to keep the University of
+Colorado's regents from having kittens over my remarks.
+-------------------------------------------------------------
+Stalking the Night Fantastic; the best new "old" game around!
+-------------------------------------------------------------
+Pithy quotation;
+                "If at first you don't succeed, then hide all evidence that
+                 you've tried."
+                                --R. M. Nixon
+----------------------------------------------------------------------------
+
+Thursday, 10 January 1991 05:43:54 UTC - Stephen P Potter:
+It's also like saying that if everyone put keywords into their posts, we 
+wouldn't need to have newsgroups.  We could just get by with one.  The point
+of newsgroups is convenience.  A split like this isn't going to cause machines
+across the country to blow up or anything....  
+
+--
+ana...@desire.wright.edu <> | "Tough times demand tough hearts, demand tough 
+spo...@eve.wright.edu <>    |  thoughts, demand tough songs, 
+                          |  Demand!" -Rush
+<Std.Dsc> WSU doesn't approve of anything I do, but that hasn't stopped me yet.
+----------------------------------------------------------------------------
+
+Thursday, 10 January 1991 05:48:54 UTC - Mark Giaquinto:
+In article tor...@lise.unit.no <> (Tor Iver Wilhelmsen) writes:
+>In article <196@mixcom.UUCP> cyaa01@mixcom.UUCP (Chris Klausmeier) writes:
+>
+>   / Or we could do what we usually do when someone suggests splitting
+>   / r.g.frp (which is about every 6 months or so), we could just leave
+>   / things the way they are.  Very few people think there is a problem, so
+>   / why change anything?
+>
+>   If very few people think there is a problem, why DOES it come up every 6
+>   months or so?
+Oh, I don't know.  Could it be the same people bringing up every six months?
+
+
+--
+Mark Giaquinto, wo...@leo.unm.edu <>{%ariel.unm.edu <http://ariel.unm.edu>} || mgiaquin@bootes.bitnet
+WinterWolf from Forumnet, WinterWof from IRC, wolf from various muds.
+669 Black Hawk Dr NE, Albuquerque, New Mexico 87122-1803
+All of us get lost in the darkness, Dreamers learn to stear by the stars. -Rush
+----------------------------------------------------------------------------
+
+Thursday, 10 January 1991 05:56:25 UTC - Mark Giaquinto:
+In article v...@cbnews.att.com <> (vincent.j.guinto) writes:
+>In article James_J_...@cup.portal.com <> writes:
+>> If posters would just place KeyWords in the title of their posts
+>> (preferably as the first word of the title), then KillFiles would
+>> work just fine to accomplish the same thing as this proposed
+>> reorganization.
+>> 
+>> Jim Kowalczyk
+>
+>But I don't want to KILL anything! I already have a kill file that
+>does me pretty well.
+Hmm, you don't want to kill anything but you already have a kill file.
+Care to clairify that one?
+
+
+>I want to SORT the articles. The volume of articles has been ranging
+>in the 30-60 range each day since I started reading this newsgroup
+>over a year ago. I think it would be a lot more convenient for me if
+>large articles like stories, spell book entries, and scenarios (to
+>pick a few examples) were in a separate newsgroup, so that I could
+>browse their Subject lines (using = in rn) to see what I want to
+>read now, what I want to read later, what I just want to ship off
+>to my home system without reading, etc. As for the general discussion
+>articles, I usually like to read them right away.
+Oh, I see, you want to sort the files by subject and such a high volume
+makes it inconvenient.  Are you saying that we should split the groups
+because YOU are inconveniced?  I hope not, but thats the way its coming
+across to be.
+
+
+>Vince Guinto                                 att!cblph!vjg
+>AT&T Bell Laboratories                  Opinions are mine,
+>Columbus, OH                                    not AT&T's
+
+--
+Mark Giaquinto, wo...@leo.unm.edu <>{%ariel.unm.edu <http://ariel.unm.edu>} || mgiaquin@bootes.bitnet
+WinterWolf from Forumnet, WinterWof from IRC, wolf from various muds.
+669 Black Hawk Dr NE, Albuquerque, New Mexico 87122-1803
+All of us get lost in the darkness, Dreamers learn to stear by the stars. -Rush
+----------------------------------------------------------------------------
+
+Thursday, 10 January 1991 06:05:13 UTC - Mark Giaquinto:
+In article dbuc...@math.lsa.umich.edu <> (Dave Buchthal) writes:
+>In article sfel...@slate.mines.colorado.edu <> (sfel...@csm9a.colarodo.edu <>.  (Steven B. Fellows)) writes:
+>>It comes up every 2 (two, 2, that is 2, [1+1], get my drift, son!) months
+>>because of:
+>>1) New people are constantly subscribing to this group, and they are 
+>>unaware of all the previous discussions.
+>>
+>>2) A bunch of selfish dweebs feel that "their game" is the only game, 
+>>and they should have their own group.
+>
+>Well, Dad, I've been around here for 2 [that's 1+1] years, and I've
+>suffered through a number of these discussions before.  I guess I
+>don't quite fit (1).  As for being a selfish dweeb who's only interested
+>in "my game," get a clue.  Have you read a recent proposal?  The
+>current 3-way split with .misc, .fiction or .stories, and .references
+>or .resources has nothing to do with game systems.  Wake up and
+>pay attention before you post.
+Yeah, but I have been here over 5 years and stories always get posted in
+bunches.  (speaking of which, does anyone have copies of stories that were  
+post about 3 years back?).  There will be long break where none of them
+get posted...  This is not a static newsgroup, the usage goes up and down
+and we are at a high point right now....
+
+>David M. Buchthal
+
+
+--
+Mark Giaquinto, wo...@leo.unm.edu <>{%ariel.unm.edu <http://ariel.unm.edu>} || mgiaquin@bootes.bitnet
+WinterWolf from Forumnet, WinterWof from IRC, wolf from various muds.
+669 Black Hawk Dr NE, Albuquerque, New Mexico 87122-1803
+All of us get lost in the darkness, Dreamers learn to stear by the stars. -Rush
+----------------------------------------------------------------------------
+
+Thursday, 10 January 1991 16:20:07 UTC - Kirsten Jacobus:
+It seems that the more vocal, and abusive, members of the anti-split camp
+just love to overgeneralize about people.  Evidently, many of them 
+maintain that "everyone" who wants to split is either a newboy or is a
+one-game munchkin.  Perhaps they should have read the initial call for
+discussion.  The split proposal was NOT along game systems but along
+functions.
+
+Make sure the issue you're stomping is actually up for grabs if you're going to
+lecture.
+----------------------------------------------------------------------------
+
+Thursday, 10 January 1991 16:55:46 UTC - Adrian Hurt:
+I support the idea of splitting rec.games.frp.  Here is my suggestion
+for the new groups:
+rec.games.frp.reorg        :        Discusses reorganising of rec.games.frp
+rec.games.frp                :        Everything else
+
+:-)
+
+ "Keyboard?  How quaint!" - M. Scott
+
+ Adrian Hurt                             |        JANET:  adrian@uk.ac.hw.cs
+ UUCP: ..!ukc!cs.hw.ac.uk <http://cs.hw.ac.uk>!adrian     |  ARPA:   adr...@cs.hw.ac.uk <>
+----------------------------------------------------------------------------
+
+Thursday, 10 January 1991 18:33:18 UTC - Kay Shapero:
+On <Jan 09 15:59>, Loren J. Miller (1:103/208) wrote to All:
+ LJ>this is the only sort of split proposal that makes any sense. one 
+ LJ>group
+ LJ>for gms, one for players. that way gm's can post things without 
+ LJ>fearing
+ LJ>that their players will inadvertently read secret info about a 
+ LJ>campaign.
+
+Except that many a player in one campaign is a GM of another.
+
+ 
+
+
+
+--  
+Kay Shapero
+Internet: Kay.S...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:K...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Thursday, 10 January 1991 20:34:51 UTC - Mike Sellers:
+In article <1991Jan9.1...@cbnews.att.com <>> v...@cbnews.att.com <> (vincent.j.guinto) writes:
+>In article <37...@cup.portal.com <>>, James_J_...@cup.portal.com <> writes:
+>> If posters would just place KeyWords in the title of their posts
+>> (preferably as the first word of the title), then KillFiles would
+>> work just fine to accomplish the same thing as this proposed
+>> reorganization.
+>> 
+>> Jim Kowalczyk
+>
+>But I don't want to KILL anything! I already have a kill file that
+>does me pretty well.
+>
+>I want to SORT the articles. The volume of articles has been ranging
+>in the 30-60 range each day 
+The volume of messages in this group is small compared to other 
+newsgroups, though the signal to noise ratio (when we're not 
+DOING THINGS LIKE THIS) is generally pretty good.
+
+> since I started reading this newsgroup over a year ago. 
+
+I've wanted to ask this for a long time:  who's been reading this group 
+for the longest period of time?  I've been here since 1984, but I suspect
+others have been around longer (Glenn Thain, are you out there?).
+
+This group does seem to have a larger turnover than a lot of others,
+no doubt due to the connection between colleges and frp-ing.  Once
+you get out into the Real World (tm), you suddenly have far less time
+to do things like game or read about gaming.  This turnover is also
+what no doubt sparks the recurring discussion of whether we should
+split the group: a bunch of students who've been reading this group
+for less than two or three years max and who have no idea what is 
+involved in administering the net suddenly decide it's just too
+inconvenient to them to sort through all the articles on Champions
+or Traveller or copyright law or melee systems or character sheets
+or stories or the often rumored but rarely seen frp software, and
+so go on a Let's Split the Group Jihad.  Once we get past this, we'll
+be open for a Let's Create a Net-FRP Jihad, and then a What's Wrong
+With AD&D Jihad is scheduled shortly thereafter.  That ought to take
+us to summer break when the traffic here drops precipitously and no
+one even wonders about splitting up a good thing.
+
+> I think it would be a lot more convenient for me if
+>large articles like stories, spell book entries, and scenarios (to
+>pick a few examples) were in a separate newsgroup, so that I could
+>browse their Subject lines (using = in rn) to see what I want to
+>read now, what I want to read later, what I just want to ship off
+>to my home system without reading, etc. 
+
+That's fine, except that the Usenet does not exist for your or anyone
+else's personal convenience.  Take it as a blessing that it exists
+at all, and hope that no admin either local to you or upstream from
+you suddenly decides that everything non-work related will be dumped.
+Believe it or not, this happens with some regularity.
+
+>Vince Guinto                                 att!cblph!vjg
+
+-- 
+Mike Sellers     msel...@mentor.com <>     Mentor Graphics Corp.
+
+"I used to think that the brain was the most wonderful organ in my
+body.  Then I realized who was telling me this." -- Emo Phillips
+----------------------------------------------------------------------------
+
+Thursday, 10 January 1991 23:52:21 UTC - Pierre Savoie:
+In-Reply-To: message from mhas...@zephyr.cair.du.edu <>
+   I would agree that this area should not be split.  If people really
+insisted on splitting this area, it should be as follows:
+ 
+rec.games.frp.mature   Mature people talking about anything to do with RPGs
+rec.games.frp.immature Immature people, etc...
+rec.games.frp.splitdebate   For people debating as to whether the area should
+be split or not.  Choosing this area locks you out of the other two, and the
+other two areas blissfully can't see the messages in this one.
+   Anybody second this scheme?  (grin)
+
+  -->  generic!pnet91!pro-micol!psavoie@zoo.toronto.edu <>
+ 
+   ...Better known to mundanes as Pierre Savoie, via Micol Labs, Toronto.
+----------------------------------------------------------------------------
+
+Friday, 11 January 1991 01:14:38 UTC - Perry A. Caro:
+It bears repeating that the GUIDELINES FOR USENET GROUP CREATION can
+be found in news.announce.newusers.  That's where I got my copy.
+It also bears repeating that it would be nice to have a cogent
+argument from the proponents of reorganization as to WHY reorganizing
+is desirable.  I'm keeping an open mind.  If I see a compelling argument
+that a concensus can be built on, I'll happily vote yes.
+
+Proponents have an uphill battle, though, since those against reorg have made
+several good points:
+
+* Drawing attention to a rec group increases the risk that the group
+  will be removed.  This is not idle paranoia.  I've seen it happen.
+  It's happened to me.  I didn't like it.
+
+* Reorganization is no guarantee against unwanted traffic.  People
+  will still post to the "wrong" subgroup.
+
+* Reorganization diminishes the nicest feature of having one group:
+  brainstorming, that is, people building on other peoples articles,
+  spawning new and interesting threads from boring/moribund ones.
+
+* Stories and NetBooks, and associated discussion, have never dominated
+  traffic, in terms of numbers of articles.
+
+Finally, my personal preferences.  I haven't yet seen a proposal that
+divides what-I-like from what-I-don't-like, primarily because I like
+most everything.  So I'd end up reading every message (or at least
+skimming the Subject line) on every subgroup proposed so far.  I
+therefore see no organizational benefit to me in a reorg.
+
+I prefer to not have to worry about which subgroup to post to.  Taking
+one proposal (.misc, .ref, .fiction), suppose I have a story excerpt
+(.fiction) that contains interesting rules mechanics (.ref) as well as
+touching on a thread about humorous spell misfires (.misc)?  Do I post
+to all and then suffer the flames of "don't post this here, post it
+there" from flamers who don't inspect Newsgroups lines?  Do I post to
+.misc only and post pointers in the other two (additional busywork for
+me, more overhead)?  Do I divide the posting up, losing valuable linkage
+info, and post separately (busywork, overhead to process three
+articles)?
+
+Commodore Perry
+----------------------------------------------------------------------------
+
+Friday, 11 January 1991 01:59:06 UTC - wayne wallace:
+Go to rec.games.frp. Do not pass Go. Do not collect 200 megabytes.
+Read the article entitled "The Best way to Split r.g.f.", authored by me,
+of course. Read other similar postings, with the same idea.
+Stay out of news.groups until we have a nice, clean proposal to post here.
+And note my idea invlovles, simply:
+rec.games.frp >> rec.games.frp.misc
+newgroup rec.games.frp.[library,sources,etc.]
+
+Decide which of the 2-,3-,4-,and 5-way splits appeals to you.
+Post in r.g.f. only.
+
+Thank you for your time.
+
+Wayne
+----------------------------------------------------------------------------
+
+Friday, 11 January 1991 03:31:14 UTC - Tom Jaskiewicz:
+Oh No.
+Not again.
+
+------------
+
+It would be nice to read about fantasy role playing.  (Remember?  that's
+what rec.games.frp is for).
+
+There is a group for talking about making new newsgroups, or splitting old
+newsgroups.  It's called news.groups.  Please take this discussion over there
+where it belongs.
+
+(and take the time to read the group creation guidelines).
+-- 
+##########################################################################
+# The doctrine of nonresistance against arbitrary power, and oppression is
+# absurd, slavish, and destructive of the good and happiness of mankind.
+#   -- Article 10, Part First, Constitution of New Hampshire
+----------------------------------------------------------------------------
+
+Friday, 11 January 1991 05:18:28 UTC - James_J_...@cup.portal.com:
+cyaa01@mixcom.UUCP (Chris Klausmeier) writes:
+
+>In article <27749.2...@kuhub.cc.ukans.edu <>> slo...@kuhub.cc.ukans.edu <> writes:
+>
+>/ Or we could do what we usually do when someone suggests splitting
+>/ r.g.frp (which is about every 6 months or so), we could just leave
+>/ things the way they are.  Very few people think there is a problem, so
+>/ why change anything?
+>
+>If very few people think there is a problem, why DOES it come up every 6
+>months or so?
+Either: 1.  A relatively new reader of rec.games.frp brings it up again.
+or      2.  Someone who brought it up earlier and didn't learn his/her
+            lesson brings it up again.
+
+>I proposed a different split a few months ago, and got a lot of flame,
+>but also a lot of agreement. This time, it looks like there is more
+>desire for a split, and the group to be split off (hopefully
+>rec.games.frp.resources) is a better idea than what I posted about.
+
+The main reasons it gets shot down every time is that nobody can
+come up with a good reason for a split.  Most readers of this group
+are happy with browsing and using 'kill files.'  Everyone has topics
+that they don't like to read.  In my case, I tend to avoid threads not
+related to games that I play; however, for me to suggest that the
+group be subdivided into a million game-related groups (e.g., 
+rec.games.frp.AD <http://rec.games.frp.AD>&D, rec.games.frp.GURPS, etc.) would be impractical
+and probably not very popular with many people.
+
+If this "reorganization' takes place, then most readers are simply 
+going to have 5 or more groups to read where they only had one previously.
+What is the point?
+
+Jim Kowalczyk
+----------------------------------------------------------------------------
+
+Friday, 11 January 1991 15:38:21 UTC - Allan J. Mikkola:
+>Collins Walter III writes:
+>Has it occurred to anyone that EVERYONE would be much happier if we split?
+
+What, are you kidding?  Haven't you seen all the NO votes????
+I would NOT, I repeat **NOT** be happier with a split!!
+
+>Second, the plain fact is (in most cases) it's just NOT TOO MUCH
+>TROUBLE to ask your sysop or administrator to add two new groups to the
+>list for your system.
+
+This may the case at a .edu site, but it's a different story entirely at a
+.com site; most sysops at a work place are going to think twice before adding
+another 2, 3, or whatever non-scientific newgroups.  I know *I* would have a
+very difficult time gaining access to any new frp groups.  I've lost access to
+new groups before when another group split, and I don't want it to happen 
+again.
+
+Besides, there is currently (nor do I believe there ever will be) a clear
+consensus on how to split the damn group - so why bother?
+LEAVE FRP THE WAY IT IS!!
+
+Still Screaming NO,
+
+AJ Mikkola
+
+P.S.  I appologise for adding still more wasted bandwith :-(
+
+===========================================================================
+|| Allan J. Mikkola                                                      ||
+|| uucp:     {uunet!crdgw1|sun!sunbrew}!gemed!vulcan!allanm              ||
+|| Internet: all...@vulcan.med.ge.com <>                                    ||
+===========================================================================
+--
+===========================================================================
+|| Allan J. Mikkola                                                      ||
+|| uucp:     {uunet!crdgw1|sun!sunbrew}!gemed!vulcan!allanm              ||
+|| Internet: all...@vulcan.med.ge.com <>                                    ||
+===========================================================================
+----------------------------------------------------------------------------
+
+Friday, 11 January 1991 16:06:08 UTC - Christopher M Songer:
+In article UUCP  (Perry A. Caro) writes:
+>It bears repeating that the GUIDELINES FOR USENET GROUP CREATION can
+>be found in news.announce.newusers.  That's where I got my copy.
+.
+.
+.
+>
+>Finally, my personal preferences.  I haven't yet seen a proposal that
+>divides what-I-like from what-I-don't-like, primarily because I like
+>most everything.  So I'd end up reading every message (or at least
+>skimming the Subject line) on every subgroup proposed so far.  I
+>therefore see no organizational benefit to me in a reorg.
+...
+     You're right, there is probably no benefit to you in the proposed re-org.
+However, there are benefits to some. (like me :) I, unfortunately, do not have
+the time to read rec.games.frp very often, and usually, I just scan the last 
+few articles. While I'd like to read them, the bandwidth on the group is just
+too high for me to get through with everything else going on. So, I think the
+addition of rec.games.frp.ref and rec.games.frp.stories (or whatever they are
+going to be called) is a real boon to those who do not have time to go through
+the whole newsgroup. Even if people decide that rec.games.frp should remain a
+catch-all, the addtion of rec.games.frp.ref and rec.games.frp.stories as a 
+repositiory for those posts fitting the proper criteria, the new groups will 
+still be beneficial. The split will not so much hamper collaberative creativity,
+as make the products of that creativity available to more people.
+
+-Chris        /*I work for and go to Purdue, I do not speak for it. */
+----------------------------------------------------------------------------
+
+Friday, 11 January 1991 22:05:23 UTC - Nigel Tzeng:
+In article <10...@aggie.ucdavis.edu <>>, ez00...@shaggy.Ucdavis.EDU <> writes...
+^Consider this a "yes" vote for the three part split.
+^rec.games.frp (general blather)
+^rec.games.frp.stories (guess)
+^rec.games.frp.reference  (game material)
+^ 
+^As for those who consider it a waste of bandwidth,
+^check out the ten or so amiga groups!
+When r.g.frp starts getting 200+ msgs per day I'll consider it.  comp.sys.amiga
+was/is one of the most bloated groups on the net and needed division.  The near
+record breaking number of voters (I believe they were 50 or so votes shy) 
+attest to this.
+
+NT
+
+^ 
+^Tim Prestero. UC Davis
+^internet: ez00...@castor.ucdavis.edu <>
+
+--------------------------------------------------------------------------------
+   // | Nigel Tzeng - STX Inc - NASA/GSFC COBE/SMEX Project
+ \X/  | xr...@amarna.gsfc.nasa.gov <> or xr...@vx730.gsfc.nasa.gov <>
+      | 
+Amiga | Standard Disclaimer Applies:  The opinions expressed are my own.
+----------------------------------------------------------------------------
+
+Monday, 14 January 1991 16:32:03 UTC - Kirsten Jacobus:
+- show quoted text -In article <19...@odin.cs.hw.ac.uk <>> adr...@cs.hw.ac.uk <> (Adrian Hurt) writes:
+>I support the idea of splitting rec.games.frp.  Here is my suggestion
+>for the new groups:
+>
+>rec.games.frp.reorg        :        Discusses reorganising of rec.games.frp
+>rec.games.frp                :        Everything else
+>
+>:-)
+>
+> "Keyboard?  How quaint!" - M. Scott
+>
+> Adrian Hurt                             |        JANET:  adrian@uk.ac.hw.cs
+> UUCP: ..!ukc!cs.hw.ac.uk <http://cs.hw.ac.uk>!adrian     |  ARPA:   adr...@cs.hw.ac.uk <>
+
+
+
+All the people complaining about how the group should be split:
+All the people complaining about how the group should not be split:
+All the people complaining about splitting/not splitting/suggesting splitting:
+
+
+
+PUT UP OR SHUT UP!!!!!!!!!!!!!!!!!!!
+
+
+
+
+The "netgods" have a protocol to deal with these disagreements.
+
+Post a CALL FOR DISCUSSION, then, after the requisite time, post a CALL
+FOR VOTES.  Count the votes.  If the split wins, the issue is 
+resolved.  If it doesn't the issue is still resolved.
+
+BEGIN THE RESOLUTION PROCESS!!!
+
+Insofar as I know, no formal call for discussion has been posted.
+
+For those of you who superciliously demand that everyone be good little 
+gamers and not scare you with talk about splitting, let your votes be 
+known.  If you are in a sufficiently large minority, then the group will not
+be split, and you can self-superiourly point back to the vote
+whenever someone raises the question of a split.  If you really think
+that the splitters are in the minority CALL FOR A VOTE YOURSELVES!  Then you 
+can prove it.
+----------------------------------------------------------------------------
+
+Monday, 14 January 1991 17:29:19 UTC - Bruce Onder:
+In article <2148.2...@ofa123.fidonet.org <>> Kay.S...@f524.n102.z1.fidonet.org <> (Kay Shapero) writes:
+
+>On <Jan 09 15:59>, Loren J. Miller (1:103/208) wrote to All:
+>
+>LJ>this is the only sort of split proposal that makes any sense. one 
+>LJ>group
+>LJ>for gms, one for players. that way gm's can post things without 
+>LJ>fearing
+>LJ>that their players will inadvertently read secret info about a 
+>LJ>campaign.
+>
+>Except that many a player in one campaign is a GM of another.
+The only splits I can think of that would cause people to read one
+group and not the rest are along the lines of division by game system
+(which we pretty much all agree is a stupid waste of time) or by genre
+(which I personally feel is a stupid waste of time).
+
+Also, by labelling the group ".gm" and ".player" I am not implying
+that gm campaign secrets would be posted to the gm group.  I am
+implying that those posts useful only to gms (Grasslands, Tabolport,
+net.books, *source material*) and their ensuing discussions should be
+posted here.
+
+If something is of value to both player and gm (new spells, etc), it
+should go to players, since, as you said, players can be gms and vice
+versa.
+
+As an aside, I am quickly shifting back toward the net.paranoid end of
+the spectrum (with net.split.at.all.costs at the other end).  Mostly
+because the ceaseless arguing about how stupid one or another split is
+tends to get boring after a week or so.
+
+And the endless stream of reg.games.frp.reorg/splitters/d quasi-jokes
+is *really* getting on my nerves!
+
+
+>--  
+>Kay Shapero
+>Internet: Kay.S...@f524.n102.z1.fidonet.org <>
+>Compuserve: >internet:K...@f524.n102.z1.fidonet.org <>
+>--------------------------------------------------------------------------
+Brewster
+--
+Bruce W. Onder                on...@isi.edu <>
+
+"Welcome to hell -- here's your accordion."
+----------------------------------------------------------------------------
+
+Tuesday, 15 January 1991 07:00:49 UTC - Wally Hartshorn:
+In article <1991Jan8.2...@nntp-server.caltech.edu <>> chri...@nntp-server.caltech.edu <> (Christofer Bertani) writes:
+>        Here we go again.  This argument shows up with annoying 
+>        regularity, and nothing ever comes of it, because everyone
+I think the fact that this discussion keeps coming up "with annoying regularity"
+is a good indicater that a split *IS* needed.  Figuring out HOW to split it is
+the hard part.
+
+I urge people to support SOME type of split, even if it isn't the split
+which you think is best.  I saw one person, for instance, say that he wouldn't
+oppose one type of split, but he wouldn't support it either, although he did
+support splitting the group in some fashion.  I think it would be better to
+support a split that you don't agree with entirely than to hold out for the
+PERFECT split.  I think most people probably would agree that an imperfect
+reorg would be better than no reorg at all.
+-- 
+Wally Hartshorn (uunet!pallas!wally or wa...@athenanet.com <>)
+President, Amiga Computer Enthusiasts of Springfield (ACES)
+Chronicler, Shire of Swordcliff, SCA
+Sysop, The Quest, F&SF BBS, Citadel-68K node US (217) 546-7608
+----------------------------------------------------------------------------
+
+Tuesday, 15 January 1991 07:08:07 UTC - Wally Hartshorn:
+In article <37...@cup.portal.com <>> James_J_...@cup.portal.com <> writes:
+>If posters would just place KeyWords in the title of their posts
+>(preferably as the first word of the title), then KillFiles would
+>work just fine to accomplish the same thing as this proposed
+>reorganization.
+If you have a magic spell you can cast that will cause everyone who posts here
+to suddenly become good at putting descriptive Subject lines in their messages,
+then your solution will work.  However, it doesn't seem to be working too well
+so far, and personally I doubt that you have such a mystic power.  How does
+splitting the group hurt you?  What's the point in voting against it?
+
+-- 
+Wally Hartshorn (uunet!pallas!wally or wa...@athenanet.com <>)
+President, Amiga Computer Enthusiasts of Springfield (ACES)
+Chronicler, Shire of Swordcliff, SCA
+Sysop, The Quest, F&SF BBS, Citadel-68K node US (217) 546-7608
+----------------------------------------------------------------------------
+
+Tuesday, 15 January 1991 16:10:48 UTC - slo...@kuhub.cc.ukans.edu:
+In article <5...@pallas.athenanet.com <>>,
+ wa...@pallas.athenanet.com <> (Wally Hartshorn) writes:
+> ...  How does
+> splitting the group hurt you?  What's the point in voting against it?
+I am against it because it would fragment many of the discussions
+across the different groups, making them hard to follow.  For example,
+the recent "Best use of spells" thread could easily be posted to the
+"stories" group, but technical discussion of why the spell should or
+shouldn't work like that would belong in the .misc group.  Now the
+thread is going on in two different groups.  I would rather be able to
+follow it in one.  If we have a .ref group, would articles discussion
+the reference material be put in .ref or .misc? Some poeple will think
+one thing and others will think another, fragmenting the discussion.
+There are only about 25 articles per day now, and splitting would only
+divert about 5 of those (accourding to current statistics.) It just
+isn't worth the effort and headaches for so little return.
+-- 
+USmail: Bob Sloane, University of Kansas Computer Center, Lawrence, KS, 66045
+E-mail: slo...@kuhub.cc.ukans.edu <>, sloane@ukanvax.bitnet, AT&T: (913)864-0444
+----------------------------------------------------------------------------
+
+Tuesday, 15 January 1991 23:52:47 UTC - Walter Milliken:
+Having been around this group a while, I've seen a number of split
+proposals come and go.  The two or three-way split between general
+discussion, stories, and resource material is the first one I've seen
+that actually made *some* sense.
+I'd be happy to see the stories and the net.books go somewhere else --
+it seems I spend half my time tinkering with my kill buffer to kill
+off the latest crop.  Part of my leaning toward the split is that I
+use the NNTP-based Gnews newsreader, which can be rather slow.  Very
+long posts like the net.books take forever to 'n' over.  Presumably
+this doesn't afflict those people who use the spool-based newsreaders
+like rn, but it is a consideration for some of us.
+
+I wouldn't read either the stories or the resources groups (no time
+and/or interest), so not having to tinker the kills for each new crop
+of stories and net.books or whatever would be a significant feature to
+me.  I'll probably vote in favor of the split, but I'm won't be
+terribly unhappy if it fails -- the traffic usually isn't all *that*
+bad.
+
+I'm strongly opposed to any of the other proposed splits -- I can't
+see the utility of a gm/player split when most people are both, and
+the genre or game-system splits won't work for the usual reasons
+everyone gives.
+
+Moderation of any of the groups should be avoided, though -- not only
+does some poor person have to take the job, but it will stifle the
+groups.  Also, I'd be perfectly happy to see all the net.book and
+story requests go somewhere else.
+
+---Walter
+----------------------------------------------------------------------------
+
+Wednesday, 16 January 1991 01:17:52 UTC - D. W. James:
+In article <4245:Jan9...@kramden.acf.nyu.edu <>> brn...@kramden.acf.nyu.edu <> (Dan Bernstein) writes:
+)In article <40...@ucbvax.BERKELEY.EDU <>> g...@tornado.Berkeley.EDU <> (George William Herbert) writes:
+)> There isn't enough traffic to justify such a reorganization.  
+ 
+)No, that's simply wrong. rec.games.frp, with more than 1000 messages per
+)month, is one of the most overloaded groups on USENET. It needs a split.
+)---Dan
+        Really?  That many?  Man, how do you ever keep up?
+
+
+From the most recent group of net statistics (sorted for # of postings):
+
+
+TOP 40 NEWSGROUPS IN ORDER BY TRAFFIC VOLUME
+A companion posting explains the statistics and the algorithms that produced
+them.
+
+        +-- Estimated total number of people who read the group, worldwide.
+        |     +-- Actual number of readers in sampled population
+        |     |     +-- Propagation: how many sites receive this group at all
+        |     |     |      +-- Recent traffic (messages per month)
+        |     |     |      |      +-- Recent traffic (kilobytes per month)
+        |     |     |      |      |      +-- Crossposting percentage
+        |     |     |      |      |      |    +-- Cost ratio: $US/month/reader
+        |     |     |      |      |      |    |      +-- Share: % of newsrders
+        |     |     |      |      |      |    |      |   who read this group.
+        V     V     V      V      V      V    V      V
+  7  60000  1514   91%  2185  4129.6     7%  0.12   4.4%  comp.sys.amiga
+ 10  40000  1009   84%  1999  3462.2     3%  0.14   2.9%  soc.motss
+ 16  51000  1281   89%  1492  2641.6     2%  0.09   3.7%  rec.arts.sf-lovers
+  5  68000  1704   89%  1468  4404.3     3%  0.11   5.0%  rec.arts.startrek
+  9  59000  1479   84%  1462  3528.6     4%  0.09   4.3%  soc.culture.indian
+ 39  51000  1290   79%  1385  1752.1     5%  0.05   3.8%  talk.bizarre
+ 12  34000   856   89%  1365  3132.4     8%  0.15   2.5%  rec.ham-radio
+ 19  36000   899   87%  1318  2370.3     1%  0.11   2.6%  rec.arts.comics
+ 15  61000  1533   85%  1303  2730.7     7%  0.07   4.5%  soc.singles
+ 32  36000   902   90%  1210  1976.0     1%  0.09   2.6%  comp.sys.apple2
+ 17  28000   712   87%  1205  2523.2     0%  0.15   2.1%  rec.arts.tv.soaps
+ 20 170000  4364   75%  1159  2350.3     6%  0.02  12.7%  alt.sex
+ 35 100000  2537   89%  1137  1906.2     2%  0.03   7.4%  rec.humor
+ 34  59000  1476   88%  1136  1954.3    14%  0.05   4.3%  rec.music.misc
+  4  29000   722   87%  1115  4411.9     1%  0.25   2.1%  rec.games.frp
+ 11  58000  1464   89%  1088  3253.9     7%  0.09   4.3%  rec.arts.movies
+ 24  25000   630   52%  1059  2288.0    12%  0.09   1.8%  alt.desert-shield
+ 13  19000   480   78%  1055  3126.5     5%  0.24   1.4%  talk.religion.misc
+ 30  52000  1305   89%  1012  2064.5     6%  0.07   3.8%  rec.arts.tv <http://rec.arts.tv>
+ 38  23000   585   86%   965  1872.7     0%  0.13   1.7%  rec.sport.basketball
+ 26  30000   759   86%   963  2166.0    14%  0.12   2.2%  sci.skeptic
+ 28  31000   790   68%   931  2087.4     3%  0.09   2.3%  alt.tv.twin-peaks
+ 21  20000   498   78%   910  2342.3     0%  0.17   1.5%  talk.abortion
+ 40  25000   632   87%   910  1708.6     1%  0.11   1.8%  rec.motorcycles
+ 14  40000   999   83%   855  3054.2    10%  0.12   2.9%  soc.culture.china
+ 33  26000   659   83%   815  1968.5     2%  0.12   1.9%  soc.culture.jewish
+ 31  35000   884   80%   776  2020.6    36%  0.09   2.6%  talk.politics.misc
+ 25  25000   624   79%   748  2217.5    25%  0.13   1.8%  talk.politics.mideast
+ 27  50000  1250   91%   703  2116.8    22%  0.07   3.7%  sci.space
+ 29  23000   573   80%   371  2084.3    28%  0.14   1.7%  soc.culture.turkish
+
+Now then, you are telling me that a group with only 29K readers wants to 
+split because of a measly 1000 postings a month?  GET  REAL!!!  Come back
+when you have a problem.
+
+--
+Later Y'all,  Vnend <- Lottery winner #316 Ignorance is the mother of adventure.   
+      Mail?  Send to:v...@phoenix.princeton.edu <> or vnend@pucc.bitnet            
+        Anonymous posting service (NO FLAMES!) at vn...@ms.uky.edu <>                    
+"Weebles wobble but they won't fall down." It's awfully hard to be macho about   being a Weeble.
+----------------------------------------------------------------------------
+
+Wednesday, 16 January 1991 02:15:29 UTC - Gary Tse:
+slo...@kuhub.cc.ukans.edu <> writes:
+|If we have a .ref group, would articles discussion
+|the reference material be put in .ref or .misc? Some poeple will think
+|one thing and others will think another, fragmenting the discussion.
+Right.  That's why we need a .ref.d group.  Noone has proposed 
+it yet?  Don't worry.  Someone will.
+
+-- 
+Gary Tse,    ga...@ios.Convergent.COM <> || ..!pyramid!ctnews!ios!garyt
+                t...@soda.Berkeley.EDU <> || ..!ucbvax!soda!tse
+               "What can you say about a society that says God is 
+                dead and Elvis is alive?"  -- Irv Kupcinet
+----------------------------------------------------------------------------
+
+Thursday, 17 January 1991 03:50:41 UTC - James_J_...@cup.portal.com:
+wa...@pallas.athenanet.com <> (Wally Hartshorn) writes:
+>In article <37...@cup.portal.com <>> James_J_...@cup.portal.com <> writes:
+>>If posters would just place KeyWords in the title of their posts
+>>(preferably as the first word of the title), then KillFiles would
+>>work just fine to accomplish the same thing as this proposed
+>>reorganization.
+>
+>If you have a magic spell you can cast that will cause everyone who posts here
+>to suddenly become good at putting descriptive Subject lines in their messages,
+>then your solution will work.  However, it doesn't seem to be working too well
+>so far, and personally I doubt that you have such a mystic power.  How does
+>splitting the group hurt you?  What's the point in voting against it?
+The points against the split are:
+
+  It unnecessarily fragments Usenet.
+
+  It will accomplish nothing for the vast majority of rec.games.frp readers
+    (since they will likely read/scan all the newly created groups).
+  It will draw attention to the group, increasing the possibility
+    that some SysAdmins will drop it (rec and alt groups having low
+    priority at most establishments).
+  It is possible that some systems will be slow to carry the new groups
+    or will choose not to carry them at all; thus inconveniencing current
+    readers.
+  And depending on the exact nature of a split, Net bandwidth could be
+    adversely affected due to cross-posting.
+  
+>-- 
+>Wally Hartshorn (uunet!pallas!wally or wa...@athenanet.com <>)
+>President, Amiga Computer Enthusiasts of Springfield (ACES)
+Have a nice day,
+
+Jim Kowalczyk                      James_J_...@cup.portal.com <>
+----------------------------------------------------------------------------
+
+Thursday, 17 January 1991 15:23:33 UTC - Dan Bernstein:
+In article <38...@cup.portal.com <>> James_J_...@cup.portal.com <> writes:
+> The points against the split are:
+>   It unnecessarily fragments Usenet.
+Yes, ``split'' and ``fragment'' are reasonably close synonyms, and we
+realize that you think the split is unnecessary. What's your argument?
+
+>   It will accomplish nothing for the vast majority of rec.games.frp readers
+>     (since they will likely read/scan all the newly created groups).
+
+This is the real question. Do the vast majority of potential (not just
+current) rec.games.frp readers approve of a split and/or name change?
+A few years ago, when I brought up the same question, enough people
+approved of a split that I almost called for a vote. I stopped when I
+was told that renames were impossible---as was, for all practical
+purposes, true at the time.
+
+>   It will draw attention to the group, increasing the possibility
+>     that some SysAdmins will drop it (rec and alt groups having low
+>     priority at most establishments).
+
+By that argument, no rec or alt group will ever be created. In reality,
+any admin with time to manage news either doesn't mind rec.games.frp or
+has already killed it.
+
+>   It is possible that some systems will be slow to carry the new groups
+>     or will choose not to carry them at all; thus inconveniencing current
+>     readers.
+
+By that argument, no new group will ever be created. Lots of things are
+*possible*.
+
+>   And depending on the exact nature of a split, Net bandwidth could be
+>     adversely affected due to cross-posting.
+
+Crossposting does not affect bandwidth. The worst a crossposted article
+can do is be seen twice by one reader, and most newsreaders support Xref
+by now. Crossposting is often abused but not inherently evil.
+
+---Dan

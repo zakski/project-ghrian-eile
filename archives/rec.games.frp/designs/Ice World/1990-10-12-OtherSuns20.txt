@@ -1,0 +1,227 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/X0KdY32IZds
+TITLE: Other Suns : 20 
+
+----------------------------------------------------------------------------
+
+Friday, 12 October 1990 15:13:26 UTC+1 - John Redden:
+------------------ OS.19 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero.  This gaming material is
+distributed on a shareware basis.  If you do not use the material you
+owe the author nothing.  If you do use it please pay him what you
+think it is worth at a fair price becasue it took a damn lot of work
+to develop and playtest.  The USmail address is:
+
+Niall Shapero
+2536 Short Ave
+Los Angeles CA 90066
+USA
+
+Those of you with modems can dial into his BBS using this phone number:
+(213)822-6729
+
+Please email any comments to my electronic mailing address and I will
+pass them on to Niall.
+
+----------------  end of preamble -------------------------------------------
+Wind  can kill in subzero temperatures. The speed of arctic  wind
+can make all the difference between life and death, if a  charac-
+ter is caught in the open.
+
+Wind  velocities  should be determined with snowfall for  each  8
+hour period. The Wind Velocity Table is used to determine average
+velocity  and  also whether the winds are steady or  gusty.  Wind
+gusts  will reach twice the specified velocity 1D6  times  within
+each 2 hour period for 20 minutes each time. Wind speed and  type
+is  checked  even if the weather is constant over more  than  one
+eight hour period.
+
+Wind Effects: The principal effect of wind is to alter the  "wind
+chill  factor".  Winds  can lower the  apparent  air  temperature
+dramatically.  Even comparatively mild temperatures can  be  made
+lethal  by high winds. Details are covered in a later section  on
+temperature.
+
+In addition, high winds can pose a threat to air vehicles  flying
+below the cloud layer, and can whip up snow to hamper  visibility
+and cause savage drifts.
+
+MOVEMENT ON SNOW AND ICE
+
+Both snow and ice pose special problems for characters attempting
+to  move  under  their own power. The speed and  safety  of  such
+movement depends on many factors, as outlined below.
+
+The  Basic Movement Rate: For cross-country travel on foot,  much
+use  is made of the standard Basic Movement rate  which  measures
+the average speed of a character. The Basic Movement rate  varies
+from  race to race, and, like the melee movement rates  in  Other
+Suns, is a function of length, method of locomotion, and movement
+class.
+
+The basic movement rates of existing intelligent races have  been
+calculated  below. They are based on the averages for each  race;
+the  player  or Referee who wishes to calculate  an  individual's
+exact  Basic Movement rate may do so using the formula  presented
+later in this section.
+
+For Altani, Dakti (stages I and III), H'Reli, Humans,  Sanchenzii
+and Uquoi, allow 30 kilometers per day (3.750 kph). For Korli and
+Dakti  (stage  II, walking) allow 20 kilometers  per  day  (2.500
+kph). For Skiltaire allow 25 kilometers per day (3.125 kph).  For
+Bjora  allow 50 kilometers per day (6.250 kph). Allow 60  kilome-
+ters  per  day (7.500 kph) for Ata'a, and for  Dakti  (stage  II,
+flying) allow 200 kilometers per day (25.000 kph).
+
+If  calculating the basic movement rate for a new race or  animal
+(such  as a riding or pack beast) the following information  must
+be known:
+
+Length: the average (expected) LEN stat is generally used, though
+specifics may be substituted instead.
+
+Locomotory Mode: (bipedal, quadrupedal, flier, or other):  deter-
+mined by the description of the being in question.
+
+Movement  Class: Most creatures have a Movement Class (MC) of  8.
+Ata'a  and  Skiltaire have MCs of 12 and  10  respectively  (both
+being treated as quadrupeds).
+
+Length  and Locomotory Mode are cross-indexed into the  table  in
+section 3.3.2 in Other Suns to determine the Meters Traveled  per
+Movement Point expended.
+
+To  determine  the  Basic Movement rate in  kilometers  per  day,
+multiply  Movement  Class by Meters Traveled per  Movement  Point
+expended  and  multiply the result by 1.25. This  produces  a  30
+kilometer  per day Basic Movement rate for the average Human  (in
+agreement with the basic rates given in section 3.3.1.1 in  Other
+Suns).  This  rate assumes 8 hours spent walking each day  --  so
+determine the Basic Movement rate in kilometers per hour,  simply
+divide this value by 8.
+
+Using  the  Basic Movement Rate: When  traveling  across  country
+under  normal conditions of terrain and climate,  characters  may
+move  at the full value of their basic movement rate  and  suffer
+minimal problems from exertion (the movement is considered  Light
+Activity  for  purposes of Endurance losses  --  see  Endurance).
+Movement  at this rate is considered to be broken  by  occasional
+rest stops, and to be, on the whole, steady but not  particularly
+fast  or  strenuous. Characters may make a forced march  of  half
+again the Basic Movement rate (60 kilometers in 12 hours for  the
+average  Human);  however, a forced  march  constitutes  Moderate
+Activity, and so costs more Endurance. Characters may also set  a
+running  pace of 2.5 times their normal Melee Movement rate  (see
+section  5.3.80 for details on the Running skill) but  this  will
+constitute an extreme drain on Endurance.
+
+
+                     ICE WORLD I (PART 8 OF 28)
+
+When  moving using the Basic Movement rate, any of  three  scales
+may  be  used. Increments of twenty minutes are useful  when  de-
+tailed  activities are in order. Increments of one hour are  par-
+ticularly  versatile,  and recommended for most  standard  situa-
+tions.  Increments  of eight hours may be used to  regulate  long
+marches when very little is happening; these increments should be
+tied into the mapping and weather processes discussed previously.
+In  any  event, actual distance covered depends  upon  speed  and
+travel time; endurance losses and other problems can be  factored
+into  the game according to the scale used. It is perfectly  per-
+missible,  even  desirable,  to shift freely from  one  scale  to
+another as the needs of the scenario direct. The various movement
+and endurance tables in this booklet are designed to handle  each
+time scale to ease the bookkeeping burden.
+
+Snow  and  Ice Movement: The basic movement rate  assumes  fairly
+easy terrain and a lack of complicating factors which might  slow
+movement down. Snow and ice are treacherous surfaces to  traverse
+and they slow down foot movement considerably.
+
+Snow hampers rapid movement and limits the ability of the charac-
+ter to run, and sometimes masks hazards such as rocks or  depres-
+sions. Ice cover also provides the added risk of uncertain  foot-
+ing.
+
+The  Movement  Effects Chart is used to regulate the  speed  with
+which characters move over various types of terrain.  Multipliers
+are listed for various combinations of terrain and movement type;
+these multipliers are applied to the Basic Movement Rate to yield
+a  movement rate over that particular terrain type in the  speci-
+fied mode. The chart also gives the endurance cost of movement.
+
+Several entries are provided showing movement rates using special
+types of arctic equipment, as follows:
+
+Snowshoes:  Snowshoes are broad, flat, webbed frames designed  to
+distribute  an  individual's weight over snow, keeping  him  from
+becoming  bogged down in deep snow. They are fairly easy to  use.
+Characters using snowshoes apply the modifiers shown to the basic
+movement  rate. Snowshoes are tiring to use, as mentioned in  the
+Snowshoe skill described earlier.
+
+Skis: The use of skis in cross-country travel is one of the  most
+efficient  methods of movement in arctic conditions known to  any
+sophont, though some are better adapted to it than others (either
+through  biology or cultural background). Skis will not  work  in
+the  absence of adequate snow cover, but in shallow or deep  snow
+(or,  less  effectively, on bare ice) skis  make  rapid  movement
+fairly easy. There is a possibility of accident, but if the skier
+is cautious, it is a minimal one.
+
+Movement on skis is not subject to the character's Basic Movement
+Rate.  Instead, maximum ski movement speeds are shown in the  Ski Movement  Chart,  with speeds being primarily  dependent  on  the
+degree  of slope. Most cross-country skiing is done  over  fairly
+level ground, but the Referee may indicate when periods of  down-
+hill  or uphill travel take place, and alter maximum  speeds  ac-
+cordingly. Truly rugged country is the realm of a separate forth-
+coming  supplement/adventure,  Mountain World, and is  not  dealt
+with here. Over bare ice, maximum speeds are cut in half.
+
+Within the limits set by the ski movement chart, characters  have
+considerable  control over their actual speeds. The maximum  safe
+speed  that any skier may move is his percentage skill in  skiing
+(as  limited by his Arctic Travel skill) in kilometers per  hour.
+Thus  with  an Arctic Travel skill of 70% and a Skiing  skill  of
+45%,  a character could safely ski at 45 kilometers per  hour.  A
+skier  must make his skiing roll MINUS 1% per kph traveled  above
+his  safe speed for each ten turn (20 minute) period or  fraction
+thereof that he skis above his safe speed; the skiing roll may be
+modified  further by severe conditions (see the Movement  Effects
+Charts  for  terrain and cover for modifiers). If  the  resultant
+skill value (skill as limited by Arctic travel and as modified by
+speed  and conditions) is still 30% or better, the roll need  not
+be  made  (though  it may still be attempted). If  the  roll  for
+overspeed  is  attempted and failed, in addition  to  any  damage
+resulting  from the resultant fall, a temporary 1D3 END  expendi-
+ture is taken for that 20 minute period due to exertion.
+
+Moving  downhill, the problem is to control and limit  speed.  In
+such a case, the skill level provides the allowable reduction  in
+speed from the maximum. For each 1% in skiing, the adventurer may
+reduce his actual speed by no more than 1 kilometer per hour from
+the  maximum  speed given for the slope. The maximum  safe  speed
+described above then applies.
+
+It  should  be noted that the table of speeds  given  for  skiing
+reflects  optimum  conditions; the Referee may  freely  vary  the
+allowable  speeds  by  up to 50% in either  direction  to  handle
+varying circumstances or situations.
+
+Skates:  Ice  skates  can be extremely useful, in  the  hands  of
+skilled  characters, for movement across wide expanses of  fairly
+level ice.
+
+
+                     ICE WORLD I (PART 9 OF 28)
+
+The  basic movement rate for characters on skates is set  by  the
+character's  skill:  allow  1  kph  per  2%  skill  (or  fraction
+thereof).  Speed can be doubled for a brief period (to 1 kph  per
+1% skill) but the Endurance expenditure is increased  thirty-fold
+(a  skill roll is required once per 2 minute interval,  with  1D3
+END loss and a fall per failed roll).
+
+Tumbles  and Falls: In the event of a failed skill roll,  a  fall
+has occurred sometime during the time period under consideration.

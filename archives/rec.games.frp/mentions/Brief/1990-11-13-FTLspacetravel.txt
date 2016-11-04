@@ -1,0 +1,194 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/xV2CzsfEaoI
+TITLE: FTL space travel 
+
+----------------------------------------------------------------------------
+
+Tuesday, 13 November 1990 00:29:53 UTC - John Redden:
+I sometimes run a game called "Cosmos" that has FTL travel in it.  The 
+starships range in power from what I would call "Travelleresque" to more
+powerful that your typical Other Suns scout ship and with a major tech level 
+in between these two models.  
+Like other gaming masters I wanted to somehow limit the scope of FTL
+flight and not inhibit the players freedom.  One technique I used was
+to have the "shape" of hyperspace change at key points usually known
+ahead of time by space navagation systems.  But often it would not be
+known how much they would change.  A jump to a star system would be 16
+light years, but the jump back could be 1600.  This tended to limit
+the scope of the game on one hand, make it adventurous and exciting on
+the other (expecially for badly fumbled jump rolls *snicker*).
+
+Another special effect is to put little random "time holes"  "one way worm
+holes" and other such exotica around for the players to be amused and 
+worried about.  
+
+Also just give the captain orders from the corporation or group that is paying
+for the adventure to "go to this system and come home"  Jump to another system:
+role play a court scene.  
+
+John R, the master of the reddened suns...
+----------------------------------------------------------------------------
+
+Friday, 16 November 1990 17:15:34 UTC - Winthrop's All-Night Pizza and Mortuary:
+In article <21...@ttidca.TTI.COM <>>, red...@ttidca.TTI.COM <> (John Redden) says:
+
+>Like other gaming masters I wanted to somehow limit the scope of FTL
+>flight and not inhibit the players freedom.  One technique I used was
+>to have the "shape" of hyperspace change at key points usually known
+>ahead of time by space navagation systems.
+I have a space RPG running in its second year now.  I have found (through
+experimentation) that the best setup (at least with the players I GM) is
+one in which the players either (a) own a ship which is not capable of FTL
+travel, and have a friendly NPC who can "piggyback" them, or (b) to have the
+players be crew on said friendly NPC's FTL ship.  Either way, I can
+(without raising anyone's ire) keep control of where they go.
+
+Of course, players like it when their characters have a reliable form
+of transportation of their own, so I go with (a).
+
+This way, the characters can bounce around their base system (which I put
+'way out in the boondocks, where they can't get into too much trouble)
+without help, but they have to go through the friendly NPC (and, thus, me)
+to get outsystem.
+
+This is in a sysyem where military starships regularly travel at
+10 E 10 c, and a trading starship can get 100,000 c without too much
+difficulty.  The friendly NPC just happens to have an old ship which
+is only capable of 1 lightyear per day.  At that rate, I can have the
+players in a nearby system 10 lightyears from home and they can't go back for
+supplies without a delay of a month or so.  They think twice about what
+to bring along when they go outsystem.  In fact, I never have to worry
+about "siphoning off" excess money from them; they spend it at a
+ferocious rate just buying equipment.
+
+E.g.:
+Player: "We have one medical robot.  Two would be nice."
+GM:     "One point two million marks, please."
+Player: "Er--we haven't sacked Rome, y'know, just found an abandoned ship."
+GM:     "Care to try the stock market?"
+
+The answer to players who have the exploring bug usually isn't in
+slowing down the movement rates of ships, it lies in using their own
+fears/abilities against them.  My players tend to run heavy on social
+skills (because they looooove conning people out of their money), and
+you can't use a skill like crowd control on an unexplored world.
+
+Also, you can cut down on outsystem adventuring just by *letting* them
+explore outsystem.  It'll take ten minutes of game time:
+
+GM:       "Your characters are a month older, as it took 35 days to get to the
+               New France system.  Mark it down on your character sheets."
+Players:  "What's here?  Money?  Gold?  Robot mining ships made of milk and
+               honey?"
+GM:       "No, no, and no, in that order.  Asteroids.  Rocks.  And a planet
+               that is no more inhabitable than Mars."
+Players:  "Damn.  Next star?"
+GM:       "Add another two months for some more worthless rocks. . ."
+Players:  "Forget it."
+
+Empty systems get boring really fast, and bring in no money.  Make it
+obvious that the money/XP/fun/babes/whatever the party wants or needs
+is to be found on an inhabited world.  Then set up a bunch of inhabited
+and interesting worlds within FTL distance.  With about 20 or so worlds,
+the players will never get bored.  A planet (and its attendant star system)
+is a big place to explore.
+
+Even in a space RPG, players tend (as far as I've seen) to like the usual:
+interesting NPCs.  Challenging local politics.  Equipment that breaks
+every once in a while, so the Techies can keep in practice.  Exploring gets
+boring, at least in an area that's not at war.  Wartime, on the other hand...
+
+I don't do wartime, except in fantasy games.  Tech societies tend to lob
+nuclear weapons about.  Kills PCs.
+
+GM:       "You take 3000 points of damage."
+Players:  "WHAT!?"
+
+
+
+  --Winthrop's All-Night Pizza and Mortuary (Crusade Branch)
+    "Look, I know it's against local regulations to come out of jump
+     half an AU from the local star.  We were thrown off course by a
+     nova.  You don't believe me?  Wait about fifteen years, then look
+     towards galactic east.  You'll see it.  Can I interest you in some
+     lead sheilding?"
+                        --Said by a character in the game discussed
+                          above.  Unfortunate natural disasters near the
+                          characters while out exploring tend to make for
+                          stick-at-homes, too.  Did I mention that?
+----------------------------------------------------------------------------
+
+Sunday, 18 November 1990 00:10:48 UTC - Brian or James:
+In article <numberzandstufflikethat> hb...@psuvm.psu.edu <> (Winthrop's All-Night Pizza and Mortuary) writes:
+        (Material deleted)
+
+
+>Also, you can cut down on outsystem adventuring just by *letting* them
+>explore outsystem.  It'll take ten minutes of game time:
+>
+>GM:       "Your characters are a month older, as it took 35 days to get to the
+>               New France system.  Mark it down on your character sheets."
+>Players:  "What's here?  Money?  Gold?  Robot mining ships made of milk and
+>               honey?"
+>GM:       "No, no, and no, in that order.  Asteroids.  Rocks.  And a planet
+>               that is no more inhabitable than Mars."
+>Players:  "Damn.  Next star?"
+>GM:       "Add another two months for some more worthless rocks. . ."
+>Players:  "Forget it."
+>
+>Empty systems get boring really fast, and bring in no money.  Make it
+>obvious that the money/XP/fun/babes/whatever the party wants or needs
+>is to be found on an inhabited world.  Then set up a bunch of inhabited
+>and interesting worlds within FTL distance.  With about 20 or so worlds,
+>the players will never get bored.  A planet (and its attendant star system)
+>is a big place to explore.
+        True, but in most SFRPGs, there's no good reason why they don't built
+jillions (OK, dozens) of perhaps cheap, and at least non-voting automated
+probes to winnow out the chaff systems.
+
+        Who makes the probes? Well, if they're pricey, probably the gov'ts.
+If they're cheap, maybe the little fellahs can make their own X-Plore-Omatic
+probes to go where no one has gone. If FTL radio exists, you'll want to encode
+your transmissions so those nasty claim jumpers don't use *your* probe info
+for filling their pockets. If there isn't FTL commo, then your probes will 
+have to come home to let you know what they found. Be a real shame if someone
+else snatched up your tinker toy. Probably a good idea to give your probes
+enough automony & gunpower to resist wrongful kidnapping. Not *too* much
+autonomy, mind you. Those AIs can get real uppity about profit shares if
+you aren't careful.
+
+        Enough years of this sort of thing, and PCs avoid exploring because 
+of all those paranoid probes lurking in the unexplored regions, convinced
+everyone who isn't a verified shareholder is Out To Get Them.
+
+
+>Even in a space RPG, players tend (as far as I've seen) to like the usual:
+>interesting NPCs.  Challenging local politics.  Equipment that breaks
+>every once in a while, so the Techies can keep in practice.  Exploring gets
+>boring, at least in an area that's not at war.  Wartime, on the other hand...
+>
+>I don't do wartime, except in fantasy games.  Tech societies tend to lob
+>nuclear weapons about.  Kills PCs.
+ 
+        Stupid Tech societies do. Hostile techs can conflict without mutual
+suicide; look at New York and California. 
+        Nukes are like chemical weapons: you *never* use them on people who
+retaliate in kind.
+
+
+>GM:       "You take 3000 points of damage."
+>Players:  "WHAT!?"
+>
+        Not "What hit-location" or "Can I roll with the blow"? :)
+                                                                James Nicoll
+
+>
+>  --Winthrop's All-Night Pizza and Mortuary (Crusade Branch)
+>    "Look, I know it's against local regulations to come out of jump
+>     half an AU from the local star.  We were thrown off course by a
+>     nova.  You don't believe me?  Wait about fifteen years, then look
+>     towards galactic east.  You'll see it.  Can I interest you in some
+>     lead sheilding?"
+>                        --Said by a character in the game discussed
+>                          above.  Unfortunate natural disasters near the
+>                          characters while out exploring tend to make for
+>                          stick-at-homes, too.  Did I mention that?

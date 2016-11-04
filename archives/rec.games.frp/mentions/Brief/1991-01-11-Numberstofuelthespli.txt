@@ -1,0 +1,301 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/2e6LRuuMDDU
+TITLE: Numbers to fuel the split discussion... 
+
+----------------------------------------------------------------------------
+
+Friday, 11 January 1991 16:39:02 UTC - Michael C. Smit, Hardware:
+It is a good feeling to not care about a split of r.g.frp.  However, I still
+have followed the discussion.  Kudos goes to the r.g.frp role-playing game:
+my alignment is apathetic uncaring.  :)
+Whether or not the split is approved, I'll still read the group(s).  But I
+have noticed that while people talk about bandwidth, and "30 to 60" messages
+daily, no one has bothered to actually check it out.  So, I found a dormant
+account, and tried to read r.g.frp from scratch.  Mostly using "=" (a boon
+equal to that of the kill file), I made a tally of the messages.  Note that
+your site might have different numbers: this is just on the uw node.
+
+And please, no flames.  My flameproof underwear is on back order.  :)  The
+only thing that will get me mad is if r.g.frp is cancelled entirely.  What
+happened here at U of W (when administration deleted the entire alt.* tree
+because of a complaint about a post in alt.sex.bondage, and then tried to
+deceive the students as to the reason (financial), finally reinstating most
+groups after a public outcry) proves that the users are really the people
+who determine the direction of the net.
+
+From December 27, 0:00am, 1990 to January 11, 10:00am, 1991:
+
+390 messages over 15 and a half days.  Average of 25 messages per day over
+the holidays when most students don't have net access.
+
+Following the most popular (in posts, at least) way of splitting r.g.frp:
+rec.games.frp -- 215 messages
+rec.games.frp.stories -- 24 messages (incl. Jayhawk, best use of spell, etc.)
+rec.games.frp.ref -- 54 messages (incl. Merakai, Other Suns, net.book, etc.)
+rec.games.frp.split :) -- 97 messages
+
+rec.games.frp -- 55.1% of total postings
+rec.games.frp.stories -- 6.2% of total postings
+rec.games.frp.ref -- 13.8% of total postings
+rec.games.frp.split :) -- 24.9% of total postings
+
+Note: I haven't looked at actual lengths of messages.  Somebody with a faster
+newsreader and more time than me could check for the average length of posts
+in general and in each proposed group split.
+
+"I grok its fullness..."        //\\  Myk (mcs...@watmath.uwaterloo.ca <>)
+ "...And it's funny always!"    //\\  I disclaim all knowledge...
+-- 
+"I grok its fullness..."     //\\  Myk  (mcs...@watmath.uwaterloo.ca <>)
+ "...And its funny always!"  //\\  I disclaim all responsibility...
+----------------------------------------------------------------------------
+
+Saturday, 12 January 1991 00:39:46 UTC - tsource:
+>rec.games.frp -- 215 messages
+>rec.games.frp.stories -- 24 messages (incl. Jayhawk, best use of spell, etc.)
+>rec.games.frp.ref -- 54 messages (incl. Merakai, Other Suns, net.book, etc.)
+>rec.games.frp.split :) -- 97 messages
+
+>rec.games.frp -- 55.1% of total postings
+>rec.games.frp.stories -- 6.2% of total postings
+>rec.games.frp.ref -- 13.8% of total postings
+>rec.games.frp.split :) -- 24.9% of total postings
+
+>Note: I haven't looked at actual lengths of messages.  Somebody with a faster
+>newsreader and more time than me could check for the average length of posts
+>in general and in each proposed group split.
+>(mcs...@watmath.uwaterloo.ca <>)
+
+A personal word of thanks for posting this.
+
+-- 
+ [=]    [=-=]    [=]
+ | |=-=-| c |-=-=| |
+_|_|____|_^_|____|_|_
+(ia...@ucscb.ucsc.edu <>)
+----------------------------------------------------------------------------
+
+Saturday, 12 January 1991 01:17:14 UTC - Bruce Onder:
+In article <10...@darkstar.ucsc.edu <>> ia...@ucscb.UCSC.EDU <> (tsource) writes:
+
+
+>>rec.games.frp -- 215 messages
+>>rec.games.frp.stories -- 24 messages (incl. Jayhawk, best use of spell, etc.)
+>>rec.games.frp.ref -- 54 messages (incl. Merakai, Other Suns, net.book, etc.)
+>>rec.games.frp.split :) -- 97 messages
+>
+>>rec.games.frp -- 55.1% of total postings
+>>rec.games.frp.stories -- 6.2% of total postings
+>>rec.games.frp.ref -- 13.8% of total postings
+>>rec.games.frp.split :) -- 24.9% of total postings
+>
+>>Note: I haven't looked at actual lengths of messages.  Somebody with a faster
+>>newsreader and more time than me could check for the average length of posts
+>>in general and in each proposed group split.
+>
+>>(mcs...@watmath.uwaterloo.ca <>)
+>
+>A personal word of thanks for posting this.
+But:
+
+I doubt everybody would post their "best use of spells" in .stories --
+the question the brought that up would have posted in .frp.
+
+I'm beginning to agree with others, here -- stories won't need its own
+group, representing only 6% of the postings.  We need two groups:
+
+BREWSTER'S MODIFIED SPLIT:
+
+
+rec.games.frp.gm <http://rec.games.frp.gm>        reference materials, rules mechanics, etc
+rec.games.frp.players        everything else and the kitchen sink
+As before, articles of interest to both groups should go only to
+players.  As this rule would be self-policing (the ancient red netters
+would tell the newborn not to cross-post), neither group would need a 
+moderator.
+
+Two groups is better than three for the net.paranoid (like me)...
+Two groups is better than one for the net.splitters (like me too!)...
+
+Brewster
+
+--
+Bruce W. Onder                on...@isi.edu <>
+
+"Welcome to hell -- here's your accordion."
+----------------------------------------------------------------------------
+
+Saturday, 12 January 1991 02:37:09 UTC - tsource:
+In article <16...@venera.isi.edu <>> on...@ISI.EDU <> (Bruce Onder) writes:
+>BREWSTER'S MODIFIED SPLIT:
+>
+>rec.games.frp.gm <http://rec.games.frp.gm>        reference materials, rules mechanics, etc
+>rec.games.frp.players        everything else and the kitchen sink
+I would be willing to sign onto a 2-way if it was more general like.
+r.g.f.misc
+r.g.f.resources
+-- 
+ [=]    [=-=]    [=]
+ | |=-=-| c |-=-=| |
+_|_|____|_^_|____|_|_
+
+(ia...@ucscb.ucsc.edu <>)
+----------------------------------------------------------------------------
+
+Saturday, 12 January 1991 03:28:22 UTC - ez00...@scooby-doo.ucdavis.edu:
+Well, if there IS a split, this is my recommendation for how to
+do it:
+rec.games.frp or frp.misc  for the usual rubbish
+rec.games.reference        for those gol durn net books, etc.
+
+Of course, this is only if there is a split. I would rather there
+not be one, maybe just regular posts on how to press the "k" key,
+and lessons on how NOT to be offended by articles you aren't 
+interested in. Yeesh. Is it that hard to skip articles you don't
+like?
+
+Well, I think I am up to $0.04 on this one.
+Tim Prestero
+internet: ez00...@castor.ucdavis.edu <>
+----------------------------------------------------------------------------
+
+Saturday, 12 January 1991 04:17:31 UTC - The OTHER Gretchen:
+In article <16...@venera.isi.edu <>> on...@ISI.EDU <> (Bruce Onder) writes:
+>BREWSTER'S MODIFIED SPLIT:
+>
+>rec.games.frp.gm <http://rec.games.frp.gm>        reference materials, rules mechanics, etc
+>rec.games.frp.players        everything else and the kitchen sink
+I am not a gm... I flee from gm'ing.  Yet I would read the gm group.
+Why?  Because I am very interested in game mechanics and reference
+materials... although I am not good at plotting adventures, I love
+worldbuilding.
+
+Possibly I would subscribe just to 'see what the gms are up to'.
+(There was an earlier suggestion that gms could post secret discussions
+of their worlds in the gm group; I can't remember who said that, but
+it seems to be unworkable and unfair to players.
+        "You can't read this group."
+         "Why not?  It's a public group!"
+        "It contains secrets of the game you're in."
+         "But there are interesting non-secret things here, too!")
+
+I would, of course, read the players group, both because I am a player
+and because it contains "everything else".
+
+I would now be reading the same amount of articles spread out into
+two newsgroups.  Is this better?
+
+How many players would *not* read the gm newsgroup?  All but one of
+the gamers I know are interested in game mechanics and worldbuilding
+to some extent.  How many gms would not read the players newsgroup?
+I don't know a single gm who doesn't want to just *play*, but all of
+those stupid non-gms (like me) keep demanding adventures....
+
+I think that the result of this split would be that almost *all*
+of the current readership would subscribe to both groups.
+
+I think the split would break up much of the brainstorming effect
+of the current group as discussions move from, say, game mechanics
+to nifty results of said mechanics.
+        "That reminds me of when...."
+         "Move it into rec.games.frp.players."
+
+
+>As before, articles of interest to both groups should go only to
+>players.  As this rule would be self-policing (the ancient red netters
+>would tell the newborn not to cross-post), neither group would need a 
+>moderator.
+This would probably increase the volume and flaming overall, and
+decrease the signal:noise ratio.
+
+(I agree that any split should not require a moderator, merely
+because the job of moderating frp groups is not one I would wish
+on anyone.. the volume is high and the interests diverse.)
+
+
+>Two groups is better than three for the net.paranoid (like me)...
+I do agree with this.
+
+
+>Two groups is better than one for the net.splitters (like me too!)...
+If we must split the group, two groups is probably the optimum number,
+but I think it would be better to split the group in such a way that
+
+        a) subjects aren't constrained or likely to 'wander' in a
+           confusing way between groups, and
+
+        b) a significant (what's significant?  Maybe 5%+?) group
+           of people could unsubscribe to one group or the other
+           because they are not interested in the subject.  The
+           split should be a labor saving device.
+
+If people do not share my opinion that it isn't worth breaking up the
+group if both of the resulting groups will still be read, or my opinion
+that the majority of people would read both groups, please post; I'd
+like to see differing worldviews.
+           
+>Bruce W. Onder                on...@isi.edu <>
+
+Gretchen Shanrock
+gret...@eris.berkeley.edu <>
+----------------------------------------------------------------------------
+
+Saturday, 12 January 1991 20:07:01 UTC - Joseph E Poplawski:
+In article <10...@aggie.ucdavis.edu <>> ez00...@scooby-doo.Ucdavis.EDU <> () writes:
+>Well, if there IS a split, this is my recommendation for how to
+>do it:
+>
+>rec.games.frp or frp.misc  for the usual rubbish
+>rec.games.reference        for those gol durn net books, etc.
+>
+>Of course, this is only if there is a split. I would rather there not be one,
+>maybe just regular posts on how to press the "k" key, and lessons on how NOT
+>to be offended by articles you aren't interested in. Yeesh. Is it that hard
+>to skip articles you don't like?
+No it is not.  But I would like to see the good stuff such as the stories,
+net spell books, etc. get archived.  But no one wants to archive a group that
+consists of so much junk and noise.  I often see messages asking how to get
+back articles, or where there are mail archive servers for things, but not
+everyone knows.  If the group started to become archived at a popular site,
+everyone could be happy.
+
+Yeesh, would it be *that* hard to read 2 different groups?
+
+-Jo
+--
+Joseph E Poplawski (Jo), President   Fantasci Incorporated / Fantasci Gaming
+Addr:  222 Lemon Lane, Edgewater Park, NJ 08010-2703  Phone: +1 609 835-2846
+UUCP:  decwrl!twwells!fantasci!jep || telesci!fantasci!jep || jep@fantasci
+
+--------In Memoriam:  Douglas Joseph Poplawski   10/22/70 - 04/08/90--------
+----------------------------------------------------------------------------
+
+Tuesday, 15 January 1991 03:05:06 UTC - Kay Shapero:
+On <Jan 12 01:17>, Bruce Onder (1:103/208) wrote to All:
+ BO>BREWSTER'S MODIFIED SPLIT:
+
+ BO>rec.games.frp.gm <http://rec.games.frp.gm>        reference materials, rules mechanics, etc
+ BO>rec.games.frp.players   everything else and the kitchen sink
+
+ BO>As before, articles of interest to both groups should go only to
+ BO>players.  As this rule would be self-policing (the ancient red 
+ BO>netters
+ BO>would tell the newborn not to cross-post), neither group would 
+ BO>need a 
+ BO>moderator.
+
+Except that GMs and players are not mutually exclusive groups.  Players
+in one game may well GM another.
+
+As has been mentioned in here by several people, there is a newsgroup
+out there designed for discussing new newsgroups or partitions of old
+ones.  If people really, sincerely, want to cut down on excessive
+messages in here, why not take the entire split argument there?  THAT
+would do more than any division into multiple subgroups. 
+
+
+
+--  
+Kay Shapero
+Internet: Kay.S...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:K...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------

@@ -1,0 +1,3483 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/iiDFTR2OMH0
+TITLE: Point Based Systems 
+
+----------------------------------------------------------------------------
+
+Thursday, 14 February 1991 02:18:02 UTC - Wayne Shaw:
+To Mary Kuhner:
+ 
+Glad to be of help.  Your concerns are quite legitimate; it's been 
+a dichotomy for a long time how much of a character's internal world 
+should be under the control of game mechanics.  Some people are simply 
+so dedicated to GURPS or Hero that they cannot help but respond to 
+qualms on someone's part as an attack. 
+
+
+--  
+Wayne Shaw
+Internet: Wayne...@ofa123.fidonet.org <>
+Compuserve: >internet:...@ofa123.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Thursday, 14 February 1991 02:28:52 UTC - Wayne Shaw:
+To Jeff Stehman:
+ 
+Jeff, face it, the problem is that you are arguing the wrong point. 
+ The point that you are arguing is that game rules are a bad idea. 
+ While I don't agree (I consider such positions an excessively role 
+
+playing/storytelling gamers position), until you start addressing 
+that one instead of arguing point based systems, you and a lot of 
+people are going to keep shouting past each other.
+Me, I don't WANT to have to keep improvising all the kinds of things 
+handled by skill rules and other mechanics.  I'd rather save my energies 
+for better things. 
+
+
+
+--  
+Wayne Shaw
+Internet: Wayne...@ofa123.fidonet.org <>
+Compuserve: >internet:...@ofa123.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Thursday, 14 February 1991 23:30:52 UTC - Dennis Heffernan:
+In article <1991Feb13...@wharton.upenn.edu <>> mil...@wharton.upenn.edu <> (Loren J. Miller) writes:
+|because gurps appeals to people who are obsessive about controlling the
+|game balance of characters in a group. some people, such as myself,
+|think it errs too far in that direction, prohibiting the play of extreme
+|characters, such as our infamous one-eyed barmy beggar. After all, if
+|I'm willing to take on all the baggage of such a character, why can't I
+|play it?
+        Work it out with your GM.  The rules don't say you can't do it; they
+just SUGGEST a -40 point limit.  Yes, the Book does use the word "suggested".
+It also says, "But each GM should set their own limits and guidelines, as 
+appropriate for each campaign.  Keep it fun."
+        Sounds fair to me.
+
+|
+|gurps' answer would be (i'm reading between the lines here) it isn't
+|fair to the other players since the problems of your character are going
+|to take up more game time than anybody else's concerns.
+
+        Actually, it says:
+
+        "Game Masters should be careful [about] how many disadvantages
+        they allow their players to take.  This problem is often self-
+        correcting; someone who plays a one-eyed, berserk, deaf hunch-
+        back who is afraid of the dark will either a) kill the poor 
+        fellow off to be rid of him or b) have so much fun that nobody
+        else will really mind.  But too many disadvantages can turn your
+        game into a circus."
+
+        [pg. 26, 3rd ed.]
+
+        Which is basically correct; if EVERYONE is running around with a ton
+of disads, and the GM is actually enforcing them, you spend more time adjucating
+everyone's psychoses than you spend running the adventure.
+
+|
+|my retort would be the gm who can't control his own campaign is up a
+|creek, and no game system will float him out, so stop trying to force
+|game balance in the rules!
+
+        This is the Wrong Way of Doing It.  It is the responsibility of the 
+rules (and the designers) to ensure that the game has some degree of balance 
+to it.  If it doesn't, it will turn into a nightmare in the hands of anything
+less than an expert GM.  Which are few and far between.
+
+
+|
+|don't legislate morality in my country, and don't force game balance in
+|my game!
+
+        If you don't like the way the game is balanced, change it.  It's much
+easier to REMOVE balances than it is to ADD them.
+
+dfra...@tronsbox.xei.com <>    ...uunet!tronsbox!dfrancis    GEnie: D.HEFFERNAN1
+------------------------------------------------------------------------------
+"At least [Ceacescu] had Overthrow Alert- 'My regime has fallen, and I can't
+get up!"  --Dennis Miller
+----------------------------------------------------------------------------
+
+Thursday, 14 February 1991 23:37:33 UTC - Dennis Heffernan:
+In article <1991Feb13.2...@oz.plymouth.edu <>> s...@oz.plymouth.edu.plymouth.edu <> (Steffan O'Sullivan) writes:
+|In article <44133@ut-emx.uucp> d...@ccwf.cc.utexas.edu <> (David Nalle) writes:
+|>
+|>Does anyone out there share my belief that the introduction of 'Whimsy Cards'
+|>into a campaign is about the equivalent of admitting that you're not going
+|>to role-play anymore, and finally giving up all pretense of character 
+|>personality or free will and yielding it over to some trite an silly cards?
+|
+|I certainly do, Dave.  I played with them once, at Origins/GenCon, with
+|one of the game designers as GM.  Basically, I had a GM-generated
+|character, with certain traits already listed.  Basically, although of
+|the ruling class, he had great empathy for the lower classes and never
+|chewed them out or looked down on them.  So one of the fighters makes a
+|simple mistake, and I ask him to please come back.  At that point someone
+|played a whimsey card that I had to lose my temper at him.  I protested
+|to the GM that it was not in character, but the GM upheld the call!
+|Someone else then played an intensifying card, and I was supposed to get
+|really pissed at him - totally out of character.
+|
+|Someone later told me that the rules with them don't allow that, but all
+|I know is that one of the co-authors was GM . . .
+|-- 
+|-Steffan O'Sullivan      s...@oz.plymouth.edu <>
+        Then he should have read his own rules- the first page of the rule
+booklet that comes with the cards says that players have the right to veto any
+whimsey that controls their character.
+
+        It specifically does NOT give the GM the power to control PC's through
+whimseys.
+
+        You sure that a) this was a co-author of the Whimsey Cards, and not of
+the game, and b) this wasn't a playtest version?
+
+        I've got the cards, and I've been thinking about using them in my Supers
+game.  I wouldn't recommend them to GM's who don't know their players VERY well,
+but I've been gaming with this bunch for a while and I trust them to not go off
+into the ozone layer if I give them whimseys.
+
+
+
+dfra...@tronsbox.xei.com <>    ...uunet!tronsbox!dfrancis    GEnie: D.HEFFERNAN1
+------------------------------------------------------------------------------
+"...I'm beginning to think that the #1 endanged species in this country is
+someone who retains their freedom of choice."  --Dennis Miller
+----------------------------------------------------------------------------
+
+Friday, 15 February 1991 16:10:32 UTC - Allen Wessels:
+In article <1991Feb14....@jetsun.weitek.COM <>> rob...@hemingway.WEITEK.COM <> (Robert Plamondon) writes:
+>You have to understand the dichotomy between the "Hey, it's only a
+>game, man!" beer-and-pretzels role-players and the "Break my arms,
+>break my legs, but don't make me break character" serious
+>role-players.  There is NO common ground between them.
+
+You forgot the condescending "sniff".
+--------
+There are two kinds of people: those who dichotomize, and everyone else.
+----------------------------------------------------------------------------
+
+Friday, 15 February 1991 16:38:40 UTC - GALACTIC COMMANDER:
+I hope this will answer your question about character point balance.  First
+of all let me state that I have GMd 2 separtae campaigns of HERO Supers,
+1 of HERO Fantasy, a AD&D/RM/RQ bastardization comglomeration of our
+own.  I have also run in 3 HERO Supers, 1 GURPS Supers, 1 GURPS fantasy,
+and that same bastardization system under a different GM, also a
+post-holocaust AFTERMATH.  I think this qualifies my answer as mearly
+opinion and not binding, even on myself!!
+Whenever a character picks up something during a campaign you have to
+look at what it is.  Mostly I tell the characters that they are 0 point
+advantages or disadvantages that just happen because the character did
+something. 
+
+An example of this is Super-SPY James Pond defeats a common
+thug that assaults him in his apartment.  James decides he likes the
+THUG's 9mm pistol instead of his Water PPK (what else would a frog
+have), so he decides to keep it.  It is pretty common so he can pick up
+ammo for it and cleaning kits....congratulations a 0-point advantage.
+
+Along the same line James manages to piss of the Mayor of Chicago
+(something about staring a fire fight on the El), he is now being
+watched by the Mayor of Chicago who want to punish him.....same thing a
+0-point disadvantage. 
+
+The third type is when James beats up on Blowfish (and his super-scientist)
+and gets the Sub-sonic emp-gun (a silent assassin's weapon), James must pay
+the points if he wishes to keep the weapon.  This is to reflect the attempt
+to become knowledgeable with its operation, cleaning, ammo, ect....James can
+use the weapon with modifiers against hitting until he pays for it, since he
+hasn't learned enough about its quirks yet.  Anyone who knows anything about
+guns will tell you that each gun has its own characteristics.  Common guns
+are just easier to understand.  This is indirect spending of experience
+since the character pays the points for something the GM designed for
+someone else to use.
+
+The forth type is direct spending of experience.  James talks to Z
+(noted scientist working for 7) and asks him to make him a flamethrower
+built into a jockstrap (don't ask why!!!).  The character then pays the
+points and gets the item.
+
+I hope this clarifies some of your questions.  Any other answers would
+be better off being e-mailed to me.  I read mail more that anything
+else.  The points are only used to keep respective powers on the level
+with other powers when starting characters.  Otherwise you would have
+Glacatus (defender of the universe) and Wimpy man (defender of the
+backyard) run by different characters.  An interesting situation, but
+not to the liking of the character running Wimpy man (who get to do
+nothing, but bumble into trouble.  After this points are only a
+guildline for the third example and helpful for the forth example!!!
+
+
+
+
+                           //---\\
+                   _____---=======---_____
+               ====____\   /.. ..\   /____====
+             //         ---\__O__/---         \\
+             \_\                             /_/
+
+
+****************************************************************
+****                        *****                           ****
+****  Elwood H Dunning III  *****  Damn the Prime Directive ****
+****                        *****                           ****
+****   GALACTIC COMMANDER   *****   Let's do some killing   ****
+****                        *****                           ****
+****************************************************************
+----------------------------------------------------------------------------
+
+Friday, 15 February 1991 19:04:54 UTC - Bruce Onder:
+In article <1991Feb14....@jetsun.weitek.COM <>> rob...@jetsun.weitek.COM <> (Robert Plamondon) writes:
+
+>You have to understand the dichotomy between the "Hey, it's only a
+>game, man!" beer-and-pretzels role-players and the "Break my arms,
+>break my legs, but don't make me break character" serious
+>role-players.  There is NO common ground between them.
+>
+>           -- Robert
+Not true.  Both classes of role-players are considered to be geeks by
+mainstream society.
+
+Brewster
+--
+Bruce W. Onder                on...@isi.edu <>
+We dance underneath the radar                We live underneath the barbed wire
+When you live underneath the radar        There's no way that you're ever
+                           gonna get far...
+----------------------------------------------------------------------------
+
+Friday, 15 February 1991 19:27:33 UTC - Jeff Stehman:
+From article <2481.2...@ofa123.fidonet.org <>>, by Wayne...@ofa123.fidonet.org <> (Wayne Shaw):
+>  
+> Jeff, face it, the problem is that you are arguing the wrong point. 
+>  The point that you are arguing is that game rules are a bad idea. 
+        No, the problem is that there are at least two definitions of
+flexibility floating around, which is why I started this; I wanted to
+point out that there was more than one way to look at flexibility.
+As I've said several times before, I'm fully aware that most people
+don't look at it the way I do.
+
+
+                                                Jeff Stehman
+----------------------------------------------------------------------------
+
+Friday, 15 February 1991 19:33:17 UTC - Steffan O'Sullivan:
+Wayne...@ofa123.fidonet.org <> (Wayne Shaw) writes:
+> 
+>Some people are simply 
+>so dedicated to GURPS or Hero that they cannot help but respond to 
+>qualms on someone's part as an attack. 
+I will grant that some of the responses to Mary's qualms were overreactive.  
+On the other hand, I posted a note to a fellow GURPS player and get an
+unwarranted, intrusive flame from Wayne Shaw to the effect that GURPS is 
+bogged down with the game designer's prejudices and lacks the courage of 
+its own convictions.
+
+Small wonder people sometimes get defensive, when Mr. Shaw drops flames 
+in one post then self-righteously decries defensive responses in the next.
+
+Mary - this is my first response to your questions about your character.
+There are a number of ways to handle it, from full addiction to mild
+addiction to quirk to not mentioned on the character sheet.  If you were
+playing in a GURPS game that I GMed, you would discuss how you saw the
+character with me, and I would *suggest* (not demand) a route to take,
+and explain the gaming significance to you.  If this was not
+satisfactory, I would suggest another, until you were pleased.  I
+suspect, from what I've read of your posts, that Jay would have a quirk
+in a game that I GMed.  That would mean you could play it as much as you
+wanted to, but didn't have to roll to avoid it when it was important that
+you abstained.  Kicking the habit could be roleplayed as much or as
+little as you liked in such a case.
+
+-- 
+-Steffan O'Sullivan      s...@oz.plymouth.edu <>
+----------------------------------------------------------------------------
+
+Friday, 15 February 1991 23:17:20 UTC - Andrew Pearlman:
+In article <1991Feb14....@fang.ATT.COM <>> c...@fang.ATT.COM <> (Charles A. Licata) writes:
+>From article <88...@tut.cis.ohio-state.edu <>>, by pear...@turtle.cis.ohio-state.edu <> (Andrew Pearlman):
+>> GURPS, yuck.
+>> Andy Pearlman
+>
+>This is a very direct and to the point type of review, but do you care 
+>to expand on your claim?
+Take Champions.
+
+Proceed to double the number of points necessary needed to do things.
+Make the emphasis "grim and gritty".  In case anyone wasn't aware "grim/gritty
+" does not equal realistic.
+Remove the meta-rules.
+Make a bunch of arbitrary decisions on spells without telling GMs why you
+made them.
+Assume Linear Abilities.  Were you aware that world champion weightlifters
+can have either 50 or 100 Strengths if you don't use GURPS Supers?  That
+world champion runners have to have at least 20 health and 20 dexterity in
+order to move that fast?  Yet there are no skill based characters that are
+similar in effect?
+Magery 3 by itself is absolutely worthless, yet buying it can cripple some
+character conceptions(such as the 'best potential mage in the world, but knows
+nothing at the moment, needs to find a master to teach him...a classic all
+throughout Fantasy literature, but no one can afford such a thing)
+Giving a stat a name like IQ.  IQ has no meaning unless you happen to be a
+white, middle-class male.
+
+I'll be nice and leave GURPS Supers out of this.
+        
+BTW, in case you hadn't guessed, it is quite possible, and in fact ridiculously
+easy, to build GURPS in Champions.  It is easier than creating a worldbook
+for GURPS given GURPS.  Try the reverse sometime.  Look what happened with
+GURPS Supers.  Oops.
+
+Andy Pearlman
+----------------------------------------------------------------------------
+
+Friday, 15 February 1991 23:17:47 UTC - David H. Thornley:
+In article <13...@hubcap.clemson.edu <>> ste...@hubcap.clemson.edu <> (Jeff Stehman) writes:
+>From article <13...@tronsbox.xei.com <>>, by dfra...@tronsbox.xei.com <> (Dennis Heffernan):
+>> |Besides, why should players have
+>> |to worry about what is in the rules when they are designing a character
+>> |(aside from stuff like how magic works)?
+> 
+>>         They have to in every OTHER game on the market!  A few days ago I
+>> tried making a Shadowrun character (excuse me, "archtype") and it felt like
+>> I was trying to wallpaper a coffin from the inside.  I don't even want to 
+>> discuss D&D.
+> 
+>        That's a poor reason.  Besides, it is not unheard of for players
+>to come up with character conceptions and gms to turn them into game
+>terms.  A lot of characters won't be possible in a lot of systems if the
+>gm sticks to the rules.
+>
+Please mention some.  I have yet to be convinced that a character
+conception exists that:
+
+1.  Is appropriate to the campaign proposed.  James Bond (or his
+opponents) is not appropriate in a GURPS or Hero spy campaign
+using normal power levels, for example.
+
+2.  Is not abusive.  One popular abuse is the character that is just
+like the other characters but has an extra advantage.
+
+3.  Cannot be created in GURPS or Hero, in some reasonable form.
+
+DHT
+----------------------------------------------------------------------------
+
+Friday, 15 February 1991 23:28:09 UTC - David H. Thornley:
+In article <13...@tronsbox.xei.com <>> dfra...@tronsbox.xei.com <> (Dennis Heffernan) writes:
+>In article <62...@idunno.Princeton.EDU <>> mfte...@flower.Princeton.EDU <> (Mutant for Hire) writes:
+>|Okay, this is closer to what I wanted for an answer. You are saying that when
+>|something good happens to a character point-wise, he has to pay for it, but
+>|when something bad happens to a character point-wise, there is no compensation
+>|for it. Now explain to me why this is a Good Thing?
+>
+>        Because it prevents the players from getting something for nothing,
+>which munchkin types will constantly attempt to do.
+I think we have a confusion between "for nothing" and "without expending
+experience points".  If a character does something, the character should
+be rewarded or penalized in the logical manner without regard to experience
+points.  If a character increases his wealth by killing a dragon and
+looting the hoard, then the character is wealthier, and forcing the
+character to pay experience points for this makes no sense.
+
+The corollary is that killing and looting dragons should not be made
+easy, or everybody will do it.
+
+To quote a respected local GM:  "Don't worry if your character doesn't
+balance.  I'll just take it out in blood."
+
+DHT
+----------------------------------------------------------------------------
+
+Friday, 15 February 1991 23:40:06 UTC - David H. Thornley:
+In article <1991Feb15....@gn.ecn.purdue.edu <>> dun...@gn.ecn.purdue.edu <> (GALACTIC COMMANDER) writes:
+>I hope this will answer your question about character point balance.  First
+>of all let me state that I have GMd 2 separtae campaigns of HERO Supers,
+>1 of HERO Fantasy, a AD&D/RM/RQ bastardization comglomeration of our
+>own.  I have also run in 3 HERO Supers, 1 GURPS Supers, 1 GURPS fantasy,
+>and that same bastardization system under a different GM, also a
+>post-holocaust AFTERMATH.  I think this qualifies my answer as mearly
+>opinion and not binding, even on myself!!
+>
+A distinction must be drawn between Hero system heroic and super-heroic
+campaigns.  In superhero campaigns, characters must pay points for
+their possessions, partly for game balance and partly because comic-
+book superheros don't generally pick up gadgets from defeated foes.
+(The Champions rules suggest that a superhero be allowed to use a gadget
+free in the adventure he/she picks it up, but must pay points for it
+to keep it.)  In heroic campaigns, the characters do not pay points for
+equipment - and, yes, this does mean that a Fantasy Hero character with
+magic items can easily be higher in point value than a Champions
+character with more points.
+
+>Whenever a character picks up something during a campaign you have to
+>look at what it is.  Mostly I tell the characters that they are 0 point
+>advantages or disadvantages that just happen because the character did
+>something. 
+>
+>An example of this is Super-SPY James Pond defeats a common
+>thug that assaults him in his apartment.  James decides he likes the
+>THUG's 9mm pistol instead of his Water PPK (what else would a frog
+>have), so he decides to keep it.  It is pretty common so he can pick up
+>ammo for it and cleaning kits....congratulations a 0-point advantage.
+>
+In a heroic campaign, this is not a character advantage.  In Champions,
+it is a ranged killing attack, obvious independent focus, uses
+charges and clips....
+
+>Along the same line James manages to piss of the Mayor of Chicago
+>(something about staring a fire fight on the El), he is now being
+>watched by the Mayor of Chicago who want to punish him.....same thing a
+>0-point disadvantage. 
+>
+Nobody yet has seriously suggested that a character get experience for
+disadvantages acquired during play.
+
+>The third type is when James beats up on Blowfish (and his super-scientist)
+>and gets the Sub-sonic emp-gun (a silent assassin's weapon), James must pay
+>the points if he wishes to keep the weapon.  This is to reflect the attempt
+>to become knowledgeable with its operation, cleaning, ammo, ect....James can
+>use the weapon with modifiers against hitting until he pays for it, since he
+>hasn't learned enough about its quirks yet.  Anyone who knows anything about
+>guns will tell you that each gun has its own characteristics.  Common guns
+>are just easier to understand.  This is indirect spending of experience
+>since the character pays the points for something the GM designed for
+>someone else to use.
+>
+In Hero, characters buy weapons familiarities, and can use all weapons
+covered by these familiarities.  The character should not be asked to
+spend additional points to use a covered weapon, and should not be asked
+to spend more points than a special weapons familiarity in any case.
+The GM should decide whether he or she wants James to be able to keep
+the emp-gun; if not, U division grabs it to analyze, and breaks it.
+
+>The forth type is direct spending of experience.  James talks to Z
+>(noted scientist working for 7) and asks him to make him a flamethrower
+>built into a jockstrap (don't ask why!!!).  The character then pays the
+>points and gets the item.
+>
+In Justice, Inc., there were gadget rules which basically covered this.
+This allowed characters who were inventors, or had help from inventors,
+to make devices according to the power rules.  This works OK, and I
+would ask somebody wanting a flamethrowing jock strap to follow these
+rules.
+
+>I hope this clarifies some of your questions.  Any other answers would
+>be better off being e-mailed to me.  I read mail more that anything
+>else.  The points are only used to keep respective powers on the level
+>with other powers when starting characters....  
+This conflicts with what you said earlier.  Points are best used when
+designing characters and changing the character.  Charging for
+equipment acquisition and other changes to the world around seems
+unnecessary.  Just don't give out ridiculous amounts of stuff.
+
+DHT
+----------------------------------------------------------------------------
+
+Saturday, 16 February 1991 00:44:56 UTC - Steffan O'Sullivan:
+Andrew Pearlman <pear...@cis.ohio-state.edu <>> writes:
+>Take Champions.
+Please . . . :-)
+
+
+>Proceed to double the number of points necessary needed to do things.
+This is irrelevant, since points mean nothing.  Would a game that used
+half the number of Champion's points be therefore better than Champions?
+How about a game that uses no points?  By your logic, it is infinitely
+better!
+
+
+>Make the emphasis "grim and gritty".  In case anyone wasn't aware "grim/gritty
+>" does not equal realistic.
+What does it equal?  In case you're not aware, it doesn't mean anything
+to me.  This is not really any better than your original Yuck - they both 
+say nothing while implying blind prejudice on your part.
+
+>Remove the meta-rules.
+
+You mean the easily abusable rules?  True, they allow great flexibility,
+but they demand the GM be constantly on his guard - it gets wearisome.
+I'd rule this one personal taste - you win a little, you lose a little.
+
+
+>Make a bunch of arbitrary decisions on spells without telling GMs why you
+>made them.
+Such as?
+
+
+>Assume Linear Abilities.  Were you aware that world champion weightlifters
+>can have either 50 or 100 Strengths if you don't use GURPS Supers?  That
+>world champion runners have to have at least 20 health and 20 dexterity in
+>order to move that fast?  Yet there are no skill based characters that are
+>similar in effect?
+Sorry, you don't understad GURPS at all.  Read the extra-effort rules.
+
+
+>Magery 3 by itself is absolutely worthless, yet buying it can cripple some
+>character conceptions(such as the 'best potential mage in the world, but knows
+>nothing at the moment, needs to find a master to teach him...a classic all
+>throughout Fantasy literature, but no one can afford such a thing)
+This is blatant falsehood.  I have characters with Magery 3 and no
+spells, as do some of my players, and all are viable characters.  Have
+you ever read the rules, Andy?
+
+
+>Giving a stat a name like IQ.  IQ has no meaning unless you happen to be a
+>white, middle-class male.
+Unless you define it differently than a white, middle-class male does.
+What's in a name?  A rose by any other name . . . 
+
+
+>I'll be nice and leave GURPS Supers out of this.
+Too bad, it's really your only strong card in this whole post.  GURPS
+Supers is admittedly weak.  Supers II is in the works, and Loyd has shown
+himself to be open to criticism and adaptable - there will be significant
+changes.
+
+
+>BTW, in case you hadn't guessed, it is quite possible, and in fact ridiculously
+>easy, to build GURPS in Champions.  It is easier than creating a worldbook
+>for GURPS given GURPS.  
+I doubt it - I've created a worldbook for GURPS given GURPS, and I'd
+rather do that than legislate a Champions game.
+
+-- 
+-Steffan O'Sullivan      s...@oz.plymouth.edu <>
+----------------------------------------------------------------------------
+
+Saturday, 16 February 1991 21:50:52 UTC - Andrew Pearlman:
+In article <1991Feb16.0...@oz.plymouth.edu <>> s...@oz.plymouth.edu.plymouth.edu <> (Steffan O'Sullivan) writes:
+>Andrew Pearlman <pear...@cis.ohio-state.edu <>> writes:
+>This is irrelevant, since points mean nothing.  Would a game that used
+>half the number of Champion's points be therefore better than Champions?
+>How about a game that uses no points?  By your logic, it is infinitely
+>better!
+The point basis for GURPS with a few minor changes(those listed below) is
+Champions redone.  ST = +2 Strength, DX = +1 Dex with no speed, HLTH = +1
+body, IQ = +2 Int.
+
+
+>>Remove the meta-rules.
+>
+>You mean the easily abusable rules?  True, they allow great flexibility,
+>but they demand the GM be constantly on his guard - it gets wearisome.
+>I'd rule this one personal taste - you win a little, you lose a little.
+No, meta-rules are the how and why all powers work.  Not "because the game
+designer decided that he thought a given pole arm does 2d6 with X ST"
+The GM also doesn't have to be constantly on his guard either.  Just when
+the characters get submitted, and it is about as easy in Champions as it is
+in GURPS to recognize such events.
+
+
+>>Make a bunch of arbitrary decisions on spells without telling GMs why you
+>>made them.
+>
+>Such as?
+Why do spells interrelate?  Why do spells have certain given ranges and why
+can't a particular spell caster have *just* a longer range than another?  Why
+do magic spells drain fatigue?  Why can't you improve on one area of a spell,
+such as time of casting, instead of having to improve the entire spell?  How
+does one simulate AD&D magic using GURPS, because spells don't fatigue, power
+increases as one gets better, yet time and items needed don't.  Does one need
+to guess completely or do the rules help you out.
+
+
+
+>This is blatant falsehood.  I have characters with Magery 3 and no
+>spells, as do some of my players, and all are viable characters.  Have
+Yeah, right.  This is called 35 points for a character concept.  Either the
+players doing this have a significant edge in experience and can thus afford
+to do this or your game doesn't actually challenge characters, just the
+players.  Because you have a maximum of 145 points in a given character and
+are spending 1/4 of your points for no effect, something is wrong if such
+a character is competitive with other characters not buying magery 3.
+
+It is ridiculous to have to pay a significant percentage of ones points for
+merely the ability to have an interesting character concept.
+
+Andy Pearlman
+----------------------------------------------------------------------------
+
+Saturday, 16 February 1991 23:02:18 UTC - William Henry Timmins:
+John Stehman wrote:
+>        All this started with me challenging someone's generalization of
+>flexibility.  Flexibility to him meant being able to do more within the
+>rule system.  To me, it means not having the rules in the first place.
+>All this about AD&D was basically what I'd do if I was going to choose
+>an off-the-shelf game.
+
+        You know, the posts on this board are really starting to crack me up...
+Flexibility meaning not having rules covering things?? That's like
+saying flexibility in government means not having laws covering things.
+It's silly.
+
+If flexibility means not having rules, why not just drop AD&D and play
+'pretend'? Since there are no rules, it's INFINITELY flexible!! (YAY!) 
+
+>        Exactly.  They don't have the rules that I don't want.  They
+>have the rules that I do (just need to rewrite them).
+
+This makes even less sense. They don't have the rules that you don't
+want. So the rules they don't have, the areas of flexibility, are the
+places you don't want. So you don't want flexibility??? They have the
+rules you DO want... you just don't like the rules. I thought you liked
+AD&D??????
+
+You are beginning.. well, continuing... to make very little sense.
+
+-Me
+----------------------------------------------------------------------------
+
+Saturday, 16 February 1991 23:16:39 UTC - William Henry Timmins:
+Robert Plamondon said:
+>No, no, no!  You've got it all wrong, Dave!  The introduction of
+>"Whimsy Cards" into a campaign shows that you have NEVER role-played,
+>and that you've NEVER had any pretense of character personality and
+>free will.
+
+
+>You have to understand the dichotomy between the "Hey, it's only a
+>game, man!" beer-and-pretzels role-players and the "Break my arms,
+>break my legs, but don't make me break character" serious
+>role-players.  There is NO common ground between them.
+Oh, lighten up.
+
+-me
+----------------------------------------------------------------------------
+
+Sunday, 17 February 1991 01:14:11 UTC - Steffan O'Sullivan:
+[Andy Pearlman's response to my response deleted because it's a silly
+argument on both our parts.]
+This is pointless.  I like Hero - why should I try to bash it?  It's a
+good system, but GURPS is *more to my taste.*  I claim no superiority for
+it.  I saw you backed off some points like a gentleman, so I can be one
+and back off the rest.
+
+Actually, SJG and Hero are on very friendly terms, and their histories
+are intertwined.  Original Champions was influenced by TFT, SJ's first
+game.  GURPS was influenced by Original Champions.  Later editions of
+Champions were influence by GURPS.
+
+I still don't agree with you about the spell system - I *like* SJG's
+spell system.  All I can say is it makes sense to me, mostly. Out of 420
+some spells, I'd say only a dozen or so seem to be in the wrong college
+or have flakey prerequisites.  It doesn't appear arbitrary to me at all.
+
+As for the character with Magery 3 and no spells, I am mystified by your
+attitude that it's just a concept.  It's a concept that you brought up: a
+common archetype in fantasy literature.  And most of those that I've read
+of go on to learn spells: hence, the 35 points aren't "just for a
+concept," but will eventually be used.
+
+At any rate, I'm dropping the issue.  Enjoy your game, whatever it may
+be!
+
+-- 
+-Steffan O'Sullivan      s...@oz.plymouth.edu <>
+----------------------------------------------------------------------------
+
+Monday, 18 February 1991 20:24:44 UTC - William Henry Timmins:
+Andrew Pearlman said:
+>Yeah, right.  This is called 35 points for a character concept.  Either the
+>players doing this have a significant edge in experience and can thus afford
+>to do this or your game doesn't actually challenge characters, just the
+>players.  Because you have a maximum of 145 points in a given character and
+>are spending 1/4 of your points for no effect, something is wrong if such
+>a character is competitive with other characters not buying magery 3.
+>
+>It is ridiculous to have to pay a significant percentage of ones points for
+>merely the ability to have an interesting character concept.
+What's wrong with using lots of points for character conception??? What
+the hell does 'competitive' mean?
+I think part of the problem is that you are thinking in terms of
+combat/min-max games and he is thinking role playing.
+
+:P--- THBBLFFT!
+
+-Me
+----------------------------------------------------------------------------
+
+Monday, 18 February 1991 23:21:04 UTC - Mary Kuhner:
+wt...@andrew.cmu.edu <> (William Henry Timmins) writes:
+
+>What's wrong with using lots of points for character conception??? What
+>the hell does 'competitive' mean?
+>I think part of the problem is that you are thinking in terms of
+>combat/min-max games and he is thinking role playing.
+Both sides of this argument tend to call the other side bad roleplayers
+whenever we disagree, not the most productive tactic.
+
+Even a good roleplayer can be concerned with having a character powerful
+enough to survive and capable enough to contribute to what the group is
+doing.  Many GMs, including myself, are unhappy about having one
+character who is significantly weaker than the others, even if the
+player doesn't mind.  Such people are hard to keep alive, and hard to
+justify in many adventures (why *are* we bringing Auntie May along?)
+
+If the point system is there to balance initial characters, leading to a
+party in which everyone can contribute fairly, I don't think it's
+unreasonable to criticize it for not doing so, as in the case of the
+Magery 3 non-caster.
+
+Mary Kuhner mkku...@genetics.washington.edu <>
+----------------------------------------------------------------------------
+
+Tuesday, 19 February 1991 19:58:06 UTC - David H. Thornley:
+In article <1991Feb17.0...@oz.plymouth.edu <>> s...@oz.plymouth.edu.plymouth.edu <> (Steffan O'Sullivan) writes:
+>[GURPS and Hero are both good, are similar, and I prefer GURPS.]
+>
+>I still don't agree with you about the spell system - I *like* SJG's
+>spell system.  All I can say is it makes sense to me, mostly. Out of 420
+>some spells, I'd say only a dozen or so seem to be in the wrong college
+>or have flakey prerequisites.  It doesn't appear arbitrary to me at all.
+>
+The difference between GURPS magic and Hero magic is flexibility.
+The GURPS magic system is, IMHO, very good, and is not as subject
+to abuse as the Hero system.  It isn't nearly as flexible.  I could
+design pretty much any GURPS spell in Hero, but the reverse is not
+true.
+In GURPS, if you want a damage spell, you look through the list and
+find one to your liking; the book will tell you how hard it is to
+learn (Hard or Very Hard), how much energy it takes, how long to 
+cast, etc.  If you don't know the spell well, you must perform
+obvious gestures and incantations, and take full time and energy;
+as you learn the spell better, it takes less time, energy, and
+required actions on a single sliding scale (unless you are using
+the optional rule in the sidebar).
+
+In Hero, if you want a damage spell, you select one of four
+effects, add modifications to taste, decide on a special effect,
+and you have a spell.  You calculate a point value which is probably
+fairly reasonable; you have END costs, etc., that are also probably
+fairly reasonable.  You can mix and match spellcasting needs.
+
+In a Fantasy Hero campaign, I had a character create a "holdout"
+spell, since he kept being captured, stripped, bound, and gagged.
+This spell required no materials, gestures, or incantations; it
+did require extra time, extra ENDurance, close concentration, and
+had dire effects should the spell fail.  He could not have done this
+in a GURPS campaign; instead, he would have had to learn a standard
+spell *very* well indeed, which might have had bad effects in the
+rest of the game (see the "Johnny One-Spell" discussions).
+
+Also, Hero is much simpler to tailor than GURPS.  If you have no
+real idea of how magic should work, or if you like the model
+GURPS uses, that's fine; I had strong ideas as to how magic should
+work in my campaign, and found it easy to manipulate Hero magic
+accordingly.
+
+I really don't see substantive differences between the two systems
+in other ways.
+
+I wish you great enjoyment of GURPS; I'll continue to use FH.
+
+DHT
+----------------------------------------------------------------------------
+
+Tuesday, 19 February 1991 20:44:37 UTC - Troy Kammerdiener:
+In article <16...@milton.u.washington.edu <>> mkku...@phylo.genetics.washington.edu <> (Mary Kuhner) writes:
+
+>Even a good roleplayer can be concerned with having a character powerful
+>enough to survive and capable enough to contribute to what the group is
+>doing.  Many GMs, including myself, are unhappy about having one
+>character who is significantly weaker than the others, even if the
+>player doesn't mind.  Such people are hard to keep alive, and hard to
+>justify in many adventures (why *are* we bringing Auntie May along?)
+>
+>If the point system is there to balance initial characters, leading to a
+>party in which everyone can contribute fairly, I don't think it's
+>unreasonable to criticize it for not doing so, as in the case of the
+>Magery 3 non-caster.
+I could've sworn that the potential mage had been addressed in GURPS Magic,
+but I just checked and I can't find it.  I am surprised that such a common
+archetype from fiction was not covered, but I suppose that such a fine
+supplement is entitled to at least one ommission.  In any event, GURPS
+Magic does provide an out for the experienced Game Master (p. 93):
+
+     "GMs can create more limitations for magery, keeping costs in line
+     with those given.  ... It is suggested that no limitation, no matter
+     how great, reduce the cost of magery below 5 points for the first
+     level and 3 for added levels."
+
+So, here is one conception for the limited magery Potential Magery:
+
+Potential Magery Cost:                                 5 points for 1st level
+                                        3 points /level for additional levels
+
+Potential magery is bought in addition to any other magery that a character
+may have.  Potental magery may not be used to improve spell skill rolls, but
+does improve the magical sensitivity of the character (so a character with
+Magery 1 and Potential Magery 2 would recognize a magical object on a roll
+of IQ + 3 or less).  GM's may choose to let Potential Magery apply as a
+prerequisite to spell *learning*, but characters should only be allowed to
+*cast* spells for which they have the actual magery prerequisites.  Charac-
+ters may apply future experience points to buying Potential Magery up to
+full (or an aspected) magery.  For example, Marvin starts with Magery 1 and
+Potential Magery 2.  He recognizes magic on a roll of IQ+3 and is recognized
+by others as a powerful mage (Magery 3), but may only cast spells with a
+prerequisite of Magery 1.  This costs him 15 points for Magery 1, plus 8
+points for Potential Magery 2.  Marvin collects his experience points until
+he has the difference required for Magery 2 (the difference between addi-
+tional levels of Magery and additional levels of Potential Magery), or 7
+points.  After paying the points and obeying any further campaign specific
+requirements he will be Magery 2 and Potential Magery 1.  An additional 5
+points could bring him up to Magery 3 (and no Potential Magery).
+-- 
+Troy Kammerdiener            /| "Joy is in the ears that hear..."
+Dept. of Computer Science   / |                  -- Saltheart Foamfollower --
+Tulane University        __/__| INTERNET & BITNET: kamm...@rex.cs.tulane.edu <>
+New Orleans, LA  70118  /_____| USENET: [{ames,bionet}!]rex!kammerdi
+----------------------------------------------------------------------------
+
+Tuesday, 19 February 1991 21:20:38 UTC - James Gordon Currie:
+In article <16...@venera.isi.edu <>> on...@ISI.EDU <> (Bruce Onder) writes:
+>In article <1991Feb14....@jetsun.weitek.COM <>> rob...@jetsun.weitek.COM <> (Robert Plamondon) writes:
+>
+>>You have to understand the dichotomy between the "Hey, it's only a
+>>game, man!" beer-and-pretzels role-players and the "Break my arms,
+>>break my legs, but don't make me break character" serious
+>>role-players.  There is NO common ground between them.
+>>
+>>           -- Robert
+>
+>Not true.  Both classes of role-players are considered to be geeks by
+>mainstream society.
+     No, the beer-and-pretzel players are considered weird, and the hard-core
+gamers are considered to be demented... ;)
+
+>Brewster
+ 
+James G. Currie
+----------------------------------------------------------------------------
+
+Tuesday, 19 February 1991 21:34:00 UTC - Samuel Pollard White:
+The D&D vs. Gurps vs. Hero debate rages on.  Here is a sample.
+s...@oz.plymouth.edu <> (Steffan O'Sullivan) writes:
+
+>Andrew Pearlman <pear...@cis.ohio-state.edu <>> writes:
+>>Take Champions.
+
+>Please . . . :-)
+
+>>Proceed to double the number of points necessary needed to do things.
+
+>This is irrelevant, since points mean nothing.  Would a game that used
+>half the number of Champion's points be therefore better than Champions?
+>How about a game that uses no points?  By your logic, it is infinitely
+>better!
+
+>>Make the emphasis "grim and gritty".  In case anyone wasn't aware "grim/gritty
+>>" does not equal realistic.
+
+>What does it equal?  In case you're not aware, it doesn't mean anything
+>to me.  This is not really any better than your original Yuck - they both 
+>say nothing while implying blind prejudice on your part.
+
+>>Remove the meta-rules.
+
+>You mean the easily abusable rules?  True, they allow great flexibility,
+>but they demand the GM be constantly on his guard - it gets wearisome.
+>I'd rule this one personal taste - you win a little, you lose a little.
+
+>>Make a bunch of arbitrary decisions on spells without telling GMs why you
+>>made them.
+
+>Such as?
+
+>>Assume Linear Abilities.  Were you aware that world champion weightlifters
+>>can have either 50 or 100 Strengths if you don't use GURPS Supers?  That
+>>world champion runners have to have at least 20 health and 20 dexterity in
+>>order to move that fast?  Yet there are no skill based characters that are
+>>similar in effect?
+
+>Sorry, you don't understad GURPS at all.  Read the extra-effort rules.
+
+>>Magery 3 by itself is absolutely worthless, yet buying it can cripple some
+>>character conceptions(such as the 'best potential mage in the world, but knows
+>>nothing at the moment, needs to find a master to teach him...a classic all
+>>throughout Fantasy literature, but no one can afford such a thing)
+
+>This is blatant falsehood.  I have characters with Magery 3 and no
+>spells, as do some of my players, and all are viable characters.  Have
+>you ever read the rules, Andy?
+
+>>Giving a stat a name like IQ.  IQ has no meaning unless you happen to be a
+>>white, middle-class male.
+
+>Unless you define it differently than a white, middle-class male does.
+>What's in a name?  A rose by any other name . . . 
+
+>>I'll be nice and leave GURPS Supers out of this.
+
+>Too bad, it's really your only strong card in this whole post.  GURPS
+>Supers is admittedly weak.  Supers II is in the works, and Loyd has shown
+>himself to be open to criticism and adaptable - there will be significant
+>changes.
+
+>>BTW, in case you hadn't guessed, it is quite possible, and in fact ridiculously
+>>easy, to build GURPS in Champions.  It is easier than creating a worldbook
+>>for GURPS given GURPS.  
+
+>I doubt it - I've created a worldbook for GURPS given GURPS, and I'd
+>rather do that than legislate a Champions game.
+
+
+>-- 
+>-Steffan O'Sullivan      s...@oz.plymouth.edu <>
+
+
+I thought I'd include the whole thing.  This seems to be a pretty
+common example of the debate.  Here is a summary of what I hear.
+
+D&D--Easy to run, easy to settle rules disputes(in most cases, there
+are exceptions), many situations are resolved by the imaginations of
+GM and players (for some this is a major plus for others this is a
+major minus) since there are no rules to cover the situation.  Clear
+well defined limits on character conceptions (again this has its
+pluses as it does its minuses).  Combat is very fast and even somebody
+with a phobia for simple arithmetic can usually handle the mechanics.
+
+GURPS--Introduces a more complex variety of possibilities.  Rule
+disputes are harder to settle but all powers and special abilities are
+fully delineated and there is usually a clear answer.  Character
+creation is like going into a store, you can only buy the items on the
+shelf but there are a huge collection of possibilities.  Most
+situations can be resolved using rules.  Combat is not slow and given
+reasonable training most players can get the hang of what is going on.
+Everything is built assuming a average human norm and some find this
+restrictive (but again this can be seen as a bonus).
+
+HERO--Tries to cover all possibilites (can create a shapeshifting
+demon with innate wind powers without even stretching the system).
+Some rule disputes rage on endlessly (but can be very enjoyable to
+those who like them).  Character creation is like designing your own
+sports car, you get complete control over every characteristic, 
+everything is custom made (for instance you can make up any type
+of special effect for your energy blast that you wish).  Combat
+can be slow (but nonetheless still enjoyable) and many times even
+GMs can be unclear exactly how to resolve certain situations given
+the stated rules(let alone the players, there is always one player
+who seems to not understand how to apply his defenses against
+a physical killing attack).
+
+
+Now of course this is a simplification, some people object to certain
+rules(in D&D its alignments, in GURPS it seems to be certain magic or
+super power rules, in Champions it seems to be lack of realism in some
+of the rules).  However, all of these complaints are easily fixed and,
+at least to me, are far from being a damning condemnation of the
+systems.  To me none of these systems is necessarily better than the
+other but they do seem to have different levels of complexity which
+may appeal to some and not others.  I think there are different types
+of people who are attracted to roleplaying.  Some see it as a simple
+board game with a little bit of extra color to enhance the fun.
+Others see it as a place to let the imagination roam free, with games
+being practically like writing a novel.
+
+   To flesh this idea out more fully, if I were simulating roleplayers
+I would give them two stats.  Both of these stats are from 1-10 with 1
+being very low and 10 being the maximum.  (Maybe some nonhumans can
+have higher stats -:) )
+
+TECH--This is the technical level they desire in their game.  A TECH
+of 3 or less shows a lack of interest in the tactical aspects of the
+current system they are playing. A TECH between 4 and 7 is normal
+shows some interest in game mechanics, for instance such a person
+might be interested in simulating the difference between a knife cut
+and a punch to the head with a club.  A TECH greater than 7 is a
+person very interested in game mechanics and loves to discuss various
+virtues and problems involved with simulating various fantastic
+possibilities.  (What sort of damage would Macho Man do if he were to
+wield a heavy refrigerator as a club?)
+
+IMAG--This is the imagination level the character desires in the game.
+An IMAG of 3 or less shows little interest the world, the personalities
+of the other characters, and tends to describe his characters by
+what it can do in a combat situation using only the language of the
+gaming system involved.  An IMAG between 4 and 7 likes some imagination,
+he/she will be interested in whatever major conflicts are occuring in
+the world, will notice the other characters enough to insult them
+creatively, and sometimes might even care what clothing the character
+wears or what image it projects to others.  An IMAG of over 7 probably
+means the player has actually written up background for some of his/her
+characters, maybe even going as far to describe ancestors, certain important
+defining events, and typical social quirks without being forced to by
+the GM.  An IMAG over 7 usually likes roleplaying and sometimes will
+be happy to sit around for hours at a time without doing combat.
+
+
+
+It is clear that there will be a conflict between the high TECH, low
+IMAG types (though you have to have some IMAG to be very high
+TECH and vice versa but usually you can detect which of the two
+characteristics defines the roleplayer) and low IMAG, high TECH
+types.  Some like their games with lots of rules and usually enjoy
+the strategic considerations of using the rules to maximum advantage
+during combat. Others think that rules can be sometimes be useful,
+but its more important that the events of the campaign contribute
+towards the mood or storyline of the situation.  Of course this
+is a vast oversimplification(I'll leave it to others to figure
+out whatever other characteristics and special abilities you
+would need to fully simulate a roleplayer), but I think you get the point.
+
+Now, I am definitely determined by my TECH score (After all I'm
+trying to simulate roleplayers. -:) ).  I see HERO system lovers as
+being high TECH types and D&D players as low TECH types with
+GURPS having an unclear position somewhere in between.  Some of
+course will disagree (actually I can probably count on it) but that
+is how I see some of the current debate, not so much saying "my
+roleplaying system is better than yours" but more like "my way
+of gaming is better than yours".
+
+                          -Sam
+
+P.S.  I am not saying that low TECH types are incapable of mastering
+complex systems, for instance I know of one person who easily mastered
+the HERO system but prefers D&D(he likes the more computer game mentality
+of it) and of another who prefers the HERO system but probably will
+never master anything more complicated than D&D.  The TECH stat
+is only an expression of what type of game they prefer, NOT what
+sort of game they can play.
+----------------------------------------------------------------------------
+
+Tuesday, 19 February 1991 21:45:13 UTC - James Gordon Currie:
+              I will be the first to admit, GURPS is a *VERY* cumbersome system
+ whether it is GURPS supers or not... *But*, for your statement about ST, and
+champ. Weight lifters. The World record for power lifting is what? ~600 pounds?
+Well, that would be a 30! strength (400 CPs), not 50 to 100 ST...
+ 
+              Now, on to the main reason of my post, to quibble with your fig.s
+about a champ runner. (S)he would *not* need a 20 DX and 20 HT. Instead, (s)he
+would probably take a DX of ~15, and a HT of ~17, then buy his/her running    
+skill to an absolutely disgusting level. Why?? Because that skill is HT based,
+not DX, and because you divide the skill level of the skill by 8 and add it 
+DIRECTLY to the char.'s basic speed. eg: DX:16 (80? pts) HT:18 (100pts) and
+Running (P/H): 24 (48 pts); resulting in a basic speed of: (16+18)/4=8.5, and
+a speed of 8.5+(24/8)=12.5 (round down) for 12. That means, this character now
+can run, sustained for quite awhile (assuming a high ST as well) at 24MPH (Spd
+*2). :) Mind you, you'll NEVER pull off a 100 pt character like that, the 200-
+300 pts is more likely. ;)
+ 
+James G. Currie
+----------------------------------------------------------------------------
+
+Tuesday, 19 February 1991 21:58:42 UTC - James Gordon Currie:
+              The reason (stated in GURPS) for making a character "loose" CP's 
+when something bad happens to a character, is to reflect the lower "point cost"
+in "buying" a similar character. Also stated quite emphatically quite near-by,
+is that the character, does *NOT* all of a sudden have an extra X character
+points to spend on new advantages and skills. The opposite is also true to an
+extent. If (for example), an amputee character in a fantasy (or SF) campaign,
+has a regeneration spell cast on his/her missing arm (for SF, read cybornetic/
+bionic/cloned replacement with no gadgets added), said character does *not* 
+suddenly add x points to their total; said character must pay for the "assist-
+ance" of suddenly not being an amputee, with first: unspent CP's, then CP's
+gained later in the campaign if the cost exceeds the unspent CP's, or they have
+none unspent. ie: if you have GURPS _Horseclans_, read the description of the
+'undiing' advantage. 
+ 
+James G. Currie
+----------------------------------------------------------------------------
+
+Tuesday, 19 February 1991 22:34:11 UTC - William Henry Timmins:
+Mary Kuhner said:
+>If the point system is there to balance initial characters, leading to a
+>party in which everyone can contribute fairly, I don't think it's
+>unreasonable to criticize it for not doing so, as in the case of the
+>Magery 3 non-caster.
+
+    Well, then I see the problem as determining the purpose of the
+party. If the party's main activity is combat, then obviously anyone not
+good at combat will suffer. If the party's main activity is intrigue,
+social skills come foreward/ contacts/ patrons/ enemies, etc., while
+combat skills retreat somewhat. If the party needs magic, the mages will
+be important. Etc.
+
+I think what's necessary is to judge a character's usefulness FOR THE
+GAME YOU INTEND TO PLAY. ie- Point costs don't work, since usefulness
+depends ENTIRELY on the activities the PCs will be engaged in.
+
+Personally, I like interesting PCs. Interesting characters make good
+reactions. The combat monsters will always find other combat monsters
+that are better than them. That's why other characters are important.
+(That's ANOTHER problem... people tend to scale the opposition to the
+PCs. I like having many options... if the PCs go up against a vastly
+superior enemy, they will most likely die. It's up to the PCs to decide
+who to attack/deal with.)
+
+-Me
+----------------------------------------------------------------------------
+
+Wednesday, 20 February 1991 03:35:23 UTC - Andrew Pearlman:
+In article <white.6...@fireant.ma.utexas.edu <>> wh...@math.utexas.edu <> (Samuel Pollard White) writes:
+>TECH--This is the technical level they desire in their game.  A TECH
+>of 3 or less shows a lack of interest in the tactical aspects of the
+>
+>IMAG--This is the imagination level the character desires in the game.
+Um, one problem that I see with your system.  Both the arguers if I make
+my guess correctly, are high 'TECH' and 'IMAG' types.  Being one of them,
+I am pretty sure about myself and I would guess the same about Stephen.
+
+I personally am happy to have my characters wander around for years without
+combat.  As long as things are interesting, why care about beating something
+up.  I'm also an artist(painter).  I certainly hope I have a lot of imagination
+or else I won't get very far :-)
+
+Andy Pearlman
+----------------------------------------------------------------------------
+
+Wednesday, 20 February 1991 08:59:22 UTC - Dennis Heffernan:
+        RE the potential mage "problem"
+        If you have any Magery at all to begin with, you can buy it up later.
+(The Book doesn't explicitly say you can do this, but it does imply it, and
+it's been declared Official on SJG-BBS.)  Thus, there is no need to blow 35
+points on Magery "potential"; you can spend 15 and buy the rest later.  Some
+people (myself among them, when I used the standard GURPS magic rules) used
+a "Magery 0" costing 5 points, even further lowering the cost.
+
+
+dfra...@tronsbox.xei.com <>   ...uunet!tronsbox!dfrancis     GEnie: D.HEFFERNAN1
+------------------------------------------------------------------------------
+"Look...I sympathize with your problems, but all things considered, I'd
+rather talk about me."  --Murphy Brown
+----------------------------------------------------------------------------
+
+Wednesday, 20 February 1991 12:52:38 UTC - Steffan O'Sullivan:
+thor...@cs.umn.edu <> (David H. Thornley) writes:
+>The difference between GURPS magic and Hero magic is flexibility.
+>The GURPS magic system is, IMHO, very good, and is not as subject
+>to abuse as the Hero system.  It isn't nearly as flexible.  I could
+>design pretty much any GURPS spell in Hero, but the reverse is not
+>true.
+Flexibility can mean different things.  First of all, I have not played
+FH since 1987, so please don't interpret anything I say here as a flame -
+I'm honestly curious.
+
+How many points does it cost for an average spell in FH?  It is in my
+memory that an FH mage could indeed create his own spells, very fine 
+tuned (fits one definition of flexibility), but that he couldn't have
+very many different spells, as they cost more than one point each,
+usually.  On the other hand, I have 100-point GURPS mages with 50 spells
+covering 10 different types of magic (colleges), which fits another
+definition of flexibility.  Again, not a flame, but an honest question:
+could a starting mage in Hero have 50 spells at a decent level?
+
+>In a Fantasy Hero campaign, I had a character create a "holdout"
+>spell, since he kept being captured, stripped, bound, and gagged.
+>This spell required no materials, gestures, or incantations; it
+>did require extra time, extra ENDurance, close concentration, and
+>had dire effects should the spell fail.  He could not have done this
+>in a GURPS campaign; instead, he would have had to learn a standard
+>spell *very* well indeed, which might have had bad effects in the
+>rest of the game (see the "Johnny One-Spell" discussions).
+
+What were the effects of the spell?  If it is merely to get rid of his
+bonds, that's easy and cheap in GURPS - you don't even have to be a mage.
+A Knack of Shatter with one level of Speed will do it quite nicely: 20
+points total, no need for high IQ or Magery, even.
+
+Also, have you seen the article in Roleplayer (the GURPS magazine), I
+think #19, that I wrote on Improvisation Magic as the Only Magic?  It
+expands the Improv rules given in GURPS Magic and makes it easier to cast
+spells for improvising mages - including with no gestures, BTW.  I
+believe that this system can handle anything that Hero handles.  It will
+probably be reprinted in the forthcoming GURPS Grimoire.
+
+>I wish you great enjoyment of GURPS; I'll continue to use FH.
+
+Thanks!  May you also enjoy it!
+-- 
+-Steffan O'Sullivan      s...@oz.plymouth.edu <>
+----------------------------------------------------------------------------
+
+Wednesday, 20 February 1991 13:04:51 UTC - Steffan O'Sullivan:
+mkku...@phylo.genetics.washington.edu <> (Mary Kuhner) writes:
+>wt...@andrew.cmu.edu <> (William Henry Timmins) writes:
+>
+>>What's wrong with using lots of points for character conception??? What
+>>the hell does 'competitive' mean?
+>
+>Even a good roleplayer can be concerned with having a character powerful
+>enough to survive and capable enough to contribute to what the group is
+>doing.  Many GMs, including myself, are unhappy about having one
+>character who is significantly weaker than the others, even if the
+>player doesn't mind.  Such people are hard to keep alive, and hard to
+>justify in many adventures (why *are* we bringing Auntie May along?)
+I'd have to say that our playing styles are very diferent, Mary.  There
+is always room in my games for non-combat characters.  You may be
+bringing Auntie May along because of her knowledge, her social skills,
+her earthy wisdom, her magical abilities, etc.  There are plenty of
+examples in Fantasy fiction of the Auntie Mays being useful even though
+they're a liability in a fight.
+
+
+>If the point system is there to balance initial characters, leading to a
+>party in which everyone can contribute fairly, I don't think it's
+>unreasonable to criticize it for not doing so, as in the case of the
+>Magery 3 non-caster.
+Point system do not automatically create "balanced" characters.  I'm not
+even sure there is such a thing.  A ten-point fighter can take out a
+100-point halfling thief, but that does not mean the halfling is not a
+valuable character.
+
+The Magery 3 non-caster can be very useful in other ways (he can
+recognize magic items, for example, and tell mana levels), and 35 points
+is no big deal.  I have run a 75-point character in a game where everyone
+else had 100-point characters, and (A) had a good time, (B) didn't
+prevent anyone else from having a good time, and (C) was useful to the
+party and the mission at hand.
+
+As to the cost of Magery 3: I had assumed Andy meant it to be used
+eventually, since he quoted his source as popular fiction.  If he doesn't
+ever intend the character to use Magery 3 in the game, just have it,
+there are a number of possible ways to handle it.  Latent magery can be
+very cheap - I've already allowed this in a game, and the forthcoming
+GURPS Grimoire will probably have rules for it for those who can't
+extrapolate easily.
+
+-- 
+-Steffan O'Sullivan      s...@oz.plymouth.edu <>
+----------------------------------------------------------------------------
+
+Wednesday, 20 February 1991 16:47:22 UTC - Allen Wessels:
+In article <1991Feb19.2...@ccu.umanitoba.ca <>> jcu...@ccu.umanitoba.ca <> (James Gordon Currie) writes:
+> whether it is GURPS supers or not... *But*, for your statement about ST, and
+>champ. Weight lifters. The World record for power lifting is what? ~600 pounds?
+>Well, that would be a 30! strength (400 CPs), not 50 to 100 ST...
+I suppose that depends on what the GURPS definition for lifting is.  If I 
+remember correctly, the record for a dead lift (lifting the weight off the
+ground) is about 10x your 600# figure.
+----------------------------------------------------------------------------
+
+Wednesday, 20 February 1991 23:30:55 UTC - Walter Milliken:
+In article <60...@idunno.Princeton.EDU <>>, mfterman@burn (Mutant for Hire) writes:
+>Why can't I? I have a character who is bitten by a werewolf, I start
+>roleplaying a guy who has just been bitten by a werewolf. The points are just
+>a thing out of mechanics. I have a character who loses an arm, I roleplay a
+>person who has lost an arm. I fail to see why I can lose points on the latter
+>but not gain points on the former. Really its an artificial convention to
+>make sure that players don't abuse the system, so that characters can go down
+>in value instead of increasing in value.
+Precisely.  In the werewolf case, you'd really only be liable for the
+points if you wanted to *stay* a werewolf, which is overall an
+advantage (at least for a "generic" GURPS werewolf).
+
+As should be quite clear from all the net discussion on the subject,
+this is a thorny issue, and it's not at all clear that GURPS has it
+right.  However, GURPS tends to err on the side of protecting game
+balance, assuming GMs are smart enough to know when to relax the rules
+when it makes sense to do so.
+
+Actually, with a good GM, the issue shouldn't come up in the first
+place -- in GURPS there's no real way for characters to gain
+advantages unless the GM somehow gives them out.  There are a very few
+advantages which the character can actively seek to gain, and it makes
+sense to charge points for these, in my opinion.  But "unwanted"
+advantages are really GM mistakes, I think.
+
+>Spend the points to make the character fit the conception as close to the rules
+>as possible, but the question really is how much of this belongs in the rules
+>at all? I like the point system to generate characters, but I'm wondering if
+>its really worth keeping points balance throughout the campaign. And in the
+>appropriateness of getting extra points for certain disadvantages, like
+>economic status.
+
+Character point totals don't really mean much in my campaigns, after
+character creation.  On the other, some form of point balance to
+control advancement makes a certain amount of sense.  Adding
+advantages is a form of advancement, usually.
+
+As for economic advantages/disadvantages, I'd say they really are
+worth point-balancing.  In my games someone with little money is often
+at a significant disadvantage in the campaign vs. someone with a lot
+of money, so it is a game balance issue.
+
+On the other hand, it's very hard to make a case for characters with
+different economic levels getting paid wildly different amounts for a
+job they performed in common.  As far as I'm concerned, *that's* the
+big problem with acquired advantages -- it's much more common to
+acquire a lot of money than it is to be bitten by a werewolf, or
+gifted by the Great God of Oooka-Looka with Night Vision.  So far, I
+haven't seen a really good answer to this problem, other than that the
+GM needs to control money in the campaign very carefully.
+
+---Walter
+----------------------------------------------------------------------------
+
+Thursday, 21 February 1991 00:06:31 UTC - Samuel Pollard White:
+pear...@turtle.cis.ohio-state.edu <> (Andrew Pearlman) writes:
+
+- show quoted text ->In article <white.6...@fireant.ma.utexas.edu <>> wh...@math.utexas.edu <> (Samuel Pollard White) writes:
+>>TECH--This is the technical level they desire in their game.  A TECH
+>>of 3 or less shows a lack of interest in the tactical aspects of the
+>>
+>>IMAG--This is the imagination level the character desires in the game.
+
+- show quoted text ->Um, one problem that I see with your system.  Both the arguers if I make
+>my guess correctly, are high 'TECH' and 'IMAG' types.  Being one of them,
+>I am pretty sure about myself and I would guess the same about Stephen.
+
+- show quoted text ->I personally am happy to have my characters wander around for years without
+>combat.  As long as things are interesting, why care about beating something
+>up.  I'm also an artist(painter).  I certainly hope I have a lot of imagination
+>or else I won't get very far :-)
+>Andy Pearlman
+
+Hmm...  Your objection to my original article seems valid (how
+annoying).  However I would say that a person who prefers the HERO
+system probably (but clearly not necessarily) has a higher TECH stat
+because unlike GURPS you can usually specify how want certain powers
+to work (for instance your fire blast may mostly unaffected by water
+(lose a couple of dice maybe at GM's perogativ while anothers can't
+even get started (need to light a match)).  The point is you can
+decide how every single attack and every single power works in
+relation to the rest of the world.  If you think a power shouldn't do
+stun damage you can change it by putting a limitation on it.  Of
+course the down side to this is that the system allows more
+flexibility and it is hard for a gamemaster to impose a certain
+consistent methodology to how the world works (for instance a
+gamemaster who was running a space game might feel obliged to specify
+all the special effects that are allowable with certain powers, but
+this would be a lot of work, GURPS to some extent does this for you.)
+Though on the flip side you are much more at the mercy of the GM,
+because he gets to design the rest of the world in the same manner
+that you built your character.  Well anyway, I think I'll think
+about this some more and maybe I can come up with a better system
+for simulating roleplayers.
+
+                         -Sam
+----------------------------------------------------------------------------
+
+Thursday, 21 February 1991 07:10:51 UTC - pch...@zeus.unomaha.edu:
+In article <14...@tronsbox.xei.com <>>, dfra...@tronsbox.xei.com <> (Dennis Heffernan) writes:
+>         RE the potential mage "problem"
+> 
+>         If you have any Magery at all to begin with, you can buy it up later.
+> (The Book doesn't explicitly say you can do this, but it does imply it, and
+> it's been declared Official on SJG-BBS.)  Thus, there is no need to blow 35
+> points on Magery "potential"; you can spend 15 and buy the rest later.  Some
+> people (myself among them, when I used the standard GURPS magic rules) used
+> a "Magery 0" costing 5 points, even further lowering the cost.
+ 
+Although I agree with this, the book does not say it, and having it
+declared "official" on some BBS is totally irrelevant, because not
+everyone has ready access to this source.  D+D had this problem with
+"The Sorcerer's Scroll" from Dragon magazine, which was also official
+but not everyone had access to.  As the game stands, it is not "legal"
+and therefore takes special GM permission.  There is a problem with
+potential magery.
+Please do not use this kind of privledged and questionably legal knowledge.
+It doesn't really help anything.
+ 
+> dfra...@tronsbox.xei.com <>   ...uunet!tronsbox!dfrancis     GEnie: D.HEFFERNAN1
+
+-james
+----------------------------------------------------------------------------
+
+Thursday, 21 February 1991 14:43:42 UTC - Nicolai Shapero:
+In message Message-ID: <1991Feb13...@happy.colorado.edu <>>:
+ U>When you run a 
+ U>campaign
+ U>for years with weekly play, points have to be kept under tight 
+ U>control to
+ U>keep the campaign from getting out of control.
+
+A major disadvantage to point-build systems vs random roll/skill
+systems (e.g. RuneQuest, Other Suns, Privateers & Gentlemen, etc).
+I've been running Other Suns for a good 12 years now, and while
+some of the characters run in the campaign are fairly powerful,
+none of them are at all campaign-unbalancing (it is still possible
+for newly generated characters to be superior in their specialty,
+if they choose the right specialty).
+
+-- Nicolai Shapero, the Mad Russian Sysop of StormGate Aerie 
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Thursday, 21 February 1991 20:44:01 UTC - Wayne Shaw:
+To Jeff Stehman:
+ 
+And my response to this (two definitions of flexibility) is that one 
+of them makes a mockery of the word.  A game isn't "flexible" in an 
+area if it has no rules dealing with it; it's flexible if the rules 
+are such that they can be easily adapted to do what you want.  By 
+any other definition, vacuum is "flexible"; after all, it doesn't 
+exist. 
+
+
+--  
+Wayne Shaw
+Internet: Wayne...@ofa123.fidonet.org <>
+Compuserve: >internet:...@ofa123.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Friday, 22 February 1991 19:42:25 UTC - David H. Thornley:
+In article <1991Feb20.1...@oz.plymouth.edu <>> s...@oz.plymouth.edu <> (Steffan O'Sullivan) writes:
+>thor...@cs.umn.edu <> (David H. Thornley) writes:
+>>[Hero magic is more flexible than GURPS magic.]
+>
+>Flexibility can mean different things.  First of all, I have not played
+>FH since 1987, so please don't interpret anything I say here as a flame -
+>I'm honestly curious.
+>
+Heck, nothing here even looks like a flame to me.
+
+>How many points does it cost for an average spell in FH?  It is in my
+>memory that an FH mage could indeed create his own spells, very fine 
+>tuned (fits one definition of flexibility), but that he couldn't have
+>very many different spells, as they cost more than one point each,
+>usually.  On the other hand, I have 100-point GURPS mages with 50 spells
+>covering 10 different types of magic (colleges), which fits another
+>definition of flexibility.  Again, not a flame, but an honest question:
+>could a starting mage in Hero have 50 spells at a decent level?
+>
+It's difficult to rate an "average" spell in FH.  My run-of-the-mill
+spells tend to run about 5-10 points.  This is for the old FH; I haven't
+designed any magical characters for the new edition.  In general, a
+1-point spell will not be useful.  Therefore, you are correct in this
+claim; if you want your spellcasters to have 25-50 different spells,
+don't play Hero.  However, Hero spells are typically more versatile,
+there being only 50-60 different Hero spell effects as opposed to
+c. 420 GURPS spells (many of which would be built with the same
+spell effects in Hero).  A FH mage, in my experience, will have 4-8
+spells or 5-15% of the possible effects; a GURPS mage with 50 spells
+has about 10-12% of the possible spell list.
+>>[In FH, I had a character with a spell useful under adverse
+>> conditions; this is not possible in GURPS without excessive
+>> skill in the spell.]
+
+>
+>What were the effects of the spell?  If it is merely to get rid of his
+>bonds, that's easy and cheap in GURPS - you don't even have to be a mage.
+>A Knack of Shatter with one level of Speed will do it quite nicely: 20
+>points total, no need for high IQ or Magery, even.
+>
+If you're using knacks.  The spell in question was a 2-die variable-
+effect Transform.  I could use it to transform bonds into throwing
+knives, rock into air (not very fast), and to make lots of useful
+items of low quality.  It was very useful when captured, and had
+some uses in other situations.  It was expensive and difficult to
+cast, and it could be changed, with added experience, like any
+other spell.
+So, a 20-point Knack will do it in GURPS, but that isn't integrated
+with the rest of the magic system.  A mage might prefer to have
+Shatter at a skill of 21, which will do much the same, as well as
+allow the mage to do a two-die Shatter under any circumstances,
+without being obvious, and without fatigue cost.  Now that I look
+at the rules more (I am not all that familiar with GURPS magic
+in detail), there is an alternative casting system in the sidebar
+on p. 7 of GURPS Magic that would permit casting under these
+conditions at -10 to the roll - acceptable under the circumstances
+(you'll probably roll it eventually).
+
+
+>Also, have you seen the article in Roleplayer (the GURPS magazine), I
+>think #19, that I wrote on Improvisation Magic as the Only Magic?  It
+>expands the Improv rules given in GURPS Magic and makes it easier to cast
+>spells for improvising mages - including with no gestures, BTW.  I
+>believe that this system can handle anything that Hero handles.  It will
+>probably be reprinted in the forthcoming GURPS Grimoire.
+>
+No, I haven't.  It would be interesting to see.  As I said, the main
+reason why I had to use FH was to model magic as I wanted; if GURPS
+had the same capabilities, that would be an option.
+----------------------------------------------------------------------------
+
+Friday, 22 February 1991 21:39:34 UTC - Steve Mullins:
+...
+>believe that this system can handle anything that Hero handles.  It will
+>probably be reprinted in the forthcoming GURPS Grimoire.
+GURPS Grimoire?  What's this supposed to be?  An updated GURPS Magic?
+
+
+>-- 
+>-Steffan O'Sullivan      s...@oz.plymouth.edu <>
+>----------
+St. Mullins
+----------------------------------------------------------------------------
+
+Friday, 22 February 1991 23:52:07 UTC - Walter Milliken:
+In article <16...@milton.u.washington.edu <>>, mkkuhner@evolution (Mary Kuhner) writes:
+>Having played in a few games which were ruined by bloodthirsty, greedy,
+>or irrationally overconfident characters, however, I wonder whether the
+>instincts of the group don't have a point to them.  A surprising number
+>of the disads (the ones mentioned above, Hunteds, Odious Habits, etc.)
+>seem to pay the character points to be *less* fun for his companions, if
+>not his player--and often, less fun for the other players.
+Yes, this is true.  One has to tread lightly with these at character
+creation time.  As a GM, I tend to discourage (though not forbid)
+characters with disads I think will cause serious problems in the
+group.
+
+>Perhaps the other players, as well as the GM, should have some say in
+>character creation, frightening though the idea is.  I think this
+>especially true if the campaign has the implicit convention (and many
+>do) that one does not allow one's characters to reject a PC simply
+>because he's obnoxious.
+
+Though the groups I play in tend to follow the "he's a PC" rule, there
+have been occassions where a PC has been ejected due to serious
+differences in the party.  Also, if you have several PCs in a campaign
+world, the PC groups can shuffle around a bit until they can at least
+tolerate each other.
+
+>I worry that the disadvantages can become a club for the player who is
+>inclined to do an obnoxious, disruptive character (and yes, I know not
+>all obnoxious characters are disruptive) to force the other players to
+>accept him.  "But I got points for it, I *have* to be an asshole!"
+
+In that case, most of the people I play with would probably kick out
+the player.  This is the same sort of person who wants to play CE
+thieves or assassins in AD&D.  Not much you can do with them except
+stomp on them somehow.
+
+In my games, I disallow certain disads.  In particular, I am strongly
+opposed to characters having the Bloodlust disad, since I tend to run
+games in fairly civilized areas, and such a character is almost
+certain to wind up behind bars, or meeting the executioner.
+
+I think one idea that ought to work well is to set up a session before
+a campaign starts where everyone works together on characters.  Mix of
+skills in a group is a similar problem to making sure there won't be
+severe incompatibilities.  Both take input from all the players and
+the GM.
+
+---Walter
+----------------------------------------------------------------------------
+
+Saturday, 23 February 1991 00:02:11 UTC - Walter Milliken:
+In article <gbiKZJ200...@andrew.cmu.edu <>>, wt0b+@andrew (William Henry Timmins) writes:
+>The point is just like in real life, sometimes good things just happen.
+>WITHOUT paying for it. (TANSTAAFL doesn't apply on the small scale...)
+>Saying disads aren't paid for (that is, his point total is lowered) but
+>that ads are paid for (point total is raised but has to be paid for) is
+>silly.
+>In the first case, you lost points. In the second... you DON'T change in
+>point total! ie- For disads, you come out behind, for ads, you have to
+>come out neutral.
+Huh?  Why is paying for a gained advantage a problem?  Only if the GM
+forces the advantage on the PC *without the player's consent*.  That's
+bad gaming on the GM's part, no matter how you work the mechanics.
+
+If the GM wants to give the character a new advantage, without cost,
+he can.  This is appropriate if the character achieved the advantage
+by roleplaying and not simly GM oversight.
+
+>If you pay for your advantages, you end up loosing potential points.
+
+But you still get the game-effect value of the advantage.  This is
+only a problem if you'd never want to take the advantage for the
+character.
+
+---Walter
+----------------------------------------------------------------------------
+
+Saturday, 23 February 1991 00:09:11 UTC - Walter Milliken:
+In article <15...@borg.cs.unc.edu <>>, bell@cezanne (Andrew Bell) writes:
+>If I find a magic item,  do I get less experience?  If I steal money,
+>do I have to spend character points "learning to handle" my new-found
+>wealth?
+No, to either case.  Wealth increases *are* a problem in GURPS -- the
+only common circumstance I've seen where this issue comes up.  Owning
+a magic item doesn't count as an advantage in GURPS -- that's a Hero
+glitch.
+
+>  If not,  then why should I pay for other advantages gained
+>during play?
+
+Because you get the game effect of more power.  Think of it as a
+different form of character improvement using experience.  The problem
+only arises when the GM *forces* the character to take an unwanted
+advantage.  This is usually Wealth, in my experience.
+
+>Why should I want to?  Why should it be part of the mechanics of the system?
+>Why do I need to "add" character points?  In no other system is there a
+>need to have some (supposedly) objective system for balancing character
+>strength except perhaps at character creation -- why is this an issue at
+>all in GURPS?
+
+What do you call character advancement systems?  They're an attempt at
+forcing characters to increase in strength in roughly equal
+proportion.  The only system I can think of that *doesn't* have this
+is Traveller.
+
+---Walter
+----------------------------------------------------------------------------
+
+Saturday, 23 February 1991 06:51:31 UTC - Andrew Bell:
+In article <62...@bbn.BBN.COM <>> mill...@bbn.com <> (Walter Milliken) writes:
+>In article <15...@borg.cs.unc.edu <>>, bell@cezanne (Andrew Bell) writes:
+>>If I find a magic item,  do I get less experience?  If I steal money,
+>>do I have to spend character points "learning to handle" my new-found
+>>wealth?
+
+>No, to either case.  Wealth increases *are* a problem in GURPS -- the
+>only common circumstance I've seen where this issue comes up.
+Why are they a problem?  If you're talking about their effect on the
+"Flat broke" or "Poor" disads,  they are extremely poorly designed from
+what I've heard.  If you could email me the text of the current ones
+(sorry,  I don't own GURPS),  I'll post a redesign which you can also
+give to Steve Jackson and Co.
+
+(Essentially,  the problem is that they are treated as independent from
+their causes.  If a character is flat broke,  there's some reason for
+it -- but these disads don't seem to take this into account.  Note that
+I've never read the actual rules,  I've just heard people describe them,
+so my analysis may be in error.)
+
+
+>Owning a magic item doesn't count as an advantage in GURPS -- that's a
+>Hero glitch.
+Why doesn't it count as an advantage?  In Hero,  it could be easily
+justified -- after all,  the high tech weapon is going to break down
+unless the character has the skills to maintain it,  or else the item
+is dependent on the original character and its radiated spider bite
+power or whatever.  The problem with Hero is that they don't explain it
+this way,  they justify it a silly way.
+
+
+>>  If not,  then why should I pay for other advantages gained
+>>during play?
+
+>Because you get the game effect of more power.
+Doesn't a magic item also give me the game effect of more power?
+
+
+>Think of it as a different form of character improvement using
+>experience.  The problem only arises when the GM *forces* the character
+>to take an unwanted advantage.  This is usually Wealth, in my experience.
+Why is Wealth an advantage when a magic item isn't?
+
+
+>>In no other system is there a need to have some (supposedly) objective
+>>system for balancing character strength except perhaps at character
+>>creation -- why is this an issue at all in GURPS?
+
+>What do you call character advancement systems?  They're an attempt at
+>forcing characters to increase in strength in roughly equal
+>proportion.
+Actually,  character advancement systems are generally intended to reflect
+the effect on the characters' skills from "experience under fire."  It's
+not their strength that's being equalized,  it is their amount of "battle"
+education.  And even then,  many systems suggest giving varying amounts of
+experience to each character based on their involvement or for their
+roleplaying.
+
+
+>The only system I can think of that *doesn't* have this is Traveller.
+RuneQuest.  Sure,  characters that adventure together get about the
+same amount of skill increases,  but what a character does outside the
+adventure is about as important as what they do during the adventure --
+perhaps more so.  For example,  I had a character who took two years off
+to learn sorcery.  What did it "cost" the character?  Two years of game
+time,  nothing else.  What would happen to a GURPS character that tried
+to do this?  If I understand GURPS rules correctly,  he/she could only do
+this if he/she had the points to spare to buy the new skills.  Gag.
+(I retract this last sentence and onomotopoetic word if GURPS has rules
+for learning skills outside of an adventure that don't require character
+points but require character time instead.)
+
+    -Andrew Bell
+be...@cs.unc.edu <>
+----------------------------------------------------------------------------
+
+Saturday, 23 February 1991 10:22:31 UTC - Wayne Shaw:
+To Nicolai Shapero:
+ 
+Not an intrinsic advantage of random improvement systems, Nicolai. 
+ Aftermath! skills improved linearly from top to bottom, though it 
+was a random improvement type game, and skills get more expensive 
+in GURPS as you get more skilled, so it can work both ways. 
+
+
+
+--  
+Wayne Shaw
+Internet: Wayne...@ofa123.fidonet.org <>
+Compuserve: >internet:...@ofa123.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Saturday, 23 February 1991 14:13:04 UTC - Steffan O'Sullivan:
+In article <18...@borg.cs.unc.edu <>> be...@degas.cs.unc.edu <> (Andrew Bell) writes:
+>
+>Note that
+>I've never read the actual rules,  I've just heard people describe them,
+>so my analysis may be in error.)
+>
+>RuneQuest.  Sure,  characters that adventure together get about the
+>same amount of skill increases,  but what a character does outside the
+>adventure is about as important as what they do during the adventure --
+>perhaps more so.  For example,  I had a character who took two years off
+>to learn sorcery.  What did it "cost" the character?  Two years of game
+>time,  nothing else.  What would happen to a GURPS character that tried
+>to do this?  If I understand GURPS rules correctly,  he/she could only do
+>this if he/she had the points to spare to buy the new skills.  Gag.
+>(I retract this last sentence and onomotopoetic word if GURPS has rules
+>for learning skills outside of an adventure that don't require character
+>points but require character time instead.)
+GURPS does indeed have rules for learning skills outside of adventuring
+that require no earned points.  Andrew, it is considered intelligence to
+ask questions where you have gaps in your knowledge, such as rules
+systems that you haven't read.  It is considered stupidity and bigotry to
+gag at things you believe to be true about something but have only heard
+them through hearsay.  Please read the rules before making any more
+disparaging remarks, though questions are always welcome.
+
+Rather than having to retract foolish words, which your parenthetical
+statement above does, it would be far better never to utter them in the
+first place.
+
+-- 
+-Steffan O'Sullivan      s...@oz.plymouth.edu <>
+----------------------------------------------------------------------------
+
+Saturday, 23 February 1991 17:31:39 UTC - David H. Thornley:
+In article <8372.2...@zeus.unomaha.edu <>> pch...@zeus.unomaha.edu <> writes:
+>[Buying additional levels of Magery in GURPS after the first one was
+> declared legal by Steve Jackson Games on their bulletin board, but
+> it isn't in the books.]
+>
+>Please do not use this kind of privledged and questionably legal knowledge.
+>It doesn't really help anything.
+> 
+I don't understand.  What is sacred about "official" rules?  *Any* rule
+may be used by, and only by, GM permission.  If I were running a GURPS
+campaign, and somebody asked me if they could have potential magery,
+I'd work something out.
+DHT
+----------------------------------------------------------------------------
+
+Saturday, 23 February 1991 21:27:45 UTC - Andrew Bell:
+In article <1991Feb23....@oz.plymouth.edu <>> s...@oz.plymouth.edu <> (Steffan O'Sullivan) writes:
+>In article <18...@borg.cs.unc.edu <>> be...@degas.cs.unc.edu <> (Andrew Bell) writes:
+>>[Incorrect remarks,  albeit with a codicil]
+>[Appropriately takes me to task for making inaccurate comments]
+My apologies,  Steffan;  that's what I get for posting at 2 am.  (You're up
+early on a Saturday...)
+
+I feel compelled to point out,  however,  that my comments were not meant to
+insult the entire GURPS system.  While my favorite system is modified RQ,
+given the choice of any rules system run "out of the box",  I'd prefer to
+play GURPS or possibly Fantasy Hero.
+
+   -Andrew Bell
+be...@cs.unc.edu <>
+----------------------------------------------------------------------------
+
+Sunday, 24 February 1991 04:21:32 UTC - David H. Thornley:
+In article <18...@borg.cs.unc.edu <>> be...@degas.cs.unc.edu <> (Andrew Bell) writes:
+>In article <62...@bbn.BBN.COM <>> mill...@bbn.com <> (Walter Milliken) writes:
+>>In article <15...@borg.cs.unc.edu <>>, bell@cezanne (Andrew Bell) writes:
+>>>If I find a magic item,  do I get less experience?  If I steal money,
+>>>do I have to spend character points "learning to handle" my new-found
+>>>wealth?
+>
+>>No, to either case.  Wealth increases *are* a problem in GURPS -- the
+>>only common circumstance I've seen where this issue comes up.
+>
+>Why are they a problem?  If you're talking about their effect on the
+>"Flat broke" or "Poor" disads,  they are extremely poorly designed from
+>what I've heard.  If you could email me the text of the current ones
+>(sorry,  I don't own GURPS),  I'll post a redesign which you can also
+>give to Steve Jackson and Co.
+>
+At a quick glance (corrections invited) the poverty disads seem to
+preclude the character from holding a high-paying job, and not much
+else.  There is plenty of room for abuse here.  In my Fantasy Hero
+campaign, I allow wealth at moderate costs.  Wealth is either holding
+land or running a profitable business, and in either case comes with
+responsibilities attached.  I think I can live with campaigns where
+the players can buy wealth with character points.  I don't think that
+allowing them to take poverty disads is going to work.
+
+>
+>>Owning a magic item doesn't count as an advantage in GURPS -- that's a
+>>Hero glitch.
+>
+Correction - that's a *Champions* glitch, and exists for generally
+good reasons.  I have *never* been asked to pay points for equipment
+in other Hero games.  (Exception:  making magic items in Fantasy
+Hero, or using the Justice, Inc. gadget rules, and I personally
+have never done this.)
+
+>>>In no other system is there a need to have some (supposedly) objective
+>>>system for balancing character strength except perhaps at character
+>>>creation -- why is this an issue at all in GURPS?
+>
+>>What do you call character advancement systems?  They're an attempt at
+>>forcing characters to increase in strength in roughly equal
+>>proportion.
+>
+>Actually,  character advancement systems are generally intended to reflect
+>the effect on the characters' skills from "experience under fire."  It's
+>not their strength that's being equalized,  it is their amount of "battle"
+>education.  And even then,  many systems suggest giving varying amounts of
+>experience to each character based on their involvement or for their
+>roleplaying.
+>
+Depends on the system.  D&D seemed to be aimed at balancing strength
+among characters with roughly equivalent experience points.  The
+"battle education" mentioned above is, IMHO, what a character advancement
+system should be, not necessarily what they all are.  The point system
+exists to start out the character, and (again IMHO) should not be
+maintained throughout the campaign.
+
+>>The only system I can think of that *doesn't* have this is Traveller.
+>
+>RuneQuest.  Sure,  characters that adventure together get about the
+>same amount of skill increases,  but what a character does outside the
+>adventure is about as important as what they do during the adventure --
+>perhaps more so.  For example,  I had a character who took two years off
+>to learn sorcery.  What did it "cost" the character?  Two years of game
+>time,  nothing else.  What would happen to a GURPS character that tried
+>to do this?  If I understand GURPS rules correctly,  he/she could only do
+>this if he/she had the points to spare to buy the new skills.  Gag.
+>(I retract this last sentence and onomotopoetic word if GURPS has rules
+>for learning skills outside of an adventure that don't require character
+>points but require character time instead.)
+>
+GURPS does, Hero doesn't.  Any competent DM can fake something up;
+GURPS experience points are close enough to Hero that the same rules can
+be used.  One local GM gives PCs one experience point for each game
+year that passes, on the assumption that they are doing something productive
+with their free time.  It's not a bad idea.  If a character of mine
+decided to go study something for two years (and had a good teacher
+lined up) I'd give the character lots of experience.  This would
+amount to temporarily retiring the character, of course, unless the
+other PCs were doing the same thing.
+DHT
+----------------------------------------------------------------------------
+
+Sunday, 24 February 1991 04:28:40 UTC - David H. Thornley:
+In article <2575.2...@ofa123.fidonet.org <>> Nicolai...@f524.n102.z1.fidonet.org <> (Nicolai Shapero) writes:
+>A major disadvantage to point-build systems vs random roll/skill
+>systems (e.g. RuneQuest, Other Suns, Privateers & Gentlemen, etc).
+>I've been running Other Suns for a good 12 years now, and while
+>some of the characters run in the campaign are fairly powerful,
+>none of them are at all campaign-unbalancing (it is still possible
+>for newly generated characters to be superior in their specialty,
+>if they choose the right specialty).
+>
+In my experience with Hero games, a character has to be very
+experienced indeed to affect campaign balance, and even then
+it is possible for newcomers to be immediately useful to the
+party.  This was not the case in my old D&D days.
+I suspect that the critical difference is between class-based
+and skill-based systems, and another difference between games
+that allow dramatic advancement over the starting characters
+versus those that don't.
+
+In Hero, a character may start with 75 base points, and 50-75
+points of disadvantages (as well as, essentially, 125 points
+of free stats, 12 free points in Running, several basic skills,
+etc.), so it will take a *lot* of experience points before the
+character is way out of line.  In D&D, the difference between
+a low-level character and a high-level character is much greater.
+Similarly, in a skill-based system, it is usually possible for
+the beginning character to make a suitable niche in the party
+by doing something that nobody else does well, but not in
+class-based systems.
+
+DHT
+----------------------------------------------------------------------------
+
+Sunday, 24 February 1991 10:58:13 UTC - Wayne Shaw:
+To Dennis Hefferman:
+ 
+Unless all the attack powers are SO grossly powerful that no normal 
+weapon is compareable, guns are ALWAYS going to be a factor.  And 
+the question isn't realism; superhero genera isn't generally known 
+for this.  The question is, do you want energy projectors and the 
+like to be a viable option?  If so, not paying points for off the 
+rack weapons is a bad idea.  Since you obviously didn't care about 
+this, it isn't a problem for you.  But I suspect it would be for most 
+people running supers based games. - show quoted text -
+
+
+--  
+Wayne Shaw
+Internet: Wayne...@ofa123.fidonet.org <>
+Compuserve: >internet:...@ofa123.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Monday, 25 February 1991 00:33:51 UTC - pch...@zeus.unomaha.edu:
+- show quoted text -In article <1991Feb23....@cs.umn.edu <>>, thor...@cs.umn.edu <> (David H. Thornley) writes:
+> In article <8372.2...@zeus.unomaha.edu <>> pch...@zeus.unomaha.edu <> writes:
+>>[Buying additional levels of Magery in GURPS after the first one was
+>> declared legal by Steve Jackson Games on their bulletin board, but
+>> it isn't in the books.]
+>>
+>>Please do not use this kind of privledged and questionably legal knowledge.
+>>It doesn't really help anything.
+>> 
+> I don't understand.  What is sacred about "official" rules?  *Any* rule
+> may be used by, and only by, GM permission.  If I were running a GURPS
+> campaign, and somebody asked me if they could have potential magery,
+> I'd work something out.
+> 
+> DHT
+ 
+No.  Not scared of any "official" label.  I just do not think that the label
+has any weight in this case because it is not published.  As you suggest, it
+boils down to GM arbitration, since very few have access to this "official"
+rule.
+There is such a difference between saying that such a way of doing things is
+"official" by some obscure source and saying that such a way of doing things
+should be a GM call.  One sounds like "I'm right, discussion ended" and the
+other sounds like "Here's a good idea, and here's why."
+
+In other words, I don't think the "official" label applies in this case,
+and since some people worry about such, I wish the label would only be
+applied when (a) it is published and (b) anyone can find the rule being 
+referred to.  Otherwise, the label is invalid.
+
+-james
+----------------------------------------------------------------------------
+
+Monday, 25 February 1991 02:47:28 UTC - Classroom Account:
+In article <1991Feb23....@oz.plymouth.edu <>>, s...@oz.plymouth.edu <> (Steffan O'Sullivan) writes:
+> GURPS does indeed have rules for learning skills outside of adventuring
+> that require no earned points.  Andrew, it is considered intelligence to
+> ask questions where you have gaps in your knowledge, such as rules
+> systems that you haven't read.  It is considered stupidity and bigotry to
+> gag at things you believe to be true about something but have only heard
+> them through hearsay.  Please read the rules before making any more
+> disparaging remarks, though questions are always welcome.
+> 
+> Rather than having to retract foolish words, which your parenthetical
+> statement above does, it would be far better never to utter them in the
+> first place.
+> -- 
+> -Steffan O'Sullivan      s...@oz.plymouth.edu <>
+
+
+
+
+    Gee, I've read both the basic GURPS rules and GURPS magic, and I never 
+saw any of these rules.  I feel that Andrew's comment points out a real flaw
+in the game system.
+
+    Of course, it's possible that both Andrew and I missed the rules you're
+referring to (possibly in an update or one of the myriad supplements?).  Why
+don't you post a summary of the rules in question, rather than flaming Andrew
+for what was, at worst, an honest mistake?
+
+Ken McKinney (currently s9...@cs.utexas.edu <>)
+Austin, Texas
+
+PS: Andrew, would you resubscribe me to the RuneQuest Digest with this userid?
+.
+.
+----------------------------------------------------------------------------
+
+Monday, 25 February 1991 08:26:50 UTC - Dennis Heffernan:
+In article <8372.2...@zeus.unomaha.edu <>> pch...@zeus.unomaha.edu <> writes:
+- show quoted text -|In article <14...@tronsbox.xei.com <>>, dfra...@tronsbox.xei.com <> (Dennis Heffernan) writes:
+|>         RE the potential mage "problem"
+|> 
+|>         If you have any Magery at all to begin with, you can buy it up later.
+|> (The Book doesn't explicitly say you can do this, but it does imply it, and
+|> it's been declared Official on SJG-BBS.)  Thus, there is no need to blow 35
+|> points on Magery "potential"; you can spend 15 and buy the rest later.  Some
+|> people (myself among them, when I used the standard GURPS magic rules) used
+|> a "Magery 0" costing 5 points, even further lowering the cost.
+| 
+|Although I agree with this, the book does not say it, and having it
+|declared "official" on some BBS is totally irrelevant, because not
+|everyone has ready access to this source.  D+D had this problem with
+|"The Sorcerer's Scroll" from Dragon magazine, which was also official
+|but not everyone had access to.  As the game stands, it is not "legal"
+|and therefore takes special GM permission.  There is a problem with
+|potential magery.
+|
+|Please do not use this kind of privledged and questionably legal knowledge.
+|It doesn't really help anything.
+        Spare me.  It will probably be in the next edition of the game, if not
+the soon-to-be-released Grimoire.  I haven't looked, but it might even be inn
+the errata.
+
+        Since when is what amounts to a letter from the designers "questionably
+legal" and "privledged"?
+
+
+
+dfra...@tronsbox.xei.com <>   ...uunet!tronsbox!dfrancis     GEnie: D.HEFFERNAN1
+------------------------------------------------------------------------------
+"I don't understand why you make such a big deal out of everything...haven't
+you learned; if it's not happenning to me it's not important?" -Murphy Brown
+----------------------------------------------------------------------------
+
+Monday, 25 February 1991 11:48:43 UTC - Steffan O'Sullivan:
+s9...@cs.utexas.edu <> (Classroom Account) writes:
+[quotes me]
+>> GURPS does indeed have rules for learning skills outside of adventuring
+>> that require no earned points.  
+>
+>    Gee, I've read both the basic GURPS rules and GURPS magic, and I never 
+>saw any of these rules.  I feel that Andrew's comment points out a real flaw
+>in the game system.
+>
+>    Of course, it's possible that both Andrew and I missed the rules you're
+>referring to (possibly in an update or one of the myriad supplements?).  Why
+>don't you post a summary of the rules in question?
+I will instead refer you to the rule.  It is in the Basic Set, and has
+always been there.  The 3rd edition pages are 82 and 83; in earlier
+editions, look in Chapter 10: Character Development, oddly enough.
+
+It starts out:
+
+"You may also gain skills, and improve those you already have, by
+spending time studying them.  Anyone can gain or improve skills this way,
+as long as an opportunity for study is available."
+
+Notice that it does not say "anyone with points saved up,"  but simply
+"anyone can gain or improve skills this way . . ."
+
+It then goes into rules suggestions, and contains the interesting
+sentence: "If you don't enjoy this, *don't do it.*  Instead, the GM may
+slightly increase the number of `earned character points' he gives on
+each adventure, and let those points be used to `buy' skill increases, as
+described above.  Then it will not be necessary to keep track of study
+time."  I find this typical of GURPS rules, BTW: flexibility that the
+bashers never seem to remember reading . . .
+
+-- 
+-Steffan O'Sullivan      s...@oz.plymouth.edu <>
+----------------------------------------------------------------------------
+
+Monday, 25 February 1991 15:11:48 UTC - David H. Thornley:
+In article <11...@dimebox.cs.utexas.edu <>> s9...@cs.utexas.edu <> (Classroom Account) writes:
+>In article <1991Feb23....@oz.plymouth.edu <>>, s...@oz.plymouth.edu <> (Steffan O'Sullivan) writes:
+>>[GURPS does have rules for experience outside of adventuring.  Ask
+>> before you flame.]
+>
+>    Gee, I've read both the basic GURPS rules and GURPS magic, and I never 
+>saw any of these rules.  I feel that Andrew's comment points out a real flaw
+>in the game system.
+>
+>    Of course, it's possible that both Andrew and I missed the rules you're
+>referring to (possibly in an update or one of the myriad supplements?).  Why
+>don't you post a summary of the rules in question, rather than flaming Andrew
+>for what was, at worst, an honest mistake?
+>
+Sidebars, pages 82 and 184, basic rules, 3rd edition.  Read the Character
+Development chapter.  If this shows any flaw in GURPS, it is in the 
+sidebar concept, in which secondary rules and game-design
+philosophy meet examples, with no clear demarcations.  I refrain from
+posting a summary of the rules, since they are easily available with
+the rules as printed.
+DHT
+----------------------------------------------------------------------------
+
+Monday, 25 February 1991 15:20:24 UTC - Dave Lewis:
+In the game I running, I usually have NPCs (read wizards, gods, demons, ...) 
+doing all sorts of odd things with magic. One of the players is a really good 
+mage himself and he often does a detect & analyze magic when he encounters some 
+weird effect(Makes perfect sense to me). I've been trying to come up with some
+consistant way of dealing with this instead of just winging it. The idea I'm
+working on goes like this:
+        1. If the detect & analyze roll is made the player gets info on
+        the power of the spell (i.e., puny, powerful, god-like, ...),
+        the type of the magic (we have seven different types of magic),
+        and some general idea of the intent of the spell (i.e., Barrier, Trap,
+        ...).
+
+        2. If the roll is much less than the required roll, the mage can ask 
+        a question about the spell that would give very detailed information. 
+        Examples: "How is the spell triggered?", "What is the nature of the 
+        caster(i.e., mage, god, demon, ...)?"
+
+        3. I will allow repeated attempts to analyze, but each will require
+        time one step higher on the time chart. This means that if a character
+        wants to, he could learn everything about a spell by spending enough
+        time. This extra time does not give bonus to the roll, but the PC
+        could add more time to get a bonus.
+
+        4. If a mage takes the time to completely analyze the spell I'll
+        give bonuses dice to dispel or other attempts to effect the spell.
+        Or maybe this should work the other way around: take dice off of
+        a dispel if the mage has not completely analyzed the spell.
+
+Additionally, I think I'll add two new power advantages for magic:
+
+Difficult to Analyze (+1/2 can be bought multiple times): -5 to analyze rolls
+or maybe, requires one step up on the time chart to analyze.
+
+Difficult to Detect (+1/4 can be bought multiple times): -5 to detect rolls,
+once detected penalty goes away.
+
+Let me know what you think.
+
+----------
+Dave Lewis
+----------
+----------------------------------------------------------------------------
+
+Monday, 25 February 1991 23:13:04 UTC - Walter Milliken:
+In article <1991Feb13...@wharton.upenn.edu <>>, millerl@wharton (Loren J. Miller) writes:
+>In article <15...@borg.cs.unc.edu <>>, be...@cezanne.cs.unc.edu <> (Andrew Bell) writes:
+>> Why isn't this sensible approach the default?  Why do you feel the need
+>> for the approach?
+>
+>because gurps appeals to people who are obsessive about controlling the
+>game balance of characters in a group. some people, such as myself,
+>think it errs too far in that direction, prohibiting the play of extreme
+>characters, such as our infamous one-eyed barmy beggar. After all, if
+>I'm willing to take on all the baggage of such a character, why can't I
+>play it?
+You can, though you're not encouraged to, and the GM is encouraged to
+turn such a character down if he feels so inclined.  (As he should for
+*any* character that doesn't fit the campaign.)
+
+>gurps' answer would be (i'm reading between the lines here) it isn't
+>fair to the other players since the problems of your character are going
+>to take up more game time than anybody else's concerns.
+
+I don't think this is quite the point -- more that such a character is
+going to be hopelessly ineffective in so many ways he's unlikely to be
+a viable PC.  This depends a lot on the style of the campaign,
+however.
+
+The -40 point disadvantage "limit" in GURPS is mostly there as a
+signpost saying "if the character passes this, he's probably going to
+have serious problems being effective in the campaign."  At least
+that's the way I read it.
+
+---Walter
+----------------------------------------------------------------------------
+
+Monday, 25 February 1991 23:24:32 UTC - Walter Milliken:
+In article <15...@borg.cs.unc.edu <>>, bell@cezanne (Andrew Bell) writes:
+>You might say that normal people wouldn't want to become were-creatures.
+>My response is,  if they wouldn't,  then it's probably because it has some
+>significant disadvantage built-in,  and thus isn't a 15 point advantage
+>after all.
+The problem here is that point-accounting values don't necessarily
+reflect the value in the campaign world to the "man in the street."
+Combat Reflexes is a 15-point advantage in GURPS, but the town baker
+wouldn't necessarily want it.  The point costs of GURPS advantages
+tend to be weighted toward the utility to an "adventurer", whatever
+that is.  Being a were is a significant advantage if you're likely to
+get into combat situations, so the social effects aren't as important.
+
+On the other hand, Joe Farmer isn't going to find being able to turn
+into a combat-effective creature very useful, and in his case the
+social disadvantages (not to mention the effect on his sheep flock!)
+are going to outweigh the advantages he won't use.
+
+This is similar to the debate we had a while back on SJG-BBS about the
+worth of the Longevity advantage.  It would be very worthwhile to an
+individual, but the point cost was *way* out of proportion to its
+*campaign* effect.  SJG finally reduced the cost in the race creation
+books.
+
+As has been pointed out before in this discussion on the merits and
+flaws of point-based systems, it's often hard to judge "value" by a
+single measure.  Personally, I still find the concept useful, however.
+
+---Walter
+----------------------------------------------------------------------------
+
+Monday, 25 February 1991 23:37:20 UTC - Walter Milliken:
+In article <88...@tut.cis.ohio-state.edu <>>, pearlman@turtle (Andrew Pearlman) writes:
+> [explaining GURPS as a Hero variant, I think]
+>Make the emphasis "grim and gritty".  In case anyone wasn't aware "grim/gritty
+>" does not equal realistic.
+I wouldn't call GURPS "grim and gritty" at all -- maybe a couple of
+the subgenres, like Wild Cards and Cyberpunk, but they're *supposed*
+to be that way.  I suppose one could make a case for equating "grim"
+with "relatively easy to get one's character killed in combat", but I
+tend to think of the word as having something to do with the overall
+tone of the campaign.  None of my GURPS campaigns qualify as either
+"grim" or "gritty", in my opinion.  Nor do those of most of the other
+GURPS GMs I've played under.
+
+And I generally find the GURPS rules realistic, where they can be.
+
+>Magery 3 by itself is absolutely worthless, yet buying it can cripple some
+>character conceptions(such as the 'best potential mage in the world, but knows
+>nothing at the moment, needs to find a master to teach him...a classic all
+>throughout Fantasy literature, but no one can afford such a thing)
+
+Huh?  I've designed a couple such characters.  Besides, Magery is
+something like a stat, really.  Having an amazing dexterity and no
+combat skills is sort of the fighter-type equivalent.  Presumably the
+character will make up for the lack of skill by learning as he goes,
+if he doesn't get unlucky first.  Paying for that potential power
+(which comes relatively quickly) isn't a major system flaw.
+
+Now, if you give a modern character Magery 3 and the campaign won't
+ever give him access to major spells, yes, the character has wasted a
+bunch of points.  But the point system can't stop you from making a
+character inappropriate to the campaign -- that's the GM's job.
+
+>I'll be nice and leave GURPS Supers out of this.
+
+That's very kind of you.  I think there are a lot of GURPS fans who'd
+like to have left it out of the system....
+
+---Walter
+----------------------------------------------------------------------------
+
+Tuesday, 26 February 1991 06:02:33 UTC - Dennis Heffernan:
+In article <2588.2...@ofa123.fidonet.org <>> Wayne...@ofa123.fidonet.org <> (Wayne Shaw) writes:
+|To Dennis Hefferman:
+| 
+|Unless all the attack powers are SO grossly powerful that no normal 
+|weapon is compareable, guns are ALWAYS going to be a factor.  And 
+|the question isn't realism; superhero genera isn't generally known 
+|for this.  The question is, do you want energy projectors and the 
+|like to be a viable option?  If so, not paying points for off the 
+|rack weapons is a bad idea.  Since you obviously didn't care about 
+|this, it isn't a problem for you.  But I suspect it would be for most 
+|people running supers based games. 
+        Attack powers don't have to be "grossly" powerful to be competetive.
+Back in SuperWorld, a gun MIGHT do 4d of damage.  Most supers did at LEAST 7d,
+and had enough defense to totally stop a 4d attack.  In GURPS it's a little
+tougher; the guns do more damage and the defenses cost more, but there's no 
+reason why a 750-pt energy projector shouldn't be able to take out N number of
+thugs with guns, and that's WITHOUT getting creative with the rules, and without
+dumping all the points you have into your powers to create a zero-dimensional
+killing machine.  The biggest problem our energy projector has is with armor-
+piercing attacks, which there is currently no defense for aside from the 
+appropriate form of Invulnerability.  This may or may not get changed in Supers
+ver. 2.0; personally, I don't care, as I've already fixed it in my rules and
+shan't be purchasing the new ones.
+
+        And yes, the question IS realism.  A supers game shouldn't require the
+kind of reality warp engendered by Hero's equipment rules to function.  If
+it does, it tacitly acknowledges that it really doesn't work unless you cook
+it.  (No, I don't think GURPS Supers works, either.  But it was easier to 
+wrestle the GURPS rules into something I liked than it would have been to endure
+all the ridiculous number-crunching I would have had to go through in Champions,
+and I'm not sure that Champions would EVER work at the superhero level with
+"heroic" equipment rules.)
+
+
+dfra...@tronsbox.xei.com <>   ...uunet!tronsbox!dfrancis     GEnie: D.HEFFERNAN1
+------------------------------------------------------------------------------
+"I don't understand why you make such a big deal out of everything...haven't
+you learned; if it's not happenning to me it's not important?" -Murphy Brown
+----------------------------------------------------------------------------
+
+Tuesday, 26 February 1991 13:54:22 UTC - Kirsten C. Jacobus:
+The rules in question have been, in some form or another, in every edition
+of GURPS Basic.  The current incarnation equates 200 hours of study or
+training with one character point, provided the character has a competent
+teacher.
+Multiply time by two or more for lack of teacher.  Some skills are unlearnable
+without teachers.
+It's in the "Character Development" chapter, always has been.
+----------------------------------------------------------------------------
+
+Tuesday, 26 February 1991 15:17:58 UTC - David H. Thornley:
+In article <14...@tronsbox.xei.com <>> dfra...@tronsbox.xei.com <> (Dennis Heffernan) writes:
+>In article <2588.2...@ofa123.fidonet.org <>> Wayne...@ofa123.fidonet.org <> (Wayne Shaw) writes:
+>|To Dennis Hefferman:
+>| [Unless attack powers are overpowering, guns will always be a factor,
+>|  which is not in the superhero genre.  Do you want people to have their
+>|  own blast attacks?  If not, you can let them have guns free of points.]
+
+>        Attack powers don't have to be "grossly" powerful to be competetive.
+>Back in SuperWorld, a gun MIGHT do 4d of damage.  Most supers did at LEAST 7d,
+>and had enough defense to totally stop a 4d attack.  In GURPS it's a little
+>tougher; the guns do more damage and the defenses cost more, but there's no 
+>reason why a 750-pt energy projector shouldn't be able to take out N number of
+>thugs with guns, and that's WITHOUT getting creative with the rules, and without
+>dumping all the points you have into your powers to create a zero-dimensional
+>killing machine.  The biggest problem our energy projector has is with armor-
+>piercing attacks, which there is currently no defense for aside from the 
+>appropriate form of Invulnerability.  This may or may not get changed in Supers
+>ver. 2.0; personally, I don't care, as I've already fixed it in my rules and
+>shan't be purchasing the new ones.
+>
+The question is not whether your friendly energy projector can defeat a
+bunch of normals with guns.  The question is whether, having spent points
+on windblasts/heat vision/green beams of force/whatever, he or she is
+competitive with a brick who checked a .50 caliber machinegun out from
+SHIELD or whoever and who is carrying it around as a sidearm.  This
+is partly a matter of play balance, and partly a matter of genre: those
+heros in the comic books who use weapons do it as part of their own
+conception, and are not as powerful without them as the normally
+weaponless heros.  Charging points for weapons reflects this quite well.
+
+>        And yes, the question IS realism.  A supers game shouldn't require the
+>kind of reality warp engendered by Hero's equipment rules to function.  If
+>it does, it tacitly acknowledges that it really doesn't work unless you cook
+>it.  (No, I don't think GURPS Supers works, either.  But it was easier to 
+>wrestle the GURPS rules into something I liked than it would have been to endure
+>all the ridiculous number-crunching I would have had to go through in Champions,
+>and I'm not sure that Champions would EVER work at the superhero level with
+>"heroic" equipment rules.)
+>
+Are you saying that supers games don't need reality warps?  If I had armored
+skin and wind powers like my favorite Champions character, what are the
+chances that (a) I would sew up an impressive costume and fly around
+Minneapolis righting wrongs, (b) I would actually accomplish something
+positive by doing so, and (c) the police would just let me do it?  Or
+are you saying that the long-underwear brigade is just fine, but this
+business of not forcing them to rely on their own conceptions has got to
+go?  IMHO, the two things that a supers campaign should do are be fun
+and keep a comic-book feel, and I think the Champions (*not* Hero)
+restrictions contribute to both.
+I have no problems enduring the ridiculous number crunching by the way
+(personal taste), but I agree with you that Champions would not work
+with the "heroic" equipment rules.
+
+DHT
+----------------------------------------------------------------------------
+
+Tuesday, 26 February 1991 17:04:38 UTC - Andrew Pearlman:
+In article <14...@tronsbox.xei.com <>> dfra...@tronsbox.xei.com <> (Dennis Heffernan) writes:
+>        And yes, the question IS realism.  A supers game shouldn't require the
+>kind of reality warp engendered by Hero's equipment rules to function.  If
+>it does, it tacitly acknowledges that it really doesn't work unless you cook
+>it.  (No, I don't think GURPS Supers works, either.  But it was easier to 
+The problems with guns isn't with normals using them, it is with supers
+using them.  Most normals can't hit a fast moving super-type.  The major
+problem with guns in particular, is the "normal" martial artist genre.  Most
+martial artists are capable of hitting each other and have little or no
+resistant defenses and it is very in genre to do so.  Most of them in the
+comics survive and even do rather well.  However, give one of these martial
+artists an AK-47, have him switch it to autofire, and blast another martial
+artist of the same type...  Odds are that such a character is now dying,
+perhaps even dead.  This isn't in genre.
+
+There really isn't a reality warp there anyway.  As per usual, if you are
+playing Champions, define what you want, then buy it.  If you want all your
+characters running around with normal tech items that change at will, buy
+Gadget Pool:20 points, only normal tech(-1/2), all foci are at least IIF(-1/4)
+, Only changeable at base or under obvious circumstances(-1/2).  Total cost
+is 24 points.  Buy yourself a small gun and some kevlar defenses.  If you
+want more than a 20 point gun, simply increase the size of the pool until it
+works for you.  Now, if your martial artist wants the ability to pick up
+guns, you have it.  However, you simply aren't going to be able to take out
+a martial artist using only martial arts.
+
+Andy Pearlman
+----------------------------------------------------------------------------
+
+Tuesday, 26 February 1991 18:04:35 UTC - James Davis Nicoll:
+        I'm in a campaign where the PCs woke up one day
+to find that they had Changed during the night, and now had
+nifty new abilities (pretty much the range of powers found
+in comics). The *behavior* of the PCs is different from the
+behavior of comic book supers; very few successful spandex-fever
+types (Vililantes are illegal, secret IDs are incompatable with
+public recognition and the cops aren't nearly as stupid in 'real'
+life as in comics) *but* tons of super power-selling companies,
+and half the Changlings seem to work for CSIS or other spook
+group. It helped that there was a lawyer in the group early on.
+His awareness of the law enhanced the campaign, I feel (as did the GM.
+Hi, John!). A lot of fun, if often frustrating, and interesting to 
+find out just how quickly power corrupts (I myself work from high
+moral ground. The Reverend was too dangerous to let live, ditto
+the vampires, and I seem to be the only mind-ripping psionisist who
+sees What Must Be Done).
+        Some quotations:
+
+                Odin sees All! ... OK, *Heimdall* sees All, but Odin sees a 
+                *lot*!
+
+                That's why no-one complains about me dating aliens. You date 
+                the press.
+
+        Hmmm. I've misplaced my list. In any case, if this campaign is
+a good guide, 'realistic' campaigns diverge from the comic norm fairly
+rapidly.
+
+                                                        James Nicoll
+----------------------------------------------------------------------------
+
+Tuesday, 26 February 1991 19:18:47 UTC - pch...@zeus.unomaha.edu:
+pch...@zeus.unomaha.edu <> writes:
+> dfra...@tronsbox.xei.com <> (Dennis Heffernan) writes:
+> [Stuff supported by "official" information from SJG BBS deleted] 
+
+
+> |Although I agree with this, the book does not say it, and having it
+> |declared "official" on some BBS is totally irrelevant, because not
+> |everyone has ready access to this source.  D+D had this problem with
+> |"The Sorcerer's Scroll" from Dragon magazine, which was also official
+> |but not everyone had access to.  As the game stands, it is not "legal"
+> |and therefore takes special GM permission.  There is a problem with
+> |potential magery.
+> |
+> |Please do not use this kind of privledged and questionably legal knowledge.
+> |It doesn't really help anything.
+> 
+>         Spare me.  It will probably be in the next edition of the game, if not
+> the soon-to-be-released Grimoire.  I haven't looked, but it might even be inn
+> the errata.
+Which would be fine, I suppose.  (My current edition of GURPS becomes dated
+information, again.)  When it does, I would dare to call it "official."
+
+And if it was in the errata, wouldn't this been a much better source to
+quote in trying to make your point?
+
+ 
+>         Since when is what amounts to a letter from the designers "questionably
+> legal" and "privledged"?
+ 
+Just because a letter you get has the author's signature on it and the word
+"official" doesn't make it such.  Why?  Because noone else is capable of
+simply going out and buying this product.  And is such letter "prividleged"?
+I sure hope so, I don't want you reading my mail.  The rule becomes "legal"
+when it is printed, where everyone can get at it.
+Compare this to the SJG BBS.  Access is fairly restricted, even though it is
+public domain.  Why?  What percent of all GURPS players have access to it, as
+opposed to those with access to the basic rules?  Really now, not everyone
+has access to it or can pay very high fees for extended long-distance calling.
+But buying the rules gives you "the rules" in a neat package.  SJG BBS is
+definitely "prividleged" because most players do not have access.  For the
+same reason it is "questionably legal" because people without access cannot
+just look it up and see for themselves, they have to take what you say at
+face value, and assume that you didn't make a mistake or such.
+ 
+> dfra...@tronsbox.xei.com <>   ...uunet!tronsbox!dfrancis     GEnie: D.HEFFERNAN1
+
+-james
+
+PS: despite all of this, I still agree that that would be a neat way to 
+work potential magery.  But declaring the method "official" was not really
+necessary, it would have been easier to let the idea stand on it's own
+good merit.
+----------------------------------------------------------------------------
+
+Tuesday, 26 February 1991 21:13:58 UTC - Cort Odekirk:
+I want to say one quick thing in the defense of point based systems. 
+Experienced role players can find them confining, and in that I agree.  But
+what we don't often see from our lofty towers of experience is that the
+majority of gamers are neither experienced or inclined towards role playing,
+as opposed to objective playing, (hack and slash).  The point system, as
+least as I have experienced it with Superworld and the Hero system, forces
+you to make a three dimensional character.  It forces you to define carefully
+a characters capabilities and more imporantly their personality.  Most point 
+based systems work on an overspend and correct with weaknesses system, this
+forces a characters with vulnerabilities, a less than "classic hero".  In
+conforming with the rules, the character is forced to role play.
+A truly nightmare like character can of course screw up any game system,
+but at least a point based system makes it more difficult.
+----------------------------------------------------------------------------
+
+Tuesday, 26 February 1991 22:09:42 UTC - New Wave Dave:
+Instead of buying difficult to analyze/detect, just buy invisible to
+detect magic for +1/2.
+New Wave Dave
+Damatt01@ulkyvx.bitnet
+----------------------------------------------------------------------------
+
+Wednesday, 27 February 1991 01:17:06 UTC - Chris Siebenmann:
+thor...@cs.umn.edu <> (David H. Thornley) writes:
+...
+| At a quick glance (corrections invited) the poverty disads seem to
+| preclude the character from holding a high-paying job, and not much
+| else.
+ I think that a lot of the problems with GURPS Povery/Wealth (and to
+some extent with Hero as well) is that they're trying to lump two
+things together: how much money the character starts the game with, and
+how much they earn in "offscreen" time. The two are vaguely related,
+but often not much for many adventuring parties, so you have problems.
+The relative worth of each is also highly campaign dependant. In a
+typical cyberkpunk or fantasy campaign initial wealth is quite
+important and offscreen earnings not very, since characters get heavy
+gains from equipping well and will be earning the majority of their
+income on-screen; in a horror campaign (especially with 'unprepared'
+characters), the reverse is true.
+
+--
+        "The WYSIWYG editors are easier to remember, primarily
+         because they don't do anything."
+                - daniel mocsny, talking about editor user interfaces
+c...@hawkwind.utcs.toronto.edu <>                   ...!{utgpu,utzoo,watmath}!utgpu!cks
+----------------------------------------------------------------------------
+
+Wednesday, 27 February 1991 04:16:17 UTC - Dennis Heffernan:
+In article <1991Feb26.1...@cs.umn.edu <>> thor...@cs.umn.edu <> (David H. Thornley) writes:
+|The question is not whether your friendly energy projector can defeat a
+|bunch of normals with guns.  The question is whether, having spent points
+|on windblasts/heat vision/green beams of force/whatever, he or she is
+|competitive with a brick who checked a .50 caliber machinegun out from
+|SHIELD or whoever and who is carrying it around as a sidearm.  This
+        In GURPS, that's about 12d.  That's pushing my campaign limit, but
+it's obtainable- it would cost 144 points, to be precise.  A 500 point
+character could purchase that and a decent set of skills, stats and "regular"
+advantages (145 points worth) and still have 316 points to burn on something
+else.  It's true that the brick didn't have to spend the 144 points.  It's also
+true that the blaster can pick up the SAME gun if he's of a mind to.  BOTH
+characters benefit from available technology.  But, characters who spend
+points on innate attack and defense powers will always have the advantage over
+characters who don't, simply from the fact that the latter can be easily
+deprived of their weapons.
+        The question is largely irrelevant though, because anyone who goes
+firing attacks like that around your average urban battlefield is going to 
+cause a few dozen civilian casualties, and thereby remove himself from the
+campaign.
+
+
+|is partly a matter of play balance, and partly a matter of genre: those
+|heros in the comic books who use weapons do it as part of their own
+|conception, and are not as powerful without them as the normally
+|weaponless heros.  Charging points for weapons reflects this quite well.
+        So does NOT charging points.  There are characters in my campaign
+who use "regular" weapons and armor instead of innate powers, having dumped
+their points into skills and stats, and if I take away their toys they can
+be killed by 25 point thugs with commercially-available laser pistols.
+In fact, most of them can't even stand up to true supers WITH their toys.  This
+is a Fact of Life in my campaign- if ordinary weapons could deal with supers,
+the government wouldn't tolerate them.  Leading us to...
+
+
+|Are you saying that supers games don't need reality warps?  If I had armored
+|skin and wind powers like my favorite Champions character, what are the
+|chances that (a) I would sew up an impressive costume and fly around
+|Minneapolis righting wrongs, (b) I would actually accomplish something
+|positive by doing so, and (c) the police would just let me do it?  Or
+|are you saying that the long-underwear brigade is just fine, but this
+|business of not forcing them to rely on their own conceptions has got to
+|go?  IMHO, the two things that a supers campaign should do are be fun
+|and keep a comic-book feel, and I think the Champions (*not* Hero)
+|restrictions contribute to both.
+        a) most supers in my campaign wear uniforms, not costumes, and
+are trained and licensed by the government and do not fly around cities
+at random, they work with the police, or as private investigators, or for
+security companies,
+
+        b) given that, they DO accomplish something positive,
+
+        c) see (a).
+
+        Comic-book reality can go to Hell.  If I wanted to play a "comic-
+book" campaign, I would use neither Champions nor GURPS, but TOON, which
+does a much better job at that genre than either.  (Well, I'd give some
+thought to Teenagers From Outer Space, too, but I think TOON would win out.)
+I believe it was H.G. Wells who said that the audience would accept one 
+fantastic element in your story but not two, meaning that things should
+progress logically from whatever differences you've introduced.  You admit
+the existence of supers, fine.  Why, then, are people all of a sudden 
+incapable of going to the gun store and buying a gun, unless they've
+kicked the requisite number of heads?  No reason.  
+        Currently, my campaign encompasses everything from a classic ninja
+using modern weapons to a hard-boiled Nightbreed detective to a sentient
+android with a HUGE machine gun to a half-demon cyberpunk with a healthy set
+of electrical powers to a decent brick without balance problems.  There's more
+to life than kicking ass, and there's more than one way to skin a cat.
+
+
+|
+|I have no problems enduring the ridiculous number crunching by the way
+|(personal taste), but I agree with you that Champions would not work
+|with the "heroic" equipment rules.
+        Were I to attempt to implement my campaign in Champions, I'd still
+be here next year trying to come up with the stats for the commercially
+available equipment in the campaign (mostly TL/8 stuff from GURPS Ultra-Tech
+and Cyberpunk).  And, if I made the weapons as deadly in Champions as they
+are in GURPS, it probably wouldn't work without using 400-500 point characters.
+I can hack the number crunching (calculators are cheap and readily available,
+and I've got a BIG one), but why bother re-inventing the wheel?
+
+
+dfra...@tronsbox.xei.com <>   ...uunet!tronsbox!dfrancis     GEnie: D.HEFFERNAN1
+------------------------------------------------------------------------------
+"I don't understand why you make such a big deal out of everything...haven't
+you learned; if it's not happenning to me it's not important?" -Murphy Brown
+----------------------------------------------------------------------------
+
+Wednesday, 27 February 1991 16:56:04 UTC - David H. Thornley:
+In article <14...@tronsbox.xei.com <>> dfra...@tronsbox.xei.com <> (Dennis Heffernan) writes:
+>In article <1991Feb26.1...@cs.umn.edu <>> thor...@cs.umn.edu <> (David H. Thornley) writes:
+>|The question is not whether your friendly energy projector can defeat a
+>|bunch of normals with guns.  The question is whether, having spent points
+>|on windblasts/heat vision/green beams of force/whatever, he or she is
+>|competitive with a brick who checked a .50 caliber machinegun out from
+>|SHIELD or whoever and who is carrying it around as a sidearm.  This
+>
+>[Point analysis, claim that blasters can pick up the same gun as the
+> bricks can, players who rely on technology can be deprived of it.]
+>        The question is largely irrelevant though, because anyone who goes
+>firing attacks like that around your average urban battlefield is going to 
+>cause a few dozen civilian casualties, and thereby remove himself from the
+>campaign.
+>
+However, the use of technology is one-sided, in that a brick can
+get a gun that makes him similar in effect to an energy projector,
+while the energy projector can't get much technological assistance
+in becoming a brick.  (Nor will a machine gun produce much more
+collateral damage than a team of superheros.  If the situation is
+such that you can't use a machine gun without endangering innocent
+citizens, the same is true of windblasts and force beams.  This is
+when heros actually have to *think*.)
+
+>|is partly a matter of play balance, and partly a matter of genre: those
+>|heros in the comic books who use weapons do it as part of their own
+>|conception, and are not as powerful without them as the normally
+>|weaponless heros.  Charging points for weapons reflects this quite well.
+>
+>        So does NOT charging points.  There are characters in my campaign
+>who use "regular" weapons and armor instead of innate powers, having dumped
+>their points into skills and stats, and if I take away their toys they can
+>be killed by 25 point thugs with commercially-available laser pistols.
+>In fact, most of them can't even stand up to true supers WITH their toys.  This
+>is a Fact of Life in my campaign- if ordinary weapons could deal with supers,
+>the government wouldn't tolerate them.  Leading us to...
+>
+>|[Superhero games need reality warps.]
+>|IMHO, the two things that a supers campaign should do are be fun
+>|and keep a comic-book feel, and I think the Champions (*not* Hero)
+>|restrictions contribute to both.
+>
+>        a) most supers in my campaign wear uniforms, not costumes, and
+>are trained and licensed by the government and do not fly around cities
+>at random, they work with the police, or as private investigators, or for
+>security companies,
+>
+>        b) given that, they DO accomplish something positive,
+>
+>        c) see (a).
+>
+>        Comic-book reality can go to Hell.  If I wanted to play a "comic-
+>book" campaign, I would use neither Champions nor GURPS, but TOON, which
+>does a much better job at that genre than either.  (Well, I'd give some
+>thought to Teenagers From Outer Space, too, but I think TOON would win out.)
+>I believe it was H.G. Wells who said that the audience would accept one 
+>fantastic element in your story but not two, meaning that things should
+>progress logically from whatever differences you've introduced.  You admit
+>the existence of supers, fine.  Why, then, are people all of a sudden 
+>incapable of going to the gun store and buying a gun, unless they've
+>kicked the requisite number of heads?  No reason.  
+>        Currently, my campaign encompasses everything from a classic ninja
+>using modern weapons to a hard-boiled Nightbreed detective to a sentient
+>android with a HUGE machine gun to a half-demon cyberpunk with a healthy set
+>of electrical powers to a decent brick without balance problems.  There's more
+>to life than kicking ass, and there's more than one way to skin a cat.
+>
+OK, here is the basic reason why we have been disagreeing.  I have been
+assuming that a superhero campaign will be a comic book campaign, and
+you are running a campaign based on the concept that certain individuals
+have become immensely more personally powerful than normal humans *in*
+*the* *real* *world*, something like the _Wild_Cards_ approach.  In
+the context of your campaign, you are right; in the context of the ones
+I am playing in, I believe I am right.
+BTW, I strongly disagree with you on the proper rules for a comic book
+campaign.  TOON was set up as a game of the Saturday morning cartoons
+on TV, while Champions and others were set up as games of comic books.
+I don't want to start an argument as to which is more realistic, but
+I will point out that they are unrealistic in considerably different
+ways.  Your dislike for the comic genre seems to impair your perception
+of it.
+
+It would have helped if you had made your dislike of comics campaigns
+and conventions clear from the start.  Objecting to the Champions
+equipment rule as unrealistic is like doing the same thing with the
+TOON rule that says a character may remain suspended in air until
+he/she/it/whatever makes an intelligence roll; the rules in question
+have no relation to reality, or any realistic campaign, but fit in
+very well with the sort of nonsense being simulated.  If you were
+using Champions or TOON as rules for a more realistic campaign,
+you would, of course, change the genre-specific rules, but there
+is no need to flame the rules in general.  Most rules have their
+place.  If you want to play a comics campaign, Champions does well.
+If you want to play another sort of campaign, AD&Dv2 will serve
+you well.  
+
+
+>|
+>|I have no problems enduring the ridiculous number crunching by the way
+>|(personal taste), but I agree with you that Champions would not work
+>|with the "heroic" equipment rules.
+>
+>        Were I to attempt to implement my campaign in Champions, I'd still
+>be here next year trying to come up with the stats for the commercially
+>available equipment in the campaign (mostly TL/8 stuff from GURPS Ultra-Tech
+>and Cyberpunk).  And, if I made the weapons as deadly in Champions as they
+>are in GURPS, it probably wouldn't work without using 400-500 point characters.
+>I can hack the number crunching (calculators are cheap and readily available,
+>and I've got a BIG one), but why bother re-inventing the wheel?
+>
+With some practice, figuring point values, etc., for equipment goes pretty
+fast in Hero, since you have to know what it will do in game terms anyway,
+and point value in Hero is based on the game terms.  You are correct in
+that your campaign conception will not work with normal-strength Champions
+superheros, and I suspect some features of Champions, like Speed, will
+not work well with characters that strong.
+Have fun with your games, and I'll have fun with mine.
+
+DHT
+----------------------------------------------------------------------------
+
+Wednesday, 27 February 1991 16:57:36 UTC - Brett Slocum:
+From s...@hpcndaw.CND.HP.COM <> (Steve Mullins) :
+> GURPS Grimoire?  What's this supposed to be?  An updated GURPS Magic?
+GURPS Grimoire is supposed to contain lots of magic-related material,
+such as optional rules, guild structures, new spells, modifications to 
+old spells, and different systems of doing things, such as Steffan's 
+"Improvised Magic as the Only Magic" article from Roleplayer. I submitted
+a Battle Magic college; I've seen some Tech magic college spells, such as 
+Control Computer, that looked good; etc.  Sounds like an interesting book.
+
+But don't expect it anytime soon.  It's not on the schedule yet.
+-- 
+Brett Slocum <slo...@ssdc.honeywell.com <>> 
+    or <uunet!ssdc.honeywell.com <http://ssdc.honeywell.com>!slocum>
+NOTICE: my address has changed!
+"Everyone is entitled to their own opinion. This one's mine, not my company's."
+----------------------------------------------------------------------------
+
+Thursday, 28 February 1991 04:25:29 UTC - Wayne Shaw:
+Dennis Hefferman:
+ 
+As a Side note, maybe damages were typically 7D6 in the Superworld 
+games you were in, but in the ones locally, they tended to average 
+five.  And defenses did NOT consistently stop a four die attack.
+ 
+Likewise, it should be noted that in your example, you use a 750 point 
+character.  Unless I misrecally, this is the top of the three ranges 
+GURPS suggests starting supers at--one so high that it either exceeds 
+most supers from the comics, or alternatively makes it far to easy 
+for a super to start with an attack that many others cannot rationally 
+start with a proportionate defense against (not all superbeings can 
+justify high levels of armor/invulnerability/force fields).
+ 
+I don't think you CAN make a Supers game that looks like the source 
+works without "cooking" it.  You may be able to make one look like 
+some particular sub set of it, but that isn't trying for the broad 
+approach, such as Champions did.  The simple fact is that in the comics 
+guns ARE potentially dangerous to a good number of people (Spider 
+Man, Daredevil, the Blue Beetle and Batman come to mind) yet relatively 
+few Supers carry guns, even those who are normally opponents of such. 
+Guns are also only the tip of the iceberg.  How about radios?  Ballistic 
+clother armor?  How about walking around you brick with a reinforced 
+concrete "staff' because it gives him that extra "heft"?  All of these 
+have some disadvantages over a power, but not enough to not make someone 
+who is not taking advantage of them in a game while someone else is 
+feel like an idiot. - show quoted text -
+
+
+--  
+Wayne Shaw
+Internet: Wayne...@ofa123.fidonet.org <>
+Compuserve: >internet:...@ofa123.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Thursday, 28 February 1991 04:38:18 UTC - Wayne Shaw:
+To Dave Lewis:
+ 
+I always just give varient amounts of information dependent on how 
+well the Percieve roll for the Detect goes.
+You are aware that you can buy Invisible Power Effects, Special Group, 
+aren't you? - show quoted text -
+
+
+--  
+Wayne Shaw
+Internet: Wayne...@ofa123.fidonet.org <>
+Compuserve: >internet:...@ofa123.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Thursday, 28 February 1991 04:50:10 UTC - Rex Jolliff:
+In article <8372.2...@zeus.unomaha.edu <>> pch...@zeus.unomaha.edu <> writes:
+>In article <14...@tronsbox.xei.com <>>, dfra...@tronsbox.xei.com <> (Dennis Heffernan) writes:
+>>         RE the potential mage "problem"
+>> 
+>>         If you have any Magery at all to begin with, you can buy it up later.
+>> (The Book doesn't explicitly say you can do this, but it does imply it, and
+>> it's been declared Official on SJG-BBS.) [ etc ... ]
+> 
+>Although I agree with this, the book does not say it, and having it
+>declared "official" on some BBS is totally irrelevant, because not
+>everyone has ready access to this source.  D+D had this problem with
+What!?! You mean that just because everybody hasn't received this
+piece of information that it is invalid.  That is ridiculous.
+Anything you want to add to the rules is `valid' because it says so.
+The rules are guidelines on how to play the games, not absolute rules.
+
+
+>but not everyone had access to.  As the game stands, it is not "legal"
+>and therefore takes special GM permission.  
+This sentence straightens things up a bit.  If you want to use any
+extensions to the rules then just ask the GM.  If he doesn't like it,
+you're out of luck.  However, I have seen problems with players coming
+up with new and interesting ways to twist the rules to make a
+character that is too powerful for the amount of points put into it.
+One of the players I used to know excelled in this.  You always had to
+give his character sheet the utmost scrutiny, and have him remove the
+ridiculous parts of the character (or design some way to `challenge'
+him.)  When CarWars was being played, he would come up with the most
+outragous bendings of the rules, like buying two vehicles, one real
+cheap and the other one with heavy armor and lots of cargo space.
+Then he would load the cargo vehicle completely with C4 (or some other
+nasty explosive) and drive it into the enemies vehicles destroying
+everying except the lousy vehicle that he kept in reserve. Of course
+timing is important here, but not too important.
+
+He finally got the hint and started asking the GM about anything that
+he knew would probably not pass.
+
+
+>Please do not use this kind of privledged and questionably legal knowledge.
+>It doesn't really help anything.
+Actually depending on the information it can help game play alot.
+Just make sure you ask the GM if he thinks it should be legal.
+
+                                                                Rex.
+
+-- 
+Rex Jolliff  (r...@otto.lvsun.com <>, {convex, texsun, mirror}!otto!rex)
+Teleguide/Hospitality Network  |Disclaimer:  The opinions and comments in
+Your In-Room Casino Cash Source| this article are my own and in no way
+          $$$$$$$$$$           | reflect the opinions of my employers.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Why are we letting the government drug propaganda get the best of us?
+----------------------------------------------------------------------------
+
+Thursday, 28 February 1991 13:15:28 UTC - Dennis Heffernan:
+In article <1991Feb27.1...@cs.umn.edu <>> thor...@cs.umn.edu <> (David H. Thornley) writes:
+|However, the use of technology is one-sided, in that a brick can
+|get a gun that makes him similar in effect to an energy projector,
+|while the energy projector can't get much technological assistance
+|in becoming a brick.  (Nor will a machine gun produce much more
+        BZZT!  Exoskeletons are commercially available in my campaign.  Granted
+they aren't as strong as a lot of bricks, but they're there.
+
+
+|collateral damage than a team of superheros.  If the situation is
+|such that you can't use a machine gun without endangering innocent
+|citizens, the same is true of windblasts and force beams.  This is
+|when heros actually have to *think*.)
+        BZZT!  Heroes throwing around 8d attacks will be a danger to anyone
+in the immediate area.  People (I refuse to call them heroes) firing machine
+guns will be a danger to anyone within HUNDREDS OF YARDS.  A Browning .50 cal
+has a 1/2 damage range of 1200 yards.  Ricochets will kill people on the other
+side of town!
+
+
+|OK, here is the basic reason why we have been disagreeing.  I have been
+|assuming that a superhero campaign will be a comic book campaign, and
+|you are running a campaign based on the concept that certain individuals
+|have become immensely more personally powerful than normal humans *in*
+|*the* *real* *world*, something like the _Wild_Cards_ approach.  In
+|the context of your campaign, you are right; in the context of the ones
+|I am playing in, I believe I am right.
+|
+|BTW, I strongly disagree with you on the proper rules for a comic book
+|campaign.  TOON was set up as a game of the Saturday morning cartoons
+|on TV, while Champions and others were set up as games of comic books.
+|I don't want to start an argument as to which is more realistic, but
+|I will point out that they are unrealistic in considerably different
+|ways.  Your dislike for the comic genre seems to impair your perception
+|of it.
+        BZZT!  I read comics to the tune of $15-20 a week.  This is mainstream
+stuff, too, not LOVE AND ROCKETS.
+        It just doesn't have any place in a game.
+
+
+|>        Were I to attempt to implement my campaign in Champions, I'd still
+|>be here next year trying to come up with the stats for the commercially
+|>available equipment in the campaign (mostly TL/8 stuff from GURPS Ultra-Tech
+|>and Cyberpunk).  And, if I made the weapons as deadly in Champions as they
+|>are in GURPS, it probably wouldn't work without using 400-500 point characters.
+|>I can hack the number crunching (calculators are cheap and readily available,
+|>and I've got a BIG one), but why bother re-inventing the wheel?
+|>
+|With some practice, figuring point values, etc., for equipment goes pretty
+|fast in Hero, since you have to know what it will do in game terms anyway,
+|and point value in Hero is based on the game terms.  You are correct in
+|that your campaign conception will not work with normal-strength Champions
+|superheros, and I suspect some features of Champions, like Speed, will
+|not work well with characters that strong.
+        I ran Champions for three years.  I know the pre-4th ed. rules inside
+and out; I know most of the 4th-ed stuff.
+
+
+dfra...@tronsbox.xei.com <>   ...uunet!tronsbox!dfrancis     GEnie: D.HEFFERNAN1
+------------------------------------------------------------------------------
+"I don't understand why you make such a big deal out of everything...haven't
+you learned; if it's not happenning to me it's not important?" -Murphy Brown
+----------------------------------------------------------------------------
+
+Thursday, 28 February 1991 16:37:57 UTC - David H. Thornley:
+In article <14...@tronsbox.xei.com <>> dfra...@tronsbox.xei.com <> (Dennis Heffernan) writes:
+>In article <1991Feb27.1...@cs.umn.edu <>> thor...@cs.umn.edu <> (David H. Thornley) writes:
+>|[Bricks can buy guns; energy projectors can't buy brick equipment.]
+>        BZZT!  Exoskeletons are commercially available in my campaign.  Granted
+>they aren't as strong as a lot of bricks, but they're there.
+In your campaign, OK.  In current technology, it would be easy to outfit
+guys with body armor and firearms, and make them into wimpy armored
+energy projectors (in Champions terms).  It would be a lot harder and
+a lot more expensive to make them into wimpy bricks.  I would suspect,
+though, that even in your campaign, a good exoskeleton is more expensive
+than a good gun.
+
+>
+>|[Machine guns aren't more dangerous to bystanders than heros are.]
+
+>
+>        BZZT!  Heroes throwing around 8d attacks will be a danger to anyone
+>in the immediate area.  People (I refuse to call them heroes) firing machine
+>guns will be a danger to anyone within HUNDREDS OF YARDS.  A Browning .50 cal
+>has a 1/2 damage range of 1200 yards.  Ricochets will kill people on the other
+>side of town!
+>
+Short-ranged hero attacks are an artifact of the rules systems.  Many
+energy projectors have attacks that should be as lethal at range as
+the corresponding machine gun.  Some, of course, don't.  BTW, you say
+that the .50 cal has a 1/2 damage range of 1200 yards; I assume this
+is some sort of lethality index.  If so, how will ricochets (which
+presumably will absorb some bullet energy - bullets and such aren't
+completely elastic) allow deaths 4-5 miles away (I live in a large town)?
+>|[Discussion on supers vs. comics campaigns.]
+
+>
+>        BZZT!  I read comics to the tune of $15-20 a week.  This is mainstream
+>stuff, too, not LOVE AND ROCKETS.
+>        It just doesn't have any place in a game.
+>
+OK, so I was mistaken when I referred to your obvious dislike for the
+comics genre.  I apparently wasn't when I referred to your obvious
+dislike of the comics campaign genre.
+I repeat:  If you are running a real-world campaign with superpowered
+individual, you are generally right (although I suggest you rethink
+the collateral damage of superheros - when a windblast equal in power
+to a whirlwind capable of lifting c. 800 tons hits a building, outside
+a comic book the effects will be devastating).  If you are running a
+comics campaign, I am probably right.
+
+You think that comics "reality" has no place in a game, but lots of
+people disagree and have fun doing so.  Your argument against the
+Hero restriction on supers buying equipment for cash makes perfect
+sense in your game, but the restrictio makes perfect sense in a
+comics campaign.  Therefore the argument is on the same level as
+"Magic doesn't exist" for a FRP campaign or "The physics is wrong"
+for a Space: 1889 campaign, and offers nothing to the discussion.
+
+DHT
+----------------------------------------------------------------------------
+
+Thursday, 28 February 1991 17:46:14 UTC - Steve Mullins:
+...
+>believe that this system can handle anything that Hero handles.  It will
+>probably be reprinted in the forthcoming GURPS Grimoire.
+GURPS Grimoire?  What's this supposed to be?  An updated GURPS Magic?
+
+>-- 
+
+>-Steffan O'Sullivan      s...@oz.plymouth.edu <>
+>----------
+St. Mullins
+----------------------------------------------------------------------------
+
+Thursday, 28 February 1991 22:12:35 UTC - Andrew Pearlman:
+In article <14...@tronsbox.xei.com <>> dfra...@tronsbox.xei.com <> (Dennis Heffernan) writes:
+>In article <1991Feb27.1...@cs.umn.edu <>> thor...@cs.umn.edu <> (David H. Thornley) writes:
+>|However, the use of technology is one-sided, in that a brick can
+>|get a gun that makes him similar in effect to an energy projector,
+>|while the energy projector can't get much technological assistance
+>|in becoming a brick.  (Nor will a machine gun produce much more
+>
+>        BZZT!  Exoskeletons are commercially available in my campaign.  Granted
+>they aren't as strong as a lot of bricks, but they're there.
+Three problems:  They should be *a lot* more expensive than conventional
+weaponry, probably on the order of a small jet aircraft.  They are nowhere as
+efficient as a brick getting a gun.  A brick carting along a gun isn't
+inhibited at all.  An energy projector destroys his suit with his energy
+attack.  Finally, which is a real critical problem, is the physics of this.
+In order to do more damage with a punch, you have to speed up the blow.  (this
+isn't normally a problem in Supers games, but you want realism).  Now either
+this exoskeleton is absolutely huge, so the wearer isn't connected to any
+limbs, which is absolutely awful in terms of disadvantages and drives the
+computer costs ungodly high or the wearer is connected.  Well, the human body
+is not designed, especially at the joints to take this.  You use the
+exoskeleton once and rip your arms off and/or destroy all the bones in your
+hand and/or give yourself massive hernias.  Some equalizer.
+
+
+>        BZZT!  I read comics to the tune of $15-20 a week.  This is mainstream
+>stuff, too, not LOVE AND ROCKETS.
+>        It just doesn't have any place in a game.
+Why not?  If you are willing to accept the discrepancies in the stuff you
+pay lots of money to read, why not put it in your game or one of your games?
+You also implied you would charge someone for something that they got at the
+beginning, but not something they picked up and kept.  Why?
+
+Andy Pearlman
+----------------------------------------------------------------------------
+
+Friday, 1 March 1991 03:33:14 UTC - Dennis Heffernan:
+|In your campaign, OK.  In current technology, it would be easy to outfit
+|guys with body armor and firearms, and make them into wimpy armored
+|energy projectors (in Champions terms).  It would be a lot harder and
+|a lot more expensive to make them into wimpy bricks.  I would suspect,
+|though, that even in your campaign, a good exoskeleton is more expensive
+|than a good gun.
+        Depends on what your definition of a good gun is.  Personally, I
+don't consider anything less than gauss needlers and military lasers to be
+"good", and they cost quite a bit.  My players have some perverse love of 
+"primitive" chemical slugthrowers, though.  I've never gotten a clear reason
+why out of any of them.  The exoskeletons are expensive, though.
+        In any case, it doesn't matter since anyone who wants to toss things
+around is much better off buying Telekinesis than ST.
+
+
+|Short-ranged hero attacks are an artifact of the rules systems.  Many
+|energy projectors have attacks that should be as lethal at range as
+|the corresponding machine gun.  Some, of course, don't.  BTW, you say
+        Why?  Hitting power does not necessarily equate to range, even among
+guns.  Since super-powered energy blasts aren't real, you can crock them
+any way you like, as long as you're consistent in your handling of the effects.
+
+
+|that the .50 cal has a 1/2 damage range of 1200 yards; I assume this
+|is some sort of lethality index.  If so, how will ricochets (which
+|presumably will absorb some bullet energy - bullets and such aren't
+|completely elastic) allow deaths 4-5 miles away (I live in a large town)?
+        Alright, four miles is a bit much.  But in GURPS, 3d will put you in
+the hospital easily and 4d can kill.
+
+
+|I repeat:  If you are running a real-world campaign with superpowered
+|individual, you are generally right (although I suggest you rethink
+|the collateral damage of superheros - when a windblast equal in power
+|to a whirlwind capable of lifting c. 800 tons hits a building, outside
+|a comic book the effects will be devastating).  If you are running a
+|comics campaign, I am probably right.
+        Wind Blasts don't have lifting power; they just do damage.  However
+much you bought, to be precise.  I've never heard of a whirlwind lifting
+an 800-ton object, but I'm pretty sure that it would do more damage than any
+PC could afford. 
+        In any case, the point is not how much damage you do, but over what
+kind of area the damage is going to be done.  BlowHard may knock in the side
+of a building with his awesome wind blast, but by this point everyone's probably
+run for their lives.  (And it's gonna have to be one hell of a wind blast, too-
+things in GURPS don't break easy.)  Even so, it is *expected* that he will
+cause collateral damage.  No one would expect a battle with a supervillain to
+leave the neighborhood in pristine condition (on the other hand, it's Bad to
+throw attacks like that at normal criminals).  But if some Rambo wannabe
+cuts loose with a huge gun, he's gonna kill people who don't even know that
+there's a fight on, hundreds of yards away.  This is inexcusable.
+
+
+|You think that comics "reality" has no place in a game, but lots of
+|people disagree and have fun doing so.  Your argument against the
+|Hero restriction on supers buying equipment for cash makes perfect
+|sense in your game, but the restrictio makes perfect sense in a
+|comics campaign.  Therefore the argument is on the same level as
+|"Magic doesn't exist" for a FRP campaign or "The physics is wrong"
+|for a Space: 1889 campaign, and offers nothing to the discussion.
+        Wrong.  The restriction does not make sense, because it requires
+limiting the way the players can play their characters.  The existence
+of magic in an FRP campaign, or the physics of _Space: 1889_, does not restrict
+the character's actions, except insofar as such things affect all occupants
+of those universes.  Telling a martial artist he can't buy a pistol, or a 
+Rich Industrialist With Powered Armor that he doesn't own a car because he 
+didn't pay points for it, is just plain wrong.  This goes for all of the 
+sillyness one finds in comic books; villains always make long-winded speeches
+spelling out their plans in case the heroes escape, "deathtraps", heroes
+who *never* use lethal force no matter what's at stake, governments letting 
+costumed psychopaths roam the streets at will dispensing "justice", high
+technology that never changes the world at large...these things are not just
+changed laws of physics or the like; they require that people, including the
+PC's, have brain damage.  This is not acceptable.
+
+        As for whether or not people have fun doing it...lots of people have
+fun taking drugs.  Doesn't mean they're right.
+
+
+dfra...@tronsbox.xei.com <>    Dennis Francis Heffernan        GEnie: D.HEFFERNAN1
+------------------------------------------------------------------------------
+"Look...I sympathize with your problem, but all things considered, I'd rather 
+talk about me."  --Murphy Brown
+----------------------------------------------------------------------------
+
+Saturday, 2 March 1991 13:14:27 UTC - Dennis Heffernan:
+In article <2636.2...@ofa123.fidonet.org <>> Wayne...@ofa123.fidonet.org <> (Wayne Shaw) writes:
+|Dennis Hefferman:
+        That's HefferNan.
+
+
+| 
+|As a Side note, maybe damages were typically 7D6 in the Superworld 
+|games you were in, but in the ones locally, they tended to average 
+|five.  And defenses did NOT consistently stop a four die attack.
+        Since you were limited to half your Power stat in dice of damage,
+and since 13-14 was the average Power, 7d became the average attack.
+
+
+| 
+|Likewise, it should be noted that in your example, you use a 750 point 
+|character.  Unless I misrecally, this is the top of the three ranges 
+|GURPS suggests starting supers at--one so high that it either exceeds 
+|most supers from the comics, or alternatively makes it far to easy 
+|for a super to start with an attack that many others cannot rationally 
+|start with a proportionate defense against (not all superbeings can 
+|justify high levels of armor/invulnerability/force fields).
+        You can't build many comic characters at 750.  1000 is more like it.
+Things in GURPS are much more expensive than they are in Hero...  A
+character who can't justify a high level of defense does one of two things
+in ANY version of GURPS Supers:  wears artificial armor or dies.  There
+are two such characters in my campaign currently.  (Of course, one of them is
+ALREADY dead, but I don't hold that against him...)
+
+
+| 
+|I don't think you CAN make a Supers game that looks like the source 
+|works without "cooking" it.  You may be able to make one look like 
+|some particular sub set of it, but that isn't trying for the broad 
+|approach, such as Champions did.  The simple fact is that in the comics 
+        A) the source is not worth emulating and b) Champions' "broad approach"
+doesn't encompass my campaign conception.  
+
+
+|guns ARE potentially dangerous to a good number of people (Spider 
+|Man, Daredevil, the Blue Beetle and Batman come to mind) yet relatively 
+|few Supers carry guns, even those who are normally opponents of such. 
+|Guns are also only the tip of the iceberg.  How about radios?  Ballistic 
+|clother armor?  How about walking around you brick with a reinforced 
+|concrete "staff' because it gives him that extra "heft"?  All of these 
+|have some disadvantages over a power, but not enough to not make someone 
+|who is not taking advantage of them in a game while someone else is 
+|feel like an idiot. 
+        As well he should he feel like an idiot, and doubly so for playing a 
+game that forces him to be one.  (The concrete staff trick is cute, but not
+worth it; you wouldn't do that much more damage with it.  As for the guns,
+supers registered with the government are REQUIRED to carry a gun, regardless
+of their powers.  And "guns" in my campaign means hi-tech gyrojets, gauss
+needlers and lasers.)
+
+
+dfra...@tronsbox.xei.com <>   ...uunet!tronsbox!dfrancis     GEnie: D.HEFFERNAN1
+------------------------------------------------------------------------------
+"I don't understand why you make such a big deal out of everything...haven't
+you learned; if it's not happenning to me it's not important?" -Murphy Brown
+----------------------------------------------------------------------------
+
+Saturday, 2 March 1991 18:22:09 UTC - Andrew Pearlman:
+In article <14...@tronsbox.xei.com <>> dfra...@tronsbox.xei.com <> (Dennis Heffernan) writes:
+>        Wrong.  The restriction does not make sense, because it requires
+>limiting the way the players can play their characters.  The existence
+>of magic in an FRP campaign, or the physics of _Space: 1889_, does not restrict
+>the character's actions, except insofar as such things affect all occupants
+>of those universes.  Telling a martial artist he can't buy a pistol, or a 
+>Rich Industrialist With Powered Armor that he doesn't own a car because he 
+>didn't pay points for it, is just plain wrong.  This goes for all of the 
+>sillyness one finds in comic books; villains always make long-winded speeches
+>spelling out their plans in case the heroes escape, "deathtraps", heroes
+>who *never* use lethal force no matter what's at stake, governments letting 
+>costumed psychopaths roam the streets at will dispensing "justice", high
+>technology that never changes the world at large...these things are not just
+>changed laws of physics or the like; they require that people, including the
+>PC's, have brain damage.  This is not acceptable.
+You are making two points, one about Champions and one about Comics.
+Champions: Pay the points in the first place so as to be able to pick up a
+pistol.  If you wanted one in the first place, why didn't you buy it in the
+first place.  Most people tend to be rather certain about what they will do
+if they have some time to think before getting into a combat situation.  If
+your Martial Artist wants to go pick up a gun, obviously the character, if
+walking around normally, is probably going to want a gun in the first place.
+So, just pay the points in the first place.  Small to Large Gadget Pool if
+you want to keep changing your mind.
+
+Comics:
+If you have Superpowers appear, the U.S. government is going to be able to
+do *very* little.  It is one thing to hit a slow-moving(relatively) opponent.
+It is another thing entirely to hit a person-sized object that moves as fast
+as helicopter with more manuverbility.  Also, the government, unless it wants
+to break half the constitutional laws, can't draft supertypes over normals,
+can't offer more money to Supers than normals, and if you have a major
+'villain' problem, what do you do?  You need to stop the problem, obviously,
+but how exactly do you go about doing it without shredding the constitution
+in the process.
+
+The answer?(dunno, but this sounds about right): I don't think you can.  The
+choice then becomes how little damage can you do.  Citizen arrest works
+almost as is.  Draft/Recruiting of Supertypes can cause problems ranging from
+Discrimination all the way upto Genocide(if there is a very high body count)
+
+Probably the best the government can actually hope for, is to start up liasons
+with well-behaved supers, give them free training if asked, pay various bills
+within reason, and hope to recruit them of their own free will.  Make any
+superpower a lethal weapon, so any crime committed becomes a felony.  If a
+"hero" steps too far out of line, take him aside and explain that something
+will have to be done soon, if he keeps doing it.
+
+Lethal Force: I know several people who if they got 'powers' and for some
+reason decided to stop people abusing their powers, would *never* use lethal
+force if possible.  Also, this really isn't a very common feature of the
+comics anymore, just heroes don't tend to kill people and don't think:"Why
+if I use more force, I'll kill him" very often.
+
+Andy Pearlman
+----------------------------------------------------------------------------
+
+Sunday, 3 March 1991 22:05:45 UTC - David H. Thornley:
+In article <14...@tronsbox.xei.com <>> dfra...@tronsbox.xei.com <> (Dennis Heffernan) writes:
+>|[Guns are cheaper than exoskeletons.]
+>[Guns and exoskeletons of comparable power are of comparable cost.]
+>
+>|[Heros with energy projection are as dangerous to civilians as
+>| heros with guns.]
+>[No, here's why.]
+>|
+>|I repeat:  If you are running a real-world campaign with superpowered
+>|individual, you are generally right (although I suggest you rethink
+>|the collateral damage of superheros - when a windblast equal in power
+>|to a whirlwind capable of lifting c. 800 tons hits a building, outside
+>|a comic book the effects will be devastating).  If you are running a
+>|comics campaign, I am probably right.
+>
+>        Wind Blasts don't have lifting power; they just do damage.  However
+>much you bought, to be precise.  I've never heard of a whirlwind lifting
+>an 800-ton object, but I'm pretty sure that it would do more damage than any
+>PC could afford. 
+>        In any case, the point is not how much damage you do, but over what
+>kind of area the damage is going to be done.  BlowHard may knock in the side
+>of a building with his awesome wind blast, but by this point everyone's probably
+>run for their lives.  (And it's gonna have to be one hell of a wind blast, too-
+>things in GURPS don't break easy.)  Even so, it is *expected* that he will
+>cause collateral damage.  No one would expect a battle with a supervillain to
+>leave the neighborhood in pristine condition (on the other hand, it's Bad to
+>throw attacks like that at normal criminals).  But if some Rambo wannabe
+>cuts loose with a huge gun, he's gonna kill people who don't even know that
+>there's a fight on, hundreds of yards away.  This is inexcusable.
+>
+Right, a battle breaks out and *everybody*, including the people on the
+phone and the john, gets out of the building before the side gets caved
+in by a windblast.  If you want a comic-book campaign, civilians rarely
+get killed in battles of supers.  If you want a realistic campaign with
+supers, get real.  If a battle breaks out in a populated area, people are
+going to die in great numbers regardless of whether energy beams or
+guns are in use.  In some respects, a joker with a heavy machine gun is
+preferable; people die all over the neighborhood, but he is *much* less
+likely to kill large numbers of people than the guy who accidentally
+blasts all the glass in one side of an office building into lethal
+splinters.
+
+>|You think that comics "reality" has no place in a game, but lots of
+>|people disagree and have fun doing so.  Your argument against the
+>|Hero restriction on supers buying equipment for cash makes perfect
+>|sense in your game, but the restrictio makes perfect sense in a
+>|comics campaign.  Therefore the argument is on the same level as
+>|"Magic doesn't exist" for a FRP campaign or "The physics is wrong"
+>|for a Space: 1889 campaign, and offers nothing to the discussion.
+>
+>        Wrong.  The restriction does not make sense, because it requires
+>limiting the way the players can play their characters.  The existence
+>of magic in an FRP campaign, or the physics of _Space: 1889_, does not restrict
+>the character's actions, except insofar as such things affect all occupants
+>of those universes.  Telling a martial artist he can't buy a pistol, or a 
+>Rich Industrialist With Powered Armor that he doesn't own a car because he 
+>didn't pay points for it, is just plain wrong.  This goes for all of the 
+>sillyness one finds in comic books; villains always make long-winded speeches
+>spelling out their plans in case the heroes escape, "deathtraps", heroes
+>who *never* use lethal force no matter what's at stake, governments letting 
+>costumed psychopaths roam the streets at will dispensing "justice", high
+>technology that never changes the world at large...these things are not just
+>changed laws of physics or the like; they require that people, including the
+>PC's, have brain damage.  This is not acceptable.
+>
+In other words, comics campaigns are not acceptable because they restrict
+the way people play their characters.  (Actually, comics campaigns insist
+that people design their characters as to how they intend to play them
+- if you intend to fight with a gun, you design the character that way.)
+The only "restriction" is on allowing characters to change their mind
+later, and that also appears in such disadvantages as psychological
+limitations, friends and loved ones, and so on.
+But what I find to be the height of arrogance is telling the net.world
+that *all* campaigns *have* to be run as you see fit, and that there
+is an entire genre of RPG that is "not acceptable" because of this.
+If you are not willing to accept the fact that people have different
+ideas of role-playing, please unsubscribe to this newsgroup, or at
+least refrain from posting until you can understand others better.
+
+
+>        As for whether or not people have fun doing it...lots of people have
+>fun taking drugs.  Doesn't mean they're right.
+>
+Are you merely being inane, or are you comparing comics RPG campaigns
+to crack and heroin?  Would you rather a friend of yours was smoking
+crack or playing Champions?  Or are you merely saying that everybody
+who plays RPGs that are "not acceptable" is not only misled but
+morally wrong?
+DHT
+----------------------------------------------------------------------------
+
+Monday, 11 March 1991 21:01:19 UTC - Wayne Shaw:
+Dennis:
+ 
+While usuually I find your posts thoughtful and rational, all you've 
+been doing on this one is playing the dozens; you consisently insist 
+that the genera the system was designed to to simulate is not worth 
+simulating, and apparently expect the rest of us to acknowledge the 
+rightness of your position.
+Guess what?  We won't.
+And as long as we don't, your argument only holds up even partially 
+in quasi-Wild Cards type "realistic" supers campaigns, and not fully 
+even there.
+Arguing that Champions should not have done things the way they did 
+by your criteria is to argue that effectively, the game shouldn't 
+exist.  Any genre has conventions; if you don't design your game to 
+reflect them when setting up a system for a genre, you have effectively 
+failed in it's purpose.
+Arguing that a hammer is a failure because it doesn't drive screws 
+and you hate nails is idiotic. - show quoted text -
+
+
+--  
+Wayne Shaw
+Internet: Wayne...@ofa123.fidonet.org <>
+Compuserve: >internet:...@ofa123.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Wednesday, 13 March 1991 07:40:46 UTC - Dennis Heffernan:
+In article <2723.2...@ofa123.fidonet.org <>> Wayne...@ofa123.fidonet.org <> (Wayne Shaw) writes:
+|Arguing that Champions should not have done things the way they did 
+|by your criteria is to argue that effectively, the game shouldn't 
+|exist.  Any genre has conventions; if you don't design your game to 
+|reflect them when setting up a system for a genre, you have effectively 
+|failed in it's purpose.
+        The game shouldn't exist.  The genre is about as worthy of roleplaying
+as your average soap opera (and I'm sure we all remember SPI's DALLAS, eh?)
+
+
+|Arguing that a hammer is a failure because it doesn't drive screws 
+|and you hate nails is idiotic. 
+        If Champions were a hammer, it wouldn't even drive nails.
+----------------------------------------------------------------------------
+
+Wednesday, 13 March 1991 15:03:17 UTC - David H. Thornley:
+In article <14...@tronsbox.xei.com <>> dfra...@tronsbox.xei.com <> (Dennis Heffernan) writes:
+>In article <2723.2...@ofa123.fidonet.org <>> Wayne...@ofa123.fidonet.org <> (Wayne Shaw) writes:
+>|Arguing that Champions should not have done things the way they did 
+>|by your criteria is to argue that effectively, the game shouldn't 
+>|exist.  Any genre has conventions; if you don't design your game to 
+>|reflect them when setting up a system for a genre, you have effectively 
+>|failed in it's purpose.
+>
+>        The game shouldn't exist.  The genre is about as worthy of roleplaying
+>as your average soap opera (and I'm sure we all remember SPI's DALLAS, eh?)
+>
+Don't leave us in suspense...post the authorized list of genres worthy
+of roleplaying.  Obviously, by your standards, a genre can't be worthy
+of roleplaying just because people roleplay it.
+DHT
+----------------------------------------------------------------------------
+
+Wednesday, 13 March 1991 18:59:43 UTC - GALACTIC COMMANDER:
+In article <14...@tronsbox.xei.com <>> dfra...@tronsbox.xei.com <> (Dennis Heffernan) writes:
+>
+>        The game shouldn't exist.  The genre is about as worthy of roleplaying
+>as your average soap opera (and I'm sure we all remember SPI's DALLAS, eh?)
+>
+>
+>        If Champions were a hammer, it wouldn't even drive nails.
+Oh boy have the loonies come out to play this week!!!  The high schools
+must be letting the kiddies play with the system again.  Hopefully this
+will be short and to the point (but no promises!):
+
+If Supers genre wasn't worthy to be role-played then HERO champs system
+would not survive to the 4th edition.
+
+If Champs was such a bad system then it would not have made it past the
+1st edition black&white version.
+
+If no one liked the supers genre why do comics (not a great media, but a
+workable one) based on super heroes outsell all others combined [I spent
+two summers cataloging and data entry for a local comic book store that
+needed the help on their new system].
+
+Finally if HERO is a bad system and Supers is a bad medium for
+role-playing then tell me why ICE has had the largest increase in sales
+the last two years (over any other role-playing game company), and the
+largest net profit last year (these are facts that you can pick up at
+your nearest library).
+
+
+
+
+                           //---\\
+                   _____---=======---_____
+               ====____\   /.. ..\   /____====
+             //         ---\__O__/---         \\
+             \_\                             /_/
+
+
+****************************************************************
+****                        *****                           ****
+****  Elwood H Dunning III  *****  Damn the Prime Directive ****
+****                        *****                           ****
+****   GALACTIC COMMANDER   *****   Let's do some killing   ****
+****                        *****                           ****
+****************************************************************
+----------------------------------------------------------------------------
+
+Wednesday, 13 March 1991 20:15:32 UTC - Charles K Hughes:
+*****************  WHEEEEEEEEEEEEEEEEEEEEEEEEE  ***********************
+*****************  Everyone to the Starting GATE! *********************
+*****************  Positions PUHLEASE!          ***********************
+*****************  The SEMI-ANNUAL BEST GAME    ***********************
+*****************  SYSTEM FLAME-FEST IS ABOUT   ***********************
+*****************      to  BEGIN                ***********************
+
+- show quoted text ->In article <14...@tronsbox.xei.com <>> dfra...@tronsbox.xei.com <> (Dennis Heffernan)
+> writes:
+>>In article <2723.2...@ofa123.fidonet.org <>> Wayne...@ofa123.fidonet.org <> (W
+>ayne Shaw) writes:
+>>|Arguing that Champions should not have done things the way they did 
+>>|by your criteria is to argue that effectively, the game shouldn't 
+>>|exist.  Any genre has conventions; if you don't design your game to 
+>>|reflect them when setting up a system for a genre, you have effectively 
+>>|failed in it's purpose.
+>>
+>>        The game shouldn't exist.  The genre is about as worthy of roleplaying
+>>as your average soap opera (and I'm sure we all remember SPI's DALLAS, eh?)
+>>
+>Don't leave us in suspense...post the authorized list of genres worthy
+>of roleplaying.  Obviously, by your standards, a genre can't be worthy
+>of roleplaying just because people roleplay it.
+  AD&D Second Edition, of course!
+
+>
+>DHT
+
+
+  Please add a few million smileys at various points in this message! :)
+
+Charles_...@cup.portal.com <>
+----------------------------------------------------------------------------
+
+Wednesday, 13 March 1991 20:40:32 UTC - Bob Simpson:
+> dfra...@tronsbox.xei.com <> (Dennis Heffernan) writes:
+> [Champions] shouldn't exist.  The genre is about as worthy of roleplaying
+> as your average soap opera (I'm sure we all remember SPI's DALLAS, eh?)
+So this is a religious issue?
+
+Champions isn't a good game because you don't like what is simulates?  If you
+don't like the source material, don't like the system and (more importantly)
+don't use it what are you hoping to contribute to the discussion?
+
+And, yes, I remember the Dallas game.  The mechanics were trivial, but the game
+was loads of fun.  We found the system quite useful to model several "off
+camera" relationships in a fantasy game.
+--
+Bob Simpson <sim...@parc.xerox.com <>>
+Planet Ten Comics and Games
+1221-C Kentwood Ave. (@ Saratoga-Sunnyvale); San Jose, CA 95129
+(408)973-0220
+
+I think not.  -- Descartes' last words

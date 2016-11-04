@@ -1,0 +1,295 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/TkgYjxS0vFQ
+TITLE: Other Suns : 10 
+
+----------------------------------------------------------------------------
+
+Thursday, 4 October 1990 17:26:02 UTC+1 - John Redden:
+------------------ OS.10 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero.  This gaming material is
+distributed on a shareware basis.  If you do not use the material you
+owe the author nothing.  If you do use it please pay him what you
+think it is worth at a fair price becasue it took a damn lot of work
+to develop and playtest.  The USmail address is:
+
+Niall Shapero
+2536 Short Ave
+Los Angeles CA 90066
+USA
+
+Those of you with modems can dial into his BBS using this phone number:
+(213)822-6729
+
+Please email any comments to my electronic mailing address and I will
+pass them on to Niall.
+
+----------------  end of preamble -------------------------------------------
+
+             A BRIEF HARASHAN VOCABULARY (PART 1 OF 3)
+
+Dokariss       The name given the smaller of the  non-belligerent 
+               starfaring  ovoid  creatures discovered  to  date. 
+               Equivalent  to calling a sea-going ship "The  Dol-
+               phin".   Humans  refer to the dokariss  as  "space 
+               dolphins".
+
+Kirisi         Starskimmer.
+
+T'Tarlich      Tail-tickler.   Refers to anything/one that  might 
+               be  used for scratching/tickling the upper surface 
+               of  the  tail base,  or to anything/one  doing  so 
+               currently.
+
+T'Tarlechen    Tail-tickler.  Refers to that which might be  used 
+               for tickling what lies beneath the tail.   Usually 
+               reserved  for inanimate objects (sometimes used in 
+               a derogatory form in referring to certain males).
+
+Tarlechen      Specific form of T'Tarlechen:  a dildo.
+
+Tartelchen     Lover.
+
+Sirichanlen    Literally,  "rider".   A somewhat coarser term for 
+               sexual  partner/lover  than  tartelchen,  commonly 
+               used  when  there is little or no  emotional  bond 
+               with the individual.
+
+Ishardri       Literally "partner".   Used with a business assoc-
+               iate of long standing.  Also used with a permanent 
+               or near permanent lover.
+
+Shidra-Ko      Ship-sister.  Used among L'Drey females all from a 
+               single ship.   Equivalent to "countryman" or "fel-
+               low citizen".   An honorific commonly used between 
+               equals.
+
+Sidar-Ko       "Freelady".   Honorific commonly used male to  fe-
+               male  (subordinate to superior).   A superior male 
+               would most like use Shidra-Ko (ship-sister) with a 
+               subordinate female instead.
+
+Shidra-Kas     Ship-sisters.  Indefinite number.
+
+Shidra-Kan     Ship-brother.  Used female to male.  Not typically 
+               used  subordinate  to superior (female  form  used 
+               instead by subordinate -- even if the superior  is 
+               male).  Most commonly used male-to-male.  Archaic.
+
+Shidra         Ship, singular.
+Shirdan        Ships, plural, unassociated, number uncertain.
+
+Sokanshird     One who is without a ship (polite form).   Used to 
+               describe  one  of the shipborne who  is  currently 
+               without  an independent starcraft.   Commonly used 
+               for (but not limited to) unemployed shipborne.
+
+Sokanshiirda   One  who  is forever without a ship.  Used to  de-
+               scribe one of the shipborne who has been exiled by 
+               her homeship.
+
+Shidrala       Ships,  plural, associated in some fashion, number 
+               uncertain.
+
+Shidran        Ships, plural, unassociated, number known.  Always 
+               accompanied by an numeric modifier, as in Shidran-
+               Tan (six ships).
+
+Shidra-Lach    "Master of ship"/Captain.  Most Senior Officer.
+
+Shidra-Sa      "Master of ship".  Owner.  May also be captain.
+
+Shidra-Salach  "Master and owner aboard".  VERY much V.I.P.
+
+Obvious  extensions of the above with  Shidran  (Shidran-Tan-Lach 
+for  six ship force commander,  Shidran-Tan-Sa for owner of a six 
+ship fleet,  and Shidran-Tan-Salach for owner and senior  officer 
+of a six ship fleet).
+
+
+Numbers
+
+               Nom       Zero
+   Akas      One            Sasvel    Thirty-two
+   Mirn      Two            Lirvel    Forty
+   Kol       Three          Tanvel    Forty-eight
+   Sas       Four           Kalvel    fifty-six
+   Lir       Five           Akasron   sixty-four
+   Tan       Six            Mirnron   one hundred twenty-eight
+   Kal       Seven          etc...
+   Akasvel   Eight          Akaslo    five hundred twelve
+   Mirnvel   Sixteen        Mirnlo    one thousand twenty-four
+   Kolvel    Twenty-four    etc...
+         Akasvan   four thousand ninety-six
+         Mirnvan   eight thousand one hundred ninety-two
+         etc...
+
+Numeric Suffixes and their values
+
+         vel x          8              tal x     32,768
+         ron x         64              tan x    262,144
+         lo  x        512              ral x  2,097,152
+         van x      4,096              an  x 16,777,216
+
+Adding  k- to the suffix means "approximately",  as in "akaskvel" 
+which means, "roughly eight" (i.e. might be seven, might be nine, 
+slight  possibility  of  six  or  even  ten).   Somewhat  context 
+dependent.   For  example,  "mirnklo" might mean  either  roughly 
+1,024  (plus  or minus two or three) or it might be used for  any 
+number  between  akaslo (512) and kollo  (1,536)  depending  upon 
+context.
+
+Like their Altani cousins, the L'Drey use a base 8 number system.
+
+Shirandal      Ships,  plural,  refers  to a coordinated group of 
+               ships (as in a squadron or fleet).   Number may or 
+               may not be specified.
+
+Shirdan-Kas    Ship-sisters  of  many  ships  gathered  together, 
+               number of ships and number of individuals unspeci-
+               fied,  unassociated  in  any fashion save that  of 
+               their membership in the L'Dreyan race.
+
+Shidran-Kas    "The  sisterhood  of the ships:  the  people,  and 
+               their ships".   Or,  more loosely,  the shipborne, 
+               taken  as a whole.   The L'Dreyan name  for  them-
+               selves as a race.
+
+Sok'Nashir     One  who  is without a ship  throughout  life.   A 
+               ground  hugger.   The polite term  for  non-L'Drey 
+               (frequently  used to refer to Altani in  the  more 
+               polite official L'Dreyan documents).
+
+Salshirn       Groundling.   Coarse form.  Commonly used to refer 
+               to  Altani only.   Derogatory term.   Not used  in 
+               polite company.
+
+Salshrina      Groundling.  Referring to non-Altani. Polite form.
+
+Sish'Raina     Groundling.   Also used to refer to any sheep that 
+               is asking/needs to be fleeced.
+
+
+Numbers
+
+               Nom       Zero
+   Akas      One            Sasvel    Thirty-two
+   Mirn      Two            Lirvel    Forty
+   Kol       Three          Tanvel    Forty-eight
+   Sas       Four           Kalvel    fifty-six
+   Lir       Five           Akasron   sixty-four
+   Tan       Six            Mirnron   one hundred twenty-eight
+   Kal       Seven          etc...
+   Akasvel   Eight          Akaslo    five hundred twelve
+   Mirnvel   Sixteen        Mirnlo    one thousand twenty-four
+   Kolvel    Twenty-four    etc...
+         Akasvan   four thousand ninety-six
+         Mirnvan   eight thousand one hundred ninety-two
+         etc...
+
+Numeric Suffixes and their values
+
+         vel x          8              tal x     32,768
+         ron x         64              tan x    262,144
+         lo  x        512              ral x  2,097,152
+         van x      4,096              an  x 16,777,216
+
+Adding  k- to the suffix means "approximately",  as in "akaskvel" 
+which means, "roughly eight" (i.e. might be seven, might be nine, 
+slight  possibility  of  six  or  even  ten).   Somewhat  context 
+dependent.   For  example,  "mirnklo" might mean  either  roughly 
+1,024  (plus  or minus two or three) or it might be used for  any 
+number  between  akaslo (512) and kollo  (1,536)  depending  upon 
+context.
+
+Like their Altani cousins, the L'Drey use a base 8 number system.
+
+Shirandal      Ships,  plural,  refers  to a coordinated group of 
+               ships (as in a squadron or fleet).   Number may or 
+               may not be specified.
+
+Shirdan-Kas    Ship-sisters  of  many  ships  gathered  together, 
+               number of ships and number of individuals unspeci-
+               fied,  unassociated  in  any fashion save that  of 
+               their membership in the L'Dreyan race.
+
+Shidran-Kas    "The  sisterhood  of the ships:  the  people,  and 
+               their ships".   Or,  more loosely,  the shipborne, 
+               taken  as a whole.   The L'Dreyan name  for  them-
+               selves as a race.
+
+Sok'Nashir     One  who  is without a ship  throughout  life.   A 
+               ground  hugger.   The polite term  for  non-L'Drey 
+               (frequently  used to refer to Altani in  the  more 
+               polite official L'Dreyan documents).
+
+Salshirn       Groundling.   Coarse form.  Commonly used to refer 
+               to  Altani only.   Derogatory term.   Not used  in 
+               polite company.
+
+Salshrina      Groundling.  Referring to non-Altani. Polite form.
+
+Sish'Raina     Groundling.   Also used to refer to any sheep that 
+               is asking/needs to be fleeced.
+
+                      (Continued in next message)
+
+From:    Nicolai Shapero                          
+To:      All                                      Msg #260, 20-Nov-89 20:41pm
+Subject: Harashan Vocabulary (Part 3 of 3)
+
+             A BRIEF HARASHAN VOCABULARY (PART 3 OF 3)
+
+There  are a number of words relating to sexual availability  and 
+current  relations  that the L'Drey have added  to  the  original 
+Harashan language; some of these follow:
+
+Particle meanings
+
+              -Ko female          -nom unavailable
+              -Kan male           -an  available
+
+Stem meanings
+
+                       Ishar-    partnered
+                     Isharni-  non-partnered
+                   Isharpa-  sort-of attached
+
+Resultant compound words
+
+Isharkonom     Female, partnered, unavailable.
+Isharkoan      Female, partnered, available.
+Isharkannom    Male, partnered, unavailable.
+Isharkanan     Male, partnered, available.    
+Isharnikonom   Female, non-partnered, unavailable.
+Isharnikoan    Female, non-partnered, available.
+Isharnikannom  Male, non-partnered, unavailable.
+Isharnikanan   Male, non-partnered, available.    
+Isharpakonom   Female, somewhat attached, unavailable.
+Isharpakoan    Female, somewhat attached, available.
+Isharpakannom  Male, somewhat attached, unavailable.
+Isharpakanan   Male, somewhat attached, available.
+
+Additional broad classification words:
+
+Konom          Unavailable female.
+Koan           Available female.
+Kanom          Unavailable male.
+Kanan          Available male.
+
+A SHORT PHRASE BOOK
+
+Kshao-Te kanan?     Is this male available?
+Te-Kshao kanom.     This male is not available.
+Van-ika isharkannom no isharnikannom?
+                    Is  this because he is partnered,  or  simply 
+                    because he is not interested?
+Ika-van isharkannom-dan.
+                    It is because he is STRONGLY partnered.  (The 
+                    "dan" particle adds emphasis).
+Shidra-ko, vo kanin do ishardri.
+                    Ship-sister,  may I borrow your partner?
+Te-Kshao tarlechen. Literally:  "There is a dildo available."
+     Idiomatic:     Use what you have, not what you might want.
+Shidra-ko, vo istan do ishardri
+                    Ship-sister, would you share your partner?

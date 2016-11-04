@@ -1,0 +1,104 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/727V8rPwtPk
+TITLE: Other Suns : 16 
+
+----------------------------------------------------------------------------
+
+Wednesday, 10 October 1990 20:57:39 UTC+1 - John Redden:
+------------------ OS.16 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero.  This gaming material is
+distributed on a shareware basis.  If you do not use the material you
+owe the author nothing.  If you do use it please pay him what you
+think it is worth at a fair price becasue it took a damn lot of work
+to develop and playtest.  The USmail address is:
+
+Niall Shapero
+2536 Short Ave
+Los Angeles CA 90066
+USA
+
+Those of you with modems can dial into his BBS using this phone number:
+(213)822-6729
+
+Please email any comments to my electronic mailing address and I will
+pass them on to Niall.
+
+----------------  end of preamble -------------------------------------------
+
+                       HOW HIGH CAN I JUMP?
+ 
+   Suppose  we  have a standing man with a center  of  mass  h0
+   meters  off  the  ground.  He is not moving,  so  his  total
+   energy  is in potential form (mass x gee x height of  center
+   of  mass).   Now suppose that he jumps straight  up.   While
+   he's  still  moving, he obviously isn't at the  "peak"  (the
+   maximum  height) of his jump.  When he reaches  the  maximum
+   height,  his kinetic energy will again be zero, and  all  of
+   his energy will be potential.
+ 
+   Suppose  in an arbitrary gravity field?
+ 
+   We assume no external levers are used (as in pole vault) and
+   that we can ignore air resistance.
+ 
+   The  change in total energy of the man in the jump  is  also
+   assumed  to  be constant (we assume that the  man's  muscles
+   work no more or less efficiently over the range of  gravita-
+   tional values considered).
+ 
+   Since in 1 gee, the man's total energy at the maximum height
+   is simply h1 x m x g, the change in total energy will be (h1
+   -  h0) x m x g.  If this change in energy is constant,  then
+   the  change  in  height of the center of  gravity  when  the
+   maximum height is reached will be inversely proportional  to
+   the change in the gravity field strength.
+ 
+   So,  if  a man can jump to a height of H meters in a  1  gee
+   field,  he will be able to jump to a height of (H-h0) x N  +
+   h0  meters  in a 1/N gee field.  Obviously,  the  lower  the
+   value  of h0, the better the final jump height will  be  (in
+   other  words, crouch down low, and use your legs to jump  --
+   don't try to "jump with your toes").  But the maximum height
+   reached by the center of mass in a jump does not vary exact-
+   ly inversely with the strength of the gravity field.
+
+-----------------------------------------------------------------------
+
+                       POWERGUNS for OTHER SUNS
+       An adaptation of the principal handgun in David Drake's
+          HAMMER'S SLAMMERS science fiction future history
+  
+  A  Powergun  does 30 points of damage per charge.   The  magazine 
+  holds  30 plastic "wafers" (the charges).  There is  an  attached 
+  liquid nitrogen cannister used in cooling the firing chamber  and 
+  the  ejector head; the coolant cannister contains sufficient  gas 
+  to cool 900 points.
+  
+  Cooling  is  at the rate of 5 points per second (so 6 seconds  of 
+  cooling  after a discharge will reduce chamber  temperature  from 
+  the  30  point level of firing to the 0 point level of  jam  free 
+  repeated firing).   Chamber temperature is increased by an amount 
+  equal  to  the damage point value of the charge plus the  chamber 
+  temperature just prior to firing.  Probability of a JAM following 
+  firing is 2 x Chamber temperature BEFORE firing as a  percentage.  
+  Chamber temperature decreases naturally by 0.1 points each second 
+  that the weapon is not fired.
+  
+  To  unjam requires use of the ARMORER skill:   30 points of "jam" 
+  must be cleared (at 1D10 points cleared per successful use of the 
+  skill).   Each use of the ARMORER skill in this instance requires 
+  30/[skill level] seconds (so a 50% armorer will spend 60 seconds, 
+  and a 75% armorer will spend 40 seconds per attempt).
+  
+  Firing Interval     Jam after 2nd   Jam after 3rd   Jam after 4th
+  ===============     =============   =============   =============
+  6 seconds                nil             nil             nil
+  5 seconds                10%             20%             30%
+  4 seconds                20%             40%             60%
+  3 seconds                30%             60%             90%
+  2 seconds                40%             80%            certain
+  1 second                 50%           certain          certain
+  
+  Powerguns may not be fired in wide beam mode -- like lasers  they 
+  are pinpoint beams.

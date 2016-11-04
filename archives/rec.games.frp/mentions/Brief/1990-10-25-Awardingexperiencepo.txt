@@ -1,0 +1,90 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/Kibn6KcMKTg
+TITLE: Awarding experience points 
+
+----------------------------------------------------------------------------
+
+Thursday, 25 October 1990 15:02:27 UTC+1 - Nicolai Shapero:
+On <Oct 19 20:13>, Mary K. Kuhner;335 Mulford wrote to All:
+ MK>After a little while I could see that despite 
+ MK>strenuous
+ MK>attempts on my part, soon her highest skills would be Spot, 
+ MK>Dodge, Sneak
+ MK>and Bow.  I occasionally got to use some of the skills I thought 
+ MK>were
+ MK>central to the character, but how often do you get to make 
+ MK>speeches to
+ MK>the peasants (Orate) compared to how many hidden things the GM 
+ MK>wants you
+ MK>to notice?
+
+I'd say that your problem was more with the referee than the gaming system per se.  The referee should have taken into account the sort of characters that 
+were involved in the game and modified his scenarios accordingly.
+
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.FIDONET.ORG <>
+Compuserve: >internet:Nic...@f524.n102.z1.FIDONET.ORG <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Saturday, 27 October 1990 04:41:24 UTC+1 - Nicolai Shapero:
+On <Oct 22 22:51>, Andrew Bell wrote:
+ AB>I think Mary's complaint is that in normal gaming,  even if the 
+ AB>adventure
+ AB>is not combat-heavy,  the number of skill checks for combat will 
+ AB>be more
+ AB>than the number of skill checks for non-combat events.
+
+This is highly system and campaign dependent.  In my OTHER SUNS campaign,
+there might be 1 combat every three to five gaming sessions.  The vast
+majority of skill use is in knowledge skills (which, in OTHER SUNS at
+least, can improve through experience).
+
+ AB>While this is,  to a certain extent,  realistic -- you don't 
+ AB>learn by
+ AB>taking exams,  you learn by studying for those exams -- it is a 
+ AB>bit of a
+ AB>downer on the skills of a knowledge-intensive character.
+
+Of course, some of us changed the rules so that knowledge skills (even
+in RuneQuest) could all be improved through use.  (Personal theory: one
+does not learn so much from "studying for exams" as from using the skill
+again and again...in the field, where it's important to YOU that you
+succeed.)
+
+ 
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.FIDONET.ORG <>
+Compuserve: >internet:Nic...@f524.n102.z1.FIDONET.ORG <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Wednesday, 31 October 1990 02:34:04 UTC - robert:
+In article <1418.2...@ofa123.fidonet.org <>>
+Nicolai...@f524.n102.z1.FIDONET.ORG <> (Nicolai Shapero) writes:
+
+>This is highly system and campaign dependent.  In my OTHER SUNS campaign,
+>there might be 1 combat every three to five gaming sessions.  The vast
+>majority of skill use is in knowledge skills (which, in OTHER SUNS at
+>least, can improve through experience).
+This is fine so long as the use of different time scales for combat and
+non-combat skills doesn't give anomalous results.  If a system give a skill
+roll every ten minutes for non-combat activities, but one per second for
+combat skills, there's a 600:1 mismatch in opportunities to use the skills.
+RUNEQUEST'S advancement system is such that this makes a big difference: you
+have to use the skill *successfully* to advance, so the number of trials is
+important.
+
+        -- Robert
+-- 
+    Robert Plamondon
+    robert@weitek.COM
+    "Break my arms, break my legs, but don't let me break character"
+P.S.  IMHO

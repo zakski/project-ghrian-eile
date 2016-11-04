@@ -1,0 +1,147 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/BM6K3OtR5RU
+TITLE: Other Suns # 4 
+
+----------------------------------------------------------------------------
+
+Tuesday, 25 September 1990 16:35:40 UTC+1 - John Redden:
+------------------ OS.4 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero.  This gaming material is
+distributed on a shareware basis.  If you do not use the material you
+owe the author nothing.  If you do use it please pay him what you
+think it is worth at a fair price becasue it took a damn lot of work
+to develop and playtest.  The USmail address is:
+
+Niall Shapero
+2536 Short Ave
+Los Angeles CA 90066
+USA
+
+Those of you with modems can dial into his BBS using this phone number:
+(213)822-6729
+
+Please email any comments to my electronic mailing address and I will
+pass them on to Niall.
+
+----------------  end of preamble -------------------------------------------
+
+                             PSYCHOLOGICAL PROFILES
+        
+        The  physical  characteristics  for a  new  character  have  been 
+        rolled,  and all computed characteristics and bonuses  have  been 
+        determined.  But the player doesn't yet have a "real"  character; 
+        until  he knows something of how that character would  think  and 
+        act, the character created remains a  (4)  Forgiving      <->  Vengeful
+             (5)  Generous       <->  Miserly
+             (6)  Hedonistic     <->  Stoic
+             (7)  Honorable      <->  Treacherous
+             (8)  Humble         <->  Proud (Arrogant)
+             (9)  Merciful       <->  Cruel
+             (10) Optimistic     <->  Pessimistic
+             (11) Passive        <->  Active
+             (12) Peaceable      <->  Combative
+             (13) Trusting       <->  Suspicious
+             (14) Xenophilic     <->  Xenophobic
+        
+        For  each of these scales, percentage probabilities are  assigned 
+        to each extreme response and to a "neutral" response.  A  typical 
+        human from Novaya Amerika, for example, would have the  following 
+        psychological profile:
+        
+             Brave          Neutral        Cowardly
+             01-30 (30%)    31-70 (40%)    71-100 (30%)
+        
+             Cautious       Neutral        Reckless
+             01-30 (30%)    31-70 (40%)    71-100 (30%)
+        
+             Energetic      Neutral        Lazy
+             01-30 (30%)    31-80 (50%)    81-100 (20%)
+        
+             Forgiving      Neutral        Vengeful
+             01-10 (10%)    11-90 (80%)    91-100 (10%)
+        
+             Generous       Neutral        Miserly
+             01-30 (30%)    31-70 (40%)    71-100 (30%)
+        
+             Hedonistic     Neutral        Stoic
+             01-30 (30%)    31-70 (40%)    71-100 (30%)
+        
+             Honorable      Neutral        Treacherous
+             01-10 (10%)    11-90 (80%)    91-100 (10%)
+        
+             Humble         Neutral        Arrogant
+             01-30 (30%)    31-70 (40%)    71-100 (30%)
+        
+             Merciful       Neutral        Cruel
+             01-10 (10%)    11-90 (80%)    91-100 (10%)        
+             Optimistic     Neutral        Pessimistic
+             01-40 (40%)    41-80 (40%)    81-100 (20%)
+        
+             Passive        Neutral        Active
+             01-30 (30%)    31-70 (40%)    71-100 (30%)
+        
+             Peacable       Neutral        Combative
+             01-30 (30%)    31-70 (40%)    71-100 (30%)
+        
+             Trusting       Neutral        Suspicious
+             01-30 (30%)    31-70 (40%)    71-100 (30%)
+        
+             Xenophilic     Neutral        Xenophobic
+             01-15 (15%)    16-85 (70%)    86-100 (15%)
+
+                      PSYCHOLOGICAL PROFILES IN OTHER SUNS
+                                   (continued)
+        
+        The  character's base line values are determined by species  cul-
+        tural  characteristics.   Humans and Auuri, unlike  most  of  the 
+        other Hegemonic races, are not particularly homogeneous.  The two 
+        races are split into many different cultural groups. The baseline 
+        values provided in the previous posting were only for Humans from 
+        Novaya Amerika.
+        
+        Given the base line values, the player may adjust the probability 
+        ranges  of  each response either up or down by up  to  half  it's 
+        original value.  For example, the initial  Brave/Neutral/Cowardly 
+        scale read 30/40/30.  Then the player may change Brave or Coward-
+        ly  down to as low as 15 or as high as 45.  The total of all  the 
+        percentages  must add up to 100, however, and no response can  be 
+        decreased  by  more than half, so the degree  of  variability  is 
+        limited.  The player could not, for example, increase both  Brave 
+        and  Cowardly from 30 to 45, as this would require Neutral to  be 
+        reduced  from  40 to 10 (the sum of all probabilities add  up  to 
+        100).
+        
+        Let  us  say that our player wishes to run a  character  that  is 
+        quite brave.  The "Brave" response can be increased up to 45  (30 
+        +  1/2  x 30).  The maximum decrease allowed  of  the  "Cowardly" 
+        response is 15, to 15.  Then this particular psychological  scale 
+        for the character would be as follows:
+        
+                  Brave          Neutral        Cowardly
+                  01-45 (45%)    46-85 (40%)    86-100%
+        
+        But  what  does all this mean?  Does it mean that  a  character's 
+        actions  must always be decided by a 1D100 roll?  No.  The  scale 
+        is given as an indicator of the character's initial  disposition. 
+        If  the  player, at a later date, decides that the  character  is 
+        going  to  do something considered cowardly by the  referee,  the 
+        action  will be carried out; the psychological profile  may  well 
+        change as a result, but that is another matter.
+        
+        What the profile provides is a deterministic "rule of thumb"  for 
+        role playing non-player characters of different species, and role 
+        playing player characters where the player "doesn't know what his 
+        character  would  do  in the current situation".   Only  where  a 
+        particular range of behavior has through experience or psycholog-
+        ical  conditioning been reduced to zero will a particular  action 
+        be barred.  By the standards of Hegemonic mental hygiene, when  a 
+        character has reached this point he is insane by definition,  and 
+        is a fit candidate for psychological treatment.
+        
+        Standard non-player characters (the equivalent of T.C. Mits) will 
+        behave  as  per the dictates of the  psychological  profiles  for 
+        their species.  Important non-player characters may be "modified" 
+        just like player characters, and should have their  psychological 
+        profiles  tracked  just like player characters; they  can  change 
+        their minds just like player characters.

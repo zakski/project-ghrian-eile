@@ -1,0 +1,226 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/svNn-B5XBPw
+TITLE: Other Suns : 19 
+
+----------------------------------------------------------------------------
+
+Friday, 12 October 1990 15:11:20 UTC+1 - John Redden:
+------------------ OS.19 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero.  This gaming material is
+distributed on a shareware basis.  If you do not use the material you
+owe the author nothing.  If you do use it please pay him what you
+think it is worth at a fair price becasue it took a damn lot of work
+to develop and playtest.  The USmail address is:
+
+Niall Shapero
+2536 Short Ave
+Los Angeles CA 90066
+USA
+
+Those of you with modems can dial into his BBS using this phone number:
+(213)822-6729
+
+Please email any comments to my electronic mailing address and I will
+pass them on to Niall.
+
+----------------  end of preamble -------------------------------------------
+
+
+                     ICE WORLD I (PART 5 OF 28)
+
+Hard Pack Snow: Hard pack is the term used in the rules to  refer
+to "old" snow, which has accumulated on previous days. The weight
+of  new  snow compacts the older snow,  producing  a  potentially
+slick base. Each day, new snow from the previous day becomes hard
+pack  if  the  temperature does not rise high  enough  to  permit
+melting.  If hard pack snow is present under spotty  snow  cover,
+movement is more difficult for both vehicles and walking  person-
+nel. By the time snow becomes deep, however, underlying hard pack
+is no longer relevant.
+
+Limitations on Snow and Ice:
+
+If  a world has no water vapor (values for "S" in  the  planetary
+atmosphere equation between 0.56 and 0.32), then snow and ice are
+obviously not going to be present. Cryogenic worlds, like  pluto,
+may  well have hydrogen "ice" on the surface, but in these  rules
+we are assuming basically terrestrial type oxygen-nitrogen atmos-
+phere worlds
+
+WEATHER
+
+Several tables elsewhere in this booklet can be used to establish
+weather  conditions.  They were prepared for use  on  terrestrial
+type worlds; the Referee should feel free to modify these  tables
+to cover unusual or extreme conditions on specific worlds in  his
+campaign.
+
+Snowfall is based on humidity, which is in turn derived from  the
+general  cloudiness  of the area. Every day, the  Referee  should
+roll  for cloudiness percentage (on 1D100). Reading  across  from
+the result, the Referee finds a Cloudiness Factor and a  Humidity
+Factor for the world (the Snow Cover Chance is used, as described
+earlier,  only  when creating initial terrain  conditions;  daily
+weather changes do not randomly alter the snow cover). Use of the
+"Cloudiness  Factor" is covered in a later section. The  Humidity
+Factor gives the chance for snowfall.
+
+Every  eight hours (three times per day) the Referee should  roll
+1D100 and compare the result to the Humidity Factor. If the  roll
+is less than the number shown, snow will fall during that  period
+of time. Should the temperature be above freezing, rain will fall
+instead of snow.
+
+The three Snow Storm tables are used to determine the  intensity,
+duration, and nature of the snowfall once it is established  that
+a  snow  storm  is taking place. Roll first on Table  I  for  the
+intensity,  using 1D10. The result describes the snow  fall  rate
+and  accumulation, and gives a die modifier to be applied to  the
+roll on the second table. A roll on 1D10 is then made on Table II
+to  determine  the number of hours that snow will  fall.  Another
+1D10  roll  is made and Table II used to determine type  of  snow
+(wet or powder).
+
+Snowfall may continue for more than one 8 hour period. If a storm
+is determined to last all the way through a given period, no  new
+roll for snow storms is made. If it is to end in a given  period,
+new rolls are made, and the current storm duration is extended by
+that  of  any new storm that might occur. New  cloudiness  ranges
+should  be determined every 24 hours, though in some  cases  they
+will not influence the day's weather.
+
+For the sake of convenience, itast. Once the storms end, however, new  areas  en-
+tered  should only have the snow cover that is  established  from
+the terrain determination process, and no more.
+
+The Referee, however, should feel free to make any  modifications
+in  procedures or results that seem reasonable for a given  world
+or  situation. Additional tables to provide for wider  variations
+between  worlds or climate zones can be developed,  or  elaborate
+rules  for  movement and behavior of storm fronts  and  the  like
+could  be  introduced. The basic procedures  here,  however,  are
+quite  sufficient to simulate the most important aspects of  snow
+storms in the game.
+
+Cloudiness  and Visibility: Clouds may serve to  make  navigation
+difficult, or to inhibit the effective use of aircraft or  space-
+craft. Visibility is determined from the Cloudiness and  Humidity
+chart.  First  roll  1D100 once every 8 hours  to  determine  the
+percent  cloud cover. Roll 1D100 again and if the result is  less
+than or equal to the Cloudiness factor, there is a low overcast.
+
+When  the  sky  is overcast, navigation  without  instruments  is
+impossible for characters or vehicles on the ground. Air vehicles
+must  fly  in "Nape Of the Earth" mode (NOE) to  maintain  visual
+contact with the ground -- and are fully subject to ad verse  ef-
+fects of wind and weather when doing so. At high speeds,  modifi-
+ers must be applied to the appropriate skill (piloting or vehicu-
+lar operations) to avoid accidents in NOE mode. Pilots may  avoid
+risk  and  fly above cloud level, but they lose visual  con  tact
+with the ground. They must descend below the cloud cover to land,
+risking local weather problems as they do so.
+
+Vehicular situations are discussed more fully in a later  section
+of the booklet.
+
+
+                     ICE WORLD I (PART 6 OF 28)
+
+TEMPERATURE
+
+The basic mean day temperature of a world is given in the  tables
+in book 2 of Other Suns. This temperature represents the mean day
+temperature  found at 30o north or south latitude on the  planet.
+
+On  a  typical Terrestrial planet, the mean day  temperature  de-
+clines  at  a rate of 1.5oC per degree of latitude north  of  30o
+North or south of 30o South latitude. On a world with a mean  day
+temperature of 25oC (298 Kelvin) the mean day temperature at  76o
+N latitude would be -44oC.
+
+Moving  inward  from the 30o latitude line towards  the  equator,
+temperatures  increase at a basic rate of 1oC per two degrees  of
+latitude shift. At the equator, a world with a mean day  tempera-
+ture  of 25oC (298 Kelvin) would have a mean day  temperature  of
+40oC.
+
+Axial  Tilt also affects a world's temperature variations.  Axial
+tilt  for  a Terrestrial world is (8D6-8)  degrees  (this  yields
+tilts  of from 0 to 40 degrees, with 20o being average  --  Earth
+has  an axial tilt of 23o). Once the axial tilt has  been  deter-
+mined, two other factors are established: the tropical bands, and
+the rate of temperature variation enjoyed by the world.
+
+The  tropical  bands are set at the lines of latitude  north  and
+south  of  the equator equal to the axial tilt itself;  thus,  on
+Earth,  the tropical zone runs between 23o N and 23o S  latitude.
+Within  this band there are no seasonal variations.  Outside  the
+tropics, apply the following seasonal temperature modifiers:
+
+Summer: Add 0.6oC per degree of axial inclination.
+
+Winter: Subtract 1oC per degree of axial inclination.
+
+By way of example, our sample world, with a mean day  temperature
+of 25o has an axial tilt determined to be 17o. At 30o N latitude,
+the  temperature varies from 8oC in winter to 35oC in summer.  At
+76o N latitude this figure ranges from a winter low of -71oC to a
+summer high of -34oC.
+
+These basic steps -- base temperature, modifications for latitude
+and modifications for axial tilt and season -- enable the Referee
+to determine the expected local temperature for any point on  the
+globe for any time of year.
+
+Once this temperature has been established, additional  modifiers
+are  applied to cover specific situations that may arise  in  the
+course of the game.
+
+Altitude:  Temperatures derived from the steps above are for  sea
+level.  For every 200 meters elevation above sea level,  tempera-
+ture decreases by 1oC.
+
+Daytime:  The temperature derived from the previous steps can  be
+determined  to be for early evening (just after sunset).  In  the
+course of the day, temperatures will slowly increase to a maximum
+temperature,  then fall to this "daytime" temperature just  after
+sunset. Roll 1D10 and divide the result by the atmospheric  pres-
+sure of the planet; this amount is added to the local temperature
+(as  modified by altitude) to yield the daytime high. The  actual
+temperature  will increase evenly over the hours between  sunrise
+and  mid-afternoon  (halfway between mid-day  and  sunset),  then
+decrease to the "daytime" temperature at dusk.
+
+Nighttime: The opposite effect occurs at night. Roll 1D10, divide
+by  the  atmospheric pressure, and subtract this value  from  the
+local  temperature  to find the low temperature  for  the  night.
+Again,  the  actual change should be spread over  the  time  from
+sunset  to  one hour before dawn; the temperature  gradually  in-
+creases from this low value to the standard local temperature  at
+dawn.
+
+Referee's  note: It should be remembered that rotational  periods
+vary  from  world to world and, moreover,  planets  with  extreme
+axial  tilt will have a diurnal cycle wherein a single "day"  can
+be  six  months  long, even if the rotation period  is  close  to
+twenty-four  hours. Add the possibility of tidally locked  worlds
+where the sun never shines on half the globe and the result is  a
+wide variation in how these day/night temperature changes  should
+be applied.
+
+Temperature  Effects: Variations in temperature have three  major
+effects:  on  the environment, on equipment,  and  on  characters
+themselves.
+
+When the temperature is above freezing, snowfall becomes rainfall
+and  snow  already on the ground begins to melt.  Melting  is  an
+uneven process, but a workable rule of thumb is to remove 1D6 x 1
+millimeter  of snow cover per hour per 5 degrees C.  Should  rain
+fall on melting snow, treat a moderate storm as adding 10 degrees
+C to the temperature, a heavy storm 20 degrees.
+
+
+                     ICE WORLD I (PART 7 OF 28)
+
+WIND

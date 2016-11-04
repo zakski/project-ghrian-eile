@@ -1,0 +1,93 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/qTSGyIqdkvw
+TITLE: Other Suns RPG 
+
+----------------------------------------------------------------------------
+
+Monday, 11 December 1989 17:18:45 UTC - John Redden:
+A number of questions about Other Suns have been posted to the net.  After
+speaking to the author of the game, Nial Shapero, he asked me to post 
+his BBS number for anyone interested.  The number is (213)
+822-6729.  This machine is running msdos and is on Fidonet.  There
+are "echos" (similar to news groups) on this machine.  Much of the
+discussion is about Other Suns and space gaming in general.  (BTW
+If anyone has a gateway from Fidonet to Usenet please send me mail).
+I know that there is a second version of the game planned.  The original
+was based on RuneQuestI and was at one time to be released by Chaosium
+as "Runes In Space".  This will give you a feel of what *some* of the
+mechanics are like.  The games runs well in exploration and first
+encounter scenarios and political episodes between the Hegemony and other
+space groupings.  You have to be a fairly decent number cruncher to run
+the game.
+
+-"A duck in space may save your life"-
+
+red...@ttidca.tti.com <>
+----------------------------------------------------------------------------
+
+Tuesday, 12 December 1989 15:40:36 UTC - Sean Malloy:
+In article <83...@ttidca.TTI.COM <>> red...@ttidca.tti.com <> (John Redden) writes:
+>I know that there is a second version of the game planned.  The original
+>was based on RuneQuestI and was at one time to be released by Chaosium
+>as "Runes In Space".  This will give you a feel of what *some* of the
+>mechanics are like.
+If you want an interesting story, ask Nicolai sometime _why_ he broke
+off negotiations with Chaosium as a publisher. In a nutshell, Chaosium
+wanted _all_ rights to the game, and Nicolai balked -- but his story's
+a bit more colorful.
+
+The mechanics are as much similar to RuneQuest as they are to any
+other game that uses percentile-based skills in categories with skill
+bonuses based on characteristics. He had to make a number of detail
+changes to generalize the mechanics to the point where Chaosium
+couldn't hit him for copyright violation (computation of skill
+bonuses, for example; also certain terms, such as 'clean success' vice
+'impale')
+
+Nicolai has already printed parts of the character creation section of
+the new Other Suns rules in an APA (Amateur Press Association -- a
+group of people who write zines at regular intervals [generally a
+month or two], make enough copies for all the members, and give them
+to the editor/collator, who assembles the zines and distributes the
+issue) that he and I are both members of. The computations for skill
+bonuses have changed again, and the layout has been improved somewhat;
+it's now a bit easier to understand what's going on.
+
+
+>                     The games runs well in exploration and first
+>encounter scenarios and political episodes between the Hegemony and other
+>space groupings.
+To handle political episodes correctly, it really takes more
+background on the L'Doran Hegemony and the other political entities
+than FGU was willing to leave in the rules; some of the games
+Nicolai's run that I've been in have wound up extremely twisted in
+this regard -- like the mission where the security officer fumbled a
+roll at the wrong time and fingered as an L'Drey spy not the _real_
+L'Drey spy but another character entirely, and the judicial antics
+following _that_.
+
+Exploration can be a lot of fun on both ends, running the game and
+playing in it. There are enough bizarre things you can do to the
+characters without actually _killing_ them (I have a character who has
+two skills at 1000% [that's _not a typo] as a result of a chance
+encounter with a _really_ bizarre alien: 'Gluon Sculpting with a Pion
+Shaper' and 'Appreciation of Gluon Sculptures' [really useful skills,
+right?] -- and who also spent some time as a clam as a result of it
+[don't ask]).
+
+There are a number of things that got left out of the FGU rules that I
+only found out about from playing in games Nicolai ran. Some of the
+background on the Skiltaire and how to deal with their telepathic
+abilities (ask Nicolai about Trochii battle stations sometime), for
+example. The telepathic otters with multi-AU telepathic ranges, if
+you've forgotten, where a prime source of annoyance for a GM is their
+making a telepathic sweep of a system for intelligence. Toss in a
+Trochii relic once, and the Skiltaire will be less of a problem in the
+future -- once burned, twice shy.
+
+
+
+ Sean Malloy                                   | ". . . They always have an air
+ Navy Personnel Research & Development Center  | of cheap melodrama about them."
+ San Diego, CA 92152-6800                      | "You will find, my dear, that
+ mal...@nprdc.navy.mil <>                         | _true_ melodrama _never_ comes
+                                               | cheap."

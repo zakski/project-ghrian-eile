@@ -1,0 +1,1470 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/oPhbTU3l8rE
+TITLE: Mapping and Fast FTL Drives 
+
+----------------------------------------------------------------------------
+
+Tuesday, 30 October 1990 16:41:02 UTC - Brian or James:
+        I'm a bit curious how folks out there handle the problem
+of mapping in games with fast FTL drives. I'll arbitrarily
+define fast as more than 100 C. There are about 700 stars
+within 50 ly. If [for example] you have a Space Opera merchant
+ship [which seem to mostly have 15 to 20 ly/day cruise speeds]
+that volume can be covered in 3.3 to 2.5 days. In a year, you can
+travel 5000 to 7000 ly, a volume containing hundreds of millions,
+perhaps billions, of stars. That's a lot of world stats to keep track of.
+I find just the 700 stars on GDW's 2300 AD Near Star Map to be 
+hard to keep track of [in the sense of figuring optimum routes, or
+even generating planetary systems for 700 stars]. 
+        Now I can think of a few solutions to this:
+        Only use slow or very restrictive FTL drives:
+
+                This is 2300 AD's solution. While they give you basic stats
+                for 700 stars, only a small fraction can be reached using 
+                Stutterwarp. My problem with this is it seems odd to bother
+                with the Near Star List if only 20% of the stars can be reached,
+                given the information about stellar locations available. Other
+                variants on this might be a FRP using the Alderson Drive from
+                Nive & Pournelle's 'Mote in God's Eye'. FTL only occurs on 
+                'tramlines' connecting nearby stars and any system has only
+                a few connecting tramlines. Mapping in this case traces 
+                tramline connections, and the actual relative locations are
+                not important.
+
+        Buy a Cray  and learn to live with mapping 10**9 stars :)
+
+                The nice thing about computers that they can handle some of the
+                skut work in running a campaign. The bad thing is that there
+                not all that many available 3-D mapping programs designed
+                for this sort of application and [just speaking for myself]
+                I couldn't design one myself and typing in all [big number]
+                of stars in a given large volume is tedious and time consuming.
+
+        Introduce reasons not to travel far far away
+
+                In Other Suns, humans run the risk of trampling on the toes
+                of the Great Powers if they run hither and yon in search of
+                trade [This isn't explicitely stated in the FGU version of OS,
+                but it seems obvious that underraces can't afford to piss 
+                off the Big Four]. Other problems might be range [the drive is
+                fast but the fuel consumption is faster], shortages in critical
+                components [Psions in SPI's Universe put an upper limit on
+                the number of FTL drives available, since the psions *are* 
+                the FTL drives and they are not common] or scarcity of
+                worthwhile destinations [If only one in a million stars
+                has anything worth visiting for, you *need* a fast drive].
+                As well, even if the means to go to the Galactic Center
+                are available, it does not mean the PCs will want to go there.
+                I could travel to Tokyo if I wished; thus far I haven't wanted
+                to badly enough to pay for the trip.
+
+        I'm curious what other people thing on this subject.
+
+                                                        James Nicoll
+----------------------------------------------------------------------------
+
+Tuesday, 30 October 1990 17:32:15 UTC - Viktor Haag:
+In article <1990Oct30....@watdragon.waterloo.edu <>> jdni...@watyew.uwaterloo.ca <> (Brian or James) writes:
+>        I'm a bit curious how folks out there handle the problem
+>of mapping in games with fast FTL drives.
+I agree that this can be a big problem.  One of the reasons I have always been
+reticent to referee something that involves Earth and interstellar travel is 
+the amount of research that needs to be done on nearby stars, in order to make
+the 'universe' seem 'realistic'.  Some games help you out on this one by
+providing basic data for nearby stars (GDW stuff mostly) while other games
+are infuriating in that they provide a nearby star map, with absolutely no
+star data for these stars other than general position, and maybe spectral
+class (SpaceMaster).
+
+The way I see it you have basically two easy solutions.  You probably have
+lots of tough solutions too, but who wants to use those.
+
+i - make your universe so 'real' that your pc's will have a tough time
+traveling anywhere, let alone off planet!  Space ships cost big bucks, and the
+last people they want running around on them are grotty little civilians.
+If you want to travel to other worlds, chances are you will get frozen - not
+because of the time involved, but because you are easier to ship that way,
+you use less O-2 and less food, and you don't care that you are lying naked
+stuffed between Horace and Martha Walpole from Luna One.  This approach also
+cuts down heavily on terrorism, piracy and just general looney tunes on the
+part of passengers who can't take the acceleration stress.  It also means that
+mapping worlds can be done only when it is absolutely needed, and not when
+a keen pc wants to optimize your travel time. 
+
+ii - make your universe so 'space opera' that your pc's don't care about the
+exact locations of nearby stars, they just know how many days travel it takes
+from different locations.  You can keep a map if you want, but some places
+may not need it.  For this you can use 'clusters'.  Habitable worlds occur in
+clusters of about twenty or so.  Every 'world' in the cluster is reachable in
+one normal flight (no refuel needed).  You can even introduce a kludge factor
+based on the 'perils of plying the ether highway' and say that the trip 
+between worlds takes 10D10 hours (or whatever you want the average trip to
+take), within the cluster.  You can then make up further rules that deal with
+travel between clusters, including extra long voyages, mis-navigation, refueling
+and so on.
+
+Any help?
+
+vik
+
+--
+        "We murder to dissect"                        
+                Wordsworth
+----------------------------------------------------------------------------
+
+Tuesday, 30 October 1990 20:18:53 UTC - Brian or James:
+        I don't think I've seen what I think is a logical
+hazard of the 'cold sleep' travel method: the danger of lost
+luggage. You go to sleep, expecting to wake up on Tau Ceti 1,
+only to be accidentally shipped to Omega Ceti 7. Worse, not
+only do they not want your skills as a cutting-edge of technology
+enhanced combat cyborg, but since the shipping company had you
+stored in a warehouse for fifty two years while they tried to 
+straighten out the paper work, you aren't so 'cutting-edge' 
+any more.
+'You have no hope against our superior technology! People of 
+Mars, surrender!'
+
+'Excuse me, but this isn't Mars. It's Earth.'
+
+'Earth?! Earth-with-nuclear-weapons Earth?!'
+
+'Yes.'
+
+'Friend!'
+
+[from Second City, Toronto, circa 1987]
+
+                                                James Nicoll
+----------------------------------------------------------------------------
+
+Tuesday, 30 October 1990 21:34:19 UTC - Erich Schneider:
+>>>>> On 30 Oct 90 16:41:02 GMT, jdni...@watyew.uwaterloo.ca <> (Brian or James) said:
+
++>         I'm a bit curious how folks out there handle the problem
++> of mapping in games with fast FTL drives.
+
+This may sound like a cheat: Map only the "interesting" stars. After
+all, most stars will be rather unintersting, especially if they aren't
+the kind that's easily life-supporting.  Have stats for the homeworlds
+of various cultures, their major colonies, and stats for the 'generic'
+core and frontier system.
+
+Players don't generally want to go to the uniteresting places. So don't
+map them (unless you really need to).
+--
+er...@tybalt.caltech.edu <>  or try er...@through.caltech.edu <>
+
+"Even the AI hated [my book]?"
+"The AI _loved_ it. That's when we knew for sure that _people_ were going
+ to hate it."
+                      -Dan Simmons, _Hyperion_
+----------------------------------------------------------------------------
+
+Wednesday, 31 October 1990 05:46:55 UTC - William Henry Timmins:
+- show quoted text -Look at GURPS Space. They have a very good section on creating star maps,
+star systems, and the effects of technology (with varying ideas on how FTL
+could work) on space exploration.
+Before anyone rags me about advertising GURPS, it should be pointed out that I
+bought GURPS Space about two years before I bought GURPS basic, and that the
+only reason I BOUGHT It was for the star system creation tables.
+
+They're cool.
+----------------------------------------------------------------------------
+
+Wednesday, 31 October 1990 11:13:59 UTC - Eirik Nilsen:
+>         I'm a bit curious how folks out there handle the problem
+> of mapping in games with fast FTL drives. I'll arbitrarily
+
+Simple. You make a scenario or a campaign out of it. The PCs are crew in an exploration ship. I have been thinking of making a mini-campaign out of GDW's 
+Bayern module(2300AD) In my opinion this is the only way PCs will be exploring and mapping new systems, ie as employees of a goverment or a research 
+institution. Ordinary people can't afford to have their spaceship (if they can afford a spaceship) doing exploration if they aren't paid for it. (Of course PCs 
+aren't ordinary people, and they will most likel
+
+
+
+
+
+y do things that will result in any other becoming broke) The problem is that a star system is *HUGE* and it will take a good deal of time to explore and map 
+it in any other way than what planetary orbits there are. In 2300AD the system for creating star systems is quite good and shouldn't take too long if you have 
+done it before. (I'm talking about just creating the orbits, not specifics about each planet)
+
+
+
+
+>               Stutterwarp. My problem with this is it seems odd to bother
+>                with the Near Star List if only 20% of the stars can be reached,                        >        >               given the information about 
+stellar locations available. Other
+
+
+Well, you just have to develop stutterwarp drives that can jump longer. In my 2300AD campaign the Scandinvaian Union (ahem...) has developed a way to connect 
+stutterwarp drives together so that their sapceships can jump farther and/or faster. It works on the principle that the new efficiency is the square root of 
+the number of drives connected, two connected drives will give 1.4 * 7.7 = 10.8ly
+4 will double the distance, 9 will tripple, and so on. You can also use this connection to make the drive faster, using the same rules as above. The biggest 
+problem with this system is that you have to have more drives, fitting 64 drives in one ship for eight times the efficiency is to costly to be effective. The 
+new system is also a very closely guarded secret of the SU, (Sigurd, you didn't read this!!) so it isn't available to the public.(or to any other nations)
+
+
+        Eirik 'Blargh' Nilsen
+----------------------------------------------------------------------------
+
+Wednesday, 31 October 1990 18:36:38 UTC - Brian or James:
+In article <cb=aJDS00W...@andrew.cmu.edu <>> wt...@andrew.cmu.edu <> (William Henry Timmins) writes:
+>Look at GURPS Space. They have a very good section on creating star maps,
+>star systems, and the effects of technology (with varying ideas on how FTL
+>could work) on space exploration.
+>
+>Before anyone rags me about advertising GURPS, it should be pointed out that I
+>bought GURPS Space about two years before I bought GURPS basic, and that the
+>only reason I BOUGHT It was for the star system creation tables.
+>
+>They're cool.
+        I already own GURPS Space. My question's really about the problem
+of keeping track of several hundred or several thousand stars and the 
+associated problem of 'what to do when the PCs leave the map'.
+
+                                                                James Nicoll
+----------------------------------------------------------------------------
+
+Thursday, 1 November 1990 01:18:36 UTC - Rick Novy:
+When I am mapping in Traveller, I take the maps toungue in cheek, and 
+assume that only the interesting systems are mapped.  Obviously there 
+will be many many systems which are either planetless, or totally useless. 
+ I just assume they exist and I don't bother thinking about them again.
+
+
+--  
+Rick Novy - via FidoNet node 1:143/12
+UUCP: {pyramid,amdcad,apple}!weitek!wyrm!Rick.Novy
+----------------------------------------------------------------------------
+
+Thursday, 1 November 1990 02:17:55 UTC - William Henry Timmins:
+I was replying with GURPPS Space to other comments, but...
+The problem of giant space is similar to problems where transportation
+is available to almost infinite places (time travel, dimensional, etc.)
+Component of the problem is that you work on some neat world, and they
+only spend a minute there.
+
+There are two solutions:
+a) Limit the size of what you have to deal with.
+b) Get a Cray to handle it and make up programs which can make up info
+in sufficient detail for your liking.
+
+B I won't deal with.
+A) In Space, you must limit the number of stars players may visit. 
+You can do this in two ways. Either limit the size of available stars
+(ie- only a few are habitable, or only a few are within reach), or limit
+the availability of those stars (ie- travel to another system is akin to
+taking a trip to Nigeria. More trouble than it's worth in most cases)
+
+It's not that big a deal. 
+
+This is one of the reasons I DON'T run a space game. Dimensional travel
+is easier to control (who's gonna argue??)
+
+- The Incredible Will
+----------------------------------------------------------------------------
+
+Thursday, 1 November 1990 14:40:23 UTC - Brian or James:
+In article <160.27...@wyrm.weitek.COM <>> Rick...@wyrm.weitek.COM <> (Rick Novy) writes:
+>When I am mapping in Traveller, I take the maps toungue in cheek, and 
+>assume that only the interesting systems are mapped.  Obviously there 
+>will be many many systems which are either planetless, or totally useless. 
+> I just assume they exist and I don't bother thinking about them again.
+        The thing that always bothered me about Traveller's maps is
+that they are two dimensional, when space is three (Increase both values
+by one to include duration). The number of stars in the Imperium would
+be much higher if they mapped in all three dimensions. I guess the Imperial
+Cartography Service thought the ease of mapping in 2-D outweighed the 
+possible profits in exploiting the stars above and below the plane of
+the Imperium :) I always pretended Traveller maps were 'hyperspace'
+maps with little or no corelation to actual stellar positions.
+        An aside to 2300 AD players: Anyone out there know what the
+separation between stars is for all the binary and trinary systems
+in the Near Star list?
+        
+                                                James Nicoll
+----------------------------------------------------------------------------
+
+Thursday, 1 November 1990 19:54:57 UTC - Philip R. Groff:
+>
+>        I already own GURPS Space. My question's really about the problem
+>of keeping track of several hundred or several thousand stars and the 
+>associated problem of 'what to do when the PCs leave the map'.
+>
+>                                                                James Nicoll 
+But James,
+
+        When you're running a fantasy game you sureley don't map every
+city on every continent of the planet, only those the players are likely
+to visit during the adventures you designed.  Surely the same could hold
+true for space campaigns, whatever the rate of FTL.  In short, my GM's
+$.02 worth:  Script more.  Restrict the players movements without 
+appearing to do so.
+
+                        Phil Groff
+----------------------------------------------------------------------------
+
+Thursday, 1 November 1990 20:02:50 UTC - Joel Lovell:
+In article <1990Oct31.1...@idt.unit.no <>>, eirikni@solan3 (Eirik Nilsen) writes:
+
+>
+>>               Stutterwarp. My problem with this is it seems odd to bother
+>>                with the Near Star List if only 20% of the stars can be reached,                        >        >               given the information about 
+stellar locations available. Other
+>
+>
+>Well, you just have to develop stutterwarp drives that can jump longer. In my 2300AD campaign the Scandinvaian Union (ahem...) has developed a way to connect 
+stutterwarp drives together so that their sapceships can jump farther and/or faster. It works on the principle that the new efficiency is the square root of 
+the number of drives connected, two connected drives will give 1.4 * 7.7 = 10.8ly
+>4 will double the distance, 9 will tripple, and so on. You can also use this connection to make the drive faster, using the same rules as above. The biggest 
+problem with this system is that you have to have more drives, fitting 64 drives in one ship for eight times the efficiency is to costly to be effective. The 
+new system is also a very closely guarded secret of the SU, (Sigurd, you didn't read this!!) so it isn't available to the public.(or to any other nations)
+
+The only problem with that, (assuming of course that you WANT to abide by
+the rules, is that the designers of the system were pointed out this nifty
+trick of staging the stutterwarps back with 1st edition - by me - and they
+ended up deciding that with the stutterwarp on line, whether it is being
+used or not, it builds up a charge - the same as if it is being used.  I
+asked "well suppose they had the drives partially dismantled, and then when
+the charged up one became too dangerous, discard it, re-build the next 
+stage, move out, etc.." GDW said that this would work, but would take an
+exceptionally good engineer - like 8+ skill in all three areas.  The
+other alternative that they came up with is the brown dwarfs, stellar 
+bodies of sufficient mass located between existing full fleged star systems 
+that are to cold and small to be detected by normal astronomical methods,
+but are good enough to get a discharge out of the drives when approached.
+Assuming of course that you could find such a body between most of the 
+star systems you wish to travel.  I also figured out the tug boat method
+that they put in the rules in 2nd ed. Even though they did not publish it,
+I know of the only shortcut between the french and american arm of space
+without having to go back to sol.  I also discovered a couple of more
+stars less than 7.7 ly that they say their computer missed.  (all this
+with given coordinates and ship drive technology.)
+
+Here is the next best thing I was able to come up with.  A matter/anti-matter
+fueled MHD type drive.  Basically, leave out the bulky fuel tank, and
+use the existing MHD drive MW output.  You need fuel still, but only
+1/10th as much , so calculate accordingly.  I've proven this is technically
+feasible with the technological "givens" of their rules systems.  Also,
+advanced Fusion drives such as they have listed should not be nearly so
+massive.  Dink them down to 1/4 their given mass, and keep the same 
+output.  
+
+then their is their traversible wormhole.  use the power systems as
+they are, then use the stutterwarp drive as it is, except have the
+calculated efficiency rating translate to how well the ship can
+traverse an Einstien Rosen traversible wormhole.  (See the American
+Journal of Physics, 1989 I believe, and also Discover magazine about
+that timeframe.)  Have the efficiency rating represent a conversion
+of distance in ly to light minutes.  then calculate durations according
+to how well the vessel can cover 
+
+oops, gotta go.
+
+Joel
+(place signature here) (how original)
+----------------------------------------------------------------------------
+
+Friday, 2 November 1990 23:26:10 UTC - Walter Milliken:
+In article <1990Oct30....@watdragon.waterloo.edu <>>, jdnicoll@watyew (Brian or James) writes:
+>        I'm a bit curious how folks out there handle the problem
+>of mapping in games with fast FTL drives. I'll arbitrarily
+>define fast as more than 100 C. There are about 700 stars
+>within 50 ly. If [for example] you have a Space Opera merchant
+>ship [which seem to mostly have 15 to 20 ly/day cruise speeds]
+>that volume can be covered in 3.3 to 2.5 days. In a year, you can
+>travel 5000 to 7000 ly, a volume containing hundreds of millions,
+>perhaps billions, of stars. That's a lot of world stats to keep track of.
+>        Now I can think of a few solutions to this:
+>
+>        Only use slow or very restrictive FTL drives:
+>        Buy a Cray  and learn to live with mapping 10**9 stars :)
+>        Introduce reasons not to travel far far away
+>
+>        I'm curious what other people thing on this subject.
+Basically you have another version of the problem of spear-carrier
+NPCs, buildings in large cities, or similar items that occur in large
+numbers in games: there's simply no way you can detail them all.
+
+Fortunately, this isn't really a problem.  A number of techniques and
+factors make it unnecessary to detail the entire universe in an RPG:
+
+1) Players generally don't go random places.  They tend to go
+somewhere where they can get something they need ("Where's the nearest
+tavern?") or where there is some reason for them to believe they
+should go there (typically information passed to the PCs by NPCs or
+other information sources).
+
+In a star travel setting, players simply won't visit every system with
+an M star in it -- they're all likely to be pretty much alike, and
+quite useless.  Unless the GM somehow prods them toward such a place,
+they're likely to ignore it.
+
+2) Many things are pretty much the same, with only minor variations.
+Town guards, M star systems, or taverns are going to be pretty similar
+to others of their class.  Thus you can live with a few "generic"
+instances of each with moderately detailed stats, and grab one at
+random when you need to.
+
+3) The universe is full of "boring" objects.  The crowd in the market,
+the paving stones in the road, and the thousands of lumps of worthless
+rock in an asteroid belt are not going to be interesting to your
+players, so there's no need to detail them.  If they happen to ask
+about it, make something up and make a note of it.  Only recent AD&D
+graduates are likely to want to land on every worthless lump of rock,
+and go over it inch by inch looking for secret doors (or whatever).
+
+4) The players (and PCs) also suffer from information overload.  They
+only pay attention to things relevant to their current purposes, and
+hence will normally not mess with (or even notice) things that don't
+stand out in any way, and aren't important to their current goals.
+
+
+About the only case I can see where you might need to detail a lot of
+systems in a "fast FTL" campaign is if the PCs were scouts or
+something similar.  Other people are going to stick pretty much to
+established planets, with an occasional unplanned diversion due to
+mechanical difficulties or similar plot devices.  Thus, you only need
+to map "interesting" places, and have a few unintersting ones if the
+players go off track or explore at random.
+
+In a "scout" campaign, you can simply skip over the months of tedious
+checking of worthless systems and tell them when they find something
+interesting.
+
+---Walter
+----------------------------------------------------------------------------
+
+Friday, 2 November 1990 23:55:42 UTC - Walter Milliken:
+In article <1990Oct31.1...@watdragon.waterloo.edu <>>, jdnicoll@watyew (Brian or James) writes:
+>        I already own GURPS Space. My question's really about the problem
+>of keeping track of several hundred or several thousand stars and the 
+>associated problem of 'what to do when the PCs leave the map'.
+Only map "interesting" stars (i.e., those with sentients on them, or
+valuable resources).  When the PCs leave the map, have a handful of
+"unknown" systems they can visit with enough to keep them busy for a
+while, and a lot more that the PCs will find a total waste of time.
+
+---Walter
+----------------------------------------------------------------------------
+
+Sunday, 4 November 1990 00:46:29 UTC - Charles Eldon Sisson:
+        What I see in this talk about 3-D space and the data overflow problem
+is alot of 2-D thinking. The best way to handle the situation is to have the
+physical facts match what is needed to make a proper story flow and/or allow
+the players and GM do what role-playing the would like to do.
+        If you think that this is too much to handle on the dfly, how does
+STAR TREK get away with it? (Please dont start argueing over that, I only
+use it to point out that accuracy and dramtic lisence will always be at
+odds with each other.)
+:w
+--
+===============================================================================
+I'M NOT LOST, MERELY POSITIONALLY UNCERTAIN | cesisson@watyew.waterloo.ed     |
+                                            | (Charles Eldon Sisson)          |
+===============================================================================
+----------------------------------------------------------------------------
+
+Sunday, 4 November 1990 15:57:12 UTC - Nicolai Shapero:
+On <Oct 30 17:32>, Viktor Haag wrote:
+ VH>The way I see it you have basically two easy solutions.  You 
+ VH>probably have
+ VH>lots of tough solutions too, but who wants to use those.
+
+ VH>i - make your universe so 'real' that your pc's will have a tough 
+ VH>time
+ VH>traveling anywhere, let alone off planet!  Space ships cost big 
+ VH>bucks, and the
+ VH>last people they want running around on them are grotty little 
+ VH>civilians.
+ VH>If you want to travel to other worlds, chances are you will get 
+ VH>frozen - not
+ VH>because of the time involved, but because you are easier to ship 
+ VH>that way,
+ VH>you use less O-2 and less food, and you don't care that you are 
+ VH>lying naked
+ VH>stuffed between Horace and Martha Walpole from Luna One.
+
+This, however, presupposes a certain "low" level of technology,
+in which spaceflight/starflight is extremely difficult.  If it is
+to remain a viable option, eventually it would have to become
+somewhat less expensive.
+
+ VH>ii - make your universe so 'space opera' that your pc's don't 
+ VH>care about the
+ VH>exact locations of nearby stars, they just know how many days 
+ VH>travel it takes
+ VH>from different locations.
+
+Even if they have a "map", all that map will represent to the
+players anyway will be the time required to travel from one
+system to another.
+
+There's a third approach:  make your universe internally consistent,
+move it AWAY from the local neighborhood (if starflight becomes
+easy and cheap, after all, why would everyone stay close to Mother
+Earth?), and keep just what information available that you're likely
+to need in any given gaming session -- the "nearby" systems are
+detailed, the "far away" systems need be much less so (and the data
+from unvisited "nearby" systems can be swapped for those of "far away"
+systems, should the players get pig headed and set their sights on
+heading "out there").
+
+-- Nicolai Shapero, the Mad Russian Sysop of StormGate Aerie 
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Sunday, 4 November 1990 16:09:22 UTC - Nicolai Shapero:
+On <Oct 30 16:41>, Brian or James (James Nicoll) wrote:
+ Bo>In Other Suns, humans run the risk of trampling 
+ Bo>on the toes
+ Bo>of the Great Powers if they run hither and yon in 
+ Bo>search of
+ Bo>trade [This isn't explicitely stated in the FGU 
+ Bo>version of OS,
+ Bo>but it seems obvious that underraces can't afford 
+ Bo>to piss 
+ Bo>off the Big Four]. Other problems might be range 
+ Bo>[the drive is
+ Bo>fast but the fuel consumption is faster], 
+
+Actually, it was the Big Five (Altani, H'Reli, Bjora, Ata'a, Uquoi).
+But providing for free (well...relatively unrestricted) trade is one
+of the basic reasons for the L'Doran Hegemony in OTHER SUNS.  As of
+the 2nd edition, the humans will have gotten a seat on the
+Central Committee Central Committee (making it the Big Six).
+
+Only trade restriction in the game is: no landings
+on inhabited worlds with pre-starflight
+technologies.
+
+As to generating the starmaps...well...that can be done with a simple
+IBM PC clone (or a MAC or an AMIGA, or any other single user stand
+alone machine).  For OTHER SUNS, the system generation technique requires
+a bit of die rolling and a bit of number crunching (both things that
+a simple computer can do quite quickly).  And in OTHER SUNS, if you
+only map those stars that are "interesting" (have planets
+or planetesimals) the average separation of mapped stars will be on
+the close order of 100 light-years (assuming a 5 ly average
+separation).  While this means a fair amount of mapping on a
+galactic scale, your players are likely going to stick fairly close
+to home.  And if they don't, you can always use the maps and system
+data for a "nearby" system that they HAVEN'T visited for the "out of
+the way system 5000 ly from anywhere" that they just happened
+to decide upon for a destination this week...
+
+-- Nicolai Shapero, the crazy mad engineer who wrote OTHER SUNS and
+                    just HAD to put his two cents in...
+
+ 
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Sunday, 4 November 1990 16:10:18 UTC - Nicolai Shapero:
+On <Oct 30 16:41>, Brian or James (James Nicoll) wrote:
+ Bo>Buy a Cray  and learn to live with mapping 10**9 stars :)
+ Bo>The nice thing about computers that they can 
+ Bo>handle some of the
+ Bo>skut work in running a campaign. The bad thing is 
+ Bo>that there
+ Bo>not all that many available 3-D mapping programs 
+ Bo>designed
+ Bo>for this sort of application and [just speaking 
+ Bo>for myself]
+ Bo>I couldn't design one myself and typing in all 
+ Bo>[big number]
+ Bo>of stars in a given large volume is tedious and 
+ Bo>time consuming.
+
+But that's what computers are for.  Wouldn't it make more
+sense to write one module to generate the positions of the
+stars, and write another module to output these positions
+in a form that your 3-D mapping program would accept?  Then
+add the ability for your system generation program to read
+the output file and generate another file for your data base
+program with all of the relevant system stats.  Add the special
+notes you want to the data base, and produce a few printed
+reports and bingo, you're done.  (After only a LITTLE
+hard work...:-)).
+
+
+-- Nicolai Shapero, the Mad Russian Sysop of StormGate Aerie
+ 
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Sunday, 4 November 1990 16:11:07 UTC - Nicolai Shapero:
+On <Oct 30 16:41>, Brian or James (James Nicoll) wrote:
+ Bo>Introduce reasons not to travel far far away
+[...]
+ Bo>Other problems might be range 
+
+ Bo>[the drive is
+ Bo>fast but the fuel consumption is faster], 
+ Bo>shortages in critical
+ Bo>components
+In OTHER SUNS, the typical freighter isn't likely to get more
+than about 3000-4000 ly on a typical fuel load.  There's also
+the system component MTBFs (mean-time-between-failures) to
+take into account, but that's more likely to get someone stuck
+between systems for an unholy period of time fixing things.
+
+This helps on the problem (characters will likely want to have
+SOME fuel left when they arrive at their destinations -- you
+can probably expect the longest hop to be 1000-1200 ly).  Of
+course, in a 1200 ly sphere, there are still going to be some
+4000 "interesting" star systems, of which perhaps 400 might
+have intelligent life forms resident, of which 20 might have
+star flight capacity (and hence be open for contact).  This
+tends to narrow down the options a LITTLE in OTHER SUNS, even
+though the stardrives are "fast".  (This discounts colonies
+set up by other member races of the L'Doran Hegemony but
+since they'll be on "interesting" systems only if the "Colonization
+Board" -- the Referee -- feels like putting them there, this
+should also not be much of a problem.)
+
+-- Nicolai Shapero, the Mad Russian Sysop of StormGate Aerie
+ 
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Monday, 5 November 1990 10:53:32 UTC - Nicolai Shapero:
+On <Nov 01 02:17>, William Henry Timmins wrote:
+ WH>A) In Space, you must limit the number of stars players may 
+ WH>visit. 
+ WH>You can do this in two ways. Either limit the size of available 
+ WH>stars
+ WH>(ie- only a few are habitable, or only a few are within reach), 
+ WH>or limit
+ WH>the availability of those stars (ie- travel to another system is 
+ WH>akin to
+ WH>taking a trip to Nigeria. More trouble than it's worth in most 
+ WH>cases)
+ WH>It's not that big a deal. 
+
+On the other hand, you can limit people without visibly limiting
+them.  How, you ask?  Simple: have your prepared systems sitting
+there, waiting for player character exploration.  And whichever
+system they visit...that's one of your pre-generated systems.
+
+Now I'll admit that this means you probably will need 20-30 pre-
+generated systems with perhaps 3-4 pre-generated encounters for
+each system (a fair amount of creative work).  But because they
+will run through each system you've created (eventually) it's
+hardly wasted work.
+
+This way, the effective options of the players are limited without
+forcing any "suspension of disbelief" by a "your characters can't
+go to that system -- I've not prepared the map for it, and don't
+know what's there.  You'll have to go to this other system instead."
+
+-- Nicolai Shapero, the Mad Russian Sysop of StormGate Aerie 
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Wednesday, 7 November 1990 14:43:43 UTC - Nicolai Shapero:
+On <Nov 02 23:26>, Walter Milliken wrote:
+ WM>About the only case I can see where you might need to detail a 
+ WM>lot of
+ WM>systems in a "fast FTL" campaign is if the PCs were scouts or
+ WM>something similar.  Other people are going to stick pretty much 
+ WM>to
+ WM>established planets, with an occasional unplanned diversion due 
+ WM>to
+ WM>mechanical difficulties or similar plot devices.  Thus, you only 
+ WM>need
+ WM>to map "interesting" places, and have a few unintersting ones if 
+ WM>the
+ WM>players go off track or explore at random.
+
+And in a "fast FTL" campaign, you can send those scouts to previously
+constructed "interesting" systems -- if they're part of a military or
+para-military organization, they can be expected to go where they're
+told to go.
+
+ WM>In a "scout" campaign, you can simply skip over the months of 
+ WM>tedious
+ WM>checking of worthless systems and tell them when they find 
+ WM>something
+ WM>interesting.
+
+Or only send scouts to systems that you've already defined
+as "interesting" and have fully detailed.  A system with planets,
+after all, is going to be "interesting" enough to keep a crew of
+scientists and explorers occupied for some time.
+
+-- Nicolai Shapero, the Mad Russian Sysop of StormGate Aerie 
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Wednesday, 7 November 1990 14:49:16 UTC - Nicolai Shapero:
+On <Nov 01 19:54>, Philip R. Groff wrote:
+ PR>Script more.  Restrict the players movements without 
+ PR>appearing to do so.
+
+Or perhaps prepare a set of "dummy" systems for use in the event
+that the players wander off the prepared map?  That way you can
+have details ready without forcing the players' movements.
+
+-- Nicolai Shapero, the Mad Russian Sysop of StormGate Aerie
+ 
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Wednesday, 7 November 1990 19:08:57 UTC - John J. Lang:
+One thing that was missing from the Other Suns systems was the
+density of the stars.  I have been planning on writing a program
+that randomly generates a star map, generates the planets, then
+have a manager that accesses this data base.
+What I am asking is, given a set grid size, what is the probability
+that a Star is at a particular point?
+
+I realize that I could do this for myself, but given that you
+designed the game, what sort of density did you assume?
+
+Thanks,
+
+John Lang
+la...@hpfcla.fc.hp.com <>
+----------------------------------------------------------------------------
+
+Wednesday, 7 November 1990 19:21:37 UTC - choi...@primerd.prime.com:
+>jdnicoll@watyew.UUCP in primerd:rec.games.frp asks...
+>        An aside to 2300 AD players: Anyone out there know what the
+>separation between stars is for all the binary and trinary systems
+>in the Near Star list?
+>        
+>                                                James Nicoll 
+You kinda have to make it up yourself.  SB companions are 0.1-1.0 AU
+from the primary, normal companions range from 1-10 AU and UC
+companions range from 1-100 AU.  Those with different coords are
+at least 10000 AU apart (usually more -- Proxima Centuri is 30,000AU
+from Alpha Centauri).
+
+/============================================================================\
+|Burton Choinski                                       choi...@s35.Prime.com <>|
+|  Prime Computer, Inc.                                  (508) 879-2960 x3233|
+|  Framingham, Ma.  01701               PRIME Computer -- We're still the one|
+|----------------------------------------------------------------------------|
+|Disclaimer: Don't even think that these are PRIME's opinions...             |
+\============================================================================/
+----------------------------------------------------------------------------
+
+Friday, 9 November 1990 15:34:17 UTC - William Henry Timmins:
+A good statistic is that in a cube of 10 cubic lightyears there will be
+one star. From there you should be able to figure it out. (I think
+that's a pretty good value)
+So, use a value of 8 (cheat, in other words), figure 2 blocks by 2 by 2,
+which means any given point along the grid (one point per lightyear) is
+going to have a 100/8 = 12.5% chance of having a star. 
+
+Approximately. (I'd make it 10 or 8 percent just to compensate)
+
+That SHOULD work out relatively well.
+
+-Me (Expecting someone else??)
+----------------------------------------------------------------------------
+
+Friday, 9 November 1990 23:01:46 UTC - patrick palmer:
+        You know, the very existance of FTL drives is, IMHO, stupid, not
+to mention impossible.
+        In Star Trek, ships travel by Warp (or Hyperwarp if you prefer)
+through space by causing the speed of light in a set area (in this case,
+around the ship) to become faster, allowing what in most of the universe
+is faster than light but in the "Warp bubble" is relatively slow.  All of
+this fits in with relativity, and there is now no use in mapping because
+the navigation computers (which are tied in with the Warp powering computers)
+keep the ship from crashing into a star or planet or black hole or whatever.
+If the Navigation computer goes down, so does the Warp computer.  And this is
+only AD 2286.
+        There is additionally a tie between Warp and thought, but it is
+very shadowy.
+        -David Palmer
+         (a.k.a. the Creature that ate Sheyboygan III)
+ 
+----------------------------------------------------------------------------
+
+Sunday, 11 November 1990 03:11:54 UTC - Rick Novy:
+> FTL drives are not only stupid but impossible<
+ 
+I have 2 comments for that remark...
+ 
+1. This is supposed to be FICTION!!!
+2. Have fun gaming at .003c around an empty solar system with no aliens
+andvery boring planets.  Exploration of the solar system may be man's 
+greatest adventure in reality, but in fiction it can be pretty dull 
+if you stick to reality.
+ 
+These are games, not textbooks.  I am probably the staunchest proponant 
+of believability in a game, but almost any interesting game has one 
+very major assumption. You can travel faster than light....magic exists.
+I'm surprised you didn't come right out and say magic is fiction therefore 
+stupid.
+
+
+--  
+Rick Novy - via FidoNet node 1:143/12
+UUCP: {pyramid,amdcad,apple}!weitek!wyrm!Rick.Novy
+----------------------------------------------------------------------------
+
+Sunday, 11 November 1990 17:44:00 UTC - Brian or James:
+In article <175.27...@wyrm.weitek.COM <>> Rick...@wyrm.weitek.COM <> (Rick Novy) writes:
+>> FTL drives are not only stupid but impossible<
+> 
+>I have 2 comments for that remark...
+> 
+>1. This is supposed to be FICTION!!!
+>2. Have fun gaming at .003c around an empty solar system with no aliens
+>and very boring planets.  Exploration of the solar system may be man's 
+>greatest adventure in reality, but in fiction it can be pretty dull 
+>if you stick to reality.
+        Not to disagree with your initial statement, but 9,000 km/s
+exploration and exploitation of the solar system can be pretty interesting.
+Think of books like 'Schismatrix' (Before the ETs show up) or 'Birth of Fire'
+or 'Venus of Dreams'. Admittedly, there's little in the way of gaming worlds
+set in one system only milieus, but it *could be done* in an interesting 
+fashion. 
+
+
+>These are games, not textbooks.  I am probably the staunchest proponant 
+>of believability in a game, but almost any interesting game has one 
+>very major assumption. You can travel faster than light....magic exists.
+>I'm surprised you didn't come right out and say magic is fiction therefore 
+>stupid.
+        Hmmm. I wonder what a realistic 'get me there and back fast in both
+my frame of reference *and* my homeworlds frame of reference' drive would look
+like...
+
+        'You see a *long* rotating cylinder. Your instruments tell you it
+is 10**9 km**3 of neutronium...'
+
+        'Oh, it just *looks like FTL. Really, all you're doing is going
+to a similar looking alternate universe where Tau Ceti is where our sun 
+is in our universe.'
+
+        'OK, we're going to Tau Ceti. Was that Tau Ceti in 2290 or 1675?
+I hate these 'any point in space-time' transit devices.
+
+                                                        James Nicoll
+----------------------------------------------------------------------------
+
+Sunday, 11 November 1990 19:37:54 UTC - William Henry Timmins:
+Um, even that idea is a little silly.
+FTL simply means being able to travel faster than this universe's limit.
+That applies to going to a different universe with a different light
+speed and popping back in, or warp bubbles, or ...
+
+Got it? Good. And the Star Trek ideas are just as silly as many others.
+How do they change the speed of light? If they don't explain the basic
+premise, it's so much pseudo science... There simply doesn't exist a
+method of FTL travel that fits with our knowledge of physics. (And
+quantum jumps don't count because there is no known method to make this
+effect macroscopic)
+
+And that's that.
+
+-Me
+----------------------------------------------------------------------------
+
+Monday, 12 November 1990 18:21:43 UTC - Jack a.k.a. Wildside:
+[ Please see bottom for the request for different types of FTL drives,
+as I will post a copy of the list that is created as a result of this. ]
+
+In article <1990Nov9.2...@midway.uchicago.edu <>> ar...@quads.uchicago.edu <> (patrick  palmer) writes:
+>
+>        You know, the very existance of FTL drives is, IMHO, stupid, not
+>to mention impossible.
+Not to try and be mean, but can you prove that FTL drives are impossible?
+If haven't you received your Nobel prize for it yet?  Most of the ideas
+that you are basing your idea of impossible on are only THEORIES.  For
+example, it was a theory that the world was flat, but it eventually was
+disproved.  Likewise, the theories that you are basing your assumptions
+on may be disproved in the future.
+
+> [stuff about Star Trek warps drives deleted ]
+
+Well, to try and remember some ideas of FTL that I can remember:
+
+-  a role-playing game called Universe which was out 5-10 years ago.
+        The way they achieved FTL was different.  A matrix aboard the
+        ship represented the way in which the universe seemed at a certain
+        point.  By using a psionic, they matrix was able to be changed
+        to make the matrix seem like it was at a different point in
+        space.  Due to some weirdness of the field which contained it,
+        the ship then became transported over great distances.
+-  the Traveller and Mega-traveller systems use a concept called warp
+        space.  Although it isn't stated, it seems like the warp engines
+        send, and keep the ship in an extra-dimensional space where
+        the ratio to our universe is large (i.e. small movement in warp
+        space = large movement in normal space).
+-  as far as I am aware of ( may be wrong here, so be lenient with flames )
+        in the Star Trek universe, the ship that is going real fast
+        creates a extra-dimensional space that is very close to our own,
+        with the exception of the 'The speed of light is not a rule, its
+        the law' problem as well as some other small effects that follow
+        from this assumption.  This is based upon prior knowledge as well
+        as the episode where Wesley was trying to create an improved warp
+        filed and his mother was 'sucked' into a pocket dimension that
+        was a direct result of the warp bubble.
+-  in a series of books about the Humanx confederation, they could either
+        go into a plus space or a minus space.  I remember that there were
+        problems going into the minus space and that the plus space was
+        deemed to be safer by a couple orders of magnitude.  To get into
+        this space, I believe that they used a gravity propulsion system
+        where a gravitational field was created in front of the ship.
+-  in a book that I just finished reading called Nemesis ( sorry, the
+        name of the author escapes me at the moment ), the laws that we
+        know hold at less than the speed of light.  However, on the other
+        side of the speed of light certain laws change that allow for fast
+        space travel.  Also, they use a drive that places them into this
+        space, but it requires a lot of calculation and knowledge of
+        gravitational constants and the likes...
+
+These are just concepts that I took from the top of my head.  None of these
+can be deemed impossible without a qualification.  The term 'impossible
+with our current understanding of the universe', I would accept.  As for the
+label stupid, the proposition of FTL drives could well be compared to that
+of the horseless carriage.  At the time, the people thought of it as
+impossible, but were later proved wrong by todays technology.  Another
+example is space flight, and yet another example is computers.
+
+
+On a happier note, if anyone out there wishes to send me a list of different
+types of FTL drives from different games/movies/books and a brief description
+of how they work, I wouldn't mind keeping a list of the idfferent types
+of FTL drives that have been hypothesized(sp?).
+
+Remember, imagination isn't stupid, nor is it impossible, but it allows
+us to create new ideas from almost nothing at all.
+-- 
+Jack a.k.a. Wildside   ... 2nd regeneration of a Time Lord
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        "But that's not decent"
+        "I am a pirate, I don't do decency!" - Don Carnage
+----------------------------------------------------------------------------
+
+Monday, 12 November 1990 23:39:22 UTC - Walter Milliken:
+In article <1990Nov12.1...@watserv1.waterloo.edu <>>, dewinter@watserv1 (Jack a.k.a. Wildside) writes:
+>On a happier note, if anyone out there wishes to send me a list of different
+>types of FTL drives from different games/movies/books and a brief description
+>of how they work, I wouldn't mind keeping a list of the idfferent types
+>of FTL drives that have been hypothesized(sp?).
+GURPS Space has a rather good overview of the various sorts of FTL
+drives and some of the other issues in FTL travel.  It doesn't focus
+on the pseudo-physics that "explain" the drive, but covers the typical
+sorts of drives that crop up in the genre.  Unfortunately, it doesn't
+list examples of well-known FTL in the literature, undoubtedly for
+copyright reasons.  But it covers all the basic variants I've heard
+of.
+
+Basically, drives seem to fall into three classes:
+
+Normal-space FTL:  somehow the ship evades the speed of light limit,
+  and maneuvers in normal space.  (GURPS calls this a warp drive.)
+  The Star Trek warp drive is the most notable example, but lots of
+  old SF drives fall into this category.
+
+Hyperspace drives:  the ship shifts to a different universe, travels
+  there to another position that corresponds with the desired
+  normal-space position, and then "drops" into normal space there.
+  The Star Wars drive, Niven's Known Space drive, and the "jump drive"
+  in Traveller fall into this class.
+
+"Instantaneous" drives:  these are drives where the ship simply goes
+  from point A to point B without any perceptible time lag in the
+  transition.  This includes the Infinite Improbability drive of
+  HHGttG fame, as well as Pournelle's Alderson drive, and various
+  teleportation, "stargate" or spatial congruency FTL "drives".
+
+Some drives are hybrid types, like Poul Anderson's quantum micro-jump
+drive, which is technically an "instantaneous" drive, but has such a
+short range that it acts much like a normal-space FTL drive.
+
+Then there are lots of variations within the types.  I won't go into
+them here -- GURPS Space has a very nice discussion of them, along
+with lots of other good stuff that anyone desiging a space campaign
+background would probably find useful -- I strongly recommend it to
+anyone interested in the space genre, whether or not they're
+interested in GURPS.
+
+---Walter
+----------------------------------------------------------------------------
+
+Tuesday, 13 November 1990 14:54:48 UTC - Nicolai Shapero:
+On <Nov 07 19:08>, John J. Lang wrote:
+ JJ>One thing that was missing from the Other Suns systems was the
+ JJ>density of the stars.  I have been planning on writing a program
+ JJ>that randomly generates a star map, generates the planets, then
+ JJ>have a manager that accesses this data base.
+
+In our local neighborhood, an average separation of 5 light-years
+between stars is about right.  I assumed most of the L'Doran Hegemony
+to be out on the rim, so similar densities would apply there.
+
+ JJ>What I am asking is, given a set grid size, what is the 
+ JJ>probability
+ JJ>that a Star is at a particular point?
+
+Very small.  But...in a given 125 cubic light-year volume of
+space, pretty good.  I'd go for determining the volume of the
+space you're planning on filling, dividing by 125, then randomly
+placing that many stars in the volume.  By the by, you might want
+to check the "randomness" of your random number generator before
+you do this -- and do a pairwise Chi-squared test.
+
+ JJ>I realize that I could do this for myself, but given that you
+ JJ>designed the game, what sort of density did you assume?
+
+As indicated, around 0.008 stars/cubic light-year.
+
+-- Nicolai Shapero, the Mad Russian Sysop of StormGate Aerie 
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Tuesday, 13 November 1990 22:07:07 UTC - Brian or James:
+        In support of Mr. Milliken, GURPS Space is the single best
+rpg overview of SF and how to run and design SF campaigns I've seen 
+(And I've seen most of them; I run a store). Anyone know how profound the
+differences between the 1st and 2nd version of it are? 
+                                                James Nicoll
+----------------------------------------------------------------------------
+
+Wednesday, 14 November 1990 16:10:02 UTC - Walter Milliken:
+In article <1990Nov13.2...@watdragon.waterloo.edu <>>, jdnicoll@watyew (Brian or James) writes:
+> Anyone know how profound the
+>differences between the 1st and 2nd version of [GURPS Space] are? 
+Yes -- not very.  The most major changes were the removal of character
+creation material (skills mostly) that is now in the Basic Set (as of
+3rd edition), and the updating of the weapons descriptions and tables
+to 3rd edition Basic Set rules (SS and Acc instead of PB and Inc).
+Some art was added to fill out the areas where material was removed,
+and most of the errata were fixed.  (Unfortunately, the
+period/distance formula for planet orbits is *still* wrong.  Somehow
+the correction I sent in long ago got lost.  I think the escape
+velocity equation is also wrong.)
+
+People owning the 1st edition of Space don't really need the second --
+the weapons table changes were published in Roleplayer a while back,
+and I believe they're also available on one of the errata sheets.
+Ultra-Tech also contains all the weapons changes, since it includes
+all the gadgets from Space and is post-BSIII.
+
+---Walter
+----------------------------------------------------------------------------
+
+Wednesday, 14 November 1990 18:18:28 UTC - Steve Coltrin:
+mill...@bbn.com <> (Walter Milliken) writes:
+
+>                                    (Unfortunately, the
+>period/distance formula for planet orbits is *still* wrong.  Somehow
+>the correction I sent in long ago got lost.  I think the escape
+>velocity equation is also wrong.)
+Has anyone else noticed that this same mistake was made in GDW's _Scouts_
+expansion for OrigTrav a good while before GURPS?  Any chance the equation
+was lifted straight from _Scouts_?
+
+>---Walter
+-- 
+spco...@uokmax.ecn.uoknor.edu <> (129.15.22.2)
+"We're not a hundred percent sure.  The interpreter went with them."
+----------------------------------------------------------------------------
+
+Wednesday, 14 November 1990 18:47:45 UTC - Mike Sellers:
+In article <1990Nov9.2...@midway.uchicago.edu <>> ar...@quads.uchicago.edu <> (patrick palmer) writes:
+>        You know, the very existance of FTL drives is, IMHO, stupid, not
+>to mention impossible.
+Not necessarily a bad opinion to have in SF gaming.  For years I've wanted 
+to create and run a realistic SF game that takes place wholely within the 
+solar system, with realistic (and thus extremely variable) flight times 
+between planets, etc..
+
+But then, having adopted a no-nonsense stance, you jump off the deep end with:
+
+>        In Star Trek, ships travel by Warp (or Hyperwarp if you prefer)
+>through space by causing the speed of light in a set area (in this case,
+>around the ship) to become faster, allowing what in most of the universe
+>is faster than light but in the "Warp bubble" is relatively slow.  All of
+>this fits in with relativity, 
+Except for the tiny difficulty with changing the speed of light, which is 
+supposed to be the same for all observers no matter their frame of reference.
+There are, no doubt, even more egregious flaws that a competent physicist 
+could pick out of this.
+
+
+> and there is now no use in mapping because
+>the navigation computers (which are tied in with the Warp powering computers)
+>keep the ship from crashing into a star or planet or black hole or whatever.
+>If the Navigation computer goes down, so does the Warp computer.  And this is
+>only AD 2286.
+>        There is additionally a tie between Warp and thought, but it is
+>very shadowy.
+I'll bet.
+
+>        -David Palmer
+
+Seriously, if you want FTL, use FTL.  If you don't, don't.  But don't fall 
+into the trap of trying to micromanage (or microrationalize) the physics 
+of this stuff.  I like playing in games with magic or FTL, and I watch 
+ST:TNG too, but I think it's a mistake to try to make it all seem plausable
+by our current standards.  For some of us, at least, saying this or that
+fantastic idea is stupid (not to mention impossible) while another version 
+of it is perfectly acceptable, reduces the enjoyment quite a bit.
+-- 
+Mike Sellers                | "If you don't get a good-night kiss,
+Mentor Graphics Corp.       |  you get Kafka dreams."
+msel...@mentor.com <>         |   -- Hobbes
+----------------------------------------------------------------------------
+
+Wednesday, 14 November 1990 21:51:08 UTC - Games Group 4/Gym Quirk:
+- show quoted text -In article <1990Nov13.2...@watdragon.waterloo.edu <>> jdni...@watyew.uwaterloo.ca <> (Brian or James) writes:
+>
+>        In support of Mr. Milliken, GURPS Space is the single best
+>rpg overview of SF and how to run and design SF campaigns I've seen 
+>(And I've seen most of them; I run a store). Anyone know how profound the
+>differences between the 1st and 2nd version of it are? 
+I don't have 2nd ed. But I've looked it over.  The primary changes are
+in the area of equipment and, if you have ULTRA-TECH, redundant.  The
+rest is simple cosmetics: adding errata, fixing typos, etc.  I like
+the new cover better than the original, but if you have 1st ed. Space
+and Ultra-Tech, you're doing just fine.
+
+>                                                James Nicoll
+
+
+--
+Capt. Gym Z. Quirk, net.terrorist (reformed) at ggroup4.unm.edu <http://ggroup4.unm.edu>
+(Known to some as Taki Kogoma)
+"If there's nothing wrong with me, there must be something wrong with the
+   universe."   --Bev Crusher    [ Wish I'd said that ]
+----------------------------------------------------------------------------
+
+Thursday, 15 November 1990 23:44:13 UTC - Walter Milliken:
+In article <1990Nov14.1...@uokmax.ecn.uoknor.edu <>>, spcoltri@uokmax (Steve Coltrin) writes:
+>mill...@bbn.com <> (Walter Milliken) writes:
+>>                                    (Unfortunately, the
+>>period/distance formula for planet orbits is *still* wrong.  Somehow
+>>the correction I sent in long ago got lost.  I think the escape
+>>velocity equation is also wrong.)
+>
+>Has anyone else noticed that this same mistake was made in GDW's _Scouts_
+>expansion for OrigTrav a good while before GURPS?  Any chance the equation
+>was lifted straight from _Scouts_?
+Well, I sent them the original of the orbit formula.  I believe the
+problem was that it was an ASCII file, and they had trouble reading my
+notation -- the problem was a minor transposition there.  I don't know
+where they got the escape velocity formula.  I think I gave it to them
+once, but they certainly didn't use anything remotely like it.
+
+It's possible they used Scouts as a cross-check -- they would be
+likely to have it around, and probably didn't have any of my more
+specialized sources at hand.
+
+(In case it's not clear, I was SJG's primary source on astronomy
+during the playtest of GURPS Space.  They certainly wanted everything
+to be accurate, and did a good job in most ways.)
+
+---Walter
+----------------------------------------------------------------------------
+
+Friday, 16 November 1990 02:16:02 UTC - Were-Mom:
+i think one of the most interesting things i have heard regarding
+what can and can't be done was said by a friend of my parents who
+used to be a physics prof at cleveland state university in ohio.
+we were talking about space travel, and science fiction, and the
+idea of ftl was brought up. he started off by saying this:
+   democritus (i believe he was the first) theorized that there
+were very tiny, indestructable particles he called 'atoms'. for
+what was known at the time, with the methods at his disposal,
+he was right.
+
+   newton had his theories; for what he new, with the background
+he had, and the instruments he had, he was right.
+
+   einstein told us we couldn't exceed the speed of light; for
+what he knew, with his background, and what we know & can do
+now, he is right.
+
+   x years from now, some person, with the background & theories
+further built up, may play quantum lawyer and find a way to move
+something faster than light. for his time, he will be right...
+
+   yes, true, there is more to it than this, but it does give you
+a nice place to start when thinking about the future in rpgs.
+
+
+   i've also always liked this quote; i don't remember who said
+it, maybe pournelle or niven. this is a bit of a paraphrase.
+
+   "if a scientist says something is possible, it probably is.
+if they says its impossible, don't listen to them; time will
+eventually prove them to be incorrect."
+
+joe di lellio
+-- 
+Usenet: ...!{uunet,ucbvax!ucscc,decvax!microsof,mcvax!ukc!pyrltd!scol}!sco!joed
+Internet: joed@sco.COM,joed%s...@ucscc.UCSC.EDU <>,@ucscc.UCSC.EDU:joed@sco.COM
+       My goal in life is to cause something to noticibly blue-shift.
+----------------------------------------------------------------------------
+
+Friday, 16 November 1990 16:47:04 UTC - William Henry Timmins:
+Could you send ME accurate astronomical details? (email) 
+And, if you have it on (electronic) file, any astronomical data you have
+(NOT planetary, stars: position (RA, declension, distance), type, mass,
+magnitude) or any other equations that may be useful...
+
+I've looked a LONG time for a good ephemeris and come up empty handed
+(well, I didn't look that HARD, but still...)
+
+-The IndeWHOPdeWHOP Will
+[Is this a fish I see before me?]
+----------------------------------------------------------------------------
+
+Friday, 16 November 1990 18:14:52 UTC - Kirsten Jacobus:
+If you can find it, pick up a copy of the old Universe game--either edition.
+It has a darn good map of local space (within 30 ly orf Terra).
+It gives the spectral classes, x,y,z coordinates, and a not-too-bad
+system of planet/system generation.
+----------------------------------------------------------------------------
+
+Friday, 16 November 1990 23:29:21 UTC - Walter Milliken:
+In article <wbF1U8K00...@andrew.cmu.edu <>>, wt0b+@andrew (William Henry Timmins) writes:
+>Could you send ME accurate astronomical details? (email) 
+For the benefit of anyone else who asks, no.  I don't have any compact
+source of useful data online.  Mostly what I did was write the tables
+in GURPS Space that are used for star generation, and corrected a lot
+of text.
+
+
+>And, if you have it on (electronic) file, any astronomical data you have
+>(NOT planetary, stars: position (RA, declension, distance), type, mass,
+>magnitude) or any other equations that may be useful...
+There are some of these out in netland.  Try the astronomy mailing
+list.  I don't think you'll get distance data, in general, but I think
+the Yale Bright Star catalog is FTPable somewhere.
+
+
+>I've looked a LONG time for a good ephemeris and come up empty handed
+>(well, I didn't look that HARD, but still...)
+My three main references for playtest checking GURPS Space were:
+
+The Observer's Handbook
+published by the Royal Astronomical Society of Canada, this book is
+chock full of useful information.  It's published yearly, and contains
+lots of stuff on the year's events, as well as various tables of
+planetary and stellar data.  Definitely my favorite astronomy
+reference.
+
+The Handbook of Chemistry and Physics
+(I won't say which edition -- it would date me!)  All the formulae are
+in here, if you can figure out how to find them.  My edition also
+contained some astronomical data, but you're better off with an
+astronomy reference.
+
+<title forgotten>
+a introductory astronomy textbook by Jay Pasachoff. (I think that's
+the right spelling.)  Lots of good material on general astronomy, and
+has useful data in tables in the back.  Many of the formulae are also
+in this text.  I believe this text is probably still in print -- try a
+university bookstore.
+
+Another good source of material is Sky and Telescope magazine, which
+covers amateur astronomy, and has lots of good articles.  Sky&Tel also
+sells all sorts of books about astronomy by mail order, as well as a
+sky atlas and a sky catalogue.
+
+---Walter
+----------------------------------------------------------------------------
+
+Saturday, 17 November 1990 00:56:47 UTC - David H. Thornley:
+- show quoted text -In article <16...@mentor.cc.purdue.edu <>> jac...@mentor.cc.purdue.edu <> (Kirsten Jacobus) writes:
+>
+>If you can find it, pick up a copy of the old Universe game--either edition.
+>It has a darn good map of local space (within 30 ly orf Terra).
+>
+>It gives the spectral classes, x,y,z coordinates, and a not-too-bad
+>system of planet/system generation.
+Either Traveller: 2300 or 2300AD (two editions of the same game) by GDW
+has an excellent map and accompanying booklet also.  I suspect that the
+only changes from the star catalog to that are a few renamed stars 
+(Neu Bayern comes to mind) - probably so they can catch anyone doing a
+direct copy for commercial reasons.  If you need the map, the game may
+be worth the price, and it should be a lot easier to find than Universe.
+
+DHT
+----------------------------------------------------------------------------
+
+Sunday, 18 November 1990 16:56:47 UTC - Nicolai Shapero:
+Steve Coltrin wrote:
+ SC>Has anyone else noticed that this same mistake was made in GDW's 
+ SC>_Scouts_
+ SC>expansion for OrigTrav a good while before GURPS?  Any chance the 
+ SC>equation
+ SC>was lifted straight from _Scouts_?
+
+SCOUTS came out a while after OTHER SUNS, and I'd noticed that they
+manage to get a number of formulas scrambled in the process of lifting
+them from OTHER SUNS.  (Note also:  in the MEGATRAV book, the artist
+lifted the design -- nay, the complete drawing -- of the gravtanks
+from OTHER SUNS, so this isn't the only time GDW has been involved
+in this sort of activity).
+
+-- Nicolai Shapero, the Mad Russian Sysop of StormGate Aerie 
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Monday, 19 November 1990 02:24:44 UTC - Nicolai Shapero:
+Were-Mom wrote:
+ W>   i've also always liked this quote; i don't remember who said
+ W>it, maybe pournelle or niven. this is a bit of a paraphrase.
+
+ W>   "if a scientist says something is possible, it probably is.
+ W>if they says its impossible, don't listen to them; time will
+ W>eventually prove them to be incorrect."
+
+I believe it is somewhat closer to:
+
+   If a learned scientists states that something is possible, he
+   is likely correct.  If he states that something is impossible,
+   he is equally likely incorrect.
+
+Paraphrase of a quote by Arthur C. Clarke.
+
+-- Nicolai Shapero, the Mad Russian Sysop of StormGate Aerie 
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Monday, 26 November 1990 00:52:38 UTC - William Henry Timmins:
+ W>   i've also always liked this quote; i don't remember who said
+ W>it, maybe pournelle or niven. this is a bit of a paraphrase.
+ 
+ W>   "if a scientist says something is possible, it probably is.
+ W>if they says its impossible, don't listen to them; time will
+ W>eventually prove them to be incorrect."
+I read that in Heinlein's 'Time Enough For Love'
+
+
+
+Who HE got it from, I don't know.
+-The Indefinable Will
+
+[I'm BAAAACK, I'm BACK in the fish agaaaaain....]
+----------------------------------------------------------------------------
+
+Monday, 26 November 1990 15:30:59 UTC - Brian or James:
+In article <cbI6RKW00...@andrew.cmu.edu <>> wt...@andrew.cmu.edu <> (William Henry Timmins) writes:
+>
+> W>   i've also always liked this quote; i don't remember who said
+> W>it, maybe pournelle or niven. this is a bit of a paraphrase.
+> 
+> W>   "if a scientist says something is possible, it probably is.
+> W>if they says its impossible, don't listen to them; time will
+> W>eventually prove them to be incorrect."
+>
+>I read that in Heinlein's 'Time Enough For Love'
+>
+>Who HE got it from, I don't know.
+        I'm willing to bet someone else's reproductive organs it was
+Arthur C. Clarke, in one of his essays. It *might* be in 'Voices for the
+Sky'. I'll check tonight.
+
+                                                        James Nicoll
+----------------------------------------------------------------------------
+
+Monday, 26 November 1990 18:32:51 UTC - Games Group 4/Gym Quirk:
+In article <cbI6RKW00...@andrew.cmu.edu <>> wt...@andrew.cmu.edu <> (William Henry Timmins) writes:
+> W>   i've also always liked this quote; i don't remember who said
+> W>it, maybe pournelle or niven. this is a bit of a paraphrase.
+> 
+> W>   "if a scientist says something is possible, it probably is.
+> W>if they says its impossible, don't listen to them; time will
+> W>eventually prove them to be incorrect."
+>
+>I read that in Heinlein's 'Time Enough For Love'
+Sounds like a paraphrase of Clarke's 1st(?) law:
+
+"If a distinguished scientist states that something is possible, he is
+probably correct.  If a distinguished scientist states that something
+is impossible, he is probably incorrect."
+
+[Does this thread belong in rec.games.frp?]
+
+
+>Who HE got it from, I don't know.
+I think I just told you.  ;-)
+
+>-The Indefinable Will
+>[I'm BAAAACK, I'm BACK in the fish agaaaaain....]
+
+--
+Capt. Gym Z. Quirk, net.terrorist (reformed) at ggr...@hydra.unm.edu <>
+
+(Known to some as Taki Kogoma)
+"If there's nothing wrong with me, there must be something wrong with the
+   universe."   --Bev Crusher    [ Wish I'd said that ]

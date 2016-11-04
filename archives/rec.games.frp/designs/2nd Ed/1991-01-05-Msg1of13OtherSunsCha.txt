@@ -1,0 +1,66 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/Akzxg4MJsaY
+TITLE: Msg 1 of 13: Other Suns/Chapter 2 
+
+----------------------------------------------------------------------------
+
+Saturday, 5 January 1991 19:46:14 UTC - Nicolai Shapero:
+      OTHER SUNS -- COPYRIGHT 1982, 1991 by N. C. Shapero
+           Chapter 2:  Characteristics  (Part 1 of 13)
+                         CHARACTERISTICS
+
+To  create an Adventurer, the player rolls dice for each  of  the 
+following characteristics.  This provides the basic parameters of 
+the  Adventurer's development.  The die rolls given are  for  hu-
+mans.   Other intelligent races may use different die  rolls  for 
+the various characteristics.  These differences are dealt with in 
+CHAPTER 4, INTELLIGENT SPECIES.
+
+1.   Strength  (STR):   helps determine the  damage  a  character 
+does,  how much equipment he can carry, and what weapons  he  may 
+use.  Strength can be increased through training up to the rating 
+for  the character's Constitution or Size, which ever is  larger.  
+Humans roll for strength on 3D6.
+
+2.   Intelligence  (INT):  the character's ability to  deal  with 
+abstractions  and  to learn from  experience.   Intelligence  for 
+humans  in  the general population is rolled  on  3D6.   However, 
+adventurous characters -- the spacers, the scientists, the  space 
+merchants -- are all a cut above average.  Thus all human  adven-
+turing  characters (i.e. all player run humans) roll for  INT  on 
+2D6+6.
+
+3.   WILL (WIL):  the character's strength of will and ego --  an 
+important  factor in the ability to resist and/or  power  certain 
+kinds of psionic attack and possibly to affect the world  through 
+direct  force  of will (see CHAPTER 7, PSIONICS AND  THE  USE  OF 
+WILL).  Will is also a measure of the char acter's overall  self-
+confidence.   Will  can be increased through training up  to  the 
+species maximum.  Humans roll for Will on 3D6.
+
+4.   Constitution  (CON):  the character's health.  It  helps  de 
+termine how much punishment (in combat or otherwise) a  character 
+can  take before he dies.  Constitution can be increased  through 
+training up to the maximum of Strength or Size.  Constitution  is 
+rolled  on  3D6 for humans in the general  population.   However, 
+adventurous characters -- the spacers, the scientists, the  space 
+merchants,  are  all a cut above average.  Thus  all  adventuring 
+characters  (i.e.  all  player run characters) roll  for  CON  on 
+2D6+6.
+
+5.   Endurance (END):  the character's ability to withstand  pain 
+and  to  engage in strenuous activity for  prolonged  periods  of 
+time.  Endurance is also a factor in determining how much  physi-
+cal punishment a character can take.  Endurance can be  increased 
+through  training up to species maximum.  Humans roll for  endur-
+ance on 4D10.
+
+                  (Continued in next message)
+
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------

@@ -1,0 +1,226 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/2BWUwr40tpU
+TITLE: Other Suns : 24 (sic 23) 
+
+----------------------------------------------------------------------------
+
+Monday, 15 October 1990 16:09:34 UTC+1 - John Redden:
+------------------ OS.23 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero.  This gaming material is
+distributed on a shareware basis.  If you do not use the material you
+owe the author nothing.  If you do use it please pay him what you
+think it is worth at a fair price becasue it took a damn lot of work
+to develop and playtest.  The USmail address is:
+
+Niall Shapero
+2536 Short Ave
+Los Angeles CA 90066
+USA
+
+Those of you with modems can dial into his BBS using this phone number:
+(213)822-6729
+
+Please email any comments to my electronic mailing address and I will
+pass them on to Niall.
+
+----------------  end of preamble -------------------------------------------
+details).
+
+Once  a  character has been immersed, all clothing  worn  (except
+modern  suits, as above, or items worn under such suits)  becomes
+ineffective  for protection from cold. Aquatic Skiltaire  do  not
+lose the protection of their fur: other furred Hegemonic sophonts
+do. Stage III Dakti shells will also shed water, and will  regain
+their  normal  protective value once removed from the  water.  In
+addition,  the  wind speed is doubled for purposes  of  computing
+apparent  temperature, and a hypothermia check is required  every
+CON+SIZ-20 MINUTES with HALF normal chance to avoid  hypothermia.
+These  checks continue until the character has been dried off  or
+gone into hypothermia.
+
+Snow  Blindness: Ice and snow are highly reflective not  only  of
+light  but  also of ultraviolet; on a bright day,  the  reflected
+glare  of  snow and ice can dazzle, temporarily  blind,  or  even
+permanently  damage the eyes of characters who are not  protected
+from  it adequately. This is especially true on  worlds  orbiting
+unusually  bright  stars, or occupying an orbit that  results  in
+more light than a being is accustomed to striking the surface.
+
+The  basic chance of avoiding dazzle is CONx5 (rolled on  1D100).
+This  is modified by primary star type and orbital radius of  the
+homeworld  of the character and the world he is currently  on  as
+follows:
+
+(1)  Add  the Dazzle factor for the primary  of  the  character's
+racial homeworld to the basic chance;
+(2)  Subtract the Dazzle factor for the primary of the  world  on
+which the character is adventuring from the result;
+(3)  Add  the  Dazzle factor for the orbital  distance  from  its
+primary  of the character's racial homeworld to the  result  from
+(2);
+(4) Subtract the Dazzle factor for the orbital distance from  its
+primary  of the world on which the character is adventuring  from
+the result from (3);
+(5)  If  there is no reflective material present  (such  as  ice,
+snow, or the like), add 100 to the result from (4), otherwise add
+nothing to the result from (4).
+Each  hour that the character is exposed to glare conditions,  he
+must  roll  1D100 against the value in step 5. If  this  roll  of
+1D100  is less than or equal to the result from step 5, then  the
+character  is  not  dazzled. If this  dazzle  avoidance  roll  is
+failed,  the character may attempt a Control of Self  skill  roll
+(if  he has this skill at a non-zero percentage) -- if he  fails,
+then the character is dazzled. If the dazzle roll is fumbled, the
+character is snowblind.
+
+Dazzle:  Dazzled  characters halve all sight based OBS,  and  all
+ACC, ATT, PAR skills for the duration of the dazzle. In addition,
+dazzled characters halve all vehicular operations, skiing,  snow-
+shoeing, and similar skills.
+
+Dazzle recovers if a CON x 2 roll on 1D100 is made (attempts  may
+be made once for each hour in which the character is NOT  exposed
+to  glare conditions). Each hour that a character is dazzled  and
+remains  exposed to glare conditions, he risks snowblindness:  he
+must roll CON x 2 or less on 1D100 (modified as per the  original
+dazzle  avoidance  chance) to avoid snowblindness (a  Control  of
+Self  skill roll, if made, will prevent the snowblindness  for  1
+hour).
+ 
+
+                    ICE WORLD I (PART 16 OF 28)
+
+Snowblind: A snowblind character is blind. He uses all weapons at
+the  -50% blinded penalty, and is NOT ALLOWED to use  any  sight-
+based observation skill (the psionic talent AWARENESS skill  may,
+however, be substituted). Recovery from snowblindness occurs on a
+CON  roll or less on 1D100, which may be attempted once per  hour
+in which the character is not exposed to glare conditions; howev-
+er, if the character is exposed to glare conditions for CON hours
+while  snowblind,  the condition becomes  permanent  (subject  to
+medical aid).
+
+Given a medical facility (the equivalent of a starship sickbay) a
+single exercise of the Medical Skill for the character's  species
+will  restore sight to a snowblinded character. If the  character
+was permanently blinded, a transplant will be necessary  (requir-
+ing  4 hours); otherwise, only "simple" medical treatment of  the
+eye damage is required (and 1 hour is needed).
+
+The  following  are  the Star Dazzle and  Orbit  Dazzle  modifier
+tables:
+
+Star type  Dazzle Factor
+========   ===========
+   F5       729
+   F6       538
+   F7       428
+   F8       240
+   F9       149
+   G0       144
+   G1       108
+   G2       100
+   G3        91
+   G4        66
+   G5        52
+   G6        37
+   G7        28
+   G8        25
+   G9        17
+   K0        13
+   K1        10
+   K2         8
+   K3         6
+   K4         5
+   K5         4
+   K6         3
+   K7         2
+   K8         2
+  K9 -- M1    1
+  M2 -- M9    0
+
+These  Star  type dazzle factors are based on the square  of  the
+luminosity of the primary x 100.
+
+Orbit    Dazzle    Orbit   Dazzle
+======== ======   ======== ======
+ 0.5       400    1.81-1.9   31
+0.51-0.6   278    1.91-2.0   28
+0.61-0.7   204    2.01-2.1   25
+0.71-0.8   156    2.11-2.2   23
+0.81-0.9   123    2.21-2.3   21
+0.91-1.1   100    2.31-2.4   19
+1.11-1.2    83    2.41-2.5   17
+1.21-1.3    69    2.51-2.6   15
+1.31-1.4    59    2.61-2.7   14
+1.41-1.5    51    2.71-2.8   13
+1.51-1.6    44    2.81-2.9   12
+1.61-1.7    39    2.91-3.0   11
+1.71-1.8    35      3.0    10
+
+These  orbital dazzle factors are based on the inverse square  of
+the orbital distance x 100.
+
+Frostbite: Frostbite is a familiar hazard facing individual's  in
+subzero  conditions. It results when flesh is exposed  to  suffi-
+ciently subnormal temperatures for sufficient lengths of time  --
+and  the  exposed flesh quite literally freezes. The  chances  of
+frostbite occurrence are regulated by the Wind Chill Table, which
+divides various apparent air temperature results into three zones
+of  frostbite hazard: "safe", "danger", and "great  danger".  The
+ambient  air  temperature and wind speeds must  be  modified  for
+clothing,  fur and/or shelter protection (as appropriate)  before
+the apparent temperature is determined.
+
+The  "safe"  zone offers little chance of frostbite:  a  roll  of
+((CON  x 10) + apparent air temperature) or less on  1D100  means
+that frostbite has not developed. If the apparent air temperature
+is above freezing (0o C), frostbite will NOT occur. This roll  is
+made for each two hours that the character is exposed to tempera-
+tures in the "safe" zone (where the apparent temperature is below
+freezing). If the roll is failed, either a Control of Self or  an
+Arctic  Survival  skill roll may be attempted --  and  if  either
+succeeds, no frostbite damage is taken.
+
+In  the "danger" zone, a roll of ((CON x 7) +  apparent  tempera-
+ture) or less on 1D100 must be made every 5 turns (10 minutes) or
+frostbite  damage is taken. If the roll is failed, a  Control  of
+Self or an Arctic Survival skill roll may be attempted -- and  if
+either is successful, no frostbite damage is taken.
+
+
+                    ICE WORLD I (PART 17 OF 28)
+
+In  the  "great  danger" zone, a roll of ((CON x  4)  +  apparent
+temperature)  or less on 1D100 must be made every melee round  or
+frostbite  damage is taken. If the roll is failed, a  Control  of
+Self or an Arctic Survival skill roll may be attempted -- and  if
+either is successful, no frostbite damage is taken.
+
+If  frostbite occurs, ALL locations that are not covered or  pro-
+tected in some fashion from the environment take 1D4 HIT  damage.
+If  all locations are covered or protected, 1D4 damage  is  taken
+against total hit points. Visibility: Visibility can sometimes be
+a problem in arctic conditions. Reduced visibility can be  caused
+by  snowfall  or  by windblown snow; as  necessary,  the  Referee
+should  roll  on the Visibility table to  determine  the  maximum
+sighting range.
+
+Attacks made against targets at greater than the maximum sighting
+range  are  made blind, with a 50% penalty.  Lasers  are  totally
+ineffective against targets beyond the sighting range.
+
+SURVIVAL TECHNIQUES
+
+Characters in subzero settings are faced with the most  difficult
+of  all survival situations. Some special points must be  consid-
+ered when attempting to overcome the hazards of the arctic.
+
+Improvised Shelter: Shelters of varying quality and effectiveness
+can be improvised from natural materials as needed.
+
+An  emergency  shelter  can be built by digging a  hole  in  deep
+and/or  hard packed snow. The sides screen out some  wind  (treat
+winds as half their actual speed before adjusting wind chill  for
+clothing worn), but do nothing against the other elements.

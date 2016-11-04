@@ -1,0 +1,61 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/EtlCSkIWuOs
+TITLE: Msg 2 of 13: Other Suns/Chapter 2 
+
+----------------------------------------------------------------------------
+
+Saturday, 5 January 1991 19:46:52 UTC - Nicolai Shapero:
+      OTHER SUNS -- COPYRIGHT 1982, 1991 by N. C. Shapero
+           Chapter 2:  Characteristics  (Part 2 of 2)
+6.   Dexterity  (DEX):  the character's ability to  move  quickly 
+and  accurately.  Dexterity may be increased through training  up 
+to species maximum.  Humans roll for dexterity on 3D6.
+
+7.   Charisma (CHA):  the character's ability to lead.  It is the 
+ability  to  say "follow me" and find oneself leading  a  charge.  
+Charisma  is subject to change (both up and down) depending  upon 
+the  success  or failure of previous ventures.  Humans  roll  for 
+charisma on 3D6.
+
+8.   Length  (LEN):  the height of the character, in  centimeters 
+(1  inch = 2.54 centimeters; 1 centimeter = 0.394 inches).   This 
+characteristic  determines the reach of the character.   It  also 
+helps  determine  the overall body mass of the  char  acter,  the 
+principal factor in the amount of total damage the character  can 
+take  before  dying.   It is assumed that  all  Adventurers  have 
+reached their full growth prior to entering play, so this charac-
+teristic  cannot  increase during the course  of  the  characters 
+career.  Humans roll for LEN on 110+6D20 for male characters, and 
+on 100+6D20 for female characters.
+
+9.   Build (BLD):  the massiveness of the character's bone  struc 
+ture  --  indicating how stocky, and how bulky  the  Adventurer's 
+body is -- the higher the roll, the stockier the build.  It is an 
+important factor in determining the overall size of the character 
+(and hence his ability to withstand damage).  This characteristic 
+may  only  change by one point from the original  roll  once  the 
+Adventurer  has  begun his career.  Human males roll for  BLD  on 
+3D6, human females roll for BLD on 3D4+1.
+
+10.  Telepathic  Strike  Capability (TSC):  the  measure  of  the 
+character's ability to launch telepathic attacks, to probe minds, 
+and  to handle psionic devices.  There is no species maximum  for 
+TSC  and no limit to the amount of training that may  be  applied 
+towards  increasing this characteristic. Humans roll for  TSC  on 
+1D6-5.  Characters  with  TSC less than or equal to  0  are  non-
+telepathic (though they may be trained).
+
+11.  Telepathic Resistance (TPR):  the measure of the character's 
+resistance to telepathic probes and attacks.  There is no species 
+maximum for telepathic resistance, and TPR may be trained without 
+limit.  Humans roll for telepathic resistance on 1D4+1.
+
+                  (Continued in next message)
+
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------

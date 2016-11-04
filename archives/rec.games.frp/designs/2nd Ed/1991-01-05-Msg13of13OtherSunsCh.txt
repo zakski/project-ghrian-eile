@@ -1,0 +1,72 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/QaqrGjxCQwU
+TITLE: Msg 13 of 13: Other Suns/Chapter 2 
+
+----------------------------------------------------------------------------
+
+Saturday, 5 January 1991 19:50:41 UTC - Nicolai Shapero:
+      OTHER SUNS -- COPYRIGHT 1982, 1991 by N. C. Shapero
+           Chapter 2:  Characteristics  (Part 13 of 13)
+STEALTH (STE)
+
+This  is the measure of the character's ability to act  surrepti-
+tiously and without detection.
+
+     Positive Primary Modifiers:   INT, DEX
+     Positive Secondary Modifiers: (none)
+     Positive Tertiary Modifiers:  (none)
+     Negative Tertiary Modifiers:  (none)
+     Negative Secondary Modifiers: WIL
+     Negative Primary Modifiers:   SIZ
+     Finagle Factor:               +9
+
+*****************************************************************
+Mikhail has a stealth bonus of +30%, computed as follows:
+          2 x INT   =  34
+          2 x DEX   =  36
+          ===============
+          Subtotal  =  70
+         -1 x WIL   =  -9
+         -2 x SIZ   = -40
+          ===============
+          Subtotal  =  21
+          Finagle   =   9
+          ===============
+          Total     =  30
+*****************************************************************
+
+                     (Message string ends)
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Tuesday, 8 January 1991 16:52:15 UTC - Kirsten Jacobus:
+Nicolai, will Other Suns still be findable in the eklektik server?
+I haven't the time to pull it off the group.
+----------------------------------------------------------------------------
+
+Wednesday, 9 January 1991 15:03:44 UTC - Nicolai Shapero:
+In an article <33...@mentor.cc.perdue.edu <>> Kirsten Jacobus wrote:
+ KJ>Nicolai, will Other Suns still be findable in the eklektik 
+ KJ>server?
+ KJ>I haven't the time to pull it off the group.
+
+I'm afraid I have no idea.  If you have access to a modem, you can always 
+check here at my bbs (phone:213-822-6729, handles up to 9600 HST -- sorry 
+no PEP or V32 at the moment).
+
+-- Nicolai Shapero, the Mad Russian Sysop of StormGate Aerie
+
+ 
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------

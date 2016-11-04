@@ -1,0 +1,62 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/5WbfFPGtfm4
+TITLE: Msg 7 of 13: Other Suns/Chapter 2 
+
+----------------------------------------------------------------------------
+
+Saturday, 5 January 1991 19:48:48 UTC - Nicolai Shapero:
+      OTHER SUNS -- COPYRIGHT 1982, 1991 by N. C. Shapero
+           Chapter 2:  Characteristics  (Part 7 of 13)
+LUCK (LUC)
+
+Luck may be described as the ability to fall into a compost  heap 
+and find a diamond.  Unlike most the other abilities listed, Luck 
+is given as a straight point value.  Depending upon the difficul-
+ties  or the odds involved, a player will have roll at  or  below 
+some  multiple (between one and six) for this  characteristic  on 
+1D100  in  order to have "made a luck roll".  This  procedure  is 
+refered to elsewhere in the rules as a "characteristic roll"  (in 
+this case, for LUC).
+
+     LUC = (INT + WIL) / 2
+
+where fractions are rounded up to the next largest whole number.  
+
+*****************************************************************
+Mikhail has a luck of 13, computed as follows:
+     (INT + WIL)/2 = (17 + 9)/2 = 26/2 = 13.
+Mikhail's  high intelligence more than compensates for his  below 
+average  will, resulting in a luck value of 13 (well above  aver-
+age).
+*****************************************************************
+
+                        ABILITIES BONUSES
+             AND HOW CHARACTERISTICS INFLUENCE THEM
+
+Each  character has various skills which he will be able  to  im-
+prove  through training and experience; his characteristics  will 
+influence how well he will do in each category of skill.
+
+Positive modifiers add to the category bonus, negative  modifiers 
+subtract from the characteristic bonus.  Primary modifiers  modi-
+fiers add (subtract) twice the characteristic value to (from) the 
+category  bonus.  Secondary modifiers add (subtract) the  charac-
+teristic value to (from) the category bonus.  Tertiary  modifiers 
+add  (subtract) one half the characteristic value to  (from)  the 
+category bonus.
+
+All primary, secondary, and tertiary positive and negative  modi-
+fiers  are  added, then the Finagle Factor is then added  to  the 
+result  to give the final category bonus; the Finagle Factor  has 
+been  defined so that a typical Human character will have a  zero 
+category bonus.
+
+                  (Continued in next message)
+
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------

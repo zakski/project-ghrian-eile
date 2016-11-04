@@ -1,0 +1,227 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/Fa5ULGG_o3Y
+TITLE: Other Suns : 18 
+
+----------------------------------------------------------------------------
+
+Friday, 12 October 1990 15:09:55 UTC+1 - John Redden:
+------------------ OS.18 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero.  This gaming material is
+distributed on a shareware basis.  If you do not use the material you
+owe the author nothing.  If you do use it please pay him what you
+think it is worth at a fair price becasue it took a damn lot of work
+to develop and playtest.  The USmail address is:
+
+Niall Shapero
+2536 Short Ave
+Los Angeles CA 90066
+USA
+
+Those of you with modems can dial into his BBS using this phone number:
+(213)822-6729
+
+Please email any comments to my electronic mailing address and I will
+pass them on to Niall.
+
+----------------  end of preamble -------------------------------------------
+                     ICE WORLD I (PART 3 OF 28)
+
+Temperate Winter Regions: These are regions of a world where  the
+average  temperature  is normally above freezing,  except  during
+winter months. On an earthlike planet, many temperate zone  areas
+would  fall  into  this category. Worlds  with  highly  eccentric
+orbits  or that orbit variable stars might be subject to  unusual
+and extreme surface temperature variations.
+
+Subarctic Regions: Similar to temperate winter regions, save that
+average  temperature is lower (perhaps below freezing). The  win-
+ters are long and cold, though summers can still be quite warm.
+
+Arctic  Regions:  In these frozen zones the  winter  temperatures
+will  be extremely low, and summer, if it occurs at all, will  be
+cold  by  temperate  zone standards. Tidally  locked  worlds,  or
+worlds where the illuminance from the primary is low enough  will
+consist mostly or completely of arctic regions.
+
+There  is,  of course, a considerable degree of  overlap  between
+areas, and it can be difficult to neatly categorize any  specific
+area  of  a planet into one of these regions. The  assignment  of
+regional  classification and characteristics is left strictly  up
+to  the Referee's discretion, rather than being tied to any  hard
+and fast set of creation rules. Generally, the Referee will  know
+what sort of region he wants to set a given adventure in prior to
+the  start of the adventure. In cases where  random  explorations
+are  being carried out, logic, common sense, or an idea  of  what
+seems most exciting or interesting for the situation at hand  can
+be applied to choose the overall region type.
+
+Once  an  area has been classified, the Referee will be  able  to
+determine  many  specifics concerning terrain and  conditions  in
+that area.
+
+Terrain and Snow Cover Determination:
+
+Terrain  conditions and the presence and extent of snow  and  ice
+must be determined when traveling through any region. To do this,
+the following four step process is to be followed.
+
+1.  Determine General Terrain: General terrain type  defines  the
+overall  nature of the ground over which the adventure is  taking
+place. In many cases, the general terrain will be known  already,
+if  the Referee has already prepared a map of the world in  ques-
+tion.  In  this case, the general location of the party  will  be
+known, and hence the overall conditions in that location. General
+terrain  types are open/clear, coastal, open water, or  mountain-
+ous.
+
+2. Determine Local Terrain: Local terrain represents the  terrain
+being traveled through at any given time. Local terrain types can
+be established through prior mapping or via a free form system.
+
+When  the Referee wishes to establish the overall picture of  the
+ground  to  be covered, he would be well advised to map  out  all
+local  terrain in advance. A scale no courser than 1 hex  per  30
+kilometers is recommended (this represents one day's march  under
+fairly ideal conditions). The Local Terrain Table may be used  to
+determine map hex contents in advance of the adventure.
+
+The free form approach is used when the Referee does not wish  to
+make  detailed  maps in advance. Roll once on the  Local  Terrain
+Table for each eight hours of party movement on foot  (regardless
+of the actual rate of movement). This roll establishes the  local
+terrain to be passed through for the next eight hour period.  For
+parties  using  vehicles,  roll for local terrain  on  an  hourly
+basis, again regardless of actual rate of movement (provided that
+it is not zero, of course).
+
+3. Snow Chance Determination: Once terrain has been  established,
+it  is  necessary  to determine the chance of  snow  cover  being
+present.  The Cloudiness and Humidity Table is used to  determine
+this chance. For each mapped hex or area crossed during free form
+travel, roll 1D100 for Cloud Percentage. Checking under the "Snow
+Cover Chance" for the current Cloud Percentage in the table gives
+the  percentage  probability for snow cover (to  be  modified  by
+situation as noted) in the current location.
+
+4.  Snow Cover Determination: The final step is to determine  the
+nature and extent of snow cover in the area. Choose the appropri-
+ate  terrain  for  the area, and roll 1D100  (with  modifiers  as
+noted)  three times to determine the type of snow cover  present.
+Snow  cover  is defined by type (wet or powder),  depth  (spotty,
+shallow,  deep) and the presence or absence of hard packed  snow,
+which can extend several meters under the new snow which is being
+described by the other rolls in this process.
+
+Changes  in Snow Cover: It is possible for the amount and  nature
+of  the snow cover to change significantly over the course  of  a
+journey  through  a given region as snowfall or  melting  occurs.
+This  process  is  discussed in the rules  section  dealing  with
+weather.
+
+Explanation of Terrain and Snow Cover: Results obtained from  the
+snow  cover and terrain tables each have a distinct  nature,  and
+may  pose  different problems to adventurers who  are  forced  to
+travel through these regions.
+
+Tundra:  Tundra  terrain typically occurs only in  subarctic  re-
+gions.  A tundra plain is broad, flat, and treeless; in the  win-
+ter, the ground is frozen solid, but in summer the plain  becomes
+wet  and marshy. Because they are open and level,  tundra  plains
+are easy to cross, though in the summer, movement on foot can  be
+hazardous. Tundra terrain is ideal for hovercraft, but (again  in
+summer) can sometimes bog down ATVs and other ground vehicles.
+
+
+                     ICE WORLD I (PART 4 OF 28)
+
+Permafrost:  Permafrost is very much like tundra, but  occurs  in
+regions where there is no summertime to melt the water locked  in
+the frozen ground. Like tundra plains, permafrost regions tend to
+be  level and open, and thus easy to cross. But  adventurers  who
+need  to  dig -- to find minerals, or to build shelters  --  soon
+discover that perpetually frozen ground can be almost  impossible
+to work with.
+
+Rugged Terrain: Rugged terrain can slow down a party in the  best
+of weather. In subzero, arctic weather conditions, rugged  ground
+can become far more hazardous. Uneven accumulations of snow  over
+rugged  ground can make deceptively level surfaces out  of  areas
+where  obstacles  and  dips alike are hidden.  The  result  is  a
+treacherous  region where men or vehicles can flounder  in  unex-
+pectedly  deep snow, or suffer accidents from concealed rocks  or
+barriers.  Even  hovercraft  can be badly knocked  about  by  the
+uncertainties of rough ground of this kind.
+
+Mountainous Terrain: Mountainous regions are even more  hazardous
+than  rugged ground. Even the easy parts of  mountainous  terrain
+have the same characteristics as rugged ground; beyond that there
+are  the problems of steep slopes, unexpected ravines  or  preci-
+pices, and the ever present danger of avalanche.
+
+Wilderness Terrain: Wilderness terrain can include a wide variety
+of  specific terrain types: clear, woods, rolling hills,  forest,
+and  so forth. The Referee should establish the exact  nature  of
+any  wilderness area based on planetary conditions and the  needs
+of the adventure. Generally, wilderness terrain will be easier to
+traverse than any other terrain types, though in wooded or  hilly
+regions, some vehicles might be slowed down somewhat.
+
+Temporary  Ice:  Temporary ice forms over small bodies  of  land-
+locked  water.  When  the temperature rises  above  freezing  the
+temporary ice melts, but prolonged subzero temperatures can cause
+small bodies of water to freeze solid. Temporary ice can be  very
+hazardous. As on ice, footing on temporary ice can be  uncertain;
+more importantly, the temporary ice is not always as solid as  it
+might appear. Thin ice can break under the weight of a vehicle or
+even a single character. This makes movement over temporary ice a
+dangerous task.
+
+Pack  Ice:  Pack ice forms in arctic and subarctic  oceans,  well
+away from major land masses. Even in the coldest arctic  regions,
+pack ice is unstable; warming caused by sunlight and by  shifting
+warm  ocean  currents  can cause pack ice to  break  up.  Terrain
+shifts  resulting  from these changes can drastically  alter  the
+nature of the "ground" over a relatively short period of time.  A
+party could easily find itself cut off by the formation of  poly-
+nyas  (open water or very thin ice between floes), or could  lose
+contact with a submersible vehicle forced to leave as the polynya
+freezes up around it.
+
+Shelf Ice: This form of ice has greater stability and  permanence
+than  pack  ice.  It forms near continental  land  masses,  where
+shallow water and the cooling effect of nearby land keeps temper-
+ature changes to a minimum. Though major alterations in the local
+temperature can still cause configuration changes -- particularly
+at the edges of shelf ice, where conditions gradually shift  into
+the  realm  of pack ice -- there is less likelihood of  major  or
+dramatic shifts over any period of time likely to be covered in a
+single  adventure. Specifics of movement over any of these  types
+of ice are discussed in a later section of the rules.
+
+Powder  Snow: Humidity and temperature dictate the nature of  any
+sort of snowfall. Powder snow is a soft, loosely packed, type  of
+snow which offers the most advantageous conditions for movement.
+
+Wet  Snow: Wet snow is a far more difficult to cross than  powder
+snow.  Specifics on movement over snow are discussed in  a  later
+section.
+
+Spotty  Snow  Cover: Spotty snow cover means just what  the  name
+says.  Snow has not accumulated significantly, except  in  spots.
+These spots can be easily avoided, thus negating the difficulties
+of movement through snow. Spotty snow over hard pack can still be
+a problem, however.
+
+Shallow  Snow Cover: Shallow snow cover is generally optimum  for
+arctic  travel.  Shallow snow provides traction  over  underlying
+hard pack or ice, but is not deep enough to impede travel signif-
+icantly  when  traveling on foot or in arctic  vehicles.  Shallow
+snow covers range from 0.25 to 8 centimeters depth.
+
+Deep  Snow  Cover: When the new snow  exceeds  eight  centimeters
+depth, it is classified as deep. Deep snow can be treacherous; it
+hides irregularities in the ground, may lie in large drifts,  and
+will generally slow both vehicle and personnel movement. It poses
+the  greatest hazards of any form of snow cover to both  men  and
+equipment.

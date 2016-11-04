@@ -1,0 +1,645 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/TdITotQTsns
+TITLE: Other Suns : 11 
+
+----------------------------------------------------------------------------
+
+Thursday, 4 October 1990 17:30:57 UTC+1 - John Redden:
+------------------ OS.11 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero.  This gaming material is
+distributed on a shareware basis.  If you do not use the material you
+owe the author nothing.  If you do use it please pay him what you
+think it is worth at a fair price becasue it took a damn lot of work
+to develop and playtest.  The USmail address is:
+
+Niall Shapero
+2536 Short Ave
+Los Angeles CA 90066
+USA
+
+Those of you with modems can dial into his BBS using this phone number:
+(213)822-6729
+
+Please email any comments to my electronic mailing address and I will
+pass them on to Niall.
+
+----------------  end of preamble -------------------------------------------
+
+ 
+                    SPECIES DESCRIPTION FOR OTHER SUNS
+ 
+ 
+ 
+     9.2.13 Khromatai
+ 
+     Char.   Dice       Expected         Species Max.
+     STR     3D6+2        12.5                24
+     INT     2D6+6        13                  21
+     WIL     3D6          10.5                21
+     CON     2D6+6        13                  21
+     END     3D10+10      26.5                44
+     DEX     3D6+6        16.5                28
+     CHA     3D6          10.5                21
+     LEN     6D10+120     153                 240
+     BLD     1D4+2        4.5                 7
+     SIZ     ---          16                  26
+     TSC     3D6          10.5                N/A
+     TPR     3D6          10.5                N/A
+ 
+     Expected Bonuses:
+     Accuracy       =  +19%
+     Attack         =  +21%
+     Damage Bonus   =  0
+     Dodge          =  +24%
+     Hit Points     =  15
+     Knowledge      =  +6%
+     Luck           =  12
+     Manipulation   =  +19
+     Observation    =  +6%
+     Parry          =  +20%
+     Persuasion     =  +2%
+     Stealth        =  +23%
+ 
+     Armor = 2 points fur (impact protection only)
+     Expected Mass = 41 kilograms (90 lbs)
+ 
+     Natural Weapon's damages:
+        claws on hands - 1D4
+        bite - 1D6
+        claws on feet - 1D6+1
+ 
+     9.2.13.1 BRIEF BACKGROUND
+ 
+       The Khromatai are a bipedal telempathic race capable of 
+quadrupedal  movement.   The race is more of a  family  than  one 
+race, which will be detailed further later.  Khromatai as a whole
+are a mammilian, omnivorous race modified by genetic engineering.
+ 
+       Thrae, the world of their origin, has a surface gravity of
+1.25  times  that  of  Earth, and orbits  an  F5  star  (Illiyha) 
+somewhere beyond  the  frontiers  of the  Hegemony.   Speculation
+and old records place the Illiyhen system somewhere in the Large
+Megellanic Cloud.  These same records indicate that the Khromatai
+attained sentience during their journey of unknown length inside
+their great "star swimmers"  and were genetically created, but no 
+records exist  as to who created them.  What is known is that 
+about 1000 years after `The Awakening' they reached their current
+home in the Pleiades cluster.
+
+       The Khromatai are decended from a number of mammilian
+species modified to the extent that individual physical 
+differences are mostly cosmetic while the physiology is nearly
+homogenus.  There are eight  distinct phenotypes that have
+evolved, along with a ninth phenotype combining the dominant
+traits of the other eight and is so called the `mixed' or
+homogenus tribe.  Seven phenotypes vaguely resemble terran
+mammals and have `common names' describing their features:
+Felids, Cervids, Ursids, Mustelids, Lepids, Vulpids and
+Rodentids.  The last phenotype was once an offshoot of the larger
+mustelid tribe, is now a separate group of ermine.  Each
+phenotype has a distinctive society akin to pre-Imperial Earth.
+Although the Khromatai as a race are not as gregarious as humans,
+they are still a very social race.
+ 
+    All Khromatai walk bipedally digitgrade but are capable of
+running quadruped. This later ability is apparently a holdover in
+their evolution and is slowly being phased out by sucessive
+generations. The Khromat tail is somewhat prehensile, and has
+been known to act as extra finger when necessary, though it has
+no strength to lift anything over a kilogram. A crest of mane-
+like fur runs from the forehead to just below the shoulder
+blades, fading into the denser body fur, and is culturally cut
+styled to suit the individual's aestetics.  A Khromat has a
+natural ability (30% base) to alter the color of the fur,
+allowing the Khromat to blend in with the natural surroundings,
+as well as express emotions.  Khromatai live an average of 480
+years.
+ 
+    The Khromatai settled space as a loose confederation of
+planets, with the original group of planets divided up one for
+each kafaren (the phenotype `tribes'). The central world, Evwol,
+is the gateway to the rest of the Cshastei, including:  Astraea,
+cultural center of the Cshastei and omafar ("first-home") to the
+Mus'Chirlai; Bait A'Jausa, omafar to the Vak'Pannlai and
+Manufacturing capital; Euterpe, omafar of the Hles'Chirlai;
+K'Velen of the Emkharnae and the Diplomatic Corps; Medenagan,
+agricultural center and  omafar to the Kerv'Dirlai; Mystriah of
+the Femilirilai and trade center for the Cshastei; Pallmarrica, 
+nominally `first-home' to the S'Chasslai but more important in 
+its scientific reasearch; Simfasudan, first world of the 
+Rusagralai, and Vrrt'Fiheit of the T'Chiklai; there were just
+over 90 worlds within the Cshastei at the time of its 
+assimilation into the Hegemony.  There has always been a strong 
+sense of competition between the kafarai with little of the 
+bloodshed of human history, although some bloodly confrontations
+have been known.  The Khromat Cshastei, their intersystem ruling 
+body, is a republican democracy, as well as are most of the local
+governments.  Those governments not patterned like the Cshastei
+can be just about anything from a monarchy to anarchy to a few 
+that has no analog in human politics.
+
+       The Khromatai are decended from a number of mammilian
+species modified to the extent that individual physical 
+differences are mostly cosmetic while the physiology is nearly
+homogenus.  There are eight  distinct phenotypes that have
+evolved, along with a ninth phenotype combining the dominant
+traits of the other eight and is so called the `mixed' or
+homogenus tribe.  Seven phenotypes vaguely resemble terran
+mammals and have `common names' describing their features:
+Felids, Cervids, Ursids, Mustelids, Lepids, Vulpids and
+Rodentids.  The last phenotype was once an offshoot of the larger
+mustelid tribe, is now a separate group of ermine.  Each
+phenotype has a distinctive society akin to pre-Imperial Earth.
+Although the Khromatai as a race are not as gregarious as humans,
+they are still a very social race.
+ 
+    All Khromatai walk bipedally digitgrade but are capable of
+running quadruped. This later ability is apparently a holdover in
+their evolution and is slowly being phased out by sucessive
+generations. The Khromat tail is somewhat prehensile, and has
+been known to act as extra finger when necessary, though it has
+no strength to lift anything over a kilogram. A crest of mane-
+like fur runs from the forehead to just below the shoulder
+blades, fading into the denser body fur, and is culturally cut
+styled to suit the individual's aestetics.  A Khromat has a
+natural ability (30% base) to alter the color of the fur,
+allowing the Khromat to blend in with the natural surroundings,
+as well as express emotions.  Khromatai live an average of 480
+years.
+ 
+    The Khromatai settled space as a loose confederation of
+planets, with the original group of planets divided up one for
+each kafaren (the phenotype `tribes'). The central world, Evwol,
+is the gateway to the rest of the Cshastei, including:  Astraea,
+cultural center of the Cshastei and omafar ("first-home") to the
+Mus'Chirlai; Bait A'Jausa, omafar to the Vak'Pannlai and
+Manufacturing capital; Euterpe, omafar of the Hles'Chirlai;
+K'Velen of the Emkharnae and the Diplomatic Corps; Medenagan,
+agricultural center and  omafar to the Kerv'Dirlai; Mystriah of
+the Femilirilai and trade center for the Cshastei; Pallmarrica, 
+nominally `first-home' to the S'Chasslai but more important in 
+its scientific reasearch; Simfasudan, first world of the 
+Rusagralai, and Vrrt'Fiheit of the T'Chiklai; there were just
+over 90 worlds within the Cshastei at the time of its 
+assimilation into the Hegemony.  There has always been a strong 
+sense of competition between the kafarai with little of the 
+bloodshed of human history, although some bloodly confrontations
+have been known.  The Khromat Cshastei, their intersystem ruling 
+body, is a republican democracy, as well as are most of the local
+governments.  Those governments not patterned like the Cshastei
+can be just about anything from a monarchy to anarchy to a few 
+that has no analog in human politics.
+
+    The line of decent is more determined by culture than
+biology, but as a general rule offspring trace their lines
+through their same-sex parent and/or through that parent whose
+career the offspring chooses to pursue.  Since some cultures have
+group  parenting,  open  adoption, and other  methods  of  child-
+rearing, one can never be sure who is the parent of whom.  The 
+Khromatai are polygamous by nature and most of their cultures 
+reflect this and all marriage forms --including interratial and 
+interspecial-- are considered respectable (if a bit odd) by the 
+other cultures.
+ 
+    The Khromat race has been known of in the Hegemony since the
+Third Expansion, but since no active attempt was made by the
+Khromatai to join or fight the Hegemony (seeing that they were
+content enough by themselves), they were forgotten and all but
+lost to Hegemonic records until the beginning of the Fifth
+Expansion.
+ 
+  9.2.13.1.1 Characteristic Differences of the Khromatai
+ 
+    Because of their geneticly engineered background, all
+Khromatai are biologically the same regardless of their
+phenotype.  Natural evolution has been very slow, however, to
+completely eradicate the racial distinctions between the kafarai,
+and so there are some minor changes in characteristics that
+reflect this:
+ 
+    Kafaren       Modifiers
+    Emkharnae     CHA +4, DEX +2, LEN -10
+    Femlirilai    CHA +2, LEN -5, TSC & TPR 3d10
+    Hles'Chirlai  CON +3, LEN -20
+    Kerv'Dirlai   END 4d12, DEX -4, LEN +20
+    Mus'Chirlai   DEX +2
+    S'Chasslai    no modifiers needed
+    T'Chiklai     STR -2, DEX +4, LEN -30
+    Rusagralai    STR +6, BLD +3, LEN +30
+    Vak'Pannlai   INT +2, LEN +10
+ 
+       The original characteristics listed is the mean average of
+the entire race and so, as a result, is the characteristics of
+the S'Chasslai kafaren, therefore no modifiers are necessary.
+For those modifiers that are a dice roll, replace the S'Chasslai
+roll with the modifier.  The expected and species maximum numbers
+should also be changed by the modifiers for the individual
+kafaren. (For example, the Vak'Pannlai Intellegence maximum is 26
+instead of 24 as the unmodified roll of 3d6+2 is now 3d6+4.)
+ 
+       The S'Chasslai are a special kafaren for the `mixed'
+khromatai.  The kafarai are the next social group of importance 
+above  the  extended  family,  and so  they  are  very  important 
+to the khromat psyche.  Because of khromat genetics, there is  a
+very high percentage of fertile hybreds from the union of between
+khromat and any other mammilian.  This has caused over the course
+of centuries enough half-khromatai and mixed-khromatai that would
+not easily be recognized within a parent's kafaren to cause 
+emotional duress, and so the S'Chasslai clan was formed.  
+S'Chasslai can look like anything, from a antlered fox to a bushy 
+horse-tailed rabbit to a human with a short nap of polychromatic
+fur: the only requirement to join the kafaren is proof of at 
+least one Khromat in the applicant's lineage.
+
+
+    9.2.13.1.2 Ancient Weapons of the Khromatai
+ 
+       The braidwhip is a series of obsidian balls attached to
+the neck crest by a leather thong braided into the hair. It is a
+class H1 type B weapon, 0.8 meters long and weighs 0.5 kilograms.
+It has 12 hit points, does 1d4 of damage, and its training costs
+are as follows: 100/150/400/600/800.  The braidwhip costs 15 smu.
+ 
+       The tailspur is a scythe designed to fit snugly over the
+end of the tail.  It is a class J1 type S/T, 0.6 meters long and
+weighs 1.8 kilograms.  It has 25 hit points, does 1d6+1 damage,
+and its training costs are as follows: 75/150/300/450/600.  The
+tailspur costs 50 smu.
+ 
+     9.2.13.2 NAMES AMONG THE KHROMATAI
+ 
+       A Khromat has three names: a kafaren name, a given name,
+and a `chosen' or family name.  When addressing a Khromat for the
+first time or as an occassional acquaintance, it is proper to
+speak their kafaren before their given and chosen names.  The
+kafarai are listed below:
+ 
+       common name       plural form    singular form
+       Ermine            Emkharnae      Emkharnen
+       Felid             Femlirilai     Femlirilen
+       Lepid             Hles'Chirlai   Hles'Chirlen
+       Cervid            Kerv'Dirlai    Kerv'Dirlen
+       Mustelid          Mus'Chirlai    Mus'Chirlen
+       'Mixed'           S'Chasslai     S'Chasslen
+       Rodentid          T'Chiklai      T'Chiklen
+       Ursid             Rusagralai     Rusagralen
+       Vulpid            Vak'Pannlai    Vak'Pannlen
+ 
+ 
+    For the majority of the Khromat race, given names are pretty
+much arbitrary with the only rules being female names end in
+vowels (a,e,i,o,u, and h in combination with any standard vowel
+to make a shortened `long vowel' sound, as in Shaneh which is
+pronounced shaw-NI) and all male names end in soft consonents
+(r,n,b,d,l,s,kh, and rr which is a purr-sound).  Parents usually
+choose names that reflect something important to them, some
+event that occured at the child's birth, or the name of someone
+they wish to remember.
+ 
+    For example, Emkharnae Micole and Micah are twins who were
+born when the Greater Moon of Pallmarrica was rising. Micole is
+the elder, hence Mi-cole (Mii means `moon' and Acole means
+`rise') and her sister is Mi-cah (Iicah means `high' or `risen').
+In H'Tosslii all vowels are pronounced separately and have no
+`long' and `short' sound (unless combined with an 'h'), but some
+of the older tongues have the double vowel sounds, so in the
+above example their names can be pronounced either  /MEE-kol-e/
+and /MEE-kaw-h/ or /MY-kaul-e/ and /MY-kay/, depending on the
+person's liguistic background, but all vowels should be
+pronounced individually.
+
+
+    The 'Chosen' names of Khromatai are titles of record taken at
+adulthood, and can be one of two different types. The most common
+chosen name is that of the parent the offspring traces his or her
+line  or career from.  Take the chosen parent's name and add  one 
+of the following endings:
+ 
+    -ica or -ika if character is female (means "Daughter")
+    -isen if character is male (means "Son")
+    -aseh if character is male or female (means "Child")
+ 
+    For example, Micole chose to follow in her father's
+footsteps.  Her full name is then Micole Khemarrica, after her
+father Khemarr.
+ 
+    The other type of chosen name is derived from the character's
+profession or some aspect of it.  Some common names include:
+ 
+    Frrinsen    = Forester (Frrin = `tree')
+    Mik'Farlen  = Explorer (Mik' = `study',  Afar = `world')
+    Chishasta   = Starchaser (Chishe = `hunt' or  `chase',
+                  Asta = `star')
+    Vinsoonen   = Seaman (Vinsoon = `sea')
+    Semasasen   = Dancer (Semasa = `[to] dance')
+    Mannasen    = Artist (Manni = `art' or `create')
+    Liiafar     = Teacher (Liia = `learn',  Afar = `world')
+    Akuaseh     = Waterchild (Akuu = `water')
+    Nefiir      = Firestone (Neh = `stone',  Fiir = `fire')
+ 
+    Micole's older brother, Jonnathan, became an interpreter for
+a merchant company.  He chose as his full name Jonnathan
+Asteilii, meaning Jonnathan Many-Stars'-Language (Astae = stars
+and -lii = language).
+ 
+    The Khromat Vak'Pannlai and Kerv'Dirlai have extended family
+units called clans.  Where [P1] is the clan name, [P3] is the
+given name of the individual, and [P2] is the gender particle (no
+for  females, nen for males), the full name of the individual
+would be [P1]+[P2]+[P3], not including the kafaren name.
+ 
+    If, for instance, you were to meet a female Khromat fox named
+Semasali from the Akiila clan for the first time, her name full
+formal name would be Vak'Pannlen Akiila no Semesali.  The
+familiar form would be just her given name, Semesali, or a
+nickname which maybe the translation of her full name:  for
+Akiila no Semesali it would be Dancing Hawk.
+ 
+    For the Kerv'Dirlai, the familiar form would be his or her
+given name plus the suffix -(a)lie for females and -alin for
+males to denote belonging to a clan family.
+ 
+    Nicknames are common for all Khromatai.
+ 
+
+     9.2.13.3 KHROMAT LANGUAGES
+ 
+       Every khromat speaks at least three languages:
+ 
+     9.2.13.3.1 Kafarai Tongues
+ 
+       85% of all Khromatai speak their kafaren tongue as their
+native language (the kafaren tongue name is the kafaren root word
+plus the suffix -lii eg. Femlirilii).  There are several
+languages which have more specialized uses that can also be
+spoken as a native language, but less than 6% of the population
+speaks these specialized tongues as a native.  The rest of the
+Khromatai speak H'Tosslii, their non-Khromat parent's language,
+or speak S'Chasslii even if they are not of that kafaren (it is
+considered the easiest of the kafarai tongues to learn and so is
+commonly spoken by everyone dealing with other races).  Special
+note:  all Khromatai native to Evwol speak H'Tosslii at their
+speak/read Own Language base, and their `native' tongue at the
+H'Tosslii base listed below.  A Khromat speaks his or her native
+tongue at a base of INTx6, and read/writes at a base of INTx5.
+ 
+     9.2.13.3.2 H'Tosslii
+ 
+       H'Tosslii, or Universal Khromat, is similar to L'Doran as
+being an artifical language to standardize the race.  The Khromat
+Cshastei has been slowly converting the race to H'Tosslii as its
+primary language, and all proper names are written in H'Tosslii.
+Evwol, being the capitol of the Cshastei, is the first (and
+currently, only) world to have its population speak H'Tosslii as
+a `native' language, with the change in language base shown
+above.  A Khromat speaks H'Tosslii at a base of INTx5, and
+read/writes H'Tosslii at a base of INTx4.
+ 
+     9.2.13.3.3 Khiomemaii
+ 
+       Khiomemaii, the language of color, is not a writable
+language.  It uses the Khromat's inherant abilities of camouflage
+to communicate to one another a complex body-language.  Khromatai
+`speak' Khiomemaii with a 30% base, and is trainable only through
+their natural camouflage ability, hence the Natural Camouflage
+skill directly relates on their `speaking' ability of the
+language.  Races with similar camouflage abilities (i.e. Crest
+Cats) can learn the language and have it listed under Languages,
+but training is separate from their Natural Camouflage Skill.
+Non-camouflage races can also learn the language, but will
+require a `Hololator' (a visual translator computer) to actually
+'speak' it.
+
+
+     9.2.13.4 THE KHROMAT OUTLOOK
+ 
+       1) There is a passion for physical pleasure and the
+investigation of the universe (they are hedonists and are
+polygamous by nature, although not all choose to be so).
+       2) The seven cardinal virtues are: curiosity, courage,
+honor, imagination, empathy, mental agility, and a sense of
+humor.
+       3) Strength of will and character, compassion, and
+tenacity are also considered important.
+       4) Only these virtues justify power over another
+intellegent life form.
+       5) Virtue is both a means to an end and rewarding in its
+own right.
+       6) There is a basic natural law governing all intellegent
+life forms.
+       7) Under this law, all intellegent life forms are
+basically equal, though their abilities may differ.
+ 
+ 
+       Attitudes of the Khromat Upper/Middle Class
+ 
+    Characteristic         Khromat Attitude
+    `Human' equality       Axiomatic
+    World View             Optimistic (hedonist)
+    Dignity                Reasonable to a degree
+    Poverty                No discernable attitude
+    National Memory        Long
+    'World' Domination     Incomprehensible
+ 
+ 
+    Attitudes of the Khromat Elite
+ 
+    Characteristic                        Khromat Attitude
+    Power Evokes                          Respect
+    Greatest Political Force              Oratorical Skill
+    Most great individuals receive        Admiration
+    Hero image                            The Enlightened Teacher
+    Individualism                         Exalted
+    Primitive Masses are                  Children
+    Sophisticated, educated aliens evoke  Interest
+    Ambition in others                    Accepted
+    Greatest Weakness                     Narrow-Mindedness
+    Attitude toward others' culture       Interest
+    Dilettanteism                         Its own reward
+    Leisure                               A worthwhile goal, but
+                                          not the only worthwhile
+                                          goal
+
+
+  9.2.13.5 KHROMAT PHYSICAL CHARACTERISTICS
+ 
+    (1)  Gravitational Norm and Tolerance Range: 1.25 g, 0-2g,
+max 5g.
+    (2)  Atmospheric Norm and Variation Tolerance: 000-000 mm Hg
+Oxygen, 010-025 mm Hg Water vapor, 1.30 atmospheres.
+    (3)  Temperature Rance Norm and Tolerance: 0 to +30 degrees
+C mean; -10 to +40 degrees daily.
+    (4)  Electromagnetic Range(s) Tolerated: 0-30 lumens per
+square centimeter; wavelengths greater than 300 Angstroms.
+    (5)  Size Range: 3' to 7' tall
+    (6)  Chemical Base: Carbon
+    (7)  Particle Radiation Tolerance: Less than 0.04 rem steady
+state (per week), less than 100 rem short term.
+    (8)  Sensory Types, location, and sensitivies:
+    (8A) Electromagnetic:
+         Coarse: 7000-10,000 Angstroms; skin
+         Fine: 3000-6500 Angstroms - color vision; eyes
+    (8B) Pressure Differential:
+         Remote: 20-20,000 cycles; ears
+         Contact: skin, muzzle hairs
+    (8C) Chemosensing:
+            Coarse: Depends on substance; skin, tongue
+            Fine: Nasal cavity (slightly more sensitive than
+human), tongue
+       (8D) Damage Detection:
+            Corrosion: skin
+            Other: internal electromagnetic nervous system
+       (8E) Texture Sensing: skin
+       (8F) Psi Senses: Telempathic communications to an average
+of 105 meters (10 meters per point TSC).
+       (8G) Other:
+       (9)  Substances absorbed: Oxygen, other creatures, fruit,
+water, miscellaneous trace elements.  Omnivorous.
+       (10) Substances emitted: Water, Carbon Dioxide,
+miscellaneous solid, liquid, and gaseous organic compounds.
+       (11) Reproductive Methods: Typical mammalian; gestation
+period 360 days (twin birth)
+       (12) Body Shape and Natural Weapons: Varies with
+phenotype; mustelid, felid, lepid, cervid, ursid, vulpid,
+rodentid, all bipedal with limited quadrapedal movements, tailed;
+teeth, hands, feet, retractile claws on hands, non-retractile
+claws in toes.
+       (13) Periodic Functions: 36-38 hour day/night sleep cycle, 
+varies by kafaren: Hles'Chirlai, Kerv'Dirlai, S'Chasslai,
+Rusagralai (diurnial); Emkharnae, Femlirilai, Mus'Chirlai, 
+T'Chiklai, Vak'Pannlai (nocturnal); 30-36 day menstrual cycle.
+       (14) Non-sensory Psi Functions: varies with individual.
+
+
+     9.2.13.6 KHROMAT PSYCHOLOGICAL CHARACTERISTICS
+ 
+    EMKHARNAE:
+          Brave <-> Cowardly         = 40-81
+          Cautious <-> Reckless      = 45-91
+          Forgiving <-> Vengeful     = 30-71
+          Generous <-> Miserly       = 35-81
+          Hedonistic <-> Stoic       = 80-96
+          Honorable <-> Treacherous  = 50-81
+          Humble <-> Arrogant        = 30-71
+          Merciful <-> Cruel         = 50-91
+          Optimistic <-> Pessimistic = 70-81
+          Peaceable <-> Combative    = 30-51
+          Trusting <-> Suspicious    = 20-71
+          Xenophile <-> Xenophobe    = 50-96
+ 
+    FEMLIRILAI:
+          Brave <-> Cowardly         = 40-81
+          Cautious <-> Reckless      = 30-66
+          Forgiving <-> Vengeful     = 40-71
+          Generous <-> Miserly       = 50-81
+          Hedonistic <-> Stoic       = 80-96
+          Honorable <-> Treacherous  = 50-81
+          Humble <-> Arrogant        = 40-81
+          Merciful <-> Cruel         = 50-91
+          Optimistic <-> Pessimistic = 50-81
+          Peaceable <-> Combative    = 30-51
+          Trusting <-> Suspicious    = 45-76
+          Xenophile <-> Xenophobe    = 50-96
+ 
+    HLES'CHIRLAI:
+          Brave <-> Cowardly         = 40-81
+          Cautious <-> Reckless      = 20-51
+          Forgiving <-> Vengeful     = 40-71
+          Generous <-> Miserly       = 70-91
+          Hedonistic <-> Stoic       = 90-96
+          Honorable <-> Treacherous  = 50-81
+          Humble <-> Arrogant        = 30-71
+          Merciful <-> Cruel         = 50-91
+          Optimistic <-> Pessimistic = 70-81
+          Peaceable <-> Combative    = 30-51
+          Trusting <-> Suspicious    = 35-76
+          Xenophile <-> Xenophobe    = 60-96
+ 
+    KERV'DIRLAI:
+          Brave <-> Cowardly         = 40-81
+          Cautious <-> Reckless      = 45-81
+          Forgiving <-> Vengeful     = 40-71
+          Generous <-> Miserly       = 70-91
+          Hedonistic <-> Stoic       = 50-91
+          Honorable <-> Treacherous  = 50-81
+          Humble <-> Arrogant        = 30-71
+          Merciful <-> Cruel         = 30-91
+          Optimistic <-> Pessimistic = 70-81
+          Peaceable <-> Combative    = 10-61
+          Trusting <-> Suspicious    = 35-76
+          Xenophile <-> Xenophobe    = 50-96
+
+
+    MUS'CHIRLAI:
+          Brave <-> Cowardly         = 40-81
+          Cautious <-> Reckless      = 30-66
+          Forgiving <-> Vengeful     = 40-71
+          Generous <-> Miserly       = 70-91
+          Hedonistic <-> Stoic       = 80-96
+          Honorable <-> Treacherous  = 50-81
+          Humble <-> Arrogant        = 30-71
+          Merciful <-> Cruel         = 60-96
+          Optimistic <-> Pessimistic = 70-81
+          Peaceable <-> Combative    = 45-81
+          Trusting <-> Suspicious    = 35-76
+          Xenophile <-> Xenophobe    = 70-96
+ 
+    S'CHASSLAI:
+          Brave <-> Cowardly         = 40-81
+          Cautious <-> Reckless      = 30-66
+          Forgiving <-> Vengeful     = 40-71
+          Generous <-> Miserly       = 70-91
+          Hedonistic <-> Stoic       = 80-96
+          Honorable <-> Treacherous  = 50-81
+          Humble <-> Arrogant        = 30-71
+          Merciful <-> Cruel         = 50-91
+          Optimistic <-> Pessimistic = 70-81
+          Peaceable <-> Combative    = 30-51
+          Trusting <-> Suspicious    = 35-76
+          Xenophile <-> Xenophobe    = 50-96
+ 
+    T'CHIKLAI:
+          Brave <-> Cowardly         = 40-81
+          Cautious <-> Reckless      = 30-66
+          Forgiving <-> Vengeful     = 25-56
+          Generous <-> Miserly       = 70-91
+          Hedonistic <-> Stoic       = 80-96
+          Honorable <-> Treacherous  = 30-71
+          Humble <-> Arrogant        = 30-71
+          Merciful <-> Cruel         = 50-91
+          Optimistic <-> Pessimistic = 70-81
+          Peaceable <-> Combative    = 20-41
+          Trusting <-> Suspicious    = 30-61
+          Xenophile <-> Xenophobe    = 50-96
+ 
+    RUSAGRALAI:
+          Brave <-> Cowardly         = 60-91
+          Cautious <-> Reckless      = 30-66
+          Forgiving <-> Vengeful     = 40-71
+          Generous <-> Miserly       = 70-91
+          Hedonistic <-> Stoic       = 80-96
+          Honorable <-> Treacherous  = 50-81
+          Humble <-> Arrogant        = 40-91
+          Merciful <-> Cruel         = 50-91
+          Optimistic <-> Pessimistic = 70-81
+          Peaceable <-> Combative    = 40-81
+          Trusting <-> Suspicious    = 35-76
+          Xenophile <-> Xenophobe    = 50-96
+
+    VAK'PANNLAI:
+          Brave <-> Cowardly         = 50-91
+          Cautious <-> Reckless      = 40-81
+          Forgiving <-> Vengeful     = 40-71
+          Generous <-> Miserly       = 70-91
+          Hedonistic <-> Stoic       = 80-96
+          Honorable <-> Treacherous  = 70-96
+          Humble <-> Arrogant        = 30-71
+          Merciful <-> Cruel         = 50-91
+          Optimistic <-> Pessimistic = 70-81
+          Peaceable <-> Combative    = 30-51
+          Trusting <-> Suspicious    = 30-61
+          Xenophile <-> Xenophobe    = 50-96
+ 
+  
+                <end of file>

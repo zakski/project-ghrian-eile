@@ -1,0 +1,73 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/LNay4cGItSA
+TITLE: Msg 1 of 2: Weapons damages in OTHER SUNS 
+
+----------------------------------------------------------------------------
+
+Sunday, 7 October 1990 20:59:43 UTC+1 - Nicolai Shapero:
+             Projectile Weapon Damages in OTHER SUNS
+               (Preliminary draft for 2nd Edition)
+                 COPYRIGHT 1990 by N. C. Shapero
+                       (Message 1 of 2)
+
+All rifle and pistol ammunition is caseless.  Damages assume  the 
+standard  propellant charges (crazies who want to hot-load  their 
+own ammunition should discuss modifications to the damages listed 
+with their referee).
+
+                    Ammunition Caliber Codes:
+
+               A     5.5 mm             G    11.0 mm
+               B     6.5 mm             H    11.5 mm
+               C     8.0 mm             I    12.0 mm
+               D     9.0 mm             J    15.0 mm
+               E     9.5 mm             K    17.5 mm
+               F    10.0 mm             L    20.0 mm
+
+                        Ammunition Types
+
+     1    Standard solid round
+
+     2    Mushrooming  "hollow point"
+
+          Poor on armor penetration.  After penetration, pain and 
+          injury  is  more  severe  than  with  standard  rounds.  
+          Double  all  damages after penetration  (both  END  and 
+          HIT).   Taxes  on this type of ammunition result  in  a 
+          retail price twice that of standard ammunition for  the 
+          same  caliber.  The expected roll for a  given  caliber 
+          Type  2 round is roughly 70% of the roll for  the  same 
+          caliber  Type 1 round.  There is also a 5%  penalty  to 
+          the "to-hit" value for Type 2 ammunition.
+
+     3    Special surface coated armor piercer
+
+          Specially coated with a near-frictionless material  and 
+          with  a hotter load, this armor piercing ammunition  is 
+          less  effective at causing body trauma than a  standard 
+          round.   Halve  all  damage (both END  and  HIT)  after 
+          penetration.   Taxes on this type of ammunition  result 
+          in a retail price three times that of standard  ammuni-
+          tion  for  the same caliber.  The expected roll  for  a 
+          given caliber Type 3 round is roughly 140% of the  roll 
+          for the same caliber Type 1 round.  There is also a 10% 
+          penalty to the "to-hit" value for Type 3 ammunition.
+
+     4    Match ammunition
+
+          Match  ammunition  is designed for  accuracy  at  range 
+          without consideration for penetration or damage  poten-
+          tial.  Match ammunition costs only 75% of what standard 
+          Type  1 ammunition costs (taxes, which are by  far  the 
+          largest component in the retail cost of ammunition, are 
+          kept  intentionally low by the OverGovernment).   There 
+          is a 25% bonus to the "to-hit" value for Type 4 ammuni-
+          tion
+
+                       (Continued in next message)
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.FIDONET.ORG <>
+--------------------------------------------------------------------------

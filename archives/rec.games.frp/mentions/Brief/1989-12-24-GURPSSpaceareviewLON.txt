@@ -1,0 +1,166 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/r0L2AjxNz7w
+TITLE: GURPS Space, a review (LONG:6.5kb) 
+
+----------------------------------------------------------------------------
+
+Sunday, 24 December 1989 22:54:34 UTC - William Ricker:
+I just posted the following to the Traveller Mailing List, & 
+thought some other netters might be interested.
+>  Scott Ellsworth   sell...@jarthur.claremont.edu <>   SELLSWORTH@HMCVAX
+>Archive-Message-Number: 742
+>  Has anyone looked at Gurps Space?  I like the traveller universe and the
+>"feel" of it, but I dislike the ways skills are handled, as well as the
+>horrendously inefficient fusion/AM plants. 
+ 
+I bought GURPS Space, because I'm using GURPS for a fantasy campaign,
+and I thought to loan it to my Traveller GM.  If I ever run a space
+game, I'd either use very variant traveller (see Redden & Gazis
+postings) or GURPS Space, possibly a mutant mix.  Or N. Shapiro's Other Suns,
+formerly pub'ed by FGU, soon to reappear as share-ware or something.  
+ 
+What follows is my review of GURPS Space, followed by a copy of the self
+promotional back cover blurb  therefrom. 
+ 
+GURPS Space is a generalization of GURPS Humanx: it gives several taxonomies
+(Chinese menus) for building an SF campaign: pick your technological future.
+They list multiple different ways around the FTL problem, and give hints
+as to how each affects a campaign.  Also menued: How is your galaxy/cluster/
+known space ruled?  (campaign type, with references!)  What sort of
+people go adventuring?  How do you navigate in space?  Power? Commo?
+Weaponry?  Design your own race.
+ 
+Default energy density of power-cells looks less whacky than most systems.
+Weapons span many traditions, GM should pick sublist based on above
+choices, and weapon-legality in culture (like TRAV LAW level).  But much
+better variety: eg, electromag mortar, tanglers, vibroblades; power
+holster.  Likewise, Armor pans more sub-genre.
+ 
+Starships are computed in cubic YARDS.  (*yech* I guess metrics haven't
+reached texas, or SJ was afraid of putting off the innumerate brats who
+buy games at the corner store.)  Sidebar says 200Tonner is slang for 200
+cubic-yard hull, not to be confused with component mass, ship mass, etc
+which are weights at 1G.  They figure loaded mass = light mass + rated
+cargo mass.  Ship design looks simpler & saner than MegaTrav, and more
+flexible than 3-book trav.  (I don't know the supplements, since my GMs
+use the Gazoid system.)  Subsection: required crew, getting a ship
+without buying it, reaction mass for trips of different lengths, STL
+colony ships, GravTech, Auxiliary Craft (pretty skimpy). 
+ 
+Ship to ship combat looks reasonable for an RPG; it is *not* a war-game sub
+game (although one might claim the melee rules are).  They are very
+similar to the GURPS Horseclans mass-battle rules, in terms of supply
+ways for significant characters' skills to affect the larger battle and
+the larger battle and character skills to affect the character's
+survival etc.  
+     Phases: 1. tactics. 2. Assign firepower & target selection, based
+in part on tactics result. 3. Point defense gunnery (if using missiles).
+4. Attack Gunnery (affected by 1,2,3) 5. Compute ship damage (direct
+results of 4); PC's in areas taking damage must make survival rolls. 6.
+Damage Control.
+        If still in range, Go To Phase 1:, but ignore Plans unless
+regrouping occurs; in which case consider it a new battle.
+        When out of range, "each PC and important NPC must make a
+survival roll". Heroism and Caution options allow PCs to tradeoff succes
+and survival on damage control and some other tasks. Failure of a
+survival roll doesn't kill automatically (as it would in TRAV roll-up,
+but results in some number of dice of damage.
+ 
+------
+ 
+The back cover of GURPS Space: (quoted without permission for purposes
+of review) 
+ 
+"The Future is Yours!
+"At last .. the star-spanning sourcebook for the /Generic Universal 
+RolePlaying System/.  In the 128 pages of /GURPS Space/, you'll find:
+"* Detailed, scientifically correct rules for creating star systems and
+planets ... [sic] either randomly, or to fit a specific campaign.
+"* Descriptions of 21 character types ... [sic] and new advantages,
+disadvantages, and skills for a far-future campaign.
+"* Three variant human races -- heavy-worlders, light-worlders, and
+Spacers -- and guidelines for creating new and different sorts of
+genetically-enhanced humans
+"* Four alien races.  Meet the ...
+"* Science-fiction gadgets, weapons, and medical technology.
+"* Starship construction rules from TL8 (just around the corner) to
+TL15+ (science fantasy).
+"* Quick but detailed /abstract/ ship combat rules -- no ship ocunters,
+just roleplaying ... [sic] for a quick determination of fleet damage,
+individual ship damage, and injury [and contribution of !] characters.
+ 
+"/GURPS Space/ does not tie your game to a single background.  Rather,
+it is designed for the creative GM who wants to develop his /own/
+universe! This book presents a wide variety of choinces and background
+information, to let you recreate your favorite science fiction
+background -- or build your own, from the homeworld out.
+ 
+"* Choose the scale of your compaign -- one star system, or a million.
+"* Choose the type of campaign you want to run -- space pirates or Star
+Patrol, hard-working merchangs or hard-bitten mercenaries, clever
+smugglers or starry-eyed explorers, humans or aliens.
+"* Choose the political background -- from scattered independet worlds,
+through a loos Alliance or Federation, to a star-spanning Empire.  Or
+perhaps you'd prefer a Corporate State, run by big business.  It's all here.
+"* Choose the technological background -- from a wide variety of
+startdrives, power plants, and weaponry -- to give the campaign the
+scope and flavor you choose.
+ 
+"Years in the making [ie years behind schedule], /GURPS Space/ is
+essentially a survey of the whole space-adventure genre as it relates to
+roleplaying.  If you're ready to create your own future ...[sic] it's yours.
+ 
+[fine print] "This book is designed for use with the /GURPS Basic Set/,
+but can be used as a sourcebook for any roleplaying game in outer space.
+ 
+[credits]"
+ 
+------
+ 
+bill ricker
+wri...@nuhub.acs.northeastern.edu <> w...@wang.wang.com <>
+ 
+Fine Print disclaimers 
+@FONT(Helvetica-Narrow,6pt :-)
+GURPS, GURPS HUMANX, GURPS SPACE etc are all trademarks of Steve Jackson
+Games.  Traveller etc are trademarks of GDW. The  OtherSuns trademark is
+reverting / has reverted to Niall Shapero.
+ 
+I no longer have any relatives at Steve Jackson Games; even though he
+laid-off my sister-in-law, we still think nicely of SJ.
+----------------------------------------------------------------------------
+
+Thursday, 28 December 1989 08:19:39 UTC - John Wilber:
+In article <758@wang.UUCP> wdr@wang.UUCP (William Ricker) writes:
+>I just posted the following to the Traveller Mailing List, & 
+>thought some other netters might be interested.
+A Traveller Mailing List?  Wow!  Put me on it!  I'm a Trav fanatic, and
+enjoy discussing Trav stuff, and rule variants.  Net Address is below.
+
+/***********************************************************************\
+* John J. Wilber               * Vote for Socialism.  Vote Democratic   *
+* wil...@nunki.usc.edu <>         * Vote for Conformity.  Vote Republican. *
+* Student, partier, anarchist, * Vote for a free country.  Vote ....?   *
+* and fun-loving guy.          *    Damn!  Nobody left to vote for!     *
+\***********************************************************************/
+----------------------------------------------------------------------------
+
+Sunday, 31 December 1989 16:06:18 UTC - Randy M. Roberts:
+Just thought I'd let y'all (I'm not really a native Texan :-) know that
+SJG is comming out with a new version of SPACE which has been updated
+for the 3rd edition of the GURPS basic set.  It will probably be out
+in the first half of 1990.  (Roleplayer says it will be out in February,
+will be 128 pages and cost $16.95.)
+Disclaimer:
+I am in no way connected with SJG except for the fact that I spend
+a considerable portion of my time and money on their products.  Therefore,
+the above statement concerning the release date of GURPS SPACE 3rd edition,
+is purely speculation.
+
+Regards,
+Randy
+
+
+
+-- 
+Randy M. Roberts
+pha...@emx.utexas.edu <>

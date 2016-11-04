@@ -1,0 +1,2865 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/XP7y8wZNOSo
+TITLE: Skill vs. Class based RPG's 
+
+----------------------------------------------------------------------------
+
+Wednesday, 29 August 1990 18:43:06 UTC+1 - jhre...@uccs@ccnuccs.colorado.edu:
+I like to start a discussion on "Skill based vs. Class based RPGs". 
+My main reason to do this is that as a long time RPGer, (since 1977), 
+I've pretty much played in, or ran every system out there. I started 
+out with DnD, moved to Traveller, playtested, and later ran FTL 2448, 
+Stalking the Night Fantastic, and Fringeworthy, acquired GURPS, and 
+played several other systems. 
+Each system that I've experienced was unique and had a different way 
+of handling player characters, PC's. What I'm going to do now is 
+discuss the merits and disadvantages of both class based and skill 
+based sytems.
+
+CLASS BASED
+-----------
+
+Class based systems assume that people fall into distinct groups or
+"classes". Each class has their own set of skills and levels of 
+experience within that class. The main assumption of the class based
+systems is that when a person progresses to the next level of experience,
+he progresses as everybody else does within his class, skill for skill,
+ability for ability. He cannot branch out to other classes, without 
+halting his progress in his original class.
+
+Main assumption: The class is based on the average person in that area
+                 and all abilities and skills are based on this average
+                 person.
+
+Benefits: It is much easier to start a character, you have definite goals
+to shoot for, and, as long as you stay within the rules, your character
+can be transfered to other campaigns within that system.
+
+Disadvanages: It locks your character within a limited set of abilities,
+you cannot easily branch out into other classes, and the rules decide how 
+your character will progress within his class.
+
+SKILL BASED
+-----------
+
+Skill based sytems assume people are individuals, and that they choose 
+what skills and abilities they possess. Though two people perform the same
+job, they may possess different skills at different levels. A person may
+possess skills outside of his profession, or he may actually qualify for
+more than one profession at a time. 
+
+As a person gains experience, he applies it differently than others within
+his same profession. Two people, in the same profession, who gain the same
+amount of experience, will apply that experience differently.
+
+Main assumption: Each and every character is an individual, and exeriences
+                 the differently than those in a similar profession.
+
+Benefits: Allows for highly individualized characters. Players can choose
+which skill(s) their characters possess, and have the freedom to progress
+in whichever skill they wish.
+
+Disadvantages: Very intimidating to new players. Some versions require
+lots of math to handle the skills. Character's don't transfer very well.
+
+John H. Reiher Jr.
+----------------------------------------------------------------------------
+
+Thursday, 30 August 1990 15:38:43 UTC+1 - Mike O'Connor:
+In article: <406.26dbaa4a@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu>>,
+jhreiher@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu> writes:
+
+| SKILL BASED
+| -----------
+| 
+| Disadvantages: Very intimidating to new players. Some versions require
+| lots of math to handle the skills. Character's don't transfer very well.
+
+Important disadvantage here...  PC and NPC generation take much more
+time.
+
+-- 
+--              moco...@argo.acs.oakland.edu <>           Internet     
+--              moconnor@oakland                        Bitnet
+--              ...!uunet!umich!vela!moconnor           UUCP
+--
+----------------------------------------------------------------------------
+
+Thursday, 30 August 1990 16:30:19 UTC+1 - Walter Milliken:
+In article <406.26dbaa4a@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu>>, jhreiher@uccs@ccnuccs writes:
+> [discussion of class-based systems]
+>SKILL BASED
+>-----------
+> [more stuff deleted]
+>
+>Disadvantages: Very intimidating to new players. Some versions require
+>lots of math to handle the skills. Character's don't transfer very well.
+On the whole, I agree with your assessment of these, ah, classes of
+RPGs.  However, I'd like to point out that there are also hybrid
+systems, in which characters have individual skills, but the skills
+are grouped into professions or "classes", which limit the characters'
+choices somewhat.  I believe Warhammer works this way, and 1st-edition
+Paranoia did as well, as do several "conventional" fantasy-genre systems.
+
+I would like to take exception to your comment that characters in
+class-based systems are more portable than in skill-based systems.  I
+don't see this at all, and am wondering what experiences led you to
+this conclusion.  In general, a character (from any sort of system)
+should be portable between campaigns using the same game system if:
+
+  1) The character adheres to the "standard" game system rules.  In
+     AD&D, this also means no non-standard magic items.
+
+  2) The character is "style-compatible" -- a role-playing,
+     communications-oriented character won't port well to a
+     "Monty-Haul" hack&slash game.  Strong differences in party
+     power level can also be troublesome, but less so than style
+     problems.
+
+  3) The new campaign hasn't butchered the rule system to the point
+     that "standard" characters aren't viable.
+
+Frankly, I don't think well-developed characters are very portable in
+any system -- they have too much investment in their game world, and
+it's generally easier to start a new character with the appropriate
+background than transport the character from universe X to universe Y,
+which is bound to be somewhat traumatic....  Which isn't to say it
+doesn't work, but I wouldn't recommend it as a routine thing.
+
+---Walter
+----------------------------------------------------------------------------
+
+Thursday, 30 August 1990 17:08:52 UTC+1 - Jeff Stehman:
+From article <406.26dbaa4a@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu>>, by jhreiher@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu>:
+> 
+> Class based systems...
+> Benefits: It is much easier to start a character, you have definite goals
+> to shoot for, and, as long as you stay within the rules, your character
+> can be transfered to other campaigns within that system.
+> 
+> Skill based sytems...
+> Character's don't transfer very well.
+
+        Portability is generally seen as beneficial.  Why?  How common
+is it for a character to be transfered from one campaign into another,
+unrelated campaign - to me 'unrelated' would mean that the new gm would
+not have a *detailed* history of the character; i.e. wasn't around as a
+player or gm during the character's previous exploits.
+        I have seen this done once.  A player brought in a high level
+priest and worked with the gm to set the character up as a pseudo-npc.
+That seemed reasonable.  However, I don't think I would ever take one of
+my characters into a new campaign or let a player bring one into a
+campaign I was running unless the gm was intimately familiar with the
+character's past.  To me, a pc's history is the most important part of
+the character.  Unless the player has written a book on the subject, I
+doubt that a gm could do a new character justice.
+
+
+                                                Jeff Stehman
+----------------------------------------------------------------------------
+
+Friday, 31 August 1990 14:01:21 UTC+1 - The Candyman:
+In article <27...@vela.acs.oakland.edu <>>, moco...@vela.acs.oakland.edu <> (Mike O'Connor) writes:
+> In article: <406.26dbaa4a@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu>>,
+> jhreiher@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu> writes:
+> 
+> | SKILL BASED
+> | -----------
+> | 
+> | Disadvantages: Very intimidating to new players. Some versions require
+> | lots of math to handle the skills. Character's don't transfer very well.
+> 
+> Important disadvantage here...  PC and NPC generation take much more
+> time.
+> 
+PC generation does take longer, but the resulting character is more satisfying,
+( 'thou granted this can be a problem with NPC's so lots of pre-generated NPC's
+are needed) and I've yet to see any system that requires more than simple 
+arithmetic to handle skills.
+Much more flexible than the traditional D&D class system.
+
+However what about games like Role Master ? Where a skill based class system is
+used. So characters are free to develope in anyway they want, but within the 
+limitations of the class. ie a fighter can learn to cast spells, but it'll 
+take him a long time to do so and he probably wont be very good at it.  
+
+
+Just some thoughts.
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+John Reilly,                               #  
+Strathclyde University Computer Centre,    #  "Try everything once,
+100 Cathedral St,                          #   except incest and folk dancing."
+Glasgow,                                   #              
+Scotland.                                  #             - Sir Thomas Beecham. 
+                                           #
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------------------
+
+Friday, 31 August 1990 14:16:30 UTC+1 - andrew.c.durston:
+In article <406.26dbaa4a@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu>>, jhreiher@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu> writes:
+> I like to start a discussion on "Skill based vs. Class based RPGs". 
+> My main reason to do this is that as a long time RPGer, (since 1977), 
+> I've pretty much played in, or ran every system out there. I started 
+> out with DnD, moved to Traveller, playtested, and later ran FTL 2448, 
+> Stalking the Night Fantastic, and Fringeworthy, acquired GURPS, and 
+> played several other systems. 
+Simple solution -
+
+        Just play RoleMaster, it has both skills and classes....
+
+        ( ducking and putting asbestos armor on... )
+
+:-):-):-):-):-):-):-):-):-):-):-):-):-):-):-):-):-):-):-)....
+
+ACDurston, yet another RoleMaster junkie...
+
+..!att!hotld!acd
+----------------------------------------------------------------------------
+
+Friday, 31 August 1990 16:01:13 UTC+1 - Clay Luther:
+mill...@bbn.com <> (Walter Milliken) writes:
+
+>On the whole, I agree with your assessment of these, ah, classes of
+>RPGs.  However, I'd like to point out that there are also hybrid
+>systems, in which characters have individual skills, but the skills
+>are grouped into professions or "classes", which limit the characters'
+>choices somewhat.  I believe Warhammer works this way, and 1st-edition
+>Paranoia did as well, as do several "conventional" fantasy-genre systems.
+
+Just a note:  Warhammer does attach certain skills to certain professions,
+but you are not restricted to this system.  The skills attached to a 
+profession only indicate what skills are appropriate or necessary to learn
+to be an active member of that profession.  A character may learn any
+skill that does not have a special prerequisite (eg, Cast Spells).  In
+fact, many skills, especially specialist weapon skills, can *only* be
+learned this way; that is, outside of any career or prefession.
+
+I would like to disagree with those people (not Walter in
+particular) who claim Warhammer is a class-based or hybrid system.  I 
+think this is a misimpression given by not reading the rules thoroughly.
+Since any character can learn 95% of the skills in Warhammer at any time,
+regardless of his profession (magic skills excepted), Warhammer is most
+definitely a skill-based system.
+
+
+>I would like to take exception to your comment that characters in
+>class-based systems are more portable than in skill-based systems.  I
+>don't see this at all, and am wondering what experiences led you to
+>this conclusion.  In general, a character (from any sort of system)
+>should be portable between campaigns using the same game system if:
+I neither agree or disagree.  However, he may be pointing out the 
+difficulty a player can have when trying to capture the spirit of a
+character when converting that character from system to system.
+
+For instance, I had a RoleMaster game running, but we quickly tired of
+RM's burdensome mechanics.  We knew we wanted to switch systems, but we
+also knew we didn't want to use GURPS, which has a truly poor magic system.
+[slam slam slam :)]  We opted for Hero 4, since, we thought, we could
+easily convert the RM characters to this system.  This proved a nightmare.
+
+First, it was very hard to duplicate some of the RM Runemaster's powers
+under Hero *AND* give the character the same functionality he had under RM.
+[ I don't mean to say that only the Runemaster gave us problems; all RM
+magic using characters were hard to replicate under Hero. ]
+
+Second, although these were very low level characters, they *could not*
+be created at the Hero 75/75 level.  These 1st and 2nd level RM characters
+came out to be 200-300 pt Hero characters, and much of the flavor imparted
+by RM was lost, very very much to our dismay.
+
+Please note that I also instructed the players not to try to convert
+*everything*, but rather to capture the essence of the character under
+the new system.
+
+Now, on the other hand, if I were to convert a AD&D character to Hero, 
+I think I could easily do it (AD&D characters being fairly narrowly
+defined) and in a reasonable number of points.
+
+So, perhaps, this is what the original poster was trying to point out.
+
+>---Walter
+-- 
+Clay Luther                      clu...@supernet.haus.com <>
+Postmeister                      clu...@supernet.lonestar.org <>
+Harris Adacom Corp, Dallas, Tx   uunet!iex!supernet!cluther
+214/386-2356                     Your mileage may vary.  Void where prohibited.
+----------------------------------------------------------------------------
+
+Friday, 31 August 1990 22:57:08 UTC+1 - Homer Dired:
+Concerning NPCs with skill-based games.
+In GURPS, which alongside Call of Cthulhu are the only skill-based games
+I have spent much time running, I have never had much a problem making NPCs.
+
+The reson is that instead of designing an NPC to be like a character, design
+it like an NPC. get a good idea of what kind of skills he/she would have,
+and then simply give a number. The only real problem are figuring Move,
+etc., but its no more than, say, determining encumbrance in a class-based
+game. 
+
+Those NPCs who might actually be see again can be fleshed out more as
+is necessary. Don't worry about points, since once you have some feel of how
+the game works its pretty easy to know what kind of stat-skill combo is
+necessary. 
+
+In DnD you gotta know Con, Str, Dex, maybe Charisma, and maybe Wisdom. 
+And magic items? Anybody ever really figure out just what a 7th level character
+should have? Rolling tends to create weird results, and once you start to think
+you've already invested time in the NPC.
+
+I guess the point is that from a role-playing point of view, if you start 
+with the question "What is this character logically capable of?", then 
+assigning skills is easy -- it's just a matter of being familiar with the 
+system. Classes perhaps make this easier, but seems to have this tendency to
+produce cardboard cut-outs. But if you're going to grind out 6 stats, an xp
+total, logical equipment, logical magic items, roll or assign hit points,
+determine armor class, to-hit adjustments and damage adjustments (unless for
+some reason you decide that everyone in the world has 12s across the board),
+how much time have you saved? It's almost like one of those offensive AT&T
+commercials. You know "Where's my big savings?"...
+
+
+
+-- 
+"We'll start by trying to get some allies. If that doesn't work, we'll sabotage
+everything in sight. If they still don't give us what we want, then we're back
+to booting head." -The Death Clowns
+================[Homer Dired: fu...@milton.u.washington.edu <>]===================
+----------------------------------------------------------------------------
+
+Friday, 31 August 1990 23:32:56 UTC+1 - S. Gwen Johnson:
+I find a combination of skills and classes to be good.  If someone is
+a fighter for example, then as he learns one skill in fighting, he also
+learns things that can be transferred to other combat skills. So if he
+goes up levels, then he will get slightly better at skills he hasn't
+studied, but the main skill to which he devotes his attention will be
+significantly better than the other combat skills.  This seems to
+follow pretty much.  If you study one style of karate, then picking up
+different weapon forms in that style is pretty easy, picking up a
+different style ofkarate is almost as easy, picking up fencing or
+something is less easy, but easier for a martial artist than a real
+neophyte.  
+Another thing I like is giving characters skills and bonuses based on
+their background.  If you grew up in a pirate family, the mere fact
+you've been around boats means that while you may have not studied them
+specifically, you're still going to have a better idea how to sail one
+than some landlubber.  If you want to be a *good* sailor, you'll take
+that skill and study it.  But you don't have to.
+
+Class systems can be flexible.  For example, instead of saying, "All
+fighters get sword and shield"  The class can say, "Fighters get their
+choice of any two combat skills."  In this way, fighters in a class
+system can be very different from one another with one an axe user and
+another and archer.  
+
+Class systems have an advantage in that they reward good character
+concept.  Generally speaking, class systems are built to make it
+easier to have a bunch of skills grouped together as a "package deal".
+This is a way of rewarding a person for having a coherent character
+concept.  Of course, if a player has a coherent concept that's not
+part of one of the packages, then the GM ought to give him the same
+benefits.  But on the other hand, the player who wants to be a
+fighter-assassin-theif-magic-user-cleric-monk shouldn't get any such bonus.
+If they want it, let'em work for it, one skill at a time.
+
+Gwen Johnson
+s...@slc1.brl.mil <>
+----------------------------------------------------------------------------
+
+Saturday, 1 September 1990 00:04:50 UTC+1 - jhre...@uccs@ccnuccs.colorado.edu:
+In article <10...@hubcap.clemson.edu <>>, ste...@hubcap.clemson.edu <> (Jeff Stehman) writes:
+> From article <406.26dbaa4a@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu>>, by jhreiher@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu>:
+>> 
+>> Class based systems...
+>> Benefits: It is much easier to start a character, you have definite goals
+>> to shoot for, and, as long as you stay within the rules, your character
+>> can be transfered to other campaigns within that system.
+>> 
+>> Skill based sytems...
+>> Character's don't transfer very well.
+> 
+> 
+>         Portability is generally seen as beneficial.  Why? How common
+> is it for a character to be transfered from one campaign into another,
+> unrelated campaign - to me 'unrelated' would mean that the new gm would
+> not have a *detailed* history of the character; i.e. wasn't around as a
+> player or gm during the character's previous exploits.
+My experience with portability is with DnD. I ran and played in several
+campaigns that were informally "linked-up" via trans-dimensional portals. Each
+world had its own rules regarding magic, spells, and firearms. The fact that
+your character was generated on Scorch, and moved to Ishmaladie, both of which
+had very different house rules, (Scorch was techno oriented, while Ishmaladie
+was more standard DnD). The fact that the character was based somewhat on the
+basic DnD rules, he could be transported to other worlds with little fixing.
+
+
+>         I have seen this done once.  A player brought in a high level
+> priest and worked with the gm to set the character up as a pseudo-npc.
+> That seemed reasonable.  However, I don't think I would ever take one of
+> my characters into a new campaign or let a player bring one into a
+> campaign I was running unless the gm was intimately familiar with the
+> character's past.  To me, a pc's history is the most important part of
+> the character.  Unless the player has written a book on the subject, I
+> doubt that a gm could do a new character justice.
+> 
+Ahem, to belabor the obvious, a character is more than a set of stats and
+weapons. If *you* the player are a good roleplayer, then you don't need a book
+on your character. Besides the situation that I'm talking about is a shared
+multiverse. Having a set of standards to character construction, helps loads
+when your character goes dimension hopping.
+
+> 
+>                                                 Jeff Stehman
+
+My experience with GURPS has been that the characters are not very portable,
+despite the company's hype. Now I'm not saying that you can't 'port a character
+from within *one* GM's campaign to another of his, but that characters are not
+very portable between two or more GMs. Each have their own method of character
+creation, how many points can be spent, number of disad's, etc. You have to
+carefully scruntinize a GURPS character from another campaign before you let
+him into yours.
+
+John H. Reiher Jr.
+-------------------------------------------------------
+Standard disclaimer, mainly to keep the University of
+Colorado's regents from having kittens over my remarks.
+-------------------------------------------------------
+Pithy quotation;
+   Dr. Destiny: Manfred! Push the button!
+   Manfred: Not again m'lord! Last time I nearly lost me hand!
+----------------------------------------------------------------------------
+
+Saturday, 1 September 1990 03:48:39 UTC+1 - Dan Schaeffer:
+I've been watching this thread for a while, and finally decided to put in
+a couple of cents' worth.
+I've been running a game for some years which some friends of mine
+wrote.  It is a mixed skills-classes game: there are specific classes,
+such as warrior, thief, martial artist, priest, and a couple distinct
+types of mages.  A player chooses a class, and then tailors skills to
+fit his or her character conception.  Different classes have some skills
+that are restricted to that class; for example, some skills can only be
+learned by thieves.  Other skills are general, and may be learned by
+anyone.
+
+The system is far from rigid, except as far as magic goes.  Even there,
+however, there is room to move around.  In the original version of the
+game, no nonmage can learn magic spells.  (Priests are a different matter.)
+Also, the distinct classes of mage have different spell lists.  In *my*
+version of the game, magic is defined differently, and anyone can learn
+it; but unless one has devoted one's life to knowing magic, it is much
+more difficult to learn and to use.  Also, instead of different mage
+types, I allow each mage to be unique by having players develop their
+own spell lists.  The idea is to have "theme mages" -- e.g., fire mages,
+nature mages, even (an NPC) a time mage.  As long as they can come up
+with a logical progression of spells from simpler to more complex, the
+players can do just about anything.
+
+The hard thing about this system is, of course, that it takes a lot of
+time to develop a mage.  There have been very few completely defined
+mage NPC's, because I don't have time to build them from scratch.  Still,
+I can usually come up with a decent quickie if I need one; and magic is
+scarce anyway in my universe, so it's not all that necessary.
+
+Anyway, I think skills make a lot of sense, and I like the GURPS and
+Hero systems.  Yes, they may be a bit complex for new gamers, but for
+an experienced group, especially one which values "realism," skill-
+based systems are more playable than plain AD&D.
+
+D. J. Schaeffer
+"Loewenstein, Loewenstein." 
+[fn...@ursa-major.spdcc.com <>]
+----------------------------------------------------------------------------
+
+Saturday, 1 September 1990 16:22:23 UTC+1 - Mike O'Connor:
+In article: <198.26...@vaxa.strath.ac.uk <>>,
+cra...@vaxa.strath.ac.uk <> (The Candyman) writes:
+
+| In article <27...@vela.acs.oakland.edu <>>, moco...@vela.acs.oakland.edu <> (Mike O'Connor) writes:
+|
+| > | Disadvantages: Very intimidating to new players. Some versions require
+| > | lots of math to handle the skills. Character's don't transfer very well.
+| > 
+| > Important disadvantage here...  PC and NPC generation take much more
+| > time.
+| > 
+| 
+| PC generation does take longer, but the resulting character is more satisfying,
+| ( 'thou granted this can be a problem with NPC's so lots of pre-generated NPC's
+| are needed) and I've yet to see any system that requires more than simple 
+| arithmetic to handle skills.
+| Much more flexible than the traditional D&D class system.
+True enough...  From what I've seen, the best set-ups for dealing with
+the problems of PC/NPC generation tend to be games in which not many
+PC/NPCs are needed (Champions, for example) and games with plenty of
+PC/NPC templates provided for you (Shadowrun Archetypes, for example).
+
+As far as simple math goes, admittedly, few games that I have seen
+require much more than basic algebra.  However, the sheer number of
+numbers that become involved could be intimidating to the
+non-mathematically inclined.  Role Master, Champions, and Villians &
+Vigilantes come to mind.  Ever see the formula for Carrying Capacity in
+V&V?  It goes something like this:
+
+(((S/10)^3)+(E/10))*(Weight/50, round up), round up
+
+
+| 
+| However what about games like Role Master ? Where a skill based class system is
+| used. So characters are free to develope in anyway they want, but within the 
+| limitations of the class. ie a fighter can learn to cast spells, but it'll 
+| take him a long time to do so and he probably wont be very good at it.  
+| 
+Ugh...  I dunno...  Role Master takes forever to generate characters --
+and none of the ICE NPCs that I have seen published have anything near
+the depth that *I* would need to see them as anything other than grunts,
+regardless of their role in the adventure.  Give me the detail of
+Champions or RuneQuest supplements anyday.  Too many classes, as well...
+especially if any of the Companion rules come into play.
+
+
+-- 
+--              moco...@argo.acs.oakland.edu <>           Internet     
+--              moconnor@oakland                        Bitnet
+--              ...!uunet!umich!vela!moconnor           UUCP
+--
+----------------------------------------------------------------------------
+
+Saturday, 1 September 1990 16:31:20 UTC+1 - Mike O'Connor:
+In article: <1990Aug31.1...@supernet.haus.com <>>,
+clu...@supernet.haus.com <> (Clay Luther) writes:
+
+| For instance, I had a RoleMaster game running, but we quickly tired of
+| RM's burdensome mechanics.  We knew we wanted to switch systems, but we
+| also knew we didn't want to use GURPS, which has a truly poor magic system.
+| [slam slam slam :)]  We opted for Hero 4, since, we thought, we could
+| easily convert the RM characters to this system.  This proved a nightmare.
+You mean "Fantasy Hero" or "Champions"?
+
+
+| 
+| First, it was very hard to duplicate some of the RM Runemaster's powers
+| under Hero *AND* give the character the same functionality he had under RM.
+| [ I don't mean to say that only the Runemaster gave us problems; all RM
+| magic using characters were hard to replicate under Hero. ]
+That's partially due to the vagueness of Hero.  It's much easier in a
+"fixed" system to designate what IS important and what isn't important. 
+It's much harder to make that designation (in terms of cost) when the
+system will allow for virtually anything.
+
+-- 
+--              moco...@argo.acs.oakland.edu <>           Internet     
+--              moconnor@oakland                        Bitnet
+--              ...!uunet!umich!vela!moconnor           UUCP
+--
+----------------------------------------------------------------------------
+
+Sunday, 2 September 1990 02:24:11 UTC+1 - Elliot Wilen:
+Fairly simple question: Are there any class-based RPG's outside of the
+fantasy genre?
+Special bonus question: If the answer to the first question is "no" or
+"very few", why do you suppose this is the case?
+
+--Elliot Wilen
+----------------------------------------------------------------------------
+
+Monday, 3 September 1990 21:23:59 UTC+1 - Erich Schneider:
+>>>>> On 2 Sep 90 01:24:11 GMT, ichiro@codon7 (Elliot Wilen) said:
++> Fairly simple question: Are there any class-based RPG's outside of the
++> fantasy genre?
+
++> Special bonus question: If the answer to the first question is "no" or
++> "very few", why do you suppose this is the case?
+
++> --Elliot Wilen
+
+To answer the first: yes. I believe Star Frontiers used classes. Top Secret
+as well. Space Master and CyberSpace by ICE are both hybrid class/skill
+systems in the SF genre. Palladium's Rifts is class/skill. 
+
+The bonus question: 
+FRP games were dominated by D&D in the early years of their development. The
+only non-fantasy genre game of any consequence was Traveller, which invented
+the concept of skills in RPGs. Runequest was the first skill-based fantasy
+game, but time has pretty much reduced the original Runequest to a mere
+footnote in RPG history. (How many people have heard of it today? Not many,
+even though it is of very high quality (at least the 2nd edition was)).
+
+So while fantasy games were rip-roarin' in the late 70s, it wasn't until
+the early 80s that SF and other genres really got into full swing. And, at
+that time, skill based games were beginning their rise to predominance. Thus
+it's only natural that most non-fantasy genre games employ skill systems.
+
+(As a footnote, has anyone looked at wargame review books published around
+1980? Most of the had an RPG review section. One of these books, _The Compete
+Book of Wargames_, had a review of "Superhero 2044" by Gamescience (?). It
+apparently wasn't spectacular. The review expressed doubts that the super-
+hero genre was a viable one for role-playing. If I only had a time machine...)
+--
+er...@tybalt.caltech.edu <>  or try er...@through.cs.caltech.edu <>
+
+"Why the hell anybody plug the likes of you into a deck like that? Thing ought
+to be in a museum, _you_ ought to be in grade school."
+                             -William Gibson, _Count Zero_
+----------------------------------------------------------------------------
+
+Wednesday, 5 September 1990 16:58:52 UTC+1 - Clay Luther:
+moco...@vela.acs.oakland.edu <> (Mike O'Connor) writes:
+
+>You mean "Fantasy Hero" or "Champions"?
+Neither.  I mean Hero. :)  Post Hero 4 publication, pre-Fantasy Hero 2
+publication.  So, that means Hero.  Besides, I never make the distiction
+in Hero (although I might say Hero Champions or Hero Fantasy or Hero Spies
+or Hero Cloudships to indicate the genre.  But, if I just want to talk about
+the system, it's Hero.)
+
+
+>| 
+>| First, it was very hard to duplicate some of the RM Runemaster's powers
+>| under Hero *AND* give the character the same functionality he had under RM.
+>That's partially due to the vagueness of Hero.  It's much easier in a
+
+>"fixed" system to designate what IS important and what isn't important. 
+>It's much harder to make that designation (in terms of cost) when the
+>system will allow for virtually anything.
+No, that was not it at all.  Many times it was quite obvious *how* a RM power
+would appear under Hero.  However, Hero might make the power completely
+impossible or horribly expensive to buy.
+
+Nevertheless, Hero appears to be one of our games of choice, alongside
+Warhammer FRP and possibly Torg.
+
+PS -  I was happy to see the extensive conversion rules in the back of 
+Fantasy Hero 2.  Hero <-> GURPS, Hero <-> RM, and Hero <-> AD&D.  Nice touch.
+
+
+-- 
+Clay Luther                      clu...@supernet.haus.com <>
+Postmeister                      clu...@supernet.lonestar.org <>
+Harris Adacom Corp, Dallas, Tx   uunet!iex!supernet!cluther
+214/386-2356                     Your mileage may vary.  Void where prohibited.
+----------------------------------------------------------------------------
+
+Thursday, 6 September 1990 21:37:46 UTC+1 - Walter Milliken:
+In article <413.26de98b2@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu>>, jhreiher@uccs@ccnuccs writes:
+>My experience with GURPS has been that the characters are not very portable,
+>despite the company's hype. Now I'm not saying that you can't 'port a character
+>from within *one* GM's campaign to another of his, but that characters are not
+>very portable between two or more GMs. Each have their own method of character
+>creation, how many points can be spent, number of disad's, etc. You have to
+>carefully scruntinize a GURPS character from another campaign before you let
+>him into yours.
+Hmmm... I haven't noticed any GURPS GMs who vary the "standard"
+character generation process much.  100-point characters with -40
+points in disads and -5 in quirks are pretty standard in my
+experience, which covers quite a few GURPS GMs.  I do have a few
+"house rules" in regards to disliking certain disads in my campaign,
+or attempts at crocking the character generation process.  But I think
+most characters except the most 2-dimensional would pass these fairly
+easily.
+
+A few advantages and disadvantages are game world-specific (Patrons,
+Enemies, and Dependents come to mind).  If these other people don't
+come along for the ride, it's something of a problems -- either the
+character will have to buy them off, or find some sort of local
+equivalent.  Those are the only obvious things I can think of that
+don't port well (assuming the character is staying in the same basic
+genre).
+
+In general, I'm going to scrutinize *any* character who's entering my
+campaign -- characters should fit into the GM's world, after all.  I
+may not want a character from another campaign in my game because of
+the conception I have of my universe (I don't want people bopping all
+around the multiverse).  But that has nothing to do with the system --
+that's equally much of a problem in AD&D.
+
+Perhaps GURPS characters are less transportable than AD&D ones because
+the type of people who GM GURPS create more idiosyncratic worlds, and
+GURPS characters tend to be more coupled into their particular home
+campaigns... I don't know.  But it's not the system, it's the GMs
+involved, I'm pretty sure.
+
+---Walter
+----------------------------------------------------------------------------
+
+Thursday, 6 September 1990 21:55:50 UTC+1 - Walter Milliken:
+In article <1990Sep2.0...@agate.berkeley.edu <>>, ichiro@codon7 (Elliot Wilen) writes:
+>Fairly simple question: Are there any class-based RPG's outside of the
+>fantasy genre?
+I would consider Traveller to be class-based, in a way, since skills
+were specific to a particular career path, and there wasn't much
+opportunity to learn new skills outside of the (pre-game) career.
+However, the game mechanics worked exclusively from the skills, not
+the careers.
+
+I guess you could say it was a skill-based system with class-based
+character generation.
+
+---Walter
+----------------------------------------------------------------------------
+
+Friday, 7 September 1990 07:01:24 UTC+1 - Dennis Francis Heffernan:
+|Hmmm... I haven't noticed any GURPS GMs who vary the "standard"
+|character generation process much.  100-point characters with -40
+|points in disads and -5 in quirks are pretty standard in my
+|experience, which covers quite a few GURPS GMs.  I do have a few
+|"house rules" in regards to disliking certain disads in my campaign,
+|or attempts at crocking the character generation process.  But I think
+|most characters except the most 2-dimensional would pass these fairly
+|easily.
+        Um, I took most of the rules for GURPS (Supers) out back and had 
+them shot.  I'm in the process of beating up on the magic rules until they
+look like Shadowrun (the recent post on mana chanelling is similar to what
+I'm doing, though I'm also baking in Steffan's rules on improv magic.)  I
+wouldn't expect characters generated in my campaign to be recognized as
+GURPS characters anywhere else...
+
+        However, I have always felt that anyone trying to move a character 
+from one GM's campaign to another deserves all the headaches they get,
+regardless of the system.  I don't think the idea has any merit, and n-e-v-e-r
+allow foreign characters into my campaigns.
+
+|---Walter
+
+
+dfra...@tronsbox.xei.com <>   ...uunet!tronsbox     GEnie: D.HEFFERNAN1
+-------------------------------------------------------------------------------
+"I don't understand why you make such a big deal out of everything...haven't
+you learned; if it doesn't happen to me it's not important?" -Murphy Brown
+----------------------------------------------------------------------------
+
+Friday, 7 September 1990 15:30:23 UTC+1 - Viktor Haag:
+In article <1990Sep2.0...@agate.berkeley.edu <>>, ichiro@codon7 (Elliot Wilen) writes:
+>Fairly simple question: Are there any class-based RPG's outside of the
+>fantasy genre?
+Here is a list of what I could come up with just off the top of my head:
+        Flashing Blades (still sort of fantasy)
+        Space Opera (somewhat class oriented)
+        CyberPunk
+        CyberSpace 
+        Space Master
+        ShadowRun (if you don't build your own archetypes)
+        Star Wars (again if you don't build your own archetypes)
+
+Furthermore there are lots of games which are profession based but still allow
+you to pick some skills that you want:
+        Anything by GDW (Traveller, Mega, 2300, T2000)
+        Other Suns
+        RingWorld
+        Call of Cthulhu
+
+You get the idea.  This is an intriguing thread, any others people can think of?
+
+vitkor haag
+----------------------------------------------------------------------------
+
+Friday, 7 September 1990 16:49:59 UTC+1 - James Duncan:
+In article <59...@bbn.BBN.COM <>| mill...@bbn.com <> (Walter Milliken) writes:
+|In article <413.26de98b2@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu>>, jhreiher@uccs@ccnuccs writes:
+||My experience with GURPS has been that the characters are not very portable,
+||despite the company's hype. Now I'm not saying that you can't 'port a character
+||from within *one* GM's campaign to another of his, but that characters are not
+||very portable between two or more GMs. Each have their own method of character
+||creation, how many points can be spent, number of disad's, etc. You have to
+||carefully scruntinize a GURPS character from another campaign before you let
+||him into yours.
+        You need to do this with any system.  With GURPS you need to do so
+less than with many others.  Things you need to check for are total points.
+In range for your campaign?  Any non-standard items (this is not a system
+flaw). Wealth level (this affects high-tech campaigns or ones where it
+is easy to buy magic items).  Literacy is handled differently depending 
+on whether most people can read or not. For GURPS Cyberpunk things are
+complicated because GMs are allowed to NOT charge points for cybertech
+hardware.  Personally I always charge points to ensure portability. 
+If a GM charges points they are listed on the character sheet and they
+can easily be disregarded.  If not then the transported character needs
+to be scrutinized and charged the appropriate number of points.
+
+The two places where you have portability problems are Supers and Cyberpunk.
+Both are Loyd Blankenship projects.  GURPS Fantasy Folk characters and
+GURPS Aliens characters may have a few minor transport problems also 
+due to the influence of GURPS Supers.  Also the value of having the
+advantages that affect aging is highly setting dependent.  In most
+campaigns Longevity, Undying, Unaging, and Immortality are overpriced.
+Most GMs game in a linear fashion so that game time rarely spans more
+than a decade.  if a GM uses a 'time jump' method where the next adventure
+starts 10 years later or there are frequent multi-month/year gaps between
+adventures in game time than the listed costs are reasonable.
+
+
+|Hmmm... I haven't noticed any GURPS GMs who vary the "standard"
+|character generation process much.  100-point characters with -40
+|points in disads and -5 in quirks are pretty standard in my
+|experience, which covers quite a few GURPS GMs.  I do have a few
+|"house rules" in regards to disliking certain disads in my campaign,
+|or attempts at crocking the character generation process.  But I think
+|most characters except the most 2-dimensional would pass these fairly
+|easily.
+  The amount of points for a "standard" GURPS campaign varies with the
+genre.  Recently SJ Games has come to the realization that one-size
+fits all for point cost isn't realistic.  Here are the standard GURPS
+points by genre:
+
+        1. Fantasy - 100-points. -40 disads, -5 quirks.  When in doubt
+                      use this.
+        2. Special Ops - 300 points, -40 disads, -5 quirks.  Only 80
+                         points may be spent on attributes.  These
+                         are normal very high skilled and trained
+                         humans not supers.
+        3. Cyberpunk - 200 points, -40 disads, -5 quirks.
+                       150 if you want the PCs to have a really difficult
+                       time. 250 if you want characters with a 'rep'.
+
+        4. Supers -  500 points, -100 disads for a traditional comic super.
+                     250 points, -100 disads for a "realistic" campaign.
+
+Point levels for characters depends on the genre the GM wants to use and 
+the power level desired.
+
+
+|A few advantages and disadvantages are game world-specific (Patrons,
+|Enemies, and Dependents come to mind).  If these other people don't
+|come along for the ride, it's something of a problems -- either the
+|character will have to buy them off, or find some sort of local
+|equivalent.  Those are the only obvious things I can think of that
+|don't port well (assuming the character is staying in the same basic
+|genre).
+  In this case, I would provide them with similiar Patrons and dependents
+or charge/give them the appropriate points.
+
+
+|In general, I'm going to scrutinize *any* character who's entering my
+|campaign -- characters should fit into the GM's world, after all.  I
+|may not want a character from another campaign in my game because of
+|the conception I have of my universe (I don't want people bopping all
+|around the multiverse).  But that has nothing to do with the system --
+|that's equally much of a problem in AD&D.
+  I agree.  If I currently have a campaign running with PCs at 150 point
+level who began as 100 point characters, I would definitely look closely
+at a character who comes in with the same 150 points especially if this
+character started close to 150 points.  There is a problem with game 
+balance when most of a characters points are put into attributes.
+This is easier to do as you get more points.  I definitely look closely
+at characters who have attributes exceeding 14.  I discourage 17s and
+18s except in "power" campaigns (Supers, Conan, immortals, and such).
+
+
+
+|Perhaps GURPS characters are less transportable than AD&D ones because
+|the type of people who GM GURPS create more idiosyncratic worlds, and
+|GURPS characters tend to be more coupled into their particular home
+|campaigns... I don't know.  But it's not the system, it's the GMs
+|involved, I'm pretty sure.
+|---Walter
+Yes for the most part this is true.  If both GMs use the same genre
+and the same starting point levels then usually characters should 
+be very transportable.  Characters are less transportable between
+genres because the skills tend to be different.  Although if you
+look at GURPS Riverworld you can find an example where various 
+genres mix (though no magic) where the characters are all initially
+equalized due to the setting.
+-- 
+>> James R. Duncan                   | U.S. Mail:  
+>>   Internet: dun...@umd5.umd.edu <>  |   9260 Edmonston Rd. 
+>>   Bitnet: duncanj@umdd            |   Greenbelt, MD 20770
+>>   SJG BBS: James Duncan           |
+----------------------------------------------------------------------------
+
+Saturday, 8 September 1990 06:45:57 UTC+1 - Elliot Wilen:
+- show quoted text -In article <1990Sep7.1...@watdragon.waterloo.edu <>> cs...@crocus.uwaterloo.ca <> (Viktor Haag) writes:
+>In article <1990Sep2.0...@agate.berkeley.edu <>>, ichiro@codon7 (Elliot Wilen) writes:
+>>Fairly simple question: Are there any class-based RPG's outside of the
+>>fantasy genre?
+>
+>Here is a list of what I could come up with just off the top of my head:
+>        Flashing Blades (still sort of fantasy)
+>        Space Opera (somewhat class oriented)
+>        CyberPunk
+>        CyberSpace 
+>        Space Master
+>        ShadowRun (if you don't build your own archetypes)
+>        Star Wars (again if you don't build your own archetypes)
+>
+>Furthermore there are lots of games which are profession based but still allow
+>you to pick some skills that you want:
+>        Anything by GDW (Traveller, Mega, 2300, T2000)
+>        Other Suns
+>        RingWorld
+>        Call of Cthulhu
+>
+>You get the idea.  This is an intriguing thread, any others people can think of?
+I think an important distinction is to be made between systems which
+use classes, professions, or templates only during the character creation
+phase and those which also use them for character development. I think
+that if you use the second idea as the determining factor, the above
+list would be cut down severely. The original version of Traveller,
+lacking any sort of character improvement system, is a moot point, but
+I think Flashing Blades is mainly (entirely?) skill-oriented as far as
+development is concerned. And I would be very surprised if Ringworld
+or CoC, both Chaosium products, used professions that are
+significantly "harder" than those in Runequest.
+
+The point, which I was hoping someone would pick up on, is that
+non-fantasy systems are much less likely to employ classes because
+they were created in isolation from the conceptual framework developed
+in D&D.
+
+--Elliot Wilen
+
+ell...@ocf.berkeley.edu <>                ucbvax!ocf!elliot        ELLIOT%OCF@UCBJADE
+(Internet)                        (uucp)                        (BITNET)
+----------------------------------------------------------------------------
+
+Saturday, 8 September 1990 07:00:19 UTC+1 - Geoffrey M. Depew:
+ARRRRRRRRRRRRRRGH!
+Star Wars and Shadowrun are definitely >NOT< class-based.  Certainly, if you
+pick a basic character template, you're going to START with certain skills,
+but you can advance any way you want with them.  (My _Shadowrun_ troll, a
+Combat Monster if there was one, just picked up a skill in throwing OTHER
+CHARACTERS.  Moderately useful.)  Don't confuse those skill-based games that
+start with templates, with class-based games.
+------------------------------------
+
+Geoffrey M. Depew - Maniac for Hire, MAn of a thousand personalities.
+NEW ADDRESS!!!!!:  ...!uunet!tronsbox!mephron
+Warning:  I have begun study of the blackest of the arcane arts:  C and UNIX.
+These opinions are mine, and you CAN'T have them!  They get lonely.
+----------------------------------------------------------------------------
+
+Saturday, 8 September 1990 07:00:20 UTC+1 - Dennis Francis Heffernan:
+|ARRRRRRRRRRRRRRGH!
+|
+|Star Wars and Shadowrun are definitely >NOT< class-based.  Certainly, if you
+|pick a basic character template, you're going to START with certain skills,
+|but you can advance any way you want with them.  (My _Shadowrun_ troll, a
+|Combat Monster if there was one, just picked up a skill in throwing OTHER
+|CHARACTERS.  Moderately useful.)  Don't confuse those skill-based games that
+|start with templates, with class-based games.
+|------------------------------------
+|
+|Geoffrey M. Depew - Maniac for Hire, MAn of a thousand personalities.
+|NEW ADDRESS!!!!!:  ...!uunet!tronsbox!mephron
+        Sorry...they're class-based.  Just because you can make your own
+classes doesn't make them skill-based.  Not any more than AD&D 2.0 isn't class-
+based, anyway.
+
+
+dfra...@tronsbox.xei.com <>   ...uunet!tronsbox     GEnie: D.HEFFERNAN1
+-------------------------------------------------------------------------------
+"I don't understand why you make such a big deal out of everything...haven't
+you learned; if it doesn't happen to me it's not important?" -Murphy Brown
+----------------------------------------------------------------------------
+
+Saturday, 8 September 1990 20:49:40 UTC+1 - Tim Maroney:
+                                                1
+(character portability) =                 -------------------
+                (originality of target campaign) * (orig. of source camp.)
+(quality of campaign) = a * (originality of campaign)
+
+where a >= 1
+
+conclusion
+
+character portability is inversely proportional to campaign quality
+-- 
+Tim Maroney, Mac Software Consultant, sun!hoptoad!tim, t...@toad.com <>
+
+"What's the ugliest part of your body?
+ Some say your nose, some say your toes,
+ But I think it's your mind."
+-- Frank Zappa
+----------------------------------------------------------------------------
+
+Sunday, 9 September 1990 08:13:44 UTC+1 - Mary K. Kuhner;335 Mulford:
+In article <12293@hoptoad.uucp> tim@hoptoad.UUCP (Tim Maroney) writes:
+>character portability is inversely proportional to campaign quality
+
+There are occasional player characters who seem much more portable
+than others, for reasons which generally have nothing to do with the
+game system.  I played an orc-breed woman warrior, Kasta, who was the
+target of a vicious series of dream-sendings by an evil spirit.  Though
+she didn't break, as it had hoped, she did develop a very odd world-
+view.  She knew she couldn't tell Dreamsender's visions from reality, and 
+eventually came to accept this; she decided to treat whatever was
+happening to her at the moment as 'real', whether it made sense or not,
+whether it fit with what had happened before or not.
+
+I got to play Kasta in a convention game of Glenn Thain's, a different
+system and drastically different world, and she did fine.  She was
+fascinated by what was going on, and learned from it--the differences
+didn't bother her at all.
+
+I find that ordinary, sane characters, on the other hand, are often
+destroyed by being pulled from one campaign to another.  They lose
+their roots in reality and turn into dry, shrivelled caricatures.  In
+general, if I want a character similar to an old one, I try to find a
+new conception that embodies the same general idea but is part of the
+new world and its culture.
+
+Mary Kuhner
+mkku...@enzyme.berkeley.edu <>
+----------------------------------------------------------------------------
+
+Sunday, 9 September 1990 08:20:07 UTC+1 - Mary K. Kuhner;335 Mulford:
+The worst problem I have ever seen with transferring characters from
+campaign to campaign has nothing to do with game systems.  In groups
+that do this a lot, players can get the attitude "My character's more
+significant than anything in this game world."  After all, game worlds
+come and go but the character goes on and on.
+Once you get into this mindset, self-sacrifice and strong PC attachments
+to the world--national loyalty, love, comradeship with NPCs--become
+more or less impossible, and the game suffers.  I quit taking PCs
+adapted from other campaigns, no matter how good the conversion, after
+a few experiences of this.
+
+For conventions and other one-shot runs it may be okay, because there's
+no time to develop strong attachments anyway.  For campaigns, new
+characters are probably best.  So I don't care much about portability.
+
+Mary Kuhner mkku...@enzyme.berkeley.edu <>
+----------------------------------------------------------------------------
+
+Sunday, 9 September 1990 18:34:16 UTC+1 - Brian or James:
+In article <12293@hoptoad.uucp> tim@hoptoad.UUCP (Tim Maroney) writes:
+>
+>                                                1
+>(character portability) =                 -------------------
+>                (originality of target campaign) * (orig. of source camp.)
+>
+>(quality of campaign) = a * (originality of campaign)
+>
+>where a >= 1
+>
+>conclusion
+>
+>character portability is inversely proportional to campaign quality
+        I'd just like to thank Mr. Maroney for his masterful demonstration of
+'circular reasoning in motion.' Join us next week, when he will be lecturing
+on 'The Art of Poker or Why I Like Inside Straights'.
+
+                                                        James Nicoll
+----------------------------------------------------------------------------
+
+Sunday, 9 September 1990 21:21:27 UTC+1 - Andrew Bell:
+In article <26e86ece-58c.15rec.games.frp-1@tronsbox.xei.com <>> dfra...@tronsbox.xei.com <> (Dennis Francis Heffernan) writes:
+>|Star Wars and Shadowrun are definitely >NOT< class-based.
+>        Sorry...they're class-based.  Just because you can make your own
+>classes doesn't make them skill-based.  Not any more than AD&D 2.0 isn't
+>class-based, anyway.
+
+Star Wars "classes" (and I presume Shadowrun's) are CHARACTERISTIC
+determinants,  not skill determinants.  A "tongue-tied engineer" has an
+aptitude for mechanical skills,  just as an AD&D character with an 18
+strength has an aptitude for combat.  However,  that "engineer" could
+be training his combat or perception skills.
+
+Perhaps we need to define class-based and skill-based,  and I submit the
+following as a basis for people to work with:
+
+Class-based:  initial skill levels are determined by a chosen profession
+(generally from a fixed set of same),  and skill advances beyond that base
+are determined by that initial profession regardless of the character's
+actions.
+
+An purely class-based would be characterized by being able to characterize
+a PC's skills using a very limited set of statistics,  such as race,  sex,
+and innate physical and mental statistics.  AD&DV1 is thus not a pure
+class-based system due to its proficiencies system.
+
+
+Skill-based:  initial skills are determined by simulating the character's
+previous training,  and skill advances beyond that base are determined by
+the character's actions.
+
+
+Skill-based systems might be described as the root system,  and class-based
+systems impose some overlying structure on top to simulate both the
+nature of the game world and unspecified skills,  as well as to simplify
+the system.  In the case of systems like AD&DV1,  the overlying system
+does not work with any concept of there being an underlying system.
+Thus attempts to modify the upper-level are rather arbitrary and have
+difficulty satisfying people's concept of game balance.  Games like Rolemaster
+attempt to build the lower-level from the structure of the upper level,
+and thus the various classes are again rather arbitrary in their points
+assignment.  Games like Warhammer,  or RuneQuest when the occupations
+system is being used for character generation,  use the underlying system
+to build a logical upper level.  This upper level is thus easy to add to.
+(Note that RuneQuest is rather weak here,  actually;  they oversimplify
+how the advancement system works,  and damage the character generation
+system in the process.)
+
+---Andrew Bell,  be...@cs.unc.edu <>,  Presidential Candidate in 2000-----
+If you're not outraged enough to get active,  you're not outraged.
+----------------------------------------------------------------------------
+
+Monday, 10 September 1990 07:00:16 UTC+1 - Dennis Francis Heffernan:
+        RE Star Wars and Shadowrun as class-based RPG's
+        I consider both games to be class-based because a) they give you a 
+bunch of classes to choose from, and then add on a make-your-own-class system
+as an afterthought, and b) more importantly, the system forces you to be a 
+specialist.  Generalists in either game are useless.
+
+
+dfra...@tronsbox.xei.com <>   ...uunet!tronsbox!dfrancis     GEnie: D.HEFFERNAN1
+-------------------------------------------------------------------------------
+"I don't understand why you make such a big deal out of everything...haven't
+you learned; if it's not happenning to me it's not important?" -Murphy Brown
+----------------------------------------------------------------------------
+
+Monday, 10 September 1990 10:36:44 UTC+1 - Adrian Hurt:
+In article <26e86ece-58c.15rec.games.frp-1@tronsbox.xei.com <>> dfra...@tronsbox.xei.com <> (Dennis Francis Heffernan) writes:
+>|Star Wars and Shadowrun are definitely >NOT< class-based.  Certainly, if you
+>|pick a basic character template, you're going to START with certain skills,
+>|but you can advance any way you want with them.
+>
+>        Sorry...they're class-based.  Just because you can make your own
+>classes doesn't make them skill-based.  Not any more than AD&D 2.0 isn't class-
+>based, anyway.
+It depends on what you mean by "class-based".  Certainly, when you generate a
+character you either choose one of a large number of templates (a.k.a. classes)
+or invent your own.  But after that, it's skills all the way.  In AD&D, your
+chance of success in, say, hitting someone depends on whether your character
+is a Fighter, a Mage, etc.  In Star Wars, it depends on your Blaster skill.
+It makes no difference if the character is a Bounty Hunter with Blaster 6D,
+a Gambler with Blaster 6D, or an elite Imperial trooper with Blaster 6D.
+Liksewise, when it comes to using experience points (known here as Skill
+Points) to boost those skills, it is irrelevant what type of character is
+trying to increase that Blaster skill - it takes 6 points for all of them.
+Character generation is class-based; everything else is skill-based.
+
+ "Keyboard?  How quaint!" - M. Scott
+
+ Adrian Hurt                             |        JANET:  adrian@uk.ac.hw.cs
+ UUCP: ..!ukc!cs.hw.ac.uk <http://cs.hw.ac.uk>!adrian     |  ARPA:   adr...@cs.hw.ac.uk <>
+----------------------------------------------------------------------------
+
+Monday, 10 September 1990 16:05:41 UTC+1 - Clay Luther:
+dfra...@tronsbox.xei.com <> (Dennis Francis Heffernan) writes:
+
+>        Sorry...they're class-based.  Just because you can make your own
+>classes doesn't make them skill-based.  Not any more than AD&D 2.0 isn't class-
+>based, anyway.
+[regarding Shadowrun & Star Wars]
+
+
+Not so fast.  Shadowrun and Star Wars, for the most part, do not exhibit the
+hallmark of class-based systems:  the acquisition of ability based entirely
+and solely on one's class.
+
+The exceptions are (as they usually are) the handling of paranormal abilities.
+
+However, I would still argue that neither SR or SW is truly class-based since
+they break the other hallmark of class systems:  character must (semi-)
+rigidly adhere to the abilities and principles of their class.
+
+Although abilities are granted in a class style to SR mages and SW jedi, any
+character properly role-played can acquire these skills/abilities.
+
+
+-- 
+Clay Luther                      clu...@supernet.haus.com <>
+Postmeister                      clu...@supernet.lonestar.org <>
+Harris Adacom Corp, Dallas, Tx   uunet!iex!supernet!cluther
+214/386-2356                     Your mileage may vary.  Void where prohibited.
+----------------------------------------------------------------------------
+
+Monday, 10 September 1990 19:28:01 UTC+1 - Allen Wessels:
+In article <26e86ece-58c.15rec.games.frp-1@tronsbox.xei.com <>> dfra...@tronsbox.xei.com <> (Dennis Francis Heffernan) writes:
+
+>        Sorry...they're class-based.  Just because you can make your own
+>classes doesn't make them skill-based.  Not any more than AD&D 2.0 isn't class-
+>based, anyway.
+I'd sure like to know how you figure this.  Skills in Shadowrun are not based on
+some idea of class level.  Just because Shadowrun gives you templates for 
+characters doesn't mean it is class-based.
+----------------------------------------------------------------------------
+
+Tuesday, 11 September 1990 00:33:29 UTC+1 - Liam R. E. Quin:
+ichiro@codon7 (Elliot Wilen) writes:
+>Fairly simple question: Are there any class-based RPG's outside of the
+>fantasy genre?
+cs...@crocus.uwaterloo.ca <> (Viktor Haag) writes:
+>Here is a list of what I could come up with just off the top of my head:
+>        [...]
+>        CyberSpace 
+>        Space Master
+    I am not sure about this one.  Although it is ostensibly class-based,
+    in practice all that membership of a given class means is that some
+    skills are easier to learn than others.  So this is really a skill
+    system with cost weightings for learining skills.
+    It works quite well with Rolemaster .... :-)
+
+Lee
+-- 
+Liam R. E. Quin,  l...@sq.com <>, SoftQuad Inc., Toronto, +1 (416) 963-8337
+----------------------------------------------------------------------------
+
+Tuesday, 11 September 1990 22:03:41 UTC+1 - patrick palmer:
+        You seem to be caught up in quite a dumb arguement.
+        How about just Skill vs. Class vs. Template based RPG's?
+----------------------------------------------------------------------------
+
+Wednesday, 12 September 1990 17:46:21 UTC+1 - jhre...@uccs@ccnuccs.colorado.edu:
+In article <37046@ut-emx>, awes...@walt.cc.utexas.edu <> (Allen Wessels) writes:
+> In article <26e86ece-58c.15rec.games.frp-1@tronsbox.xei.com <>> dfrancis@-
+>tronsbox.xei.com <http://tronsbox.xei.com> (Dennis Francis Heffernan) writes:
+> 
+>>        Sorry...they're class-based.  Just because you can make your own
+>>classes doesn't make them skill-based.  Not any more than AD&D 2.0 isn't 
+>>class-based, anyway.
+> 
+> I'd sure like to know how you figure this.  Skills in Shadowrun are not 
+> based on some idea of class level.  Just because Shadowrun gives you 
+> templates for characters doesn't mean it is class-based.
+Though I've never read, or played Shadowrun, if it uses templates to define
+what skills are available to the character in his chosen profession, then it is
+skill based, unless, it determines the amount of skill points that are
+available to the character by his level. Example of this is Tri Tac's series of
+games; FTL 2448, Fringeworthy, and Stalking the Night Fantastic. All these
+games are mix between skill and class based. Characters pick and choose their
+skills, but only can increase them by advancing in levels. Each level gives
+more hitpoints, skill points, and pyschic/magic energy. The system is sort of a
+cross between skill based and class based. When I talked to the author of these
+games, he said that he believes that a playere needs some sort of reward or
+sign of reward for his efforts, and that going up in levels is the best way. I
+countered that he can feel satisfaction in his character by simply totaling up
+his experience points, and that the level system's granting more hitpoints
+doesn't make much sense considering the deadliness of the combat system.
+
+I came up with an alternate experience system, which I will present in another
+posting.
+
+On the subject of SFRPG's that use a class based system, the only *true* class
+based SFRPG that I remember is _Starships and Spacemen_. Basically it was a
+Trek ripoff, with races and character classes like science officer, engineer,
+command, etc. Does anyone lse remember this game?
+
+-- 
+
+John H. Reiher Jr.
+Internet: John.H....@Happy.colorado.edu <>
+-------------------------------------------------------
+Standard disclaimer, mainly to keep the University of
+Colorado's regents from having kittens over my remarks.
+-------------------------------------------------------
+Pithy quotation;
+        Dr. Destiny: Manfred, the secret to a long and happy life is
+                     learning when to duck, when the lead starts flying!
+----------------------------------------------------------------------------
+
+Wednesday, 12 September 1990 17:52:44 UTC+1 - Dennis Clark:
+/ awes...@walt.cc.utexas.edu <> (Allen Wessels) / writes:
+
+>I'd sure like to know how you figure this.  Skills in Shadowrun are not based on
+>some idea of class level.  Just because Shadowrun gives you templates for 
+>characters doesn't mean it is class-based.
+>----------
+  Its true, having templates does not making a class-based system.  Fantasy
+Hero does this, it simply makes it easier to put an idea into action.  And 
+gives a good idea of what disadvantages would be good without crippling a 
+character who wants to play a "type" of adventurer.
+
+DLC
+----------------------------------------------------------------------------
+
+Wednesday, 12 September 1990 19:01:37 UTC+1 - Tim Maroney:
+In article <12293@hoptoad.uucp> tim@hoptoad.UUCP (Tim Maroney) writes:
+>>
+>>                                                1
+>>(character portability) =                 -------------------
+>>                (originality of target campaign) * (orig. of source camp.)
+>>
+>>(quality of campaign) = a * (originality of campaign)
+>>
+>>where a >= 1
+>>
+>>conclusion
+>>
+>>character portability is inversely proportional to campaign quality
+In article <1990Sep9.1...@watdragon.waterloo.edu <>>
+
+jdni...@watyew.uwaterloo.ca <> (Brian or James) writes:
+>        I'd just like to thank Mr. Maroney for his masterful demonstration of
+>'circular reasoning in motion.' Join us next week, when he will be lecturing
+>on 'The Art of Poker or Why I Like Inside Straights'.
+What circularity?  I started with two independent premises which I
+think are self-evident, and neither of which derives from the other or
+from the conclusion.
+
+The first premise is that character portability is inversely
+proportional to the originality of the source and target campaigns,
+which is obvious.  The second premise is that campaign quality is
+proportional to originality, which again is obvious.  For there to be a
+circularity, either of these premises would have to be derived from the
+conclusion; neither one is.
+
+An example of a circular argument is that the Bible is true because it
+says it's true, and it couldn't be lying about that.  The premise --
+the Bible says it's true and the Bible must be telling the truth when
+it says that -- is derived from the conclusion -- the Bible is true.
+
+Methinks a basic logic refresher would be in order for jdnicoll....
+-- 
+Tim Maroney, Mac Software Consultant, sun!hoptoad!tim, t...@toad.com <>
+
+"Everything that gives us pleasure gives us pain to measure it by."
+    -- The Residents, GOD IN THREE PERSONS
+----------------------------------------------------------------------------
+
+Wednesday, 12 September 1990 22:48:49 UTC+1 - Brian or James:
+In article <12335@hoptoad.uucp> tim@hoptoad.UUCP (Tim Maroney) writes:
+>In article <12293@hoptoad.uucp> tim@hoptoad.UUCP (Tim Maroney) writes:
+        [Stuff deleted. Trust me on this]
+
+
+>        jdni...@watyew.uwaterloo.ca <> (James) writes:
+>>        I'd just like to thank Mr. Maroney for his masterful demonstration of
+>>'circular reasoning in motion.' Join us next week, when he will be lecturing
+>>on 'The Art of Poker or Why I Like Inside Straights'.
+>
+>What circularity?  I started with two independent premises which I
+>think are self-evident, and neither of which derives from the other or
+>from the conclusion.
+        Whoops. Forgot to mention the prereq course 'Missing the point of a
+posting', with m'self lecturing :). I just like to say I think it's darned
+impolite for Mr. Maroney to be right in this case [Perhaps more so for me to 
+be wrong].
+                                                James Nicoll
+----------------------------------------------------------------------------
+
+Wednesday, 12 September 1990 23:44:57 UTC+1 - Jim W Lai:
+In article <12335@hoptoad.uucp> tim@hoptoad.UUCP (Tim Maroney) writes:
+>In article <1990Sep9.1...@watdragon.waterloo.edu <>>
+>jdni...@watyew.uwaterloo.ca <> (Brian or James) writes:
+>> I'd just like to thank Mr. Maroney for his masterful demonstration of
+>>'circular reasoning in motion.' Join us next week, when he will be lecturing
+>>on 'The Art of Poker or Why I Like Inside Straights'.
+>
+>What circularity?  I started with two independent premises which I think
+>are self-evident, and neither of which derives from the other or from the
+>conclusion.
+>
+>The first premise is that character portability is inversely proportional
+>to the originality of the source and target campaigns, which is obvious.
+>The second premise is that campaign quality is proportional to originality,
+>which again is obvious.  For there to be a circularity, either of these
+>premises would have to be derived from the conclusion; neither one is.
+I disagree with your second premise.  I can could create a totally original
+(and confusing) game system which would be totally lacking in quality.
+At other times, originality is a matter of who get into the genre first
+(or at least, that's what the gaming companies believe).
+
+Oh, excuse me.  You didn't claim your statement was obviously correct, but
+merely obvious.  I apologize for my misunderstanding.
+
+[Smilies, the shield against flames, should be obvious, so I have not
+included them in the above text.]
+----------------------------------------------------------------------------
+
+Thursday, 13 September 1990 08:09:46 UTC+1 - 66032000:
+In article <12335@hoptoad.uucp> tim@hoptoad.UUCP (Tim Maroney) writes:
+>>>                                                1
+>>>(character portability) =                 -------------------
+>>>                (originality of target campaign) * (orig. of source camp.)
+>>>
+>>>(quality of campaign) = a * (originality of campaign)
+>>>
+>>>where a >= 1
+>The first premise is that character portability is inversely
+
+>proportional to the originality of the source and target campaigns,
+>which is obvious.  
+It is?  Character portability is mainly dependent on the difference between
+two campaigns--thus portability between a fantasy and a SF game is rather
+limited (actually, a SF game where you could successfully port in fantasy
+characters might be quite interesting--but I digress).  Character histories
+are portable to a variable degree--generally, if one or the other game has
+an extensively defined history character histories won't be portable.  However,
+absence of such a history for the game, or using a prepublished history, doesn't
+preclude an original campaign.  There are good star trek books (if not very 
+many).  Character histories will usually require editing, and in most cases I
+am not in favor of translating characters between games, but it is quite
+possible to have an original game which includes characters from other games,
+and quit common to have boring games with no characters from other games.
+
+
+>The second premise is that campaign quality is proportional to originality, 
+>which again is obvious.
+Again, it is?  Campaign quality is not dependent on the originality of your
+ingredients, it is dependent on what is done with those ingredients.  A
+campaign can be really original, and still be lousy; on the other hand, an
+extremely generic campaign can be good.
+
+-- 
+--Riddlemaster
+----------------------------------------------------------------------------
+
+Thursday, 13 September 1990 17:07:52 UTC+1 - jhre...@uccs@ccnuccs.colorado.edu:
+In article <12335@hoptoad.uucp>, tim@hoptoad.uucp (Tim Maroney) writes:
+> In article <12293@hoptoad.uucp> tim@hoptoad.UUCP (Tim Maroney) writes:
+>>>
+>>>                                                1
+>>>(character portability) =                 -------------------
+>>>                (originality of target campaign) * (orig. of source camp.)
+>>>
+>>>(quality of campaign) = a * (originality of campaign)
+>>>
+>>>where a >= 1
+>>>
+>>>conclusion
+>>>
+>>>character portability is inversely proportional to campaign quality
+> 
+> In article <1990Sep9.1...@watdragon.waterloo.edu <>>
+> jdni...@watyew.uwaterloo.ca <> (Brian or James) writes:
+>>        I'd just like to thank Mr. Maroney for his masterful demonstration of
+>>'circular reasoning in motion.' Join us next week, when he will be lecturing
+>>on 'The Art of Poker or Why I Like Inside Straights'.
+> 
+> What circularity?  I started with two independent premises which I
+> think are self-evident, and neither of which derives from the other or
+> from the conclusion.
+> 
+What I disagree with is that you state that portability is an inverse
+realtionship with regards to character originallity. I've many original
+characters who've ported over to other campaigns quite easily. Of course they
+missed their home world, though sometimes, the gate betwixt the two is two-way,
+they still can't get back. It's in how you play your character, not in how you
+write him.
+
+
+> The first premise is that character portability is inversely
+> proportional to the originality of the source and target campaigns,
+> which is obvious.  The second premise is that campaign quality is
+           ^^^^^^^! Obvious to who? Not me! ;-)
+
+> proportional to originality, which again is obvious.  For there to be a
+                                              ^^^^^^^! See above.
+
+> circularity, either of these premises would have to be derived from the
+> conclusion; neither one is.
+> 
+> [stuff about circular reasoning in the Bible deleted] 
+> 
+> Methinks a basic logic refresher would be in order for jdnicoll....
+Methinks the poster doth protest too much...;-)
+
+
+> -- 
+> Tim Maroney, Mac Software Consultant, sun!hoptoad!tim, t...@toad.com <>
+> 
+> "Everything that gives us pleasure gives us pain to measure it by."
+>     -- The Residents, GOD IN THREE PERSONS
+-- 
+
+John H. Reiher Jr.
+Internet: John.H....@Happy.colorado.edu <>
+Bitnet: JHREIHER@COLOSPGS.BITNET
+-------------------------------------------------------
+Standard disclaimer, mainly to keep the University of
+Colorado's regents from having kittens over my remarks.
+-------------------------------------------------------
+Pithy quotation;
+        Dr. Destiny: Manfred, the secret to a long and happy life is
+                     learning when to duck, especially when the lead starts 
+                     flying!
+----------------------------------------------------------------------------
+
+Thursday, 13 September 1990 17:45:37 UTC+1 - Sean Malloy:
+In article <442.26ee11fe@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu>> jhreiher@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu> writes:
+>In article <37046@ut-emx>, awes...@walt.cc.utexas.edu <> (Allen Wessels) writes:
+>> In article <26e86ece-58c.15rec.games.frp-1@tronsbox.xei.com <>> dfrancis@-
+>>tronsbox.xei.com <http://tronsbox.xei.com> (Dennis Francis Heffernan) writes:
+
+>>>        Sorry...they're class-based.  Just because you can make your own
+>>>classes doesn't make them skill-based.  Not any more than AD&D 2.0 isn't 
+>>>class-based, anyway.
+
+>> I'd sure like to know how you figure this.  Skills in Shadowrun are not 
+>> based on some idea of class level.  Just because Shadowrun gives you 
+>> templates for characters doesn't mean it is class-based.
+
+>Though I've never read, or played Shadowrun, if it uses templates to define
+>what skills are available to the character in his chosen profession, then it is
+>skill based, unless, it determines the amount of skill points that are
+>available to the character by his level.
+The Archetype character generation mechanism that Shadowrun has is a
+method of speeding up character design for people who want to slap
+together a character quickly to get into a game. They are essentially
+pregenerated characters that have a limited number of variations that
+can be made to them. You can make your own Archetypes; what they consist
+of is a decision on how to divide 10 points in a 4/3/2/1/0 pattern
+among the categories of Race, Characteristics, Skills, Tech/Spells, and
+Magic. Once you've done that, then, based on how many points you put in
+each category, you have _X_ number of points to allocate to your
+characteristics, _Y_ number of points of skills, _Z_ nuyen worth of
+equipment, and _N_ points worth of spells if you put enough points in
+Magic to be a mage. Which skills you pick tends to depend on the kind
+of character you're building, but there's nothing preventing any
+character from picking up any given skill (although some choices are
+rather stupid in game terms; how often do you expect an Essence 0.2
+razorboy full of optionware to get anything useful out of having a
+Sorcery skill, chummer?). Later, if you want to create another
+character of the same type, you go back to that Archetype and shuffle
+some of the characteristics, skills, equipment, and spells around, and
+you have your new character.
+
+Skills are increased, and new skills are gained, by spending Karma
+(analogous to experience points, but they have other uses as well).
+Again, the choice of skills is up to the player, not fixed by
+points
+
+
+
+ Sean Malloy                                   | American Non Sequitur Society
+ Navy Personnel Research & Development Center  | 
+ San Diego, CA 92152-6800                      |    "We may not make sense,
+ mal...@nprdc.navy.mil <>                         |     but we do like pizza."
+----------------------------------------------------------------------------
+
+Thursday, 13 September 1990 17:54:50 UTC+1 - Viktor Haag:
+In article <1990Sep10....@supernet.haus.com <>> clu...@supernet.haus.com <> (Clay Luther) writes:
+>
+>Although abilities are granted in a class style to SR mages and SW jedi, any
+>character properly role-played can acquire these skills/abilities.
+
+Wait a minute, here. What exactly do you mean by properly role played?  Do you
+mean that if a player plays the nuances of his character well, you will allow 
+him to gather paranormal abilities as a reward?  You probably mean that a 
+character can, during the course of play, decide to change his mind and
+pursue another career, am I right?  In this case, all the character is doing
+is changing classes, isn't he?  It seems to me that this thread is getting
+really ridiculously nitpicky.
+
+Good skill based games such as Hero and 
+RuneQuest are class based as well in that in order to pick up a new skill, the
+character must train in it.  This often means finding a professional and 
+signing on as an apprentice, ie. starting a new profession.
+
+Likewise, class based
+games are often skill based to a certain extent, in that friends tend to share
+their skills with each other, regardless of their professions.
+
+Of course, neither case is true in the extremes, but extremes, as always, tend
+towards the ridiculous.  Extreme skill based games allow characters to pick
+up skills willy nilly with no thought to the hows and wherefores of learning,
+while extreme class based games severly limit the true flexibility of the 
+human mind and talent for jack-of-all-tradesmanship.
+
+Most, if not all, games on the modern market tend to fall somewhere in       
+between these two extremes.  Good GM's will usually tend to seek the golden
+mean on this issue as well because it is the most 'realistic'.  It is also the
+stance that, in the end, is the most enjoyable, fulfilling, and playable.
+People should not be allowed to pick up skills here there and everywhere with
+no rhyme or reason, but neither should they be prevented from picking up the
+odd trick here and there with the time that is not occupied with their
+profession.
+
+The ancient excuse that magic-users spend too much time on their magic to 
+properly learn other skills is hogwash.  I have never seen an adventuring party
+containing a magic user like this - indeed I don't think such a beast would be
+suited for the adventuring life.  The excuse is merely a rationalization for
+an overpowerful magic system that would allow mu's to unbalance the game if
+everyone were allowed to cross train.
+
+viktor haag
+
+
+--
+        "We murder to dissect"                        
+                Wordsworth
+----------------------------------------------------------------------------
+
+Thursday, 13 September 1990 19:56:46 UTC+1 - lio...@ecs.umass.edu:
+jwt...@watcgl.waterloo.edu <> (Jim W Lai) writes:
+> In article <12335@hoptoad.uucp> tim@hoptoad.UUCP (Tim Maroney) writes:
+>>What circularity?  I started with two independent premises which I think
+>>are self-evident, and neither of which derives from the other or from the
+>>conclusion.
+[First premise cut to save me from the editor gods]
+
+
+>>The second premise is that campaign quality is proportional to originality,
+>>which again is obvious.  For there to be a circularity, either of these
+>>premises would have to be derived from the conclusion; neither one is.
+
+
+> I disagree with your second premise.  I can could create a totally original
+> (and confusing) game system which would be totally lacking in quality.
+
+I agree that you can create a totally original (and confusing) game system
+
+which would be totally lacking in quality.
+But I also agree that since Tim Maroney is talking about someone's personal
+campaign and *NOT* a game system:
+
+I agree that you have created a totally original (and confused) post which
+is totally lacking in quality. :-)
+
+(don't know how good of a shield my :-) will be, but I thought I'd try it...)
+
+------------------------------------------------------------------------------
+Eric C. McClure   |                                                             |        
+lionti@umaecs     |          "Mess with the Best, Die like the Rest"         |
+Standard Dis      |                                                             |
+------------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Friday, 14 September 1990 16:09:48 UTC+1 - Hex (et. al.) Martin:
+ In article <26e86ece-58c.15rec.games.frp-1@tronsbox.xei.com <>>, 
+dfra...@tronsbox.xei.com <> (Dennis Francis Heffernan) writes...
+>        Sorry...they're class-based.  Just because you can make your own
+>classes doesn't make them skill-based.  Not any more than AD&D 2.0 isn't class-
+>based, anyway.
+>dfra...@tronsbox.xei.com <>   ...uunet!tronsbox     GEnie: D.HEFFERNAN1
+>-------------------------------------------------------------------------------
+
+  You missed it ... They're only class based if you take them directly as
+archetypes. Unless the classes go like this:
+
+  Dwarf, Elf, Human, Orc, Troll, people with guns, people with bigger guns,
+people with magic, people with more magic, poeple with different magic, people
+with lots of skills, people with massive physical and mental attributes, people
+with good attributes and fairly large guns, people with magic and fairly big
+guns, people with cyberware, people with cyberware and guns, people with
+cyberware and magic, people with cyberware and magic and guns, people who go to
+bars, and people who stay home!
+
+  I guess you're right, it must be class based. Just look at the majorly
+limited selection of characters you could chose from ...
+
+
+From th' Land o' Sunshine an' Sharks,
+
+ Bruce ...
+
+*******************************************************************************
+*Disclaimer: All spellings of words in the above message are the beliefs of   *
+*            the author, and have no ulterior motives ...                     *
+*******************************************************************************
+----------------------------------------------------------------------------
+
+Friday, 14 September 1990 16:29:48 UTC+1 - Jim W Lai:
+In article <10673.2...@ecs.umass.edu <>> lio...@ecs.umass.edu <> writes:
+>jwt...@watcgl.waterloo.edu <> (Jim W Lai) writes:
+>> In article <12335@hoptoad.uucp> tim@hoptoad.UUCP (Tim Maroney) writes:
+>>>The second premise is that campaign quality is proportional to originality,
+>>>which again is obvious.
+>
+>>I disagree with your second premise.  I can could create a totally original
+>>(and confusing) game system which would be totally lacking in quality.
+>
+>I agree that you can create a totally original (and confusing) game system
+>which would be totally lacking in quality.
+>
+>But I also agree that since Tim Maroney is talking about someone's personal
+>campaign and *NOT* a game system:
+Did Tim say this?  I thought he was speaking in general.  (He has this
+equation and all in a previous article.)  I can make an original and
+crappy campaign too, you know.  (How about an RPG where you play a tribble
+on a Klingon planet?  Or "Ringworld of Cthulhu"?)
+
+
+>I agree that you have created a totally original (and confused) post which
+>is totally lacking in quality. :-)
+Er, so who is this other person who agrees with you?  ;)  C'mon, it wasn't
+that bad.  It wasn't sufficiently long enough to be utterly confusing.
+And as for your smiley shields, um, well you seem like an agreeable person
+so I'll be kind.  (Please note Monty Python credulous tone of voice.)
+----------------------------------------------------------------------------
+
+Friday, 14 September 1990 22:31:23 UTC+1 - William Henry Timmins:
+I'll answer FOR him... there's a difference between a CAMPAIGN and a
+GAME SYSTEM. One is detail, (history, cultures, politics, et al), the
+other is mechanics. Though the statement about game systems DOES apply
+equally to campaigns, so the flamer was being retentive.
+Anal, that is.
+----------------------------------------------------------------------------
+
+Sunday, 16 September 1990 22:43:29 UTC+1 - Andrew Bell:
+In article <1990Sep13.1...@watdragon.waterloo.edu <>> veh...@crocus.uwaterloo.ca <> (Viktor Haag) writes:
+>In article <1990Sep10....@supernet.haus.com <>> clu...@supernet.haus.com <> (Clay Luther) writes:
+
+>>Although abilities are granted in a class style to SR mages and SW jedi, any
+>>character properly role-played can acquire these skills/abilities.
+
+>Wait a minute, here. What exactly do you mean by properly role played?  Do you
+>mean that if a player plays the nuances of his character well, you will allow 
+>him to gather paranormal abilities as a reward?
+The gaining of such skills is a game world limitation,  not a rules
+limitation.  If the character can find a teacher,  He can learn the skills.
+(I dislike SW Jedi rules,  because the neophyte learner gets a big edge
+over a character that started out as a Jedi.)   
+
+
+>You probably mean that a 
+>character can, during the course of play, decide to change his mind and
+>pursue another career, am I right?  In this case, all the character is doing
+>is changing classes, isn't he?
+He's changing professions,  or changing schools.  Only in class-based
+systems does the rules system have to be involved.
+
+
+>It seems to me that this thread is getting really ridiculously nitpicky.
+The above is the essential difference.  If you don't find the above
+difference important,  then hit 'k'.
+
+
+>Good skill based games such as Hero and 
+>RuneQuest are class based as well in that in order to pick up a new skill, the
+>character must train in it.
+Profession != class.  Teacher != class.
+
+How much is involved in changing a class in D&D?  Your saving throws change,
+you get some new proficiencies,  you learn some base amount of skills in
+your new profession.  There are only a limited number of classes you can
+switch to,  and only humans can switch classes.
+
+
+>This often means finding a professional and 
+>signing on as an apprentice, ie. starting a new profession.
+Let's see a gnome thief become an illusionistin D&D,  then.
+be
+
+
+>Likewise, class based
+>games are often skill based to a certain extent, in that friends tend to share
+>their skills with each other, regardless of their professions.
+How does one "share" a skill in D&D?
+
+
+>Of course, neither case is true in the extremes, but extremes, as always, tend
+>towards the ridiculous.  Extreme skill based games allow characters to pick
+>up skills willy nilly with no thought to the hows and wherefores of learning,
+No.
+
+The limitations on characters in RuneQuest,  for example,  is finding a
+teacher -- which is a gameworld limit,  not a rules limit.  It is the
+source of this limitation that is vital.
+
+The limitation on a gnome thief becoming an illusionist,  on the other
+hand,  is a rules limit.
+
+
+>while extreme class based games severly limit the true flexibility of the 
+>human mind and talent for jack-of-all-tradesmanship.
+Now that's true.
+
+
+>People should not be allowed to pick up skills here there and everywhere with
+>no rhyme or reason, but neither should they be prevented from picking up the
+>odd trick here and there with the time that is not occupied with their
+>profession.
+Given free access to the right teachers,  a RuneQuest character could
+learn anything.  The limitation is totally imposed by the game world,
+not the system.
+
+You don't need the rules system to impose this limit,  you need a realistic
+world.  D&D and class-based games impose limits on the characters via
+the rules system,  which is the least realistic way to do things.
+
+If I tried to learn to play jai-alai well,  would I hear a mysterious voice
+saying "no,  you're a level 4 computer hacker,  you can't do that",
+or in playing jai-alai,  would I then be prohibited from learning more
+computer science?  Only if I lived in a class-based world.
+
+
+
+---Andrew Bell,  be...@cs.unc.edu <>,  Presidential Candidate in 2000-----
+If you're not outraged enough to get active,  you're not outraged.
+----------------------------------------------------------------------------
+
+Monday, 17 September 1990 00:00:02 UTC+1 - Jeff Stehman:
+From article <16...@thorin.cs.unc.edu <>>, by be...@cassatt.cs.unc.edu <> (Andrew Bell):
+> He's changing professions,  or changing schools.  Only in class-based
+> systems does the rules system have to be involved.
+
+        You just made Rolemaster and WFRP class-based.
+
+                                                Jeff Stehman
+----------------------------------------------------------------------------
+
+Monday, 17 September 1990 14:15:40 UTC+1 - Andrew Bell:
+- show quoted text -In article <10...@hubcap.clemson.edu <>> ste...@hubcap.clemson.edu <> (Jeff Stehman) writes:
+>From article <16...@thorin.cs.unc.edu <>>, by be...@cassatt.cs.unc.edu <> (Andrew Bell):
+>> He's changing professions,  or changing schools.  Only in class-based
+>> systems does the rules system have to be involved.
+
+- show quoted text ->        You just made Rolemaster and WFRP class-based.
+Rolemaster is clearly class-based.  It has an underlying skills system,
+but one's learning rate is modified by the amount of previous experience
+at everything and by a class "characteristic", and skills are learned en
+masse when you go up a level.  You also get the level increase bonuses
+when you go up levels,  and that amount of increase is based on your class.
+
+(Rolemaster is also the biggest exercise in probability-playing known to
+man:  I remember doing some serious probability calculations to determine
+how many points to put into getting a skill list.  [I wanted the maximum
+amount of points left over that I could put into useless secondary skills.])
+
+WFRP has taken professions and made them part of the rules system,  thus
+"classing" them.  From what I've seen of WFRP,  the profession system
+could be removed without much difficulty,  and new professions created at
+the drop of a hat.
+
+I view the skill-based/class-based difference as really being a class-based/
+non-class-based difference.  All roleplaying games (at least,  as far as I
+am aware of them) have skills in one form or another -- even D&D in the
+three white books.  It is the presence or absence of a rules-based class
+system that is really the issue.
+
+One could easily take a purely skills-based system -- GURPS,  RuneQuest,
+Fantasy Hero -- and add a class system on top of it.  You would have a
+heck of a time doing the same thing to D&D.
+
+
+
+---Andrew Bell,  be...@cs.unc.edu <>,  Presidential Candidate in 2000-----
+If you're not outraged enough to get active,  you're not outraged.
+----------------------------------------------------------------------------
+
+Monday, 17 September 1990 15:20:49 UTC+1 - Viktor Haag:
+In article <36...@eerie.acsu.Buffalo.EDU <>> v102...@ubvmsb.cc.buffalo.edu <> writes:
+>  I guess you're right, it must be class based. Just look at the majorly
+>limited selection of characters you could chose from ...
+>
+Woah ... hold on a minute there, pardnur.  I don't think that the major 
+descriptive attribute of class based systems is limited character selection.
+The number of classes a character can choose from could be as varied as the
+GM wants, it could be as varied as the number of jobs that are available!
+
+Perhaps this thread should spend some effort defining what class based and skill
+based systems are before argument as to merit - there seem to be a lot of people
+who have differing opions as to definitions.
+
+viktor haag
+
+--
+        "We murder to dissect"                        
+                Wordsworth
+----------------------------------------------------------------------------
+
+Monday, 17 September 1990 17:12:46 UTC+1 - Andrew Bell:
+In article <16...@thorin.cs.unc.edu <>> be...@cassatt.cs.unc.edu <> (Andrew Bell) writes:
+>One could easily take a purely skills-based system -- GURPS,  RuneQuest,
+>Fantasy Hero -- and add a class system on top of it.  You would have a
+>heck of a time doing the same thing to D&D.
+                          ^^^^^^^^^^
+Replace the marked text with "reverse".
+
+I.e.,  you would have a heck of a time converting any form of D&D to a
+skill-based system.
+
+
+
+
+
+---Andrew Bell,  be...@cs.unc.edu <>,  Presidential Candidate in 2000-----
+If you're not outraged enough to get active,  you're not outraged.
+----------------------------------------------------------------------------
+
+Monday, 17 September 1990 20:10:22 UTC+1 - Viktor Haag:
+In article <16...@thorin.cs.unc.edu <>> be...@cassatt.cs.unc.edu <> (Andrew Bell) writes:
+>If I tried to learn to play jai-alai well,  would I hear a mysterious voice
+>saying "no,  you're a level 4 computer hacker,  you can't do that",
+>or in playing jai-alai,  would I then be prohibited from learning more
+>computer science?  Only if I lived in a class-based world.
+>
+I don't know any games system that advocates enforcement of the rules by 
+appearances of mysterious voices.  Rules are meant simply to model reality, and
+in that sense, classes are to a certain extent professions.  Most extreme class
+based systems are set up with the presumption that cross training is not allowed
+because of the time invovled.  While you may be able to pick up a small amount
+of ability in disparate skills (such as hacking and jai-alai), the time 
+dedication to the two different areas may preclude you from being great in
+either one.
+Just ask closet writers with full time jobs how hard it is to finish that
+novel for example.  D&D ( as far as I can remember ) is one of those games that
+says that the professions (classes) exclude others because of the amount of
+training needed to become expert in the required abilities of the profession.
+
+You are right that the difference between a true profession and its model the
+class, is that the class divisions tend to confer other abilities on the 
+individual, such as Saving Throws and so on.  Well designed game systems, 
+however, tend to base such extra abilities as little upon profession as 
+possible, and as much on experience, physical/mental makeup and so on.  That
+is not to say that one's profession cannot affect one's character physically and
+mentally, only that it should not be the only determining factor.
+
+Limiting 'class switching' in a game system is presumably meant to model
+social attitudes (ie Gnomes just don't become Illusionists in the same way that
+17th century British humans did not become actors in the Noh theatre.).  This
+may be fine if you are playing a game that attempts to model a world complete
+with social and political background ( warhammer and CoC) but these rules do
+not really translate all that well when someone tries to design their own 
+campaign environment.  It is better in these cases to use a system that is
+designed to be flexible - ie. to model any number of cultural environments - a
+number of these games exist (rolemaster to a degree, HERO, Gurps, Runequest to
+a degree).
+
+viktor haag
+      --- "Hmmmm ..... Hackers & Jai Alai ... great new game concept?"
+
+--
+        "We murder to dissect"                        
+                Wordsworth
+----------------------------------------------------------------------------
+
+Tuesday, 18 September 1990 08:57:37 UTC+1 - Tim Maroney:
+In article <1990Sep14.1...@watcgl.waterloo.edu <>>
+jwt...@watcgl.waterloo.edu <> (Jim W Lai) writes:
+>Did Tim say this?  I thought he was speaking in general.  (He has this
+>equation and all in a previous article.)  I can make an original and
+>crappy campaign too, you know.  (How about an RPG where you play a tribble
+>on a Klingon planet?  Or "Ringworld of Cthulhu"?)
+Excuse me, but do you really think that inappropriate juxtapositions of
+two other people's ideas are "original"?  Perhaps the difficulty in
+communication arises from the fact that you don't know what originality
+is.
+
+Reminds me of the time on rec.arts.sf-lovers where someone was blasting
+Diane Duane for being unoriginal, and someone else said "Oh yeah?
+Remember, she's the one who came up with the history of the planet
+Vulcan!"
+
+-- 
+Tim Maroney, Mac Software Consultant, sun!hoptoad!tim, t...@toad.com <>
+"Superhero stories could best be described as entertainment that externalizes
+ childhood power fantasies." -- Timothy Fay on rec.arts.comics
+----------------------------------------------------------------------------
+
+Tuesday, 18 September 1990 17:23:33 UTC+1 - Viktor Haag:
+In article <16...@thorin.cs.unc.edu <>> be...@cassatt.cs.unc.edu <> (Andrew Bell) writes:
+>In article <16...@thorin.cs.unc.edu <>> be...@cassatt.cs.unc.edu <> (Andrew Bell) writes:
+>>One could easily take a purely skills-based system -- GURPS,  RuneQuest,
+>>Fantasy Hero -- and add a class system on top of it.  You would have a
+>>heck of a time doing the reverse to D&D.
+>
+>I.e.,  you would have a heck of a time converting any form of D&D to a
+>skill-based system.
+I disagree.  Many other games have the look of class based games but still have
+a very workable skill system.  Rolemaster, C&S, Bushido, Space Opera, Flashing
+Blades, Powers and Perils, Buck Rogers (TSR) are the few that I can think of
+off the top of my head.  I would imagine that the same thing could be done 
+with D&D without too much effort, in fact many homebrew versions of the game
+I have seen have done just that - add a skill system.  The thing is, however,
+that TSR does not WANT to do this.  Likely because they feel it would disrupt 
+the balance of their existing system (this may or may not be true).
+
+viktor haag
+
+
+--
+        "We murder to dissect"                        
+                Wordsworth
+----------------------------------------------------------------------------
+
+Tuesday, 18 September 1990 20:59:30 UTC+1 - Andrew Bell:
+In article <1990Sep17....@watdragon.waterloo.edu <>> veh...@crocus.uwaterloo.ca <> (Viktor Haag) writes:
+>Perhaps this thread should spend some effort defining what class based
+>and skill based systems are before argument as to merit - there seem to
+>be a lot of people who have differing opions as to definitions.
+I tried doing this before,  but I may have changed my opinions somewhat,
+so here are the official Andrew Bell definitions:
+
+SKILL-BASED VERSUS CLASS-BASED:
+
+The skill-based versus class-based dichotomy is a false one.  A system can
+be completely class-based,  yet use a straightforward skill system for its
+mechanics.  The true dichotomy is class-based versus non-class-based,  and
+these are merely the extreme points on a continuum.
+
+The characteristic of a purely class-based system is that a character
+improves solely based on his/her class,  regardless of what actions the
+character takes.  An example of this might be a D&D thief who gets into a
+fight versus one that breaks into a bank and loots the contents;  the
+fight and the heist will have the same effect on his/her skills.  The
+character goes up in thieving skills regardless.  In cases where the
+character acts in a manner judged (by the class system) to be completely
+inappropriate for the character's class,  either he/she is prevented
+from so doing ("You can't pick up a shield,  you're a mage!")  or he/she
+gets no experience for that adventure.
+
+In a non-class-based system,  on the other hand,  the character's
+improvements are either based on actions (for example,  RuneQuest skill
+checks) or on the character's choice of what to train.  Any limitations
+imposed on what the character can learn are imposed by the gameworld
+"reality;"  characters may be unable to find teachers for the skills
+they want,  or may not have the talent to learn particular skills,  but
+the game system itself imposes no limitations on what training is
+available to a particular character.
+    One might argue that games like AD&D simply have lots of these talent
+limitations that make characters unable to learn certain skills.  However,
+since a thief can improve his/her fighting,  he/she obviously does not
+have a mental block against it.  Moreover,  the dual-class system implies
+the non-existence of such limits for human characters at least.
+
+Class-based                                                Non-class-based
+     <----------------------------------------------------------->
+    Original D&D                                            Fantasy Hero
+           AD&D version 1****                Star Wars*               GURPS
+               AD&D version 2                                       RuneQuest***
+                        Rolemaster
+                                        Warhammer**
+
+* Initial items are determined by "class."
+
+** Certain characteristics are determined by original profession,  like
+  "Very strong",  I believe.
+
+*** While they have one character generation system that is somewhat
+  class-like,  they have another which isn't.  The class-like one makes
+  character generation very quick.
+
+**** The existence of weapon specialization makes V1 not absolutely class-
+  based.
+                                                        
+As far as I know,  no games currently sold are absolutely class-based.
+There are a number of games that are non-class-based.
+
+
+  
+
+---Andrew Bell,  be...@cs.unc.edu <>,  Presidential Candidate in 2000-----
+If you're not outraged enough to get active,  you're not outraged.
+----------------------------------------------------------------------------
+
+Tuesday, 18 September 1990 21:32:33 UTC+1 - Andrew Bell:
+In article <1990Sep18.1...@watdragon.waterloo.edu <>> veh...@crocus.uwaterloo.ca <> (Viktor Haag) writes:
+>In article <16...@thorin.cs.unc.edu <>> be...@cassatt.cs.unc.edu <> (Andrew Bell) writes:
+>>In article <16...@thorin.cs.unc.edu <>> be...@cassatt.cs.unc.edu <> (Andrew Bell) writes:
+>>>One could easily take a purely skills-based system -- GURPS,  RuneQuest,
+>>>Fantasy Hero -- and add a class system on top of it.  You would have a
+>>>heck of a time doing the reverse to D&D.
+
+>>I.e.,  you would have a heck of a time converting any form of D&D to a
+>>skill-based system.
+Whoops!  Wrong reversal:  you would have a heck of a time converting any
+form of D&D to a *non-class-based* system.
+
+>I disagree.
+
+And a good thing too,  since it is wrong.
+
+
+> Many other games have the look of class based games but still have
+>a very workable skill system.
+Quite true.  You could easily describe "skills" in D&D* in the same fashion,
+instead of multiple different fashions.  You would need the occasional
+special case -- for example,  fighting skills give multiple uses per
+round to higher level fighters -- but the majority of it could be defined
+via a skills system.  You could also convert the current non-weapon
+proficiencies into additional skills.
+
+What you cannot do without major hacking that would completely change the
+nature of the game is separate the class system from the experience system.
+
+>in fact many homebrew versions of [D&D]
+
+>I have seen have done just that - add a skill system.  The thing is, however,
+>that TSR does not WANT to do this.  Likely because they feel it would disrupt 
+>the balance of their existing system (this may or may not be true).
+It would change almost its entire nature.  One could unify the skills system
+in D&D fairly easily,  but the same is not true of changing the experience
+system.
+
+Class-based systems do have a certain advantage.  It is very easy to create
+the basics of a character:  roll some stats,  choose a class,  and a race,
+and you've done 95% of what's important for playing that character (with the
+exception of wizard types,  who need to determine what spells they have.)
+This simplicity can be a virtue.  My only surprise is that they didn't try
+to make it even more of a virtue in version 2,  where they could have made
+a more unified skills system.
+   They could have made the thieving skills part of the non-weapon
+proficiencies system,  and created a warrior-rogue continuum.  Bards would
+get fewer proficiencies because they have their singing to work on,  or
+bardic skills could require a lot of proficiency slots as would fighting
+skill.  Rangers would be fighters who put proficiencies into hiding (rural)
+and sneaking(rural),  and Paladins would be devotees of a particular
+church who are rewarded by their god for living a particular lifestyle.
+
+
+* The reason I talk of D&D is that it is the most class-based system that
+I know of.  I personally prefer non-class-based games because  my playing
+style is suited for those types of games.  I can certainly see how people
+might want to play in a system with the advantages of a class-based
+system,  and I am not intending to use the phrase "class-based" with any
+perjorative intent.
+
+   -Andrew  
+
+
+
+---Andrew Bell,  be...@cs.unc.edu <>,  Presidential Candidate in 2000-----
+If you're not outraged enough to get active,  you're not outraged.
+----------------------------------------------------------------------------
+
+Wednesday, 19 September 1990 00:28:53 UTC+1 - Jim W Lai:
+In article <12406@hoptoad.uucp> tim@hoptoad.UUCP (Tim Maroney) writes:
+>In article <1990Sep14.1...@watcgl.waterloo.edu <>>
+>jwt...@watcgl.waterloo.edu <> (Jim W Lai) writes:
+>>I can make an original and crappy campaign too, you know.  (How about an
+>>RPG where you play a tribble on a Klingon planet?  Or "Ringworld of
+>>Cthulhu"?)
+>
+>Excuse me, but do you really think that inappropriate juxtapositions of
+>two other people's ideas are "original"?  Perhaps the difficulty in
+>communication arises from the fact that you don't know what originality is.
+So true, so true.  But if I really knew how to create original games I'd be
+in the gaming industry and not in pounding away at this crappy, obsolete
+terminal.  (As an aside, there is a tendency in game publishing to view
+originality in terms of being first to file at the patent office, to use an
+analogy.  And yes, I know US patent offices don't work that way.)  Well, I
+did deliver on my promise of crap at least.
+
+
+>Reminds me of the time on rec.arts.sf-lovers where someone was blasting
+>Diane Duane for being unoriginal, and someone else said "Oh yeah?
+>Remember, she's the one who came up with the history of the planet Vulcan!"
+Well, sign me up for the movie novelization bandwagon too.  I
+guess originality really is lacking for the most part, all over.
+Does anyone know when the last original frp game was made?
+----------------------------------------------------------------------------
+
+Wednesday, 19 September 1990 00:50:45 UTC+1 - al...@campus.swarthmore.edu:
+In article <16...@thorin.cs.unc.edu <>>, be...@adams.cs.unc.edu <> (Andrew Bell) writes...
+[among other things ... ]
+> 
+>What you cannot do without major hacking that would completely change the
+>nature of the game is separate the class system from the experience system.
+> 
+no, that's the wrong approach anyway. what you would need to do would be to
+modify the experience system. this can be done with only minor hacking.
+this is the idea that gamma world, and i think a few other games use:
+ experience points are awarded by the gm for experiential activities (picking
+locks, using skills, fighting, etc.). rather than character progression given
+on a table, where all character's of the same level have the same skills (and
+this has been relieved in ad&d2), where exp are cumulative and, concievably,
+limitless, the characters spend exp to go up in the proficiencies etc, that
+they want. (is this gurps as well?)
+
+for example in _d&d, for a mage to get to 2nd level, the ph1 says he needs 2500
+exp. accumulated. for a more "class-diffused" system, you might make the exp
+necessary 1500. the player could spend those points to raise the character's
+fighting and certain other abilities/skills/proficiencies that are basic to
+_all_ characters, whether of his class or not. any other "non-common" skills/
+proficiencies would cost extra points. this could concievably allow a to be
+able to fire off some 5th-level spells, but still not be able to fight worth a
+damn (fighting at 1st or 2nd level). however, this being so tremendously
+disadvantageous to the character, the player will want to keep the two
+dimensions close to each other. 
+
+this idea (as applied to d&d) has only just occurred to me as i read this
+thread. it's one i will work on and very likely post when i'm done (i'd say by
+halloween). does anyone have any comments, or notes about something i may have
+overlooked, points i've missed, etc.?
+
+>   -Andrew  
+
+=====STARMAN==
+----------------------------------------------------------------------------
+
+Wednesday, 19 September 1990 01:54:38 UTC+1 - jhre...@uccs@ccnuccs.colorado.edu:
+7.19102...@watdragon.waterloo.edu <>>
+Followup-To: .191022...@watdragon.waterloo.edu <>>
+Keywords: Class based, job switching
+Lines: 92
+
+
+In article <1990Sep17.1...@watdragon.waterloo.edu <>>, veh...@crocus.uwaterloo.ca <> (Viktor Haag) writes:
+> In article <16...@thorin.cs.unc.edu <>> be...@cassatt.cs.unc.edu <> (Andrew Bell) 
+> writes:
+>>If I tried to learn to play jai-alai well,  would I hear a mysterious voice
+>>saying "no,  you're a level 4 computer hacker,  you can't do that",
+>>or in playing jai-alai,  would I then be prohibited from learning more
+>>computer science?  Only if I lived in a class-based world.
+>>
+> I don't know any games system that advocates enforcement of the rules by 
+> appearances of mysterious voices.  Rules are meant simply to model reality, 
+> and in that sense, classes are to a certain extent professions.  Most 
+> extreme class based systems are set up with the presumption that cross 
+> training is not allowed because of the time invovled.  While you may be able
+> to pick up a small amount of ability in disparate skills (such as hacking and
+> jai-alai), the time dedication to the two different areas may preclude you 
+> from being great in either one.
+> 
+> Just ask closet writers with full time jobs how hard it is to finish that
+> novel for example.  D&D ( as far as I can remember ) is one of those games 
+> that says that the professions (classes) exclude others because of the 
+> amount of training needed to become expert in the required abilities of the 
+> profession.
+> 
+But then, you run into people who are "JOATs" that is "jack of all trades", who
+are very good at most of what they do. How do you explain a person like Isaac
+Asimov, who can write intelligently about anything? The other type is the
+Renissance (sp?) Man. Here is a person who was well versed in multiple fields
+of science and learning. Neither of those two match the limitations you have
+listed above.
+
+
+> You are right that the difference between a true profession and its model the
+> class, is that the class divisions tend to confer other abilities on the 
+> individual, such as Saving Throws and so on.  Well designed game systems, 
+> however, tend to base such extra abilities as little upon profession as 
+> possible, and as much on experience, physical/mental makeup and so on.  That
+> is not to say that one's profession cannot affect one's character physically
+> and  mentally, only that it should not be the only determining factor.
+> 
+The trouble is, is that I've never seen a "well designed [class based] game
+system". Most are just variations on DnD, none truly base the extra abilities
+upon the physical/mental attributes, except for an occaisional +/- for an
+exceptional one.
+
+
+> Limiting 'class switching' in a game system is presumably meant to model
+> social attitudes (ie Gnomes just don't become Illusionists in the same way 
+> that 17th century British humans did not become actors in the Noh theatre.). 
+> This may be fine if you are playing a game that attempts to model a world
+> complete with social and political background ( warhammer and CoC) but these
+> rules do not really translate all that well when someone tries to design
+> their own campaign environment.  It is better in these cases to use a system
+> that is designed to be flexible - ie. to model any number of cultural
+> environments - a number of these games exist (rolemaster to a degree, HERO,
+> Gurps, Runequest to a degree).
+> 
+True 17th century Britians did not become actors in the Noh theatre, but
+several became actors none the less. Such an example does not prove your point,
+since actors in Noh are just actors of a very traditional theatre style.
+
+A more appropriate thing to say would have been "Gnomes just don't become 
+Illusionists in the same way humans cannot swim like dolphins". Of course if
+you are reffering to a cultural difference rather than a racial difference then
+just ignore my statement above. Many games assume cultural differences to be
+unchanging, rather than dynamic. They do this since no concise way of
+describing cultural change exists. You can approximate, but you can't model
+reality.
+
+So who's to say that a Gnome raised by humans cannot become an Illusionist? If
+the arguements are based on cultural differences then by being raised by humans
+he can become one. If he later decides to become a thief, does he lose the
+ability to cast illusions or does he find a new way to *use*them*? 
+
+
+> viktor haag
+>       --- "Hmmmm ..... Hackers & Jai Alai ... great new game concept?"
+> 
+> --
+>         "We murder to dissect"                        
+>                 Wordsworth
+-- 
+
+John H. Reiher Jr.
+Internet: John.H....@Happy.colorado.edu <>
+Bitnet: JHREIHER@COLOSPGS.BITNET
+-------------------------------------------------------
+Standard disclaimer, mainly to keep the University of
+Colorado's regents from having kittens over my remarks.
+-------------------------------------------------------
+Pithy quotation;
+        Who watches the Watchducks?
+                                -Tiny Toons: A Quack among the Quarks-
+----------------------------------------------------------------------------
+
+Wednesday, 19 September 1990 15:49:10 UTC+1 - Brian or James:
+In article <1990Sep18....@watcgl.waterloo.edu <>> jwt...@watcgl.waterloo.edu <> (Jim W Lai) writes:
+
+>Does anyone know when the last original frp game was made?
+         2021 AD. The rpg was called 'Bitter Teardrops' and played an important
+part in the events leading up to the accidental destruction of all life on
+earth. Uh, don't tell the 20th century folks this.
+
+                                                        James Nicoll
+----------------------------------------------------------------------------
+
+Wednesday, 19 September 1990 17:43:00 UTC+1 - jhre...@uccs@ccnuccs.colorado.edu:
+loo.edu <http://loo.edu>>
+Followup-To: oo.edu <http://oo.edu>>
+Lines: 27
+
+In article <1990Sep18....@watcgl.waterloo.edu <>>, jwt...@watcgl.waterloo.edu <> (Jim W Lai) writes:
+> 
+> [Lot's o' stuff deleted]
+
+> 
+> Well, sign me up for the movie novelization bandwagon too.  I
+> guess originality really is lacking for the most part, all over.
+> Does anyone know when the last original frp game was made?
+The last original FRP game that was ever published was Fringeworthy in 1981(?),
+by TRI TAC INC.,(now Tri Tac Systems). It was the first interdimensional
+roleplaying game, and in my opinion, the best. The worst is a toss up between
+TORG and Lords of Creation, with LoC winning. 
+
+(no flames please, the above is just my opinion.)
+
+-- 
+
+
+John H. Reiher Jr.
+Internet: John.H....@Happy.colorado.edu <>
+Bitnet: JHREIHER@COLOSPGS.BITNET
+-------------------------------------------------------
+Standard disclaimer, mainly to keep the University of
+Colorado's regents from having kittens over my remarks.
+-------------------------------------------------------
+Pithy quotation;
+                Who watches the WatchDucks?
+                                        -Tiny Toons: A Quack in the Quarks-
+----------------------------------------------------------------------------
+
+Thursday, 20 September 1990 06:50:17 UTC+1 - S. Gwen Johnson:
+How it's done in Bushido:
+All character's start with the same number of points to distribute
+among attributes.  Then profession modifiers are added.  Each
+profession ends up with almost the same amount of modifiers, they just
+affect different attributes in different ways. It is assumed that the
+character has spent his youth preparing for his profession, and
+therefore has certain advantages and disadvantages as a result of that
+training. But since you can distribute points any way you want, you
+have a custom built character.
+
+Each profession also has a set of bonus skills. Bonus skills get a
+plus to use.   This plus exists even if you have no score in a skill.
+It is assumed that certain skills are germane to a profession, and
+even if you don't actively study them, you'll have some modest
+knowledge of them.  It's easier to learn and use bonus skills, but
+characters can have any skills at all.  Thus a player tailors his
+skills to be whatever he wants.  There are quite a few bonus skills
+for each profession, plus their are bonus skills based on background.
+a samurai will have bonuses in certain traditional skills the samurai
+were expected to know, the peasants have bonuses in things peasants
+would know.  Skills include fine arts and practical arts as well as
+martial arts.  This are needed because each character must interact
+with the society as well as defeating monsters.  
+
+Each skill also has some application for the play of the game.
+Japanese classics, for example, gives the character a knowledge of
+history, mythology, and legend.  I let characters roll on this skill
+to see if they've heard stories about a place/person/monster/etc.  The
+better they roll, the more accurate info they get.  (But never all
+info, basically just clues.)  Any character can have this skill, but a
+character for whom it is a bonus skill is going to do a little better
+on average than someone for whom it is not.  And even if it is not a
+bonus skill, it is still useful to have.  Unlike other games where it
+is very difficult to obtain and ineffective to use something outside
+your class.
+
+The bonus is based on level. There are only six levels for humans.
+Gods go up to twenty.  Humans add their bonus to all saving throws,
+and all bonus skills.  This helps.  The logic is that the longer you
+live, the smarter you and more competent you get.  This is reflected
+in your increases.  However, while bonuses help, they cannot
+adequately replace skill.  
+
+Characters start with certain initial skills based on their
+profession. Some skills are dictated, some are electives.  The
+dictated skills are part of the idea of what each class is about.  As
+a GM, I grant some character's bonus skills that are not part of the
+book.  I feel that good character development ought to be aided by the
+GM and not frustrated.  So with me, a character can be completely
+custom made.  The rules also provide some guidelines for adding skills
+that are not in the books, and provides detailed instructions for
+designing 'secret teachings'.
+
+Secret teachings are basically ways to allow a character to violate
+the rules and get some advantage.  They are skills.  They are subsets
+of the basic martial arts skills.  For example, one may elect to learn
+the secret teaching "precision strike" for sword.  It applies only to
+swords, and allows the   swordsman to do greater damage with any sword
+he uses.  There are several others, and rules for making up your own.
+The GM must exercise discretion about what he allows Pcs to invent,
+otherwise the secret teachings can be too powerful.  These secret
+teachings further customize the character.  
+
+So because of the classes, Bushido characters have certain basics in
+common, but not always.  The basics of the class are good sound
+tactics for gaming, and reasonable interpretations of the genre.  But
+nothing makes you play a 'classic warrior', you can have a very
+different character from the mainstream.  It is lack of imagination
+that limits the characters more than the rules.
+
+Multiclassing in Bushido is not very convenient.  In point of fact,
+you can only be a member of one profession at a time, however, since
+you can learn any skill, you can be a magic using swordsman if you
+want.  It isn't very efficient however.  Which is reasonable, because
+magic using warriors are not found in the genre.  Other combinations
+are forbidden, at least by this GM: magic using ninja in particular.
+Magic in the hands of someone with no scruples is very powerful and
+unbalancing to the game.  On the other hand, all classes can use magic
+items.  Magic items very, some require skill to use, some work
+automatically.  The ones that require skill are of course used most
+effectively by those who are built for magic, ie, magic users and
+monks.  Although a non standard or well developed warrior could do
+just as well.  Deciding how your character feels about magic is one of
+the things to consider while making your character.  It can't be good
+at everything, you have to make choices.  The more developed your
+character gets, the more choices you get to make, and the more kinds
+of activities your character can survive/participate in effectively.
+But nobody can ever prepare themselves for every eventuality.  So
+players prioroities make the characters different as well.  One
+swordsman may decide that if he's fast enough, no one will ever hit
+him, another may choose to become a tank, figuring if nothing can hurt
+him, it doesn't matter if he's slow.  
+
+I think Bushido does an excellent job of combining the virtues of each
+system class or skill based, while still allowing plenty of
+individuality in the characters, yet providing guidelines for GMs to
+rapidly make up NPCs when needed.
+
+I haven't played D&D for a long time, but one could rewrite it to
+implement a combination of class and skill, but it wouldn't be D&D any
+more.  And personally, I think Bushido does a lot better job of gaming
+weapons, skills, combat, etc.  
+
+(Bushido back attacks get +10 to hit.
+All character classes get the bonus if they can get behind the target.
+However, ninja and budoka are faster and more manuverable than the
+typical warrior, so warriors don't manage this tactic as well or as
+often as the more nimble classes.  But you could design a fast and
+agile warrior if you wanted to, and then it could get behind people
+too.  Of course, it would have to sacrifice something else, either
+health/hit points, or the mental attributes. Ninja have fewer hit
+points, sneaking up behind people is a necessary survival tactic.
+Warriors have lots of hit points, they don't need to sneak up behind
+people, they can slug it out toe to toe and survive.  All you D&D
+players who think thieves have it bad would probably like the way
+they play in Bushido. Of course, if you fail to take out a big beefy
+warrior on your first hit, and he turns to face you, you're dead
+meat....)
+
+Gwen Johnson
+s...@slc1.brl.mil <>
+----------------------------------------------------------------------------
+
+Thursday, 20 September 1990 15:20:56 UTC+1 - Andrew Pearlman:
+In article <1990Sep20....@slc1.brl.mil <>> s...@slc1.brl.mil <> (S. Gwen Johnson) writes:
+>How it's done in Bushido:
+>are forbidden, at least by this GM: magic using ninja in particular.
+
+>Magic in the hands of someone with no scruples is very powerful and
+Ninja make rather bad magicians.  Because they have no On, they are always 0
+level mages at best.  Also, anyone who starts out as a magician is going to
+have a really tough time getting himself into a ninja clan, let alone learning
+the basic skills for it.  Finally, the more powerful the magician, the more
+likely he will have gone up in social rank, which makes it less likely that he
+can afford to do so.
+
+
+>All character classes get the bonus if they can get behind the target.
+>However, ninja and budoka are faster and more manuverable than the
+>typical warrior, so warriors don't manage this tactic as well or as
+>often as the more nimble classes.  But you could design a fast and
+>agile warrior if you wanted to, and then it could get behind people
+>too.  Of course, it would have to sacrifice something else, either
+>health/hit points, or the mental attributes. Ninja have fewer hit
+>points, sneaking up behind people is a necessary survival tactic.
+>Warriors have lots of hit points, they don't need to sneak up behind
+>unbalancing to the game.  On the other hand, all classes can use magic
+>items.  Magic items very, some require skill to use, some work
+>automatically.  The ones that require skill are of course used most
+>effectively by those who are built for magic, ie, magic users and
+>monks.  A
+The advantages of each class:
+Warriors:  Most respected and nasty with swords and bows.  Watch out for
+warriors who have a Wood magician friend.  In our game, we had warriors firing
+9d6 arrows off who were masters of bows.(For reference characters usually have
+somewhere around 15-30 Hitpoints + level*4.  Katanas usually do around 1d6 + 5
+or so...)
+
+Budoka:  If they master Atemiwaza, watch out.  Can do the best overall HTH
+damage after a while.
+
+Ninja:  Almost impossible to see.  You actually have to suspect there is a 
+ninja in the nearby area to look for him...  As good in combat as Budoka, but
+not as many hit points.
+
+Shugenja:  Magicians who take up 2 or 3 disciplines can be very flexible.
+Usually Metal or Fire and Soil or Wood are the 2 best.  The first 2 give very
+powerful offense and the 2nd 2 give lots of support spells to the group.
+Water isn't really that useful overall due to On problems.
+
+Priests:  Tend to go up levels FAST.
+
+Yakuza:  Start out with the best overall stats, however other than the fact
+that Yakuza aren't universally despised like the ninja are, are basically
+inferior ninja.  Because ninja never tell anyone that they are ninja...
+
+Fun game, definitely one of the best systems overall.
+
+Andy Pearlman
+----------------------------------------------------------------------------
+
+Thursday, 20 September 1990 16:54:53 UTC+1 - Viktor Haag:
+In article <465.26f66d6e@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu>> jhreiher@uccs@ccnuccs.colorado.edu <http://ccnuccs.colorado.edu> writes:
+>But then, you run into people who are "JOATs" that is "jack of all trades", who
+>are very good at most of what they do. How do you explain a person like Isaac
+>Asimov, who can write intelligently about anything? The other type is the
+>Renissance (sp?) Man. Here is a person who was well versed in multiple fields
+>of science and learning. Neither of those two match the limitations you have
+>listed above.
+>
+I think that 'JOATS' and 'Renaissance men' are not quite as common or as 
+neat as you would seem to indicate.  I most certainly would not put Asimov in
+this class.  Skill at writing across a number of geners does not qualify him as
+a renaissance man.  Can Asimov cook well?  Can he sculpt?  Can he fish for
+marlins?  Is he a good soldier?  Can he ride horses?  How is he at sewing and
+needlepoint?  Can he deep sea dive?  Can he play football/soccer/basketball?
+How about darts or billiards?  Is he a good carpenter?  Can he weld and fix
+his own car?
+
+Asimov is not a Renaissance man, he is merely very good at his particular craft,
+good enough for him to be flexible enough to stretch the boundaries of it.
+
+True, there is a small minority of people which are alarmingly good at a wide 
+variety of things, but true Renaissance men (Da Vinci, Bacon, reputedly) are not
+by any means extraordinary at everything they put their minds to.  Except for
+a few works, Da Vinci displays none of the artistic prowess of others of his
+period.  He was a scientist at the forefront of covert research, who possessed
+some undeniable skill as an excellent draftsman, but it is doubtful whether he
+had the artistic sensibilities of a Michaelangelo or a Bernini. They, in turn,
+lacked his undeniable scientific bent.
+
+Hemingway was an influential writer and an excellent sportsman, but he was sadlyremiss in social graces, and while he may have been proud of the fact that he
+could 'sew & cook', his standards in these crafts were no doubt much lower than 
+those of most people's mothers.
+
+Renaissance get a reputation because they publicly dabble in a wide variety of
+things (often things risque or en vogue) and have enough aplomb and rudimentary
+skill to avoid being embarrased publicly.  They are also often the fortunate
+few to have a wide and generous education, placing them well above the social
+norms of their time.  The reason that there are fewer 'Renaissance men' alive
+today, is a tribute to the comparitive excellence of our education system.
+Remember the principle of Advanced Science and magic - in the past the 
+intellectual powers of these lucky men was likely enough to inspire awe in 
+those less fortunate.
+
+viktor haag
+
+
+--
+        "We murder to dissect"                        
+                Wordsworth
+----------------------------------------------------------------------------
+
+Thursday, 20 September 1990 18:07:21 UTC+1 - Jim W Lai:
+In article <1990Sep20.1...@watdragon.waterloo.edu <>>
+veh...@crocus.uwaterloo.ca <> (Viktor Haag) writes:
+>Renaissance get a reputation because they publicly dabble in a wide variety of
+>things (often things risque or en vogue) and have enough aplomb and rudimentary
+>skill to avoid being embarrased publicly.  They are also often the fortunate
+>few to have a wide and generous education, placing them well above the social
+>norms of their time.  The reason that there are fewer 'Renaissance men' alive
+>today, is a tribute to the comparitive excellence of our education system.
+There is also the simple fact that today it takes a longer time to amass
+sufficient knowledge to be at the forefront of many fields.  The specialized
+knowledge of many fields simply did not exist back then.  However, it's
+still quite possible to get knowledge in many fields sufficient to con a
+lot of people into thinking you may be a Renaissance man, just as some
+people attempt to con others into thinking they are good natured.
+----------------------------------------------------------------------------
+
+Friday, 21 September 1990 20:31:53 UTC+1 - lio...@ecs.umass.edu:
+Lines: 20
+
+jwt...@watcgl.waterloo.edu <> (Jim W Lai) writes:
+> However, it's
+> still quite possible to get knowledge in many fields sufficient to con a
+> lot of people into thinking you may be a Renaissance man, just as some
+> people attempt to con others into thinking they are good natured.
+I've actually read about some company that puts out booklets designed to
+let you do just that.  They are sort of "Cliff Notes" for various topics
+designed to let you talk at cocktail parties and sound like you know what
+is going on.
+
+Sound pretty hurting to me, though, except maybe as part of some elaborate
+practical joke.  I think I'd rather be boring than get a personality from
+"Cliff Notes" :-) !!!
+
+-------------------------------------------------------------------------
+Eric C. McClure                |                                                |
+lionti@umaecs.bitnet        |   Mess with the Best, Die like the Rest        |
+Standard Dis                |                                                |
+-------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Saturday, 22 September 1990 01:14:25 UTC+1 - Brian or James:
+As one poster touched on, it is much easier to be a Renaissance Man when it is
+also possible for one man to own copies of most of the books in print. I 
+believe it was one of Edmund Burke's shows that mentioned there was only a few
+thousand books in print during the Renaissance.
+Brian Dorion
+----------------------------------------------------------------------------
+
+Monday, 24 September 1990 19:20:30 UTC+1 - Greg Schmidt:
+In article <10784.2...@ecs.umass.edu <>> lio...@ecs.umass.edu <> writes:
+>
+>I've actually read about some company that puts out booklets designed to
+>let you do just that.  They are sort of "Cliff Notes" for various topics
+>designed to let you talk at cocktail parties and sound like you know what
+>is going on.
+>
+Is that "Cliff" as in Cliff Clavin?  If so, I think they would make you
+more, not less, boring. :-)
+----------------------------------------------------------------------------
+
+Tuesday, 25 September 1990 18:47:58 UTC+1 - Liam R. E. Quin:
+be...@cassatt.cs.unc.edu <> (Andrew Bell) writes:
+>ste...@hubcap.clemson.edu <> (Jeff Stehman) writes:
+>Rolemaster is clearly class-based.  [...]
+Well, yes, but I think that's a little misleading since any character can
+take any skill... the cost of learning it varies, true.
+It's also very easy to create new professions, of course, and to alter
+existing ones for a given campaign.
+
+> (Rolemaster is also the biggest exercise in probability-playing known to
+> man:  I remember doing some serious probability calculations to determine
+> how many points to put into getting a skill list.  [I wanted the maximum
+> amount of points left over that I could put into useless secondary skills.])
+A player doing that when I was running would -- well, wouldn't be playing!
+Roleplaying is the idea, not calculating probabilities and fighting over
+trivial minutiae of the rules.  I have seen people do this with many game
+systems, including Runequest, AD&D, Powers & Perils and others.  And I
+still don't like it, sorry.
+>[...]  It is the presence or absence of a rules-based class
+
+>system that is really the issue.
+Is it really a big issue?  People get very worked up about it, but I have
+come more and more to accept that the rules are really rather trivial little
+things that don't matter very much.  I use them when they help me to run the
+game, and generally ignore them otherwise.
+Lee
+
+-- 
+Liam R. E. Quin,  l...@sq.com <>, SoftQuad Inc., Toronto, +1 (416) 963-8337
+"[...] you cannot sustain adult, probing, meaningful drama when the proceedings
+ are interrupted every twelve minutes by a dozen dancing rabbits with toilet
+paper."  [Melinda Snodgrass, quoted by Evelyn C. Leeper]
+----------------------------------------------------------------------------
+
+Wednesday, 26 September 1990 17:01:27 UTC+1 - Andrew Bell:
+In article <1990Sep25.1...@sq.sq.com <>> l...@sq.sq.com <> (Liam R. E. Quin) writes:
+>be...@cassatt.cs.unc.edu <> (Andrew Bell) writes:
+>>ste...@hubcap.clemson.edu <> (Jeff Stehman) writes:
+>>Rolemaster is clearly class-based.  [...]
+>Well, yes, but I think that's a little misleading since any character can
+>take any skill... the cost of learning it varies, true.
+Rolemaster is not as far towards the class end of the
+class-based<->non-class-based spectrum as,  say,  D&D,  but it has
+substantial elements of "class-based-ness."
+
+
+>It's also very easy to create new professions, of course, and to alter
+>existing ones for a given campaign.
+Easy?  Rolemaster must be just about the hardest system to create a new
+character type for with any sense of whether it's balanced or not.
+In a system like GURPS or Hero,  a *player* can create a new type of
+character.  Very rarely does one need to haggle with the GM.  (Ok,  I
+only know what I've heard -- perhaps it's more frequent than I'm implying.)
+
+>> (Rolemaster <can also be> the biggest exercise in probability-playing
+>> known to man: [ok,  this is a little overstated -acb]
+
+
+>A player doing that when I was running would -- well, wouldn't be playing!
+The probability playing can be done when you aren't running,  since it
+concerns the expenditure of development points.  For us math geeks,  it's
+kind of fun -- sort of a game within a game.  And it really doesn't change
+the balance of power that much.
+
+
+>Roleplaying is the idea, not calculating probabilities and fighting over
+>trivial minutiae of the rules.  I have seen people do this with many game
+>systems, including Runequest, AD&D, Powers & Perils and others.
+RuneQuest can be made close to "minutae proof" without much effort,  and in
+fact our house rules generally do that.  I think it would be much harder to
+do that with (A)D&D[V2],  especially if you're adding new classes.
+
+
+>And I still don't like it, sorry.
+Nor do I.  But I assert that this is generally easier to do in a class-based
+system -- think of the things TSR goes through in the name of game balance.
+Eliminate the classes,  and you eliminate a major source for rules-playing.
+(Ex:  Ever seen a Rolemaster hobbit burglar with adrenal defense and
+martial arts sweeps and throws?  A first level three foot tall combat
+machine -- not exactly balanced.)
+
+
+>>[...]  It is the presence or absence of a rules-based class
+>>system that is really the issue.
+
+>Is it really a big issue?  People get very worked up about it, but I have
+>come more and more to accept that the rules are really rather trivial little
+>things that don't matter very much.
+Rules shouldn't affect character's behaviour,  but all too often they do.
+The afore-mentioned rules-playing is an example of the rules having a
+detrimental effect on the system.  With an ideal game system,  rules
+playing wouldn't be an issue.
+
+
+
+
+
+
+---Andrew Bell,  be...@cs.unc.edu <>,  Presidential Candidate in 2000-----
+If you're not outraged enough to get active,  you're not outraged.
+----------------------------------------------------------------------------
+
+Wednesday, 26 September 1990 19:20:26 UTC+1 - Viktor Haag:
+Right now there is a lot of talk about game balance - here are a few
+observations of my own about this term.
+        1)  Game balance is one of the trickiest things to design into a 
+game system, let alone preserve when you start tweaking the rules.  However
+any game design worth its salt must have some sort of internal 'yard stick'
+that was used to equate different parts of the system during the creation
+process.
+            Quite often this 'yardstick' is preserved and presented whole sale
+to the players of the game in question.  For example the Character Point in 
+the Hero system is the unti of measure for all Hero games, and the players are
+encouraged to use CP's as the measurement of all their creative efforts.  In
+other game systems, such as GURPS the 'workings' of the Character Point 
+equivalent is partially hidden from the 'user'.
+            However, some games acheive a qualitative 'balance' rather than a 
+quantitative one.  Rather than designing the entire system around a unit of 
+measure such as the Character Point (or equivalent),  game balance is 
+acheived by endless playtesting and tweaking.
+
+        2)  Given this, it only makes sense to assume that the games that are
+quantitatevly balanced are going to be easier to tweak without endless 
+trial and error, than the qualitatively balanced ones.  After all, if you have
+to try all the rules tweaks to see if they work, then changing rules will
+take along time if you don't want to alter balance.
+
+        3)  Likely the best way to tweak any game system, then, is to try and
+impose some sort of quantitative 'yardstick' onto it.  Try and devise a point
+system that can assess the values of characteristics, skills, abilities and
+so on.  That way adding and tweaking becomes much easier.
+
+        4)  The quick and dirty way to accomplish this is to use the old
+'copy and alter' method.  If you want to add a new profession to a class based
+system, use one of the existing ones as a template, and then change details one
+step at a time.
+
+any thoughts?
+
+vik
+
+--
+        "We murder to dissect"                        
+                Wordsworth
+----------------------------------------------------------------------------
+
+Wednesday, 26 September 1990 20:15:25 UTC+1 - Jeff Stehman:
+From article <16...@thorin.cs.unc.edu <>>, by be...@degas.cs.unc.edu <> (Andrew Bell):
+> In article <1990Sep25.1...@sq.sq.com <>> l...@sq.sq.com <> (Liam R. E. Quin) writes:
+> 
+> Nor do I.  But I assert that this is generally easier to do in a class-based
+> system -- think of the things TSR goes through in the name of game balance.
+> Eliminate the classes,  and you eliminate a major source for rules-playing.
+        I don't follow this reasoning at all.  It seems to me that the
+possibilities for rule-playing would be a function of how many possible
+ways there are to develop a specific character (build them all and use
+the one that was cheapest to build).  Most systems have relatively few
+ways of doing this.  WFRP has quite a few, and Rolemaster has scads of
+them, but AD&D allows very little choice along these lines; less than
+GURPS, in which you can play around with stat-levels, skill-levels, and
+defaults to arrive at the same place through different paths (in fact,
+in building their example character in the basic set, they encouraged
+this).  Perhaps the high point on a rules-playing curve would be at the
+class-skill hybrids, but I don't think it would be true class systems
+end of things.
+
+
+> Rules shouldn't affect character's behaviour,  but all too often they do.
+> The afore-mentioned rules-playing is an example of the rules having a
+> detrimental effect on the system.  With an ideal game system,  rules
+> playing wouldn't be an issue.
+        In an ideal system, yes.  However, I long ago came to the
+conclusion that this would be the lowest priority element of an ideal
+system.  I think it is the easiest element for dms to consistantly
+control.  Of course, I view an ideal system as being designed for me
+and those I would be likely to game with, not for the world at large.
+Truth be known, I don't care to be associated with most of the gaming
+world.  :-)
+
+
+                                                Jeff Stehman
+----------------------------------------------------------------------------
+
+Saturday, 29 September 1990 01:06:15 UTC+1 - S. Gwen Johnson:
+I am writing a supplement to Bushido that adds (among other things)
+new classes and new skills to the game.  Coherency and game balance
+are two very  important considerations.  I do not agree that
+quantitifying all aspects of the game is an easy way to try and
+development a yardstick to measure the new classes by.  On the
+contrary, all games include an internal coherence (some more
+consciously and better implemented than others).  Bushido has a very
+consistant internal structure, making it easy to expand.  Bushido also
+has a very clear concept of the genre it is trying to reproduce.  
+In writing the supplement I am writing about the things I wished for
+when I was playing the game.  Having read a lot of Japanese history,
+legends, folktales, seen movies, etc, I had a good idea of the
+sensibilities of heroic Japan.  Several major classes were missing.
+The warrior-monk, the warrior-sailor, and the entertainer.  There are
+some other classes as well, but I have not yet figured out how to
+implement them into the game yet, and am not currently planning to put
+them in the supplement.  I asked myself, How are these classes like
+the other classes?  How are they different?  Why would somebody want
+to play one?  What new rules or skills are needed to implement these
+classes?  How will they effect game balance?
+
+Each character class has its strenghts and its weaknesses.  These have
+to be carefully designed so that it usefulness is basically equal to
+its weaknesses. And theses strengths and weaknesses have to be
+balanced against the strenghts and weaknesses of the already existing
+classes.  So, does the new class allow a character to do things the
+other classes cannot, or at least, do them better?  What things does
+it do worse?  Are these things useful?  I can't imagine hairdressing
+being a useful skill, would a 'servant' class be useful?  Servants and
+sidekicks of various sorts all integral parts of many tales.  Do we
+need rules to implement them?  Or can they be done with already
+existing rules?  In Bushido at least, they can.  This is because
+Bushido recognizes social class as well as profession.  And is it
+desirable to add a 'servant' class to Bushido?  That is to say, would
+it allow players to do things that can't be done with the existing
+rules?  Nope.  So no servant class is needed.  It could be done, maybe
+tomorrow I'll have a brilliant brainstorm about how it could be done
+and be fun and playable.  But as long as no brilliant brainstorm is
+forthcoming, neither is a servant class. Some people will publish
+anything they can think of, and some people will buy anything
+associated with their game, but that's not how I play, and it's not how I
+write.  
+
+To make the new classes balance with the old, one looks at the nubmer
+and kind of skills the old classes have, and picks an approximately
+equal number of skills, of approximatley equal usefulness, keeping in
+mind what it is the character is supposed to be able to do.  And
+invent any new skills necessary.  Keep the new skills to the same
+degree of abstraction as the old skills.  Make sure that the skills
+are reasonable narrow, but not so narrow as to be rarely useful. But
+not so broad that they can be used any time anywhere by anybody.  This
+requies you to have a gut level understanding of the game and how it
+all hangs together.  One can then assign numeric values to them, but
+it isn't necessary.  If you understand how useful each skill is, then
+you can compare them directly without any need to spend time
+quantitifying them.  
+
+And rules tweaking is a good thing.  I have tweaked an awful lot of
+Bushido rules over the years, and have found out experimentally why
+the rules are good.  On the other hand, I have also found some rules
+that were better tweaked.  But not many, and not major.  It is a
+credit to Bushido's designers that it hangs together so well in spite
+of a lot of very clever people spending a  lot of time trying to
+exploit the system.  (I hope my work hangs together so well!)
+
+If a person plays a game a lot, he internalizes its structure and
+values.  He can then use that understanding to implement aspect of the
+genre he wants, or to use the rules system to create a completely
+different but compatible game system.  For example, I am toying
+with the notion of making European version of the game.  (Does the
+world really need another fantasy role playing game?  Probably not.)
+
+It seems simple enough to me to do this, but then, no one has done it
+before, so maybe not.  
+
+Anyhow, game design is a fascinating subject, and is the only kind of
+work I have found so far that I enjoy all aspects of.
+
+Gwen Johnson
+s...@slc1.brl.mil <>

@@ -1,0 +1,72 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/jF016h6-viY
+TITLE: Msg 4 of 13: Other Suns/Chapter 2 
+
+----------------------------------------------------------------------------
+
+Saturday, 5 January 1991 19:47:47 UTC - Nicolai Shapero:
+      OTHER SUNS -- COPYRIGHT 1982, 1991 by N. C. Shapero
+           Chapter 2:  Characteristics  (Part 4 of 13)
+MIKHAIL'S POTENTIAL INCREASES
+
+STR--Mikhail's STR can be increased to 20 (his SIZ).
+
+INT--Failing some incredible miracle, Mikhail will be stuck  with 
+his current INT (not that he would complain, mind you)
+
+WIL--This  characteristic may be increased up to species  maximum 
+eventually, though Mikhail has a long way to go here.
+
+CON--Mikhail  may  increase  his CON, as explained  later,  to  a 
+maximum of 20 (his SIZ).
+
+END--This  attribute can be increased to the species maximum,  as 
+explained  later,  though in Mikhail's case it  would  take  many 
+months of training to do so.
+
+DEX--This  attribute can be increased to the species maximum,  as 
+explained later.
+
+CHA--As  shown  later,  Mikhail's CHA will  rise  and  fall  with 
+events.
+
+LEN--As  with INT, Mikhail is stuck with his current length.   He 
+is  assumed  to have finished his growth by the  time  he  enters 
+play.
+
+BLD--Though difficult, it would be possible for Mikhail to change 
+his  BLD by 1 point (either up or down).  See Increasing  Charac-
+teristics later in this chapter for further details.
+
+TSC--The sky is the limit for Mikhail in this area.
+
+TPR--Here  again,  the  sky is the limit,  though  training  this 
+characteristic is both expensive and time consuming.
+*****************************************************************
+
+MAXIMUM AND MINIMUM CHARACTERISTICS
+
+No characteristic save TSC and TPR may be increased by any  means 
+save cyborging (see CHAPTER 12, HEGEMONIC TECHNOLOGY) beyond  the 
+maximum  amount  rollable  on the characteristic  dice  plus  the 
+number of dice rolled (plus one if an adder is present).  Thus  a 
+human  may  not have a dexterity higher than 21  (=18+3),  and  a 
+Korli  with  dexterity rolled on 3D6+6 may not have  a  dexterity 
+higher than 28 (= 24 + 3 + 1).
+
+The minimum characteristic possible for any reason is the  number 
+of  dice rolled (for example, 3 for human CON).  No  characteris-
+tics save END and WIL may be reduced below this point  voluntari-
+ly.   If WIL is reduced below zero, however, the character  dies, 
+and  no  amount of medical assistance will prevent his  death  or 
+later restore him to life.
+
+                  (Continued in next message)
+
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------

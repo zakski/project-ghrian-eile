@@ -1,0 +1,150 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/vFIW_qUtwww
+TITLE: C'punk scenario ideas 
+
+----------------------------------------------------------------------------
+
+Thursday, 1 November 1990 22:27:03 UTC - Kay Shapero:
+Excuse me if you've seen this before; I wrote it before I found out 
+about the non-universality of wordwrap...
+On <Oct 01 16:51>, UUCP (1:103/208) wrote to All:
+
+ U>Organization: Penn State University
+ U>Message-ID: <90274.125...@psuvm.psu.edu <>>
+ U>Newsgroups: rec.games.frp
+
+
+ U>      Does anybody out there have any really innovative
+ U>      senario ideas out there for cyberpunk?  specifically,
+ U>      I'm looking for 'street level' action, not net
+ U>      stuff.  Corporate extractions and gang infiltrations
+ U>      are nice, but get boring after a while.
+ U>      Y'know, shadowrun has all kinds of modules, but I've never
+ U>      seen anything from R.Tal.  I wonder why?
+
+Why not consider occasionally what your characters do when they aren't 
+out fighting the system?  What sort of party could you throw with the 
+kind of tech available in a cyberpunk mileau?  What's the equivalent 
+of going backpacking?  A day at the beach?
+
+In the Other Suns campaign I'm involved in, we occasionally vary 
+things by having the characters go on shore leave and get into inter-
+esting situations (and no, they don't always involve trouble with the 
+SPs.)  Like the time a group went out hunting.  While most carried 
+rifles, my own character brought a camera to do her hunting with, 
+while another (a H'rel - a race of felinoids with an interesting sense 
+of humor) decided to bring along a batch of pies.  Off in the dis-
+tance, an NPC hunter made the "large flesh colored squirrel.  A deer 
+in a red hunting jacket" mistake and opened fire on the H'rel.  The 
+NPC missed.  The H'rel didn't - caught him full in front with a cream 
+pie.  My character filmed all of this...
+
+A couple of other characters spent all of their time "hunting" each 
+other, and got married a couple of game sessions later!
+
+
+
+--  
+Kay Shapero
+Internet: Kay.S...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:K...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Saturday, 3 November 1990 08:54:12 UTC - Andrew Arensburger:
+On <Oct 01 16:51>, UUCP (1:103/208) wrote to All:
+>      Does anybody out there have any really innovative
+>      senario ideas out there for cyberpunk?  specifically,
+>      I'm looking for 'street level' action, not net
+>      stuff.  Corporate extractions and gang infiltrations
+>      are nice, but get boring after a while.
+
+        This seems to be a problem nearly everyone has with the
+Cyberpunk genre: it's hard to break out of the conventional
+"employer wants X, hires party, party breaks into corporation,
+retrieves X, gives it to employer (optionally gets screwed
+by employer), the end" plot.
+        A few ideas (not all are mine. Chris Frerking gets a lot
+of the credit):
+
+        - The employer's daughter has a) been kidnapped, or
+b) run away to join the Moonies. The PCs must recover her. Possible
+complication: she doesn't want to return.
+
+        - The PCs are all members of company X. Company Y, whom
+the PCs have angered in the past, has just taken over company X.
+The PCs must now defect or be killed. A similar situation can
+occur with power plays within company X.
+
+        - The PCs are approached by two different employers, both
+of whom make mutually contradictory "offers you can't refuse."
+
+        - The employer has something valuable. He has information
+that says that a rival will try to recover the item within the
+coming week. He then gives the item to the PCs for safekeeping,
+until he can take it back. For added spice, make the item dangerous
+and make them wonder whether they wouldn't be better off giving/selling
+it to someone else.
+
+        One thing that can be exploited is that in a c-punk
+setting, virtually everything more complex than a mechanical
+pencil (and even some of the fancier mechanical pencils) is going
+to be computerized, and possibly hooked up to the Net. An example
+of this is in cars:
+        Cars no longer have gauges and dials on the dashboard. They
+simply have a color display that can be used by the on-board
+computer to display whatever's relevant at the moment (not to
+mention the fact that if you don't like idiot lights, you can
+always change them to dials). This display is also used by the
+car phone to show you who you're talking to.
+        In addition to all of this, the car can drive itself,
+by using internal maps (and/or maps that it reads on the Net).
+This requires that the on-board computer be hooked up to the Net
+(possibly via the phone), and this implies that a good 'runner
+can hijack a car from the privacy of his own home.
+
+-- 
+-------------------------------------------------------------------\\\\^
+Andrew Arensburger            | K&R C!   |  I hate Lisp functions      o\\\\\-
+are...@cvl.umd.edu <>            | ANSI no! |  that start with             /
+...!uunet!mimsy!cvl!arensb    |          |  "(catch (mapcon (throw"  \_/
+----------------------------------------------------------------------------
+
+Sunday, 4 November 1990 04:18:31 UTC - Jeff Kyer:
+On the subject of "what to do" in the cyberpunk genre; I heartily reccomend
+FASA's "Sprawl Sites".  The encounter section offers scads of scenario 
+ideas.  Even if you don't play Shadowrun, it is extremely useful.  Parts
+of it form the backbone of my campaign.   The generic maps are nifty too.
+(quick plug mode off)
+
+About the only other thing I can say about ideas for cyberpunk is watch 
+movies and TV.  Espically, read, read, read.  Steal any nifty stuff.  File
+off the serial numbers and fence it to your players.
+- show quoted text -
+
+
+-- 
+Mr. Scratch        scr...@watcsc.waterloo.edu <> 
+-- University of Cynosure,  Faculty of Pure and Applied Weirdness
+   Don't think about the finals
+----------------------------------------------------------------------------
+
+Sunday, 4 November 1990 04:21:15 UTC - Jeff Kyer:
+-- 
+Mr. Scratch        scr...@watcsc.waterloo.edu <> 
+-- University of Cynosure,  Faculty of Pure and Applied Weirdness
+   Don't think about the finals
+----------------------------------------------------------------------------
+
+Monday, 5 November 1990 18:59:26 UTC - Joel Lovell:
+One idea I've been toying with is to have the cpnks be inserted into
+a Superrealistic Virtual World - something really bizarre.  And make
+them have to do some outrageous things to get OUT of it.  
+Kind of a Soulkiller program, and if they DIE in the VR, then their
+mind imprint (whatever) get's ERASED.  No jacking out of this one for
+anyone.
+
+Joel
+
+any 2c?
+
+"Toto did WHAT to the Tin Man?"  

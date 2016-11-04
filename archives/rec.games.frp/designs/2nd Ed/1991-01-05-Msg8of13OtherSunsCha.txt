@@ -1,0 +1,70 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/TdQi9rlJJXM
+TITLE: Msg 8 of 13: Other Suns/Chapter 2 
+
+----------------------------------------------------------------------------
+
+Saturday, 5 January 1991 19:49:07 UTC - Nicolai Shapero:
+      OTHER SUNS -- COPYRIGHT 1982, 1991 by N. C. Shapero
+           Chapter 2:  Characteristics  (Part 8 of 13)
+ACCURACY (ACC)
+
+     Accuracy measures the ability to handle aimed weapons  (such 
+as bows, crossbows, pistols, and rifles).
+     Positive Primary Modifiers:   INT, DEX
+     Positive Secondary Modifiers: WIL
+     Positive Tertiary Modifiers:  (none)
+     Negative Tertiary Modifiers:  (none)
+     Negative Secondary Modifiers: (none)
+     Negative Primary Modifiers:   (none)
+     Finagle Factor:               -52
+
+*****************************************************************
+Mikhail has an accuracy bonus of +27%, computed as follows:
+          2 x INT =    34
+          2 x DEX =    36
+          1 x WIL =     9
+          ===============
+          Subtotal=   +79
+          Finagle =   -52
+          ===============
+          Total   =   +27
+Obviously, Mikhail is a natural rifleman...
+*****************************************************************
+
+ATTACK (ATT)
+
+Attack  measures the adventurer's added ability to strike  at  an 
+opponent  with  a hand to hand or natural weapon  (hands,  teeth, 
+feet, etc).
+
+     Positive Primary Modifiers:   INT, DEX
+     Positive Secondary Modifiers: STR, WIL
+     Positive Tertiary Modifiers:  (none)
+     Negative Tertiary Modifiers:  (none)
+     Negative Secondary Modifiers: (none)
+     Negative Primary Modifiers:   (none)
+     Finagle Factor:               -63
+
+*****************************************************************
+Mikhail has an attack bonus of +28%, computed as follows:
+          2 x INT =    34
+          2 x DEX =    36
+          1 x STR =    12
+          1 x WIL =    +9
+          ===============
+          Subtotal=   +91
+          Finagle =   -63
+          ===============
+          Total   =   +28
+*****************************************************************
+
+                  (Continued in next message)
+
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------

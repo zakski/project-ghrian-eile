@@ -1,0 +1,444 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/sYbiTOedvVs
+TITLE: Cannonical list of RPG's 
+
+----------------------------------------------------------------------------
+
+Tuesday, 27 February 1990 12:01:27 UTC - Richard J Cox:
+In reponse to various requests following my posting of lists of SF &
+Other rpg's, this is an attempt at producing a cannonical list of
+rpg's. The games are divided into three classes:
+          i) Fantasy (generally have magic),
+         ii) SF (Generaly high-tech/space travel),
+        iii) Other (Historical/Horror/Anything else really).
+The divisions are fairly arbitary in some cases (eg should Aftermath
+be in the SF list), but I feel they are divided my fairly well.
+        Originally the fantasy list was posted to rec.games.frp by
+ich...@codon7.berkeley.edu <> (Elliot Wilen) (for his fantasy games
+survey). the other lists were created one (very busy) lunch time by
+members of the UWSF&FS (University of Warwick Science Fiction &
+Fantasy Society), especially Sam Dodsworth & Flasher with help from
+others too numerous to mention.
+        Thanks also to those who replied to my original posting of the
+SF & other lists, these include:
+Doug Seay <seay@edu.ncsu.shumv1>; Walter Milliken <milliken@com.bbn>;
+Andrew C Durston <acd@com.att.hotld>; "John J. Lang" <lang@com.hp.fc.hpfcso>;
+wilber <(John Wilber)wilber%edu.usc.sal-sun3@edu.usc>; 
+greg@uucp.calgary Fri Feb 23 09:37:06 1990;
+Jim Bassman Davenport <davenpor@edu.ohio-state.cis>;
+Doug Seay <seay@edu.ncsu.shumv1>; Christopher A Wood <corr@edu.rpi.pawl>;
+cca...@prism.gatech.EDU <>; Matt Goldman <goldman@com.cray.ferris>;
+James_J_Kowalczyk@com.portal.cup;
+(Sorry if I missed anybody).
+
+A list of abreviations is at the end.
+
+Enjoy!!
+
+
+                     Fantasy Role Playing Games.
+                     ===========================
+
+Adventures in Fantasy (Publisher Unknown)
+The Arcanum (Publisher Unknown)
+Arduin (Ragnarok)
+Ars Magica (Lion Rampart)
+Authentic Thaumaturgy (Chaosium)
+Bushido (Fantasy Games Unlimited)
+Chivalry & Sorcery--1st ed (Fantasy Games Unlimited)
+Chivalry & Sorcery--2nd ed (Fantasy Games Unlimited)
+Chivalry & Sorcery--3rd ed boxed (Fantasy Games Unlimited)
+Conan (TSR)
+Darksword (Publiher Unknown)
+Dragon Warriors (Corgi Books)
+Dragonquest--1st ed boxed (SPI)
+Dragonquest--2nd ed softbound (SPI)
+Dragonquest--3rd ed softbound (TSR)
+Original Dungeons and Dragons--white box and supplements (TSR)
+Dungeons and Dragons--boxed sets "Beginning", "Expert", etc. (TSR)
+Advanced Dungeons and Dragons (TSR)
+AD&D 2nd edition (TSR)
+Elfquest (Chaosium)
+Empire of the Petal Throne (I know there are several editions,
+        some of them published by TSR others by Gamesscience Anyone
+        care to help out here?) 
+Fantasy Hero (Hero Games/Iron Crown Enterprises)
+The Fantasy Trip/In the Labyrinth (Metagaming)
+Fantasy Wargaming (Hardcover book, publisher unknown)
+Fighting Fantasy (Penguin)
+Flashing Blades (FGU)
+GURPS 1st edition Basic Set (Steve Jackson Games)
+GURPS 2nd edition Basic Set (Steve Jackson Games)
+GURPS 3rd edition Basic Set (Steve Jackson Games)
+GURPS Fantasy (Steve Jackson Games)
+GURPS Magic (Steve Jackson Games)
+GURPS Japan (Steve Jackson Games)
+GURPS Conan (Steve Jackson Games)
+Harnmaster (Columbia Games)
+Hawkmoon (Chaosium) (Is this fantasy? Somebody help, please.)
+High Fantasy (Publisher Unknown)
+Jorune (Sky Realms Publishing)
+Land of Ninja (Avalon Hill)
+Lands of Adventure (Fantasy Games Unlimited)
+Llejana (Publisher Unknown)
+Lords of Creation (Avalon Hill) (Partially anyway)
+Maelstrom (Penguin)
+Middle Earth Role-Playing (Iron Crown Enterprises)
+The Palladium Role-Playing Game (Palladium Books)
+Pendragon (Chaosium)
+Powers and Perils (The Avalon Hill Game Company)
+Prince Valiant (Chaosium)
+Rolemaster (Iron Crown Enterprises)
+Runequest--1st ed (Chaosium)
+Runequest--2nd ed (Chaosium)
+Runequest--3rd ed boxed (Chaosium/The Avalon Hill Game Company)
+Stormbringer/Elric (Chaosium/Games Workshop)
+Swordbearer (Fantasy Games Unlimited/Grenadier)
+Sword's Path--Glory (Leading Edge Games)
+Talislanta (Manufacturer Unkown) (Is this a system or only a background?)
+Thieves' Guild (Publisher Unkown)
+Tunnels and Trolls (Flying Buffalo)
+Warhammer Fantasy Role-Play (Games Workshop)
+Worlds of Wonder/Magic World (Chaosium)
+Ysgarth--1st ed small pamphlets (Ragnarok Enterprises)
+Ysgarth--2nd ed paperback books with glossy covers (Ragnarok Enterprises)
+
+/*--------------------------------------------------------------------------*/
+
+                        SF Role Playing Games
+                        =====================
+
+2300AD (GDW) (Was called Traveller 2300 in first ed)
+AD&D Spelljammer (TSR)
+Albeedo (Publisher Unknown)
+Aeratech (FASA)
+BattleTech (FASA)
+Citytech (FASA ?) (Expansion to Battletech)
+Cyber Punk (R. Taslorian Games)
+Cyberspace (ICE)
+Cyborg Commandos (New Infinities)
+Dr Who (FASA)
+FTL 2310 (Publisher Unknown)
+Fringeworthy (Publisher Unknown)
+GURPS Horseclans (SJG)
+GURPS Humanx (SJG)
+GURPS Riverworld (SJG)
+GURPS space (SJG)
+Gamma World (TSR)
+Imperial Earth (Paladium)
+Judge Dredd (Games Workshop)
+Laserburn (TTG)
+Living Steel (Leading Edge Games)
+Mechanoids (Paladium)
+Mega-Traveler (GDW)
+Metamorphosis Alpha (TSR)
+Other Stars (FGU)
+Paranoia (Westend Games)
+Psiworld (FGU)
+Reich Star (Mayfair)
+Rhand: Morningstar Missions (Leading Edge Games)
+Ringworld (Chaosium)
+Robotech (Palladium)
+Robowarriors (Hero Games)
+Shadowrun (FASA)
+Skyrealms of Jorune (SkyRealms Publishing Co.)
+Space 1889 (GDW)
+Space Opera (FGU)
+SpaceMaster (ICE)
+Spacetime (b???? Tactical Research Center)
+Star Ace (Pacesetter)
+Star Hero (Hero Games)
+Star Patrol (Gamescience)
+Star Trek (FASA)
+Star Wars (West End Games)
+Starfrontiers (TSR)
+Timeship (Yaquinta)
+Timemaster (Pacesetter)
+Traveller (GDW)
+Universe (SPI)
+Warhammer 40K (GW)
+        
+/*--------------------------------------------------------------------------*/
+
+                    Other Games Role Playing Games
+                    ==============================
+
+Aftermath (FGW)
+Alma Mater (?)
+Batman (Mayfair)
+Beyong the Supernatural (Palladium)
+Boothill (TSR)
+Bunnies & Burrows (FGU)
+Call Of Cuthulu. (Chaosium)
+Car Wars (SJG)
+Champions (Hero Games)
+Chill (Pace Setters)
+DC Heros (Mayfair)
+Danger International (Hero Games)
+Deltaforce (Task Force Games)
+Dragonriders of Pern (Mayfair)
+EnGarde (GDW)
+Gang Busters (TSR)
+Gangster (FGU)
+Ghostbusters (Westend)
+Golden Heros (GW)
+GURPS Basic Set (SJG)
+GURPS Horror (SJG)
+GURPS Prisoner (SJG)
+GUPRS Special Ops (SJG)
+GURPS supers (SJG)
+Heros (? - (independent))
+James Bond (Victory Games)
+Justice Incorporated (Hero Games)
+Larps (Live Action Role Playing (Rubber Swords in the Woods) - Many Different Systems)
+Macho Women With Guns (?) 
+        (Supplements `Renegade Nuns On Wheels'           )
+        (             `Bat-Winged Bimbos from Hell' )
+Marvel Superheros (TSR)
+Masters of the Universe RPG (?)
+Morrow Project (Timeline)
+Ninjas & Superspies (Palladium)
+Phoenix Command (Publisher Unknown)
+Pirates and Plunder (Yaquinto)
+Price of Freedom (Westend)
+Privaters & Gentlemen (Westend or RTG - this may depend on the country)
+Recon (Palladium)
+TMNT (Palladium)
+Teenagers From Outerspace (Westend or RTG - this may depend on the country)
+Toon (SJG)
+Top Secret (TSR)
+Top Secret SI (TSR)
+Twilight 2000 (GDW)
+Villans & Vigilanties (FGU)
+Wild West (FGU)
+Winne the Pooh (?)
+Year of the Pheonix (FGU)
+
+--------------------------------
+
+AH  - Avalon Hill Games Company
+BTRC - Blacksbury Tactical Research Company
+FASA - Freedonian Areo-Space Agency
+FGU - Fantasy Games Unlimited
+GDW - Games Designer Workshop
+ICE - Iron Crown Enterprises
+RTC - R. Talosorian Games
+SJG - Steve Jackson Games
+SPI - Simulations Publications Inc (Now owned by TSR)
+
+
+/*--------------------------------------------------------------------------*/
+
+- RC
+
+/*-----------------------------+------------------+-------------------------*/
+JANET:  ma...@uk.ac.warwick.cu <> | "I want it all, and I want it now" ~ Queen
+ARPA:   ma...@cu.warwick.ac.uk <> +----+  "Life, don't talk to me about life."
+UUCP:   ...!mcvax!ukc!warwick!maujt +-------------+   ~ Marvin the paranoid
+BITNET: maujt%uk.ac...@nsfnet-relay.ac.uk <> |        Android
+/*------------------------------------------------+-------------------------*/
+Richard Cox, Undergrad, Applied Maths, University Of Warwick, Coventry, UK
+----------------------------------------------------------------------------
+
+Tuesday, 27 February 1990 18:28:05 UTC - COOOOoooooOOOoooOOOKIE!!!!:
+  Still forgot Mekton by RTG (same people who do cyberpunk [one word])..
+it's a scifi game (battling robots/mechanoids)..and it is a RPG..
+
+
+have fun..
+
+John
+
+--
+----------------------------------------------------------------------------
+
+Tuesday, 27 February 1990 18:50:37 UTC - Greg Huey:
+In article <4...@clover.warwick.ac.uk <>> ma...@warwick.ac.uk <> (Richard J Cox) writes:
+>The Arcanum (Publisher Unknown)
+I think Bard Games did this one.
+---
+
+>Empire of the Petal Throne (I know there are several editions,
+>        some of them published by TSR others by Gamesscience Anyone
+>        care to help out here?) 
+My set was published by Different Worlds Productions
+---
+
+>Talislanta (Manufacturer Unkown) (Is this a system or only a background?)
+Bard Games again ... Yes, it is a system.
+---
+
+>FTL 2310 (Publisher Unknown)
+>Fringeworthy (Publisher Unknown)
+That's FTL: 2448, and both of these were done by Tri-Tac.
+---
+
+>Skyrealms of Jorune (SkyRealms Publishing Co.)
+You have this twice ... I'd call it SF, only.
+---
+
+>Spacetime (b???? Tactical Research Center)
+Blacksburg -- as in Blacksburg, Virginia, I think.
+They also put out Timelords, which you seem to have omitted.
+--- 
+>Call Of Cuthulu. (Chaosium)
+
+Please, *Cthulhu*, ;-)
+------------------------------------------------------------
+Some others:
+Domination        StarChilde Publications (SF)
+Justifiers        StarChilde Publications (SF)
+Expendables        Stellar Games (SF)
+It Came From the Late, Late, Late Show        Stellar Games (Other)
+Stalking the Night Fantastic        Tri-Tac (Other)
+Timelords        BTRC (SF)
+
+
+Those are all I have on hand to add to your list. Good Luck in compiling
+*the* canonical list of rpgs!
+----------------------------------------------------------------------------
+
+Tuesday, 27 February 1990 21:18:08 UTC - Ken Yousten:
+In article <4...@clover.warwick.ac.uk <>> ma...@warwick.ac.uk <> (Richard J Cox):
+>Authentic Thaumaturgy (Chaosium)
+I seem to remember something by this name from Isaac "Real Magic" Bonewits,
+but I don't remember it as a whole game, only a set of guidelines for using
+magic in an rpg. What can anyone tell me about this, as I am clearly missing
+a lot.
+
+
+>Spacetime (b???? Tactical Research Center)
+If, as has been guessed by someone, b???? is Blacksburg (as in Va), I would
+be quite interested in information on this bunch (mailing address, etc), as
+I am from Blacksburg, although I have been rather out of touch the last few
+years...
+
+  o    Ken Yousten                       oo    90% of everything is crap
+o   o  arpa: gt1...@prism.gatech.edu <>    oo        --Sturgeon's Law
+ o o   uucp: ...!{allegra,amd,hplabs,seismo,ut-ngp}!gatech!prism!gt1020a
+----------------------------------------------------------------------------
+
+Tuesday, 27 February 1990 23:49:14 UTC - Steven Stadnicki,,,:
+From article <4...@clover.warwick.ac.uk <>>, by ma...@warwick.ac.uk <> (Richard J Cox):
+> Albeedo (Publisher Unknown)
+Actually, this is Albedo (one 'e'), from Thoughts&Images, with the first
+packaged adventure coming Real Soon Now.
+
+> Other Stars (FGU)
+
+And I believe this is supposed to be Other Suns.  Not only a nifty game, but a
+great source for stories and characters...
+
+                                         Steven Stadnicki
+                                         stad...@clutx.clarkson.edu <>
+----------------------------------------------------------------------------
+
+Wednesday, 28 February 1990 03:13:27 UTC - Chris Thompson:
+Thieves' World.  Don't recall the publisher...
+CT
+--
+----------------------------------------------------------------------------
+
+Wednesday, 28 February 1990 07:09:27 UTC - Michael Pederson:
+In article <4...@clover.warwick.ac.uk <>> ma...@warwick.ac.uk <> (Richard J Cox) writes:
+>
+>Ars Magica (Lion Rampart)
+>
+        There's two editions of Ars Magica.  They're about as different from
+each other as, say, GURPS second and third editions are different from each
+other.
+        Just my $0.002.
+
+                                        -Michael Pederson (pederstm)
+----------------------------------------------------------------------------
+
+Wednesday, 28 February 1990 15:22:47 UTC - Sean Malloy:
+In article <1990Feb27.2...@sun.soe.clarkson.edu <>> stad...@clutx.clarkson.edu <> writes:
+>From article <4...@clover.warwick.ac.uk <>>, by ma...@warwick.ac.uk <> (Richard J Cox):
+>> Other Stars (FGU)
+>
+>And I believe this is supposed to be Other Suns.  Not only a nifty game, but a
+>great source for stories and characters...
+And no longer by FGU. Niall Shapero's contract with them provided that
+the publishing rights reverted when FGU let the game go out of print.
+As of last month, he was still working on revising and updating the
+game (there have been a number of changes in character creation and
+the skill bonus determination, for example).
+
+
+ Sean Malloy                                    | "I am here by the will of
+ Navy Personnel Research & Development Center   | the people and will not
+ San Diego, CA 92152-6800                       | leave until I get my
+ mal...@nprdc.navy.mil <>                          | raincoat back"
+----------------------------------------------------------------------------
+
+Thursday, 1 March 1990 20:16:43 UTC - Edward Allen;345 Mulford;x2-9025:
+Some missing info for your list:
+FTL 2310, Fringeworthy, Stalking the Night Fantastic (not listed) and
+an after the holocaust game whose name I don't remember all use the
+same system and are (or were) published by TriTac games.
+Also, Geriatrics Wars, Escape from Westerville State, and several
+other silly little pamphlet RPGs.
+
+There was a small distribution historical dark ages rpg called Heroes, published
+in England by Tabletop games, who usually do miniatures rules.
+
+Creeks and Crawdads  by Crustaceum Games  - definitely in the "other" category.
+
+Warlock  - published in The Spartan and then again later as a rulesbook by
+itself, can't find my copy to get the publisher. fantasy
+
+Ed Allen (al...@enzyme.berkeley.edu <>)
+----------------------------------------------------------------------------
+
+Thursday, 1 March 1990 23:15:19 UTC - Nils A. Hedglin:
+Macho Women with Guns & it's two companion modules (which I highly
+recommend) are published by BTSR.  I didn't see GURPS Swashbuckler
+suppliment mentioned anywhere.
+Nils
+Internet: nah@sactoh0.uucp
+UUCP: ames!pacbell!scatoh0!nah
+----------------------------------------------------------------------------
+
+Monday, 5 March 1990 22:42:00 UTC - Gnarek:
+In article <1990Feb28.0...@sci.ccny.cuny.edu <>> chr...@sci.ccny.cuny.edu <> (Chris Thompson) writes:
+>Thieves' World.  Don't recall the publisher...
+Game Lords.
+
+
+--
+N gehr arg.ernqre pna ernq guvf jvgubhg ebgngvat vg.
+Qvfpynvzre: V qba'g qb qvfpynvzref.
+----------------------------------------------------------------------------
+
+Tuesday, 6 March 1990 05:52:27 UTC - Beth MOURSUND:
+In article <64...@hydra.gatech.EDU <>> cca...@prism.gatech.EDU <> (COOOOoooooOOOoooOOOKIE!!!!) writes:
+>
+>  Still forgot Mekton by RTG (same people who do cyberpunk [one word])..
+Another one to add (though I don't know what category...):
+
+Synnibarr, published by Real Dream Inc.
+
+It's a science fiction fantasy combo, with a reality level about the same
+as Champions and character power level starting at roughly Champions
+level and rising rapidly.
+
+Synnibarr was written by a Seattle resident, and is available at a couple
+of stores in the Seattle area and at some conventions.
+----------------------------------------------------------------------------
+
+Wednesday, 7 March 1990 23:02:20 UTC - Dennis Francis Heffernan:
+        RE Canonical list of RPG's; Thieves' World
+        There was no Thieves' World RPG per se.  Chasium put out a multi-system
+supplement that covered the first two books, and a companion booklet to that 
+for the third book.
+
+        The Gamelords product alluded to previously was Thieves' GUILD, and 
+also mostly consisted of a series of modules.  Towards the end of their
+corporate life they put out a more-or-less Theives' only RPG, but never got
+around to expanding it to cover other classes.
+
+
+Dennis Francis Heffernan        |  "Great spirits have always 
+dfrancis@tronsbox                |   encountered violent opposition
+...uunet!tronsbox!dfrancis        |   from mediocre minds"
+Killer GM- Reasonable fees        |   --Albert Einstein

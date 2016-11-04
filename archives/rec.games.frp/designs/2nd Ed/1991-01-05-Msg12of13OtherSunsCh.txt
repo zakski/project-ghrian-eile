@@ -1,0 +1,75 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/_EPgsfsb2Gs
+TITLE: Msg 12 of 13: Other Suns/Chapter 2 
+
+----------------------------------------------------------------------------
+
+Saturday, 5 January 1991 19:50:24 UTC - Nicolai Shapero:
+      OTHER SUNS -- COPYRIGHT 1982, 1991 by N. C. Shapero
+           Chapter 2:  Characteristics  (Part 12 of 13)
+PARRY (PAR)
+
+To parry is to interpose a shield and/or weapon in the path of an 
+attacking  weapon in order to deflect its blow harmlessly to  one 
+side.
+
+     Positive Primary Modifiers:   DEX
+     Positive Secondary Modifiers: WIL
+     Positive Tertiary Modifiers:  STR, INT
+     Negative Tertiary Modifiers:  (none)
+     Negative Secondary Modifiers: SIZ
+     Negative Primary Modifiers:   (none)
+     Finagle Factor:               -22
+
+*****************************************************************
+Mikhail has a parry bonus of +18%, computed as follows:
+          2 x DEX   =  36
+          1 x WIL   =   9
+          1/2xSTR   =   6
+          1/2xINT   =   8.5
+          =================
+          Subtotal  =  59.5
+         -1 x SIZ   = -20
+          =================
+          Subtotal  =  39.5
+          Finagle   = -22
+          ===============
+          Total     =  17.5; the next largest whole number is 18.
+*****************************************************************
+
+PERSUASION (PER)
+
+The  persuasion  ability  modifies those skills  related  to  the 
+swaying of a crowd through voice and through force of personality 
+towards whatever goals the adventurer wishes.
+
+     Positive Primary Modifiers:   (none)
+     Positive Secondary Modifiers: WIL, CHA
+     Positive Tertiary Modifiers:  CHA, INT
+     Negative Tertiary Modifiers:  (none)
+     Negative Secondary Modifiers: (none)
+     Negative Primary Modifiers:   (none)
+     Finagle Factor:               -32
+
+*****************************************************************
+Mikhail has a persuasion bonus of +5%, computed as follows:
+          1 x WIL   =   9
+          1 x CHA   =  13
+          1/2xCHA   =   6.5
+          1/2xINT   =   8.5
+          =================
+          Subtotal  =  37
+          Finagle   = -32
+          ===============
+          Total     =   5
+*****************************************************************
+
+                  (Continued in next message)
+
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------

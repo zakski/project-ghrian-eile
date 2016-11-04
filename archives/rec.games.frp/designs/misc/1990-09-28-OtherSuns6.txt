@@ -1,0 +1,187 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/rCLBNh2an1w
+TITLE: Other Suns : 6 
+
+----------------------------------------------------------------------------
+
+Friday, 28 September 1990 18:33:08 UTC+1 - John Redden:
+------------------ OS.6 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero.  This gaming material is
+distributed on a shareware basis.  If you do not use the material you
+owe the author nothing.  If you do use it please pay him what you
+think it is worth at a fair price becasue it took a damn lot of work
+to develop and playtest.  The USmail address is:
+
+Niall Shapero
+2536 Short Ave
+Los Angeles CA 90066
+USA
+
+Those of you with modems can dial into his BBS using this phone number:
+(213)822-6729
+
+Please email any comments to my electronic mailing address and I will
+pass them on to Niall.
+
+----------------  end of preamble -------------------------------------------
+
+
+   N'Aberdeen
+   
+   The Imperial Sector Capital world of N'Aberdeen was colonized  in 
+   the  3nd  century by caucasians of northern  European  stock.   A 
+   typical  N'Aberdeener  is 10 centimeters taller  than  the  Human 
+   average (add 10 to LEN) and somewhat slimmer (deduct 2 from BLD). 
+   The typical N'Aberdeener has red hair, green eyes, and fair skin.
+   
+   Technology
+   
+   The  technological  level  on N'Aberdeen is  at  normal  Imperial 
+   levels  in all the sciences save one: biology.  Even  there,  the 
+   N'Aberdeener's  have managed only one advance, but that  one  ad-
+   vance is a major one: formchange.
+   
+   Using engineered viruses, biofeedback and Human-computer  linkage 
+   techniques, and organ regeneration technology, the N'Aberdeener's 
+   developed  a method of changing a man's shape and body  functions 
+   without killing him.  To perform any "significant"  modifications 
+   requires  time and a fair amount of expensive equipment but  per-
+   forming minor alterations (such as hair color, eye color, finger-
+   prints, or voice patterns) is possible within a few days using  a 
+   minimum of equipment.
+   
+   Formchange  technology  has  not, as of the  current  date,  been 
+   extended to non-Human races by the N'Aberdeeners, and the  Empire 
+   has prevented all Hegemonic attempts to acquire it.
+   
+
+   Formchange machines:
+   
+                       Type I Formchange Machine
+   
+   Permits minor modifications to appearance and physical character-
+   istics  (sufficient to confuse most commonly  available  physical 
+   identification systems). Mass 2 metric tons, will accomodate  any 
+   Human up to size 25.  A Grade 10 computer is needed to run a Type 
+   I formchange machine, as well as a power source capable of gener-
+   ating  0.001  E/hr.  Type I Maintainer units mass  20  kilograms, 
+   have in-built computers capable of operating them safely, and can 
+   be "hooked up" to a Human subject in 1 hour (requires a  success-
+   ful Human medical skill roll).  A standard portable generator  is 
+   required  to  operate a Type I Maintainer unit.  A Type  I  form-
+   change  machine costs 10 million Imperial Marks, a Type  I  Main-
+   tainer unit costs 10 thousand Imperial Marks (4 Imperial Marks  = 
+   5 System Monetary Units at the current rate of exchange).  
+   
+   Limits for Type I machine  Modifications permitted to  character-
+   istics  (together  with times required to force the  changes  and 
+   time required to maintain the changes) are as follows:
+   
+        Char   Max Delta    To Change      Required Maintenance
+        ====   =========    ===========    ====================
+        STR       3         1 day/point    4 hours/week/point
+        CON       2         2 days/point   6 hours/week/point
+        END       8         4 hours/point  2 hours/week/point
+        DEX       2         3 days/point   12 hours/week/point
+        LEN       30        5 days/point   Not Applicable
+        BLD       2         10 days/point  Not Applicable
+        Cosmetic change     1 day          Not Applicable
+   
+   Change  times  and maintenance times are  cumulative.   Thus,  an 
+   individual who wished to increase his strength by 2, his  consti-
+   tution  by 1, increase his height by 15 centimeters,  and  reduce 
+   his build by 2 would have to be "in the tank" for 2 + 2 + 75 + 10 
+   = 89 days.  To maintain his increased strength and  constitution, 
+   he must use a properly programmed Type I Maintainer unit for 8  + 
+   6  =  14 hours per week.  If a modified subject fails  to  use  a 
+   maintainer,  he  reverts to his original characteristics  at  the 
+   same  rate he acquiried the new ones.  In our example, it took  2 
+   days  for the added STR, so our subject would lose one  point  of 
+   strength  at  the beginning the 8th day, and then  again  at  the 
+   start  of the 9th day since his last maintenance.  While  charac-
+   teristics are changed serially (first one, then another) they are 
+   lost in parallel (all at the same time).
+   
+   Smaller computers may be used with a Type I machine, but there is 
+   an  added risk.  For each grade below 10, there is a 10%  cumula-
+   tive  chance of fatal malfunction of the unit per day  of  opera-
+   tion.
+   
+
+                      Type II Formchange Machine
+   
+   Permits  significant  modification  to  appearance  and  physical 
+   characteristics.   Within limits of size change, a Human  may  be 
+   changed,  to  all outward appearances, into a member  of  another 
+   species.  Genetically, the result is still vaguely Human  (assum-
+   ing  that the definition of Human is "anything that a  formchange 
+   machine can modify").  A genemap will still uniquely identify the 
+   "changed" individual.  Changes resulting from modifications by  a 
+   Type II system are reversible.  Mass 10 metric tons, will accomo-
+   date  any Human up to size 40.  A Grade 60 computer is needed  to 
+   run a Type II formchange machine, as well as a power source capa-
+   ble  of generating 0.001 E/hr.  Type II Maintainer units mass  30 
+   kilograms,  have  in-built computers capable  of  operating  them 
+   safely,  and  can  be "hooked up" to a Human subject  in  1  hour 
+   (requires  a  successful Human medical skill roll).   A  standard 
+   portable  generator is required to operate a Type  II  Maintainer 
+   unit.  A  Type II formchange machine costs 100  million  Imperial 
+   Marks,  a  Type II Maintainer unit costs  100  thousand  Imperial 
+   Marks.  Limits  for Type II machine  Modifications  permitted  to 
+   characteristics  (together  with  times  required  to  force  the 
+   changes  and time required to maintain the changes) are  as  fol-
+   lows:
+   
+        Char   Max Delta    To Change      Required Maintenance
+        ====   =========    ===========    ====================
+        STR       9         1 day/point    4 hours/week/point
+        CON       5         2 days/point   6 hours/week/point
+        END       20        4 hours/point  2 hours/week/point
+        DEX       10        3 days/point   12 hours/week/point
+        LEN       60        3 days/point   Not Applicable
+        BLD       10        5 days/point   Not Applicable
+        Cosmetic change     4 hours        Not Applicable
+        Conversion to       15 days/point  Not Applicable
+        Non-Human shape     of SIZE
+   
+                      Type III Formchange Machine
+   
+   The Type III machines permit the widest and most permanent  modi-
+   fication  to  physical characteristics. Using one  of  these  ma-
+   chines, a Human can be changed into a member of another  species. 
+   While  a Type III machine can be used to modify a genetic  Human, 
+   the primary use for such machines is to create perfect spies. The 
+   process  of producing a genetic H'Rel or a genetic Korli  from  a 
+   genetic  Human  is  NOT, however, a reversible  process  (or,  at 
+   least, not until the N'Aberdeeners figure out how to modify other 
+   races than Humans).
+   
+   Type III machines mass 40 metric tons, will accomodate any  Human 
+   up  to size 80.  A Grade 60 computer is needed to run a Type  III 
+   formchange machine, as well as a power source capable of generat-
+   ing  0.001  E/hr.  Type III Maintainer units mass  40  kilograms, 
+   have in-built computers capable of operating them safely, and can 
+   be "hooked up" to a Human subject in 1 hour (requires a  success-
+   ful Human medical skill roll).  A standard portable generator  is 
+   required  to operate a Type III Maintainer unit.  Type III  form-
+   change  machines are currently all in Imperial Government  hands, 
+   but the governmental cost of these machines is 5 billion Imperial 
+   Marks  for a Type III Formchange machine, and the Type III  Main-
+   tainers  cost  the  government 50 million  Imperial  Marks  each.  
+   Limits  for Type III machine  Modifications permitted to  charac-
+   teristics (together with times required to force the changes  and 
+   time required to maintain the changes) are as follows:
+   
+        Char   Max Delta    To Change      Required Maintenance
+        ====   =========    ===========    ====================
+        STR       18        1 day/point    4 hours/week/point
+        CON       15        2 days/point   6 hours/week/point
+        END       40        4 hours/point  2 hours/week/point
+        DEX       20        3 days/point   12 hours/week/point
+        LEN       120       3 days/point   Not Applicable
+        BLD       30        5 days/point   Not Applicable
+        Cosmetic change     1 hour         Not Applicable
+        Body converstion    5 days/point   Not Applicable
+        to Non-Human        of SIZE        (NOT REVERSIBLE!)
+   

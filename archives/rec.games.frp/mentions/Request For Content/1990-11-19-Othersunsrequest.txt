@@ -1,0 +1,126 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/lTSbven_YZY
+TITLE: Other suns request 
+
+----------------------------------------------------------------------------
+
+Monday, 19 November 1990 00:30:48 UTC - Jack a.k.a. Wildside:
+Hi,
+        My hard disk got trashed and I had downloaded a copy of Other Suns
+to my computer and erased the copy on the mainframe.  Could someone tell me
+where I could ftp it from, or if some kind sould would be willing to send
+it to me.
+Thanks in advance,
+-- 
+Jack a.k.a. Wildside   ... 2nd regeneration of a Time Lord
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        "But that's not decent"
+        "I am a pirate, I don't do decency!" - Don Carnage
+----------------------------------------------------------------------------
+
+Monday, 19 November 1990 08:00:03 UTC - Andreas Jakobsson:
+In article <1990Nov19....@watserv1.waterloo.edu <>> dewi...@watserv1.waterloo.edu <> (Jack a.k.a. Wildside) writes:
+>Hi,
+>        My hard disk got trashed and I had downloaded a copy of Other Suns
+>to my computer and erased the copy on the mainframe.  Could someone tell me
+>where I could ftp it from, or if some kind sould would be willing to send
+>it to me.
+>
+Me, too!
+
+
+>Thanks in advance,
+>-- 
+>Jack a.k.a. Wildside   ... 2nd regeneration of a Time Lord
+>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>        "But that's not decent"
+>        "I am a pirate, I don't do decency!" - Don Carnage
+aTdHvAaNnKcSe
+
+Andreas, Kung av Sk}ne.
+
+email: d8...@efd.lth.se <>
+----------------------------------------------------------------------------
+
+Monday, 19 November 1990 12:42:09 UTC - Tzoq Mrekazh:
+In article <1990Nov19.0...@lth.se <>> d8...@efd.lth.se <> (Andreas Jakobsson) writes:
+>In article <1990Nov19....@watserv1.waterloo.edu <>> dewi...@watserv1.waterloo.edu <> (Jack a.k.a. Wildside) writes:
+>>        My hard disk got trashed and I had downloaded a copy of Other Suns
+>>to my computer and erased the copy on the mainframe.  Could someone tell me
+>>where I could ftp it from, or if some kind sould would be willing to send
+>>it to me.
+>Me, too!
+...and me...
+
+>>Thanks in advance,
+
+
+-- 
+    o-  Tzoq    "I am a good speller, I am -- C-A-T, dog...           ^ ^
+ O   o-                                       B-A-T, Rhode Island..." `v'
+    o-  jh...@prism.engrg.uwo.ca <>                        -- Junyer Bear  ^  
+=-=-= Although our information is incorrect, we do not vouch for it =-=-=
+----------------------------------------------------------------------------
+
+Tuesday, 20 November 1990 11:46:26 UTC - Nicolai Shapero:
+Andreas Jakobsson wrote to All:
+ AJ>In article <1990Nov19....@watserv1.waterloo.edu <>> 
+ AJ>dewi...@watserv1.waterloo.edu <> (Jack a.k.a. Wildside) writes:
+>Hi,
+
+>       My hard disk got trashed and I had downloaded a copy of Other Suns
+>to my computer and erased the copy on the mainframe.  Could someone tell me
+>where I could ftp it from, or if some kind sould would be willing to send
+>it to me.
+>
+ AJ>Me, too!
+
+
+>Thanks in advance,
+>-- 
+>Jack a.k.a. Wildside   ... 2nd regeneration of a Time Lord
+>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>       "But that's not decent"
+>       "I am a pirate, I don't do decency!" - Don Carnage
+ AJ>aTdHvAaNnKcSe
+
+ AJ>Andreas, Kung av Sk}ne.
+
+ AJ>email: d8...@efd.lth.se <>
+
+Well, the OTHER SUNS material is available here, but I'm
+on FidoNet running rec.games.frp through a gateway system.
+If you've got a reasonably cheap phone access, you might try
+dialing in direct (213-822-6729 -- up through 19.2 kbaud
+if you've got a USRobotics HST modem).
+
+-- Nicolai Shapero, the Mad Russian Sysop of StormGate Aerie 
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Tuesday, 27 November 1990 21:11:31 UTC - M. Kapolka:
+In article <1639.2...@ofa123.fidonet.org <>> Nicolai...@f524.n102.z1.fidonet.org <> (Nicolai Shapero) writes:
+> AJ>In article <1990Nov19....@watserv1.waterloo.edu <>> 
+> AJ>dewi...@watserv1.waterloo.edu <> (Jack a.k.a. Wildside) writes:
+
+>>       My hard disk got trashed and I had downloaded a copy of Other Suns
+>>to my computer and erased the copy on the mainframe.  Could someone tell me
+>>where I could ftp it from, or if some kind sould would be willing to send
+>>it to me.
+>Well, the OTHER SUNS material is available here, but I'm
+
+>on FidoNet running rec.games.frp through a gateway system.
+>-- Nicolai Shapero, the Mad Russian Sysop of StormGate Aerie 
+Other Suns, as well as some other material is available from a mail
+server:  archive...@eklektik.pgh.pa.us <>   You can check out the monthly
+posting in this newsgroup for details, or just send the message 'help'
+to that address.
+
+-- 
+Anthony Kapolka                                        ant...@cs.pitt.edu <>

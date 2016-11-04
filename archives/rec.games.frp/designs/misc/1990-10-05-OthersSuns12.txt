@@ -1,0 +1,320 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/5s8klvWsi-c
+TITLE: Others Suns : 12 
+
+----------------------------------------------------------------------------
+
+Friday, 5 October 1990 14:55:05 UTC+1 - John Redden:
+------------------ OS.12 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero.  This gaming material is
+distributed on a shareware basis.  If you do not use the material you
+owe the author nothing.  If you do use it please pay him what you
+think it is worth at a fair price becasue it took a damn lot of work
+to develop and playtest.  The USmail address is:
+
+Niall Shapero
+2536 Short Ave
+Los Angeles CA 90066
+USA
+
+Those of you with modems can dial into his BBS using this phone number:
+(213)822-6729
+
+Please email any comments to my electronic mailing address and I will
+pass them on to Niall.
+
+----------------  end of preamble -------------------------------------------
+
+             MAHAOLI (A new race for OTHER SUNS)
+                        (Part 1 of 5)
+
+(1D6 in INT and CON replaced by a 6 in DICE rolled)
+
+CHAR      DICE      EXPECTED       SPECIES MAXIMUM
+
+STR       2D8+1          10             20
+INT       2D6+6          13             21
+WIL       3D6            10.5           21
+CON       2D6+6          13             21
+END       4D12           26             52
+DEX       4D6+2          16             31
+CHA       3D6            10.5           21
+LEN       170+1D6        173.5          178
+BLD       4              4              4
+SIZ       ---            18             19
+TSC       1D6-5          -1.5           N/A
+TPR       1D4+1          3.5            N/A
+
+Armor= 1 point fur (impact protection only)
+Expected mass = 59 kilograms
+
+Expected ENC (native gee) = 93 kilograms
+Expected ENC (1 gee) = 91 kilograms
+Net ENC (1 gee) = 32 kilograms
+
+Natural Weapons' Damage:  claw -- 1D4
+                          bite -- 1D6
+                          kick -- 1D6
+
+Brief Background
+
+The Mahaoli are a bipedal tailed aquatic mammalian species native 
+to  Istrana, a terrestrial world with a surface  acceleration  of 
+0.98 gees.  Istrana orbits Sisanek, a G1 main sequence star, at a 
+distance of 1.03 astronomical units.  The terrestrial mammal most 
+More [Y,n]? 
+closely resembling the Mahaoli is Lutra canadensis, the  American 
+otter; it is, however, only a vague resemblance.
+
+The  basic  unit of Mahaoli society is the "cluster":  one  adult 
+alpha  male,  one adult alpha female, four adult male  betas  and 
+four  adult  female betas, together with offspring  and  "helper" 
+adults (non-breeders).  A typical cluster will number some thirty 
+five  individuals,  ten of whom are breeding adults,  twenty  are 
+adolescents  or  children,  and five  are  non-breeding  "helper" 
+individuals.   The alphas are generally, though not  always,  the 
+eldest  members of the cluster; half the betas of a  cluster  are 
+typically adult offspring of the alpha pair of that cluster.
+
+Mahaoli are considerably more gregarious than Humans.
+
+The  Mahaoli were first contacted by the H'Reli during the  Third 
+Expansion;  their  homeworld lies within what  is  today  Combine 
+space.   The Mahaoli do not have a representative on the  Central 
+Committee; they are instead represented by the H'Reli, the Altani 
+More [Y,n]? 
+and  the Ata'a.  The three independent  Mahaolan  subgovernments, 
+the Confederacy, the Litaran League, and the Vispoka Assembly are 
+respectively  within Syind Combine, Suzrainty of Han, and  Ata'an 
+Assembly space.
+
+
+
+
+             MAHAOLI (A new race for OTHER SUNS)
+                        (Part 2 of 5)
+
+Names among the Mahaoli
+
+A Mahaoli takes part of his name from his cluster, part from  his 
+position  within the cluster, and part from choice at  adulthood.  
+Mahaoli  cluster names have historically been derived  from  geo-
+graphic place names.  More recently, with the departure of  large 
+number of Mahaoli from their homeworld, cluster names have  begun 
+to  appear  that are clearly derived from  words  in  non-Mahaoli 
+languages  or are based on employment  specializations.   Cluster 
+names derived from occupations typically (though not exclusively) 
+end in -ti or -si.  Given/adult choice names most commonly end in 
+-a.
+
+Designators of position within cluster:
+
+ 
+     Val = Alpha/leader male
+     Mir = Alpha/leader female
+     Ko = Beta male
+     Sal = Beta female
+     Ran = "helper" individual
+
+Common Cluster names (and their meanings):
+
+     Teeka = Teeka river
+     Varan = Varan mountains
+     Chell = Chell islands
+     Vokti = Star plotter (navigator)
+     Nisenti = Starship engineer
+     Ntensi = Interstellar explorer
+
+Common Given/adult choice names (and their meanings):
+
+     Chensa = Quick witted
+     Bropa = Lazy and clever
+ 
+     Vandropa = Seeker after many females
+     Iskanda = Seeker after many males
+     Tokra = Jester
+     Morga = Guzzleguts
+     Funara = Prankster
+
+A full Mahaoli name is of the form <Given name><cluster  position 
+designator><cluster  name>.   For example:   Funaravalvokti  (The 
+alpha  male, prankster, of the star  plotter/navigator  cluster).  
+In common address, only the given name is used; in slightly  more 
+formal address, the given name with the cluster position designa-
+tor  attached  is  used.  So Funaravalvokti  would  be  known  to 
+friends and associates as Funara, and would likely be  introduced 
+as  Funaraval to new acquaintences.  The full name is  only  used 
+for official (i.e. government) matters or in records keeping.
+
+
+
+             MAHAOLI (A new race for OTHER SUNS)
+                        (Part 3 of 5)
+
+Mahaoli Languages
+
+Healaoie
+
+The  principal  language  of  the  Mahaolan  Confederacy  worlds.  
+Roughly two thirds of the Mahaoli are native to one or another of 
+the  worlds  of the Confederacy and speak this  as  their  native 
+language.
+
+Mirmiroiya
+
+The principal language of the Litaran League worlds.  Roughly ten 
+percent of the Mahaoli speak Mirmiroiya as their native language.
+
+Imaoha
+ 
+
+The  principal language of the Vispoka Assembly worlds.  MOST  of 
+the  remaining  Mahaoli live on worlds owing  allegiance  to  the 
+Vispoka Assembly.
+
+The Mahaolan Outlook
+
+(1)  There is a passion for pleasure.
+
+(2)  The three cardinal virtues are: honesty, responsibility, and 
+     a sense of humor.
+
+(3)  A sense of proportion, and an ethical sense are also consid-
+     ered important.
+
+(4)  Power over another adult intelligent being has no justifica-
+     tion.  It may, under certain circumstances, be necessary  -- 
+     but this does not justify the power, only explain it.
+
+ 
+(5)  There  is  a  basic natural law  governing  all  intelligent 
+     beings.
+
+(6)  Under  this  law, all intelligent life forms  are  basically 
+     equal.
+
+Attitudes of the Mahaolan Middle Class:  Equality among  sophonts 
+is  assumed to be axiomatic. The world view is optimistic  (hedo-
+nist),  and dignity is considered to be a basic virtue.   Poverty 
+is  regarded as a vice.  The "species" memory of the  Mahaoli  is 
+extremely  long.   They  are capable of assuming  a  position  of 
+galactic dominance at need; they have no desire to do so,  howev-
+er.
+
+
+
+             MAHAOLI (A new race for OTHER SUNS)
+                        (Part 4 of 5)
+
+Attitudes  of the Mahaolan Elite:  Power evokes respect, but  the 
+greatest political force among the Mahaoli is still diplomacy and 
+consensus democracy.  The hero image is the negotiator who satis-
+fies ALL parties in a dispute.  Sophisticated aliens evoke  wari-
+ness,  and the primitive masses are regarded as children  (to  be 
+protected,  cared for, and nurtured).  Ambition is  tolerated  in 
+others.  The greatest weakness of the Mahaolan elite is a lack of 
+military aggressiveness.  They are always ready to "borrow"  from 
+others'  cultures.  Dilettantism is strongly frowned upon.   Lei-
+sure is a virtue, to be sought be all.
+
+Psychological Profile for Mahaoli
+
+
+Cautious   - Reckless     01-20    51-100
+ 
+Courageous - Cowardly     01-60    91-100
+Forgiving  - Vengeful     01-70    96-100
+Generous   - Miserly      01-40    81-100
+Hedonistic - Stoic        01-90    96-100
+Honorable  - Treacherous  01-20    81-100
+Humble     - Arrogant     01-30    71-100
+Merciful   - Cruel        01-20    71-100
+Optimistic - Pessimistic  01-70    96-100
+Peacable   - Combative    01-30    71-100
+Trusting   - Suspicious   01-45    86-100
+Xenophilic - Xenophobic   01-45    91-100
+
+
+
+
+             MAHAOLI (A new race for OTHER SUNS)
+                        (Part 5 of 5)
+
+Mahaoli Physical Characteristics
+
+(1)  Gravitational  Norm and Tolerance Range:  0.98 g,  0-1.5  g, 
+     max  3g
+
+(2)  Atmospheric Norm and Variation Tolerance:  60-400 mm Hg Oxy-
+     gen, 10-25 mm Hg Water Vapor, 1.00 atmospheres.
+
+(3)  Temperature  Range Norm and Tolerance:  0 to + 30 degrees  C 
+     mean; -10 to +40 degrees C daily.
+
+(4)  Electromagnetic Range(s) Tolerated:  0-30 lumens per  square 
+     centimeter; wavelengths greater than 300 Angstroms.
+
+(5)  Size Range:  4' to 4'3".
+ 
+
+(6)  Chemical Base:  Carbon
+
+(7)  Particle  Radiation  Tolerance:  Less than 0.03  rem  steady 
+     state (per week), less than 100 rem short term.
+
+(8)  Sensory Types, location, and sensitivities:
+
+(8A) Electromagnetic:
+
+     Coarse: 7,000-10,000 Angstroms; skin
+     Fine: 4,000-7,000 Angstroms -- color vision; eyes
+
+(8B) Pressure Differential:
+
+     Remote: 20-20,000 cycles; ears
+     Contact: skin, guard hairs
+
+                        (end of message string)
+ 
+              The Mahaoli, a new species for Other Suns
+                         (Part 6 of 5 ... well,
+                            can't win 'em all)
+
+(8C) Chemosensing:
+
+     Coarse: Depends on substance; skin, tongue
+     Fine:Nasal  cavity  (slightly more  sensitive  than  human), 
+     tongue
+
+(8D) Damage Detection:
+
+     Corrosion: skin.
+     Other: internal nervous system
+ 
+
+(8E) Texture Sensing:  skin
+
+(8F) Psi senses:  varies with the individual.
+
+(8G) Other:  No other senses
+
+(9)  Substances  absorbed:   Oxygen,  other  creatures,   fruits, 
+     water, miscellaneous trace elements.  Carnivorous.
+
+(10) Substances  Emitted:  Water, Carbon  Dioxide,  miscellaneous 
+     solid, liquid, and gaseous organic compounds.
+
+(11) Reproductive  Methods:  Typical mammalian; gestation  period 
+     273 days (single birth).
+
+(12) Body  shape  and Natural Weapons:   Tailed,  furred  bipedal 
+     otteroid; teeth, hands, feet, retractile claws on fingers.
+
+ 
+(13) Periodic  Functions:  22-25 hour wake/sleep  cycle  (diurnal 
+     species); 30 day female menstrual cycle.
+
+(14) Non-sensory Psi Functions:  Varies with individual
+
+And that's all, folks

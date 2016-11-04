@@ -1,0 +1,275 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/gptsFwEzv8Q
+TITLE: Other Suns # 3 
+
+----------------------------------------------------------------------------
+
+Tuesday, 25 September 1990 16:32:15 UTC+1 - John Redden:
+------------------ OS.3 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero.  This gaming material is
+distributed on a shareware basis.  If you do not use the material you
+owe the author nothing.  If you do use it please pay him what you
+think it is worth at a fair price becasue it took a damn lot of work
+to develop and playtest.  The USmail address is:
+
+Niall Shapero
+2536 Short Ave
+Los Angeles CA 90066
+USA
+
+Those of you with modems can dial into his BBS using this phone number:
+(213)822-6729
+
+Please email any comments to my electronic mailing address and I will
+pass them on to Niall.
+
+----------------  end of preamble -------------------------------------------
+
+
+What follows is  the data base description for the character records in
+my computer character generator for OTHER SUNS.  This is only a prelim-
+inary description; modifications will  undoubtedly be made  between now
+and completion  of the programming project.  Information will be stored
+for each character in a separate file.
+
+/*********************************************************************/
+/* Data structure for character records                              */
+/*                                                                   */
+/* Species Designator   --   unsigned integer, the first numbers are */
+/*                           to be used for the standard second edi- */
+/*                           tion species.  Add 32k to the number to */
+/*                           give the species number for a 'custom'  */
+/*                           species created by the user.            */
+/*                                                                   */
+/* Species Checksum     --   unsigned integer.  This is the checksum */
+/*                           value for the custom species (if used). */
+/*                           (The custom species data file is check- */
+ 
+/*                           summed so as to prevent mis-matches of  */
+/*                           character structure and custom species  */
+/*                           data structures).                       */
+/*                                                                   */
+/* Psych Profile        --   array[12] of Psych_item.                */
+/*                                                                   */
+/*                           The low and high stats for each array   */
+/*                           entry are as follows:                   */
+/*                                                                   */
+/*                           Index   Low             High            */
+/*                           ===== ==========     ===========        */
+/*                            [0]  Cautious   <-> Reckless           */
+/*                            [1]  Courageous <-> Cowardly           */
+/*                            [2]  Forgiving  <-> Vengeful           */
+/*                            [3]  Generous   <-> Miserly            */
+/*                            [4]  Hedonistic <-> Stoic              */
+/*                            [5]  Honorable  <-> Treacherous        */
+/*                            [6]  Humble     <-> Proud              */
+/*                            [7]  Merciful   <-> Cruel              */
+ 
+/*                            [8]  Optimistic <-> Pessimistic        */
+/*                            [9]  Peacable   <-> Combative          */
+/*                           [10]  Trusting   <-> Suspicious         */
+/*                           [11]  Xenophilic <-> Xenophobic         */
+/*                                                                   */
+/* Psych_item           --   structure description follows:          */
+/*                                                                   */
+/*    Psych low stat    --   byte.  Percentage for "low" stat.       */
+/*                                                                   */
+/*    Psych low favored --   unsigned int. Count of actions taken by */
+/*                           the character using the "low" action    */
+/*                           that resulted in favorable resolutions. */
+/*                                                                   */
+/*    Psych hi stat     --   byte.  Percentage for "high" stat.      */
+/*                                                                   */
+/*    Psych hi favored  --   unsigned int. Count of actions taken by */
+/*                           the character using the "high" action   */
+/*                           that resulted in favorable resolutions. */
+/*********************************************************************/
+ 
+
+
+              Character data record description (part 2)
+
+/*********************************************************************/
+/* Strength             --   byte.  The characteristic value for the */
+/*                           character.                              */
+/*                                                                   */
+/* Intelligence         --   byte.  The characteristic value for the */
+/*                           character.                              */
+/*                                                                   */
+/* Will                 --   byte.  The characteristic value for the */
+/*                           character.                              */
+/*                                                                   */
+/* Activated_Will       --   byte.  Non-zero if the character's WILL */
+/*                           has been activated, zero if it has not. */
+/*                                                                   */
+/* Constitution         --   byte.  The characteristic value for the */
+/*                           character.                              */
+/*                                                                   */
+ 
+/* Endurance            --   unsigned integer.  The characteristic   */
+/*                           value for the character.                */
+/*                                                                   */
+/* Dexterity            --   byte.  The characteristic value for the */
+/*                           character.                              */
+/*                                                                   */
+/* Charisma             --   byte.  The characteristic value for the */
+/*                           character.                              */
+/*                                                                   */
+/* Length               --   unsigned integer.  The characteristic   */
+/*                           value for the character                 */
+/*                                                                   */
+/* Build                --   byte.  The characteristic value for the */
+/*                           character.                              */
+/*                                                                   */
+/* Build Adjustment     --   integer. Any adjustment over the course */
+/*                           of the character's career to the BUILD  */
+/*                           characteristic.                         */
+/*                                                                   */
+ 
+/* TSC                  --   integer.  The characteristic value for  */
+/*                           the character.                          */
+/*                                                                   */
+/* TPR                  --   integer.  The characteristic value for  */
+/*                           the character.                          */
+/*********************************************************************/
+
+              Character data record description (part 3)
+
+/*********************************************************************/
+/* Gender Designator    --   byte.  Indicator of what sex the char-  */
+/*                           acter is.                               */
+/*                                                                   */
+/*                           0 -> Male                               */
+/*                           1 -> Female                             */
+/*                           2 -> Neuter                             */
+/*                           3 -> "Other"                            */
+/*                                                                   */
+/* Learned Dodge        --   unsigned integer. The adjustment to the */
+/*                           dodge bonus resulting from learning in  */
+/*                           the field over the course of the char-  */
+/*                           acter's career.                         */
+/*                                                                   */
+/* Military Designator  --   byte.  Indicates what military organi-  */
+/*                           zation (if any) the character owes his  */
+ 
+/*                           allegience to.                          */
+/*                                                                   */
+/*                           0 -> no military allegience.            */
+/*                           1 -> Support Arm                        */
+/*                           2 -> Ground Arm                         */
+/*                           3 -> Air Arm                            */
+/*                           4 -> Star Arm                           */
+/*                           5 -> Paratemporal Arm                   */
+/*                                                                   */
+/*                             +8 for Imperial forces                */
+/*                            +16 for Corporate Independent forces   */
+/*                            +32 for Regional Subgovernment forces  */
+/*                            +64 for 'Puppet' forces                */
+/*                           +128 for true Independent forces        */
+/*                                                                   */
+/*                           Designator 5 (Paratemporal Arm) is only */
+/*                           allowed for direct Hegemonic/Imperial   */
+/*                           forces (so a designator of 5 or 13 is   */
+/*                           allowed, but NOT one of 21, 37, 69 or   */
+ 
+/*                           133).                                   */
+/*                                                                   */
+/* Command Designator   --   byte.  Indicates the level or command   */
+/*                           chain for the character.                */
+/*                           0 -> regular line officer               */
+/*                           1 -> engineering/sciences               */
+/*                           2 -> medical                            */
+/*                           3 -> headquarters & special staff       */
+/*                                                                   */
+/*                             +8 for Executive Officer of a ship    */
+/*                            +16 for Commander of a ship            */
+/*                            +32 for a squadron flag officer        */
+/*                           unused if character is not military (a  */
+/*                           "don't care" byte in this case).        */
+/*********************************************************************/
+
+
+              Character data record description (part 4)
+
+/*********************************************************************/
+/* Rank                 --   unsigned integer.  Rank (if military)   */
+/*                           of the character.  Unused if not mili-  */
+/*                           tary (a "don't care" 16 bits in this    */
+/*                           case).                                  */
+/*                                                                   */
+/* Current funds        --   14 BCD digits in Motorola order (high   */
+/*                           digits first).                          */
+/*                                                                   */
+/* Creation Day         --   byte.  Day of the month (game-time)     */
+/*                           that the character was created.         */
+/*                                                                   */
+/* Creation Month       --   byte.  Month of the year (1-12), game-  */
+/*                           time, that the character was created.   */
+/*                                                                   */
+/* Creation Year        --   unsigned integer. Full year (game-time) */
+ 
+/*                                                                   */
+/* Age at Creation      --   unsigned integer. Character's age, in   */
+/*                           days, on the creation date.             */
+/*                                                                   */
+/* Next use Day         --   byte.  Day of the month (game-time)     */
+/*                           that the character will next be avail-  */
+/*                           able for use.                           */
+/*                                                                   */
+/* Next use Month       --   byte.  Month of the year (1-12) game-   */
+/*                           time that the character will next be    */
+/*                           available for use.                      */
+/*                                                                   */
+/* Specialty            --   array[40] of char.  Character's general */
+/*                           field of specialization (e.g. Engineer) */
+/*                                                                   */
+/* Primary Subfield     --   array[40] of char.  Character's primary */
+/*                           skill specialization (e.g. Contragrav   */
+/*                           Engineer).                              */
+/*                                                                   */
+ 
+/* Name                 --   array[80] of char.  Character name.     */
+/*                                                                   */
+/* Skill001             --   skill_vals.  First skill for the        */
+/*                           character that has a non-zero value.    */
+/*                                                                   */
+/* Skill002             --   skill_vals.  Second skill for the       */
+/*                           character that has a non-zero value.    */
+/* : : :                                 : : :                       */
+/* SkillN               --   skill_vals.  Nth skill for the          */
+/*                           character that has a non-zero value.    */
+/*********************************************************************/
+
+
+              Character data record description (part 5)
+
+/*********************************************************************/
+/* skill_vals           --   structure description follows:          */
+/*                                                                   */
+/*    skill_name        --   array[30] of char.  Skill name.         */
+/*                                                                   */
+/*    skill_type        --   byte.  Designator for skill base type   */
+/*                                                                   */
+/*                            0 -> ACC, accuracy skill               */
+/*                            1 -> ATT, attack skill                 */
+/*                            2 -> DOD, dodge skill                  */
+/*                            3 -> KNO, knowledge skill              */
+/*                            4 -> MAN, manipulation skill           */
+/*                            5 -> OBS, observation skill            */
+/*                            6 -> PAR, parry skill                  */
+/*                            7 -> PER, persuasion skill             */
+/*                            8 -> SPE, special skill (no bonuses)   */
+ 
+/*                            9 -> STE, stealth skill                */
+/*                           10 -> WIL, psionic talent based on WILL */
+/*                                                                   */
+/*    skill_base        --   Percentage base skill level with skill. */
+/*                                                                   */
+/*    skill_level       --   current skill level with skill          */
+/*                                                                   */
+/*    skill_tics        --   Number of skill ticks for next improve- */
+/*                           ment roll in this skill.                */
+/*********************************************************************/
+
+                            (End of messages)

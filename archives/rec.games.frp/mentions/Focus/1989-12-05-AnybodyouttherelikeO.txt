@@ -1,0 +1,126 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/rfScsfwoqK8
+TITLE: Anybody out there like Other Suns? 
+
+----------------------------------------------------------------------------
+
+Tuesday, 5 December 1989 18:13:29 UTC - Steven Stadnicki,9B23 Woodstock,2680000,5186432664:
+The question says it all... is anyone out there familiar with the SF/morphic
+RPG, Other Suns?  I've heard a few good things about it, and I know the author
+is coming out with a revised version soon; does anyone out there have any
+comments on the game?  (Oh, and I sort of know the author (via BBS), so if you
+have any suggestions for improvements, feel free to give them to me, and I'll
+pass them on...
+                                Steven Stadnicki
+                                stad...@clutx.clarkson.edu <>
+                                can't think of anything funny
+                                right now...
+----------------------------------------------------------------------------
+
+Tuesday, 5 December 1989 21:16:59 UTC - Sean Malloy:
+In article <1989Dec5.1...@sun.soe.clarkson.edu <>> stad...@clutx.clarkson.edu <> writes:
+>The question says it all... is anyone out there familiar with the SF/morphic
+>RPG, Other Suns?  I've heard a few good things about it, and I know the author
+>is coming out with a revised version soon; does anyone out there have any
+>comments on the game?  (Oh, and I sort of know the author (via BBS), so if you
+>have any suggestions for improvements, feel free to give them to me, and I'll
+>pass them on...
+The _author_ is quite literally putting out a revised version --
+since FGU anulled Nicolai's (his name's really Niall, but I've never
+heard anyone but Kay call him that) contract by allowing the game to
+go out of print, all rights reverted to him, and he's putting the new
+version out himself. Last time I talked to him, he was going to be
+offering a set of rules on disk, with a more expensive printed set
+available. This will let him provide revisions to the rules easier, as
+well as giving him more control about what the game looks like (for
+example, I saw the sample ship illos for the Alderson Yards Shipbook,
+and they make what FGU eventually published look like trash).
+
+I've seen some of the changes that he's making, and he appears to be
+simplifying the mechanics a bit -- certainly the character creation
+has streamlined somewhat. A lot of the changes appear to be in the way
+the rules are laid out -- when it got collected and edited for
+publication by FGU, some sections wound up in inconvenient locations.
+
+Like most RPGs, the enjoyment the players will get depends heavily on
+the gamesmaster -- the scenarios I played in that Nicolai ran were a
+lot of fun, varying from the strange to the totally bizarre. Next time
+you call the BBS, see if Kay has her writeup of the "We're all Bozos
+on This Bus" scenario online -- a ship crewed entirely by H'reli . . .
+except for the Bjoran captain. Nicolai's publishing the game himself
+will also allow him to include all the background material on the
+Hegemony that had to be cut from the FGU edition -- and the amount of
+background information you have makes a _big_ difference in how well
+you can build the universe the characters play in. There's a _lot_ of
+stuff that never made it into the FGU rules set.
+
+
+ Sean Malloy                                   | "The Crystal Wind is the
+ Navy Personnel Research & Development Center  | Storm, and the Storm is Data,
+ San Diego, CA 92152-6800                      | and the Data is Life."
+ mal...@nprdc.navy.mil <>                         | -- _Emerald Eyes_, D.K. Moran
+----------------------------------------------------------------------------
+
+Wednesday, 6 December 1989 19:09:15 UTC - Sylvia Sky:
+  Other Suns? That ,in my opinion, happens to one of best (if not forgotten
+ by most).
+ Three suggestions for the new edition :
+ 1. more data on the L'Doran Hegemony. Give it an entire book.
+ 
+ 2.A few star maps would help.Remember to keep the ships just as fast
+   if not faster.
+
+ 3.Get better publicity this time, it was a great game but the only
+   reason I ever got it was because I was bored,had some cash, and
+   there was a copy sitting on the bottom self in the back of the
+   store (little did I know then how much I'd like it).
+
+ Also ask the author if he's willing to take submissions (for
+ supplements or whatever).
+ 
+                                -NYMPH
+                        "I'll fly through the alien ship's
+                         antimatter drive."
+                         -( Madame Cosmos, a super hero char. of mine)
+----------------------------------------------------------------------------
+
+Wednesday, 6 December 1989 20:22:57 UTC - Aryeh Friedman:
+In article <1989Dec5.1...@sun.soe.clarkson.edu <>> stad...@clutx.clarkson.edu <> writes:
+>The question says it all... is anyone out there familiar with the SF/morphic
+>RPG, Other Suns?  I've heard a few good things about it, and I know the author
+>is coming out with a revised version soon; does anyone out there have any
+>comments on the game?  (Oh, and I sort of know the author (via BBS), so if you
+>have any suggestions for improvements, feel free to give them to me, and I'll
+>pass them on...
+        Two addtions to OtherSuns that should be made simplifed character
+creation (i.e. don't need computer to do it) and a place to draw characters
+with the possiblity of blank poses on the character sheet.  Also starship
+creation should be simplifed.  Also a source book this means at least 40
+pages perferably 1000 pages if not more. 
+
+        
+        Beyond that is almost the best if not the best SF game out there in
+my mind (the only one I run upto now I tring a couple of others but will
+probley come back to it).
+-- 
+Aryeh Friedman (tsource)                Email:  tsource@wet.UUCP
+                                        or ar...@cash.ucsc.edu <> 
+"Weirdness is my business."
+----------------------------------------------------------------------------
+
+Saturday, 9 December 1989 04:52:20 UTC - Sean Malloy:
+Niall Shapero runs the StormGate Aerie BBS, (213)822-6729. I believe
+he's got a Courier HST modem, so he'll take up to 9600 baud
+connections. The BBS is part of FidoNet, but I'm not sure what his
+node number is; a number of other FidoNet nodes get the Other Suns
+feed from his machine.
+If you have suggestions about what you want to see in the new release
+of the game, or have ideas for a supplement you want to do, call the
+BBS and leave a message to him about it; he'll almost certainly
+respond within a day or two.
+
+
+ Sean Malloy                                   | ". . . They always have an air
+ Navy Personnel Research & Development Center  | of cheap melodrama about them."
+ San Diego, CA 92152-6800                      | "You will find, my dear, that
+ mal...@nprdc.navy.mil <>                         | _true_ melodrama _never_ comes
+                                               | cheap."

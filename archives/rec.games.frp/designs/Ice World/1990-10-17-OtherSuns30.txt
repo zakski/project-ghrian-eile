@@ -1,0 +1,225 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/-qTlZq8Pq_0
+TITLE: Other Suns : 30 
+
+----------------------------------------------------------------------------
+
+Wednesday, 17 October 1990 16:14:43 UTC+1 - John Redden:
+------------------ OS.30 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero.  This gaming material is
+distributed on a shareware basis.  If you do not use the material you
+owe the author nothing.  If you do use it please pay him what you
+think it is worth at a fair price becasue it took a damn lot of work
+to develop and playtest.  The USmail address is:
+
+Niall Shapero
+2536 Short Ave
+Los Angeles CA 90066
+USA
+
+Those of you with modems can dial into his BBS using this phone number:
+(213)822-6729
+
+Please email any comments to my electronic mailing address and I will
+pass them on to Niall.
+
+----------------  end of preamble -------------------------------------------
+iceberg which has just broken loose.
+
+Characteristics of the iceberg are determined immediately.  There
+is  a 60% chance that the iceberg is of the  familiar,  pinnacled
+type;  otherwise it has a fairly flat an low surface. The  latter
+are  to be preferred, as pinnacled icebergs,  constantly  melting
+from below, tend to be unstable.
+
+On  each  occurrence of an iceberg result when  a  group  already
+occupies  a iceberg, roll 1D100 apply the following results:  (1)
+for 01-15 = collision with land, (2) for pinnacled icebergs,  91-
+100 = iceberg shifts; for flat icebergs, 98-100 = iceberg shifts,
+(3) all other rolls result in no change of status.
+
+If the "collision with land" result occurs (and is not impossible
+given  the rough position of the iceberg) the stranded group  may
+escape; normally escape requires assistance of some type, or  the
+ability  to swim or fly over whatever gap has separated the  ice-
+berg  from the land. If the iceberg is about to shift, an  Arctic
+Survival skill or an Awareness talent roll will allow the  adven-
+turers  sufficient advance warning to prepare so that  they  will
+not be unceremoniously tossed into the water. If neither of these
+rolls are made by any member of the group, a LUC as a  percentage
+roll,  or a Jumping roll is required of each adventurer in  order
+to  avoid a quick swim; however, ground vehicles cannot be  saved
+if  neither the Arctic Survival nor the Awareness rolls are  made
+(though if properly equipped, they may still float).
+
+Bog:  During summer in tundra, glacial streams from melting  snow
+can water-saturate large patches of land, and characters entering
+such  areas may become enmired. If ANY of the following skill  or
+characteristic rolls can be made, the bog will be detected before
+it can become a threat: Arctic Survival, Awareness, Spot  Hidden,
+Spot Trap, Arctic Travel, or INT x 5.
+
+A bog is not impossible to escape even if a character has  become
+enmired;  however, characters can sink and drown if they  do  not
+maintain control. At the start sinking, a character trapped in  a
+bog must roll WIL x 8 or less on 1D100 (or make a Control of Self
+skill  roll)  to avoid panicking. If he panics, a  character  may
+take no action until he comes to his senses (he may attempt  both
+a  roll of WIL x 5 or less on 1D100 and a Control of  Self  skill
+roll  each melee round until he recovers or sinks from  view  and
+drowns).
+
+If an adventurer does not notice a bog, and neither do his fellow
+adventurers  (or, at least, they don't warn him), it  is  assumed
+that he begins with all feet enmired in the bog. Hit numbers  for
+feet  are as follows (those for Dakti are self-evident  from  the
+charts):  Tailed  bipeds -- 15, 19, Tailless bipeds  --  16,  20,
+Tailed quadrupeds -- 6, 9, 16, 19, tailed centauroids -- 10,  12,
+17, 19.
+
+If  an adventurer does not panic, he may attempt to move  out  of
+the  bog. If the STR+DEX of the character overcomes  his  SIZ+the
+number  of hit numbers enmired (see Chapter 6 of Other  Suns  for
+resistance  rolls  and their resolution) then he may  reduce  the
+number  of  hit numbers enmired by 1. If the resistance  roll  is
+failed by more than 25 on the 1D100 roll OR IF THE UNAIDED  CHAR-
+ACTER  IS  PANICKING, the number of hit numbers  enmired  is  in-
+creased  by 1 (extended logically from the already enmired  loca-
+tions).  Once all 20 hit numbers are enmired, the character  will
+begin to drown.
+
+After the first round, other characters may endeavor to assist in
+removing the adventurer enmired. If the trapped adventurer is not
+panicking,  and  his  associates can reach him  (either  using  a
+thrown  line  or by reaching out and grabbing him) they  may  add
+their  STR  and DEX values to his in attempting to  overcome  his
+SIZ+number of hit numbers enmired. Only if the resistance is  not
+overcome  as a result of a FUMBLE does an additional  hit  number
+become enmired. HOWEVER, if the trapped adventurer is  panicking,
+those  of his associates that can grab hold of him must  overcome
+his  STR+DEX+SIZ+number of hit numbers enmired in order  to  free
+one hit number from the bog.
+
+If  a  vehicle becomes enmired, it is assumed  that  all  driving
+wheels/tracks  etc., have gotten onto the bog area. If no  action
+is  taken, the vehicle will sink to the bottom of the bog.  Given
+sufficient  skill on the part of the driver, any of  the  powered
+vehicles will have enough raw power to get clear of the bog.
+
+A  vehicle starts in a bog as if 2 hit numbers were enmired;  for
+each hit number enmired, deduct 10% from the appropriate  vehicu-
+lar skill. A successful skill roll reduces the equivalent  number
+of  hit numbers enmired by 1, a failed skill roll  increases  the
+number  by 1, a critical roll decreases the number by 1D4  and  a
+fumble  increases the number by 1D4. When 0 hit numbers  are  en-
+mired, the vehicle is free from the bog; when 20 hit numbers  are
+enmired,  the vehicle is lost to the bog. NOTE: the  driver  must
+avoid panicking, or he will fail to act correctly and 1 addition-
+al hit number will be enmired each melee round.
+
+
+                    ICE WORLD I (PART 28 OF 28)
+
+EXPLANATION OF RESULTS
+
+Detour:  The character is delayed 1D6 turns; no forward  progress
+is made during this interval, the time being spent finding a  way
+around the drifts.
+
+Move  Penalty:  The character's movement is halved for  the  next
+hour. This represents the problems of going through or around the
+series  of drifts. END expenditure is increased by one class  for
+this  hour of travel (Light Activity becomes  Moderate,  Moderate
+becomes  Heavy, Heavy becomes Very Heavy, Very Heavy remains  the
+same).
+
+Fall: The character must make a skill roll (either Arctic  Travel
+or the skill roll for the appropriate mode of travel) or fall 1D6
+meters;  Jumping and LUC rolls may be attempted to reduce  damage
+if the fall occurs.
+
+END  Penalty: The character is exerting additional effort  (typi-
+cally  needlessly so) in order to fight through the  drifts.  END
+expenditure is increased by one class for one hour of travel  (as
+described above under Move Penalty).
+
+Crevasse: Crevasses are deep cracks in shelf or pack ice,  diffi-
+cult  to  cross and time-consuming to avoid. When a  crevasse  is
+encountered, roll 1D4 to determine the number of roughly parallel
+crevasses encountered. It is assumed that a crevasse roll on  the
+encounter tables means that the crevasse lies across the  desired
+line of travel of the adventurers.
+
+A  detour may be attempted around the crevasses -- determine  the
+length  of  the detour required as per  pressure  ridges  earlier
+(except that instead of rolling 6D6 roll 4D6+10 for the number of
+kilometers that the crevasse runs in each direction). As was  the
+case  for  pressure ridges, an Arctic Survival  skill  roll  made
+allows the characters to know which direction provides the short-
+er  detour;  a clean action allows them to know  the  approximate
+length of the detour.
+
+There is a 40% chance of a bridge of snow or ice being present on
+EACH crevasse (roll separately) that may allow passage across the
+crevasse.  Roll using the Thin Ice table to determine the  thick-
+ness (and load limit) on this ice/snow bridge. An Arctic  Travel,
+Arctic  Survival, or Awareness skill rolls will provide  informa-
+tion regarding the thickness of the bridge.
+
+If the crossing is attempted, and the bridge breaks, everyone  on
+the  bridge  who  does not manage to jump  to  safety  will  fall
+2D100+20  meters.  The normal falling rules will  then  apply  to
+determine  damage (see Section 14.2.2 Falling in Other  Suns  for
+details).
+
+Crevasse  with Cornice: As with crevasse, but with an  additional
+hazard,  that of cornices (shelves) of solid-seeming  snow  over-
+hanging  the  edge  of the crevasse. Use the Thin  Ice  Table  to
+determine  the  thickness  of  each  crevasses  cornices  with  a
+1D100+25 roll instead of a 1D100 roll (treat results of over  100
+as 100). Any bridges across a corniced crevasse can be no thicker
+than the cornice.
+
+An  Arctic  Travel, Awareness, Arctic Survival,  or  Spot  Hidden
+skill  roll  will  detect the presence of  the  cornices;  Arctic
+Travel,  Arctic  Survival,  or Awareness skill  rolls  will  then
+provide information regarding the thickness of the cornice.
+
+Animal  Encounter: An animal encounter result indicates  that  an
+animal  has  been spotted. The Referee should  choose  an  animal
+already created for the world in question (either picking one, or
+consulting a previously created table of likely animals).
+
+If the result is rolled for a trap, and the animal does not  make
+a  Spot Trap or LUC as a percentage roll, it is trapped  (as  de-
+scribed  earlier  in the section on Hunting). In  any  other  in-
+stance,  the animal may merely be sighted -- roll 1D10  (with  no
+modifiers  to the roll) and consult the Sighting range table.  If
+the animal encountered is outside of visual range, the result  is
+interpreted as being an opportunity to sight tracks of the animal
+at the limit of of visual range.
+
+It  is up to the Referee to establish the likely behavior of  the
+animal. It may not notice the adventurers; if it does it may stay
+still, flee, attack, or otherwise act in an appropriate  fashion,
+depending  upon  its habits, dietary  preferences,  intelligence,
+instincts,  and  other behavior patterns. The  resolution  of  an
+encounter  is thus wholly dependent upon the Referee's  decisions
+and upon the responses of the party.
+
+In fairness to the players, however, the Referee should  remember
+that  there are few wild animals on any settled world  that  will
+still attack a party of Humans, Altani, or other sophonts. Either
+such  sophonts have become common sights, and thus  their  danger
+thoroughly  driven into the thick skulls of the local life  forms
+or  they  are still uncommon sights in the wild. In  this  latter
+case, they will represent a totally unknown quantity to the local
+predators,  who w.  It is often best to tailor specific tables for  specific
+worlds, adding new results, and changing proportions of others to
+suit  different conditions, and otherwise adapting the  resources
+of  the game to give the greatest variety an flexibility  to  the
+play of Other Suns in the planetary environment.
+
+                        (End of ICE WORLD I)
+ 

@@ -1,0 +1,68 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/-qEfeZMQLDw
+TITLE: Msg 10 of 13: Other Suns/Chapter 2 
+
+----------------------------------------------------------------------------
+
+Saturday, 5 January 1991 19:49:47 UTC - Nicolai Shapero:
+      OTHER SUNS -- COPYRIGHT 1982, 1991 by N. C. Shapero
+           Chapter 2:  Characteristics  (Part 10 of 13)
+If  a  character has no natural Dodge, it cannot be  improved  by 
+this method until, through increase in DEX and/or WIL, the  char-
+acter acquires a Dodge ability.
+
+     Positive Primary Modifiers:   INT, DEX
+     Positive Secondary Modifiers: WIL
+     Positive Tertiary Modifiers:  (none)
+     Negative Tertiary Modifiers:  (none)
+     Negative Secondary Modifiers: BLD
+     Negative Primary Modifiers:   (none)
+     Finagle Factor:               -42
+
+*****************************************************************
+Mikhail has a dodge bonus of +28%, computed as follows:
+          2 x INT   =  34
+          2 x DEX   =  36
+          1 x WIL   =  +9
+          ===============
+          Subtotal  = +79
+         -1 x BLD   =   9
+          Finagle   = -42
+          ===============
+          Total     =  28
+*****************************************************************
+
+KNOWLEDGE (KNO)
+
+Knowledge  includes all formal "book" learning.  Thus all of  the 
+scientific  fields will be included in this category, as well  as 
+such skills as speaking, reading and writing languages.
+
+     Positive Primary Modifiers:   INT
+     Positive Secondary Modifiers: WIL
+     Positive Tertiary Modifiers:  (none)
+     Negative Tertiary Modifiers:  (none)
+     Negative Secondary Modifiers: (none)
+     Negative Primary Modifiers:   (none)
+     Finagle Factor:               -31
+
+*****************************************************************
+Mikhail has a knowledge bonus of +12%, computed as follows:
+          2 x INT   =  34
+          1 x WIL   =   9
+          ===============
+          Subtotal  =  43
+          Finagle   = -31
+          ===============
+          Total     =  12
+*****************************************************************
+
+                  (Continued in next message)
+
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------

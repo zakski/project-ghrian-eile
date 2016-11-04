@@ -1,0 +1,80 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/FoaT6kflzYs
+TITLE: Msg 6 of 13: Other Suns/Chapter 2 
+
+----------------------------------------------------------------------------
+
+Saturday, 5 January 1991 19:48:27 UTC - Nicolai Shapero:
+      OTHER SUNS -- COPYRIGHT 1982, 1991 by N. C. Shapero
+           Chapter 2:  Characteristics  (Part 6 of 13)
+Hit Points By Location
+
+In  addition to total hit points and endurance, a character  also 
+has  hit  points and endurance points for each  major  body  part 
+(each  "hit  location").   The hit locations for  Humans  are  as 
+follows: 
+
+Specific Location        Hit and END as Fraction of Total
+
+Head                     0.25 (round fractions up)
+Right Arm                0.30 (round fractions up)
+Left Arm                 0.30 (round fractions up)
+Chest                    0.45 (round fractions up)
+Abdomen                  0.40 (round fractions up)
+Right Leg                0.35 (round fractions up)
+Left Leg                 0.35 (round fractions up)
+
+*****************************************************************
+Mikhail has 15 hit points, so his hit points by hit location  are 
+as follows:
+
+     Head           0.25 x 15 = 3.75, rounds up to 4 hit points
+     Right Arm      0.30 x 15 = 4.50, rounds up to 5 hit points
+     Left Arm       0.30 x 15 = 4.50, rounds up to 5 hit points
+     Chest          0.45 x 15 = 6.75, rounds up to 7 hit points
+     Abdomen        0.40 x 15 = 6 hit points exactly
+     Right Leg      0.35 x 15 = 5.25, rounds up to 6 hit points
+     Left Leg       0.35 x 15 = 5.25, rounds up to 6 hit points
+
+His END is 22, so his END points by location are as follows:
+
+     Head           0.25 x 22 = 5.50, rounds up to  6 END points
+     Right Arm      0.30 x 22 = 6.60, rounds up to  7 END points
+     Left Arm       0.30 x 22 = 6.60, rounds up to  7 END points
+     Chest          0.45 x 22 = 9.90, rounds up to 10 END points
+     Abdomen        0.40 x 22 = 8.80, rounds up to  9 END points
+     Right Leg      0.35 x 22 = 7.70, rounds up to  8 END points
+     Left Leg       0.35 x 22 = 7.70, rounds up to  8 END points
+*****************************************************************
+
+DAMAGE (DAM):  Damage represents the ability to combine  strength 
+and mass to do more damage to an opponent than is ordinarily done 
+by a hand to hand or natural weapon.
+
+         STR+SIZ        ADDED DAMAGE     ADDED DAMAGE
+                      (melee weapons)  (thrown weapons)
+
+          01-15            -1D4             -1D4
+          16-31              0                0
+          32-41            +1D4             +1D2
+          42-50            +1D6             +1D3
+          51-58            +1D8             +1D4
+          59-66            +2D6             +2D3
+
+          Each further +8  +1D6             +1D3
+
+*****************************************************************
+     Mikhail  has a SIZ of 20, and a STR of 12, for total of  32.  
+Thus, consulting the table, we see that he has a damage bonus  of 
++1D4.
+*****************************************************************
+
+                  (Continued in next message)
+
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------

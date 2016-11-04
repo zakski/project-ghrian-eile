@@ -1,0 +1,81 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/o5ya4ZrPgkI
+TITLE: Msg 9 of 13: Other Suns/Chapter 2 
+
+----------------------------------------------------------------------------
+
+Saturday, 5 January 1991 19:49:26 UTC - Nicolai Shapero:
+      OTHER SUNS -- COPYRIGHT 1982, 1991 by N. C. Shapero
+           Chapter 2:  Characteristics  (Part 9 of 13)
+DODGE (DOD)
+
+The Dodge is adventurer's ability to avoid being where an  attack 
+is directed.  The dodge ability, unlike the Martial Arts  Evasion 
+skill (described in detail in CHAPTER 5, SPECIALTIES AND SKILLS), 
+may  not be used to avoid attacks with most modern high  velocity 
+or  energy weapons (it may be applied against the taser  and  the 
+shoulder  fired  rocket,  both described  in  CHAPTER  9,  COMBAT 
+SKILLS).  In addition, it may not be applied against area  effect 
+weapons  (such as hand grenades -- also described in CHAPTER  9).  
+In  addition, if the adventurer is immobilized,  unconscious,  or 
+surprised, his dodge ability may not be employed.
+
+A  negative value for the natural dodge ability is treated  as  a 
+zero  dodge ability in combat (thus, it is no easier than  normal 
+for  the  attacker  to  hit a  creature  with  a  negative  dodge 
+ability).
+
+How the Dodge Works
+
+Applied versus a Single Opponent's Single Attack
+
+An  attacker must subtract the defender's Dodge ability from  his 
+attack,  PROVIDED that the defender could see the attack  coming.  
+If an opponent has a dodge ability of 14%, and the attacker has a 
+47%  chance of hitting with a broadsword, then the  attacker  has 
+only a 33% chance of hitting that opponent with his attack.
+
+Applied versus Multiple Opponents
+
+When facing several foes or multiple attacks from a single  oppo-
+nent  in one melee round, a character may apply all of his  Dodge 
+ability against against one attack, hoping the all other  attacks 
+will  miss, divide his Dodge among the attacks of all  the  oppo-
+nents, or dodge some, but not all of his foes' attacks.
+
+Thus, a character with a 40% Dodge against four attackers each of 
+whom  is attacking once in the melee round may apply all  of  his 
+Dodge  against one, or put whatever Dodge he wishes against  each 
+foe,  so long as the total Dodge applied against all  attacks  in 
+that melee round totals no more than 40%.
+
+How Dodge is Increased
+
+As  a character's DEX or WILL increases, his Dodge  ability  will 
+also  increase.  And each time that his Dodge saves him  from  an 
+attack  (i.e. the use of the Dodge ability resulted in an  attack 
+failing  where it would otherwise have succeeded) the  adventurer 
+has  a  chance  of increasing his Dodge ability  by  1D10%.   The 
+player  must  roll the INT of the character or less on  1D100  in 
+order  for the Dodge ability to increase through use.  This  roll 
+may be attempted once for each successful use of the Dodge abili-
+ty  during the course of an expedition, though the Dodge  ability 
+may only be increased once per expedition.  (Thus if Mikhail  An-
+dreivitch  used the Dodge ability three times in  an  expedition, 
+the player running this character would have three  opportunities 
+to roll 17 or less on 1D100.  And even if two of those rolls were 
+made, the Dodge ability would only improve once for this  expedi-
+tion, by 1D10 percentile points).
+
+NOTE:   This  rule is in total contrast to the  usual  experience 
+increasing rules shown elsewhere.
+
+                  (Continued in next message)
+
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------

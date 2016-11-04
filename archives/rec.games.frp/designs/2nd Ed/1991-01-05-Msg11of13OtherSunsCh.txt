@@ -1,0 +1,72 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/cJKimLZWYlE
+TITLE: Msg 11 of 13: Other Suns/Chapter 2 
+
+----------------------------------------------------------------------------
+
+Saturday, 5 January 1991 19:50:05 UTC - Nicolai Shapero:
+      OTHER SUNS -- COPYRIGHT 1982, 1991 by N. C. Shapero
+           Chapter 2:  Characteristics  (Part 11 of 13)
+MANIPULATION (MAN)
+
+This  is the ability to work with small and intricate  things  as 
+well  as  the  ability to control large  (and  perhaps  unwieldy) 
+objects or vehicles.
+
+     Positive Primary Modifiers:   INT, WIL
+     Positive Secondary Modifiers: STR, DEX
+     Positive Tertiary Modifiers:  DEX
+     Negative Tertiary Modifiers:  (none)
+     Negative Secondary Modifiers: (none)
+     Negative Primary Modifiers:   (none)
+     Finagle Factor:               -68
+
+*****************************************************************
+Mikhail has a manipulation bonus of +23%, computed as follows:
+          2 x INT   =  34
+          2 x WIL   =  18
+          1 x DEX   =  18
+          1 x STR   =  12
+          1/2xDEX   =   9
+          ===============
+          Subtotal  = +91
+          Finagle   = -68
+          ===============
+          Total     =  23
+*****************************************************************
+
+OBSERVATION (OBS)
+
+Observational abilities allow the individual to detect and  prop-
+erly interpret subliminal sensory clues and to jump directly from 
+the  uncertain observation to the foregone conclusion, and to  do 
+so without error.
+
+     Positive Primary Modifiers:   INT, WIL
+     Positive Secondary Modifiers: (none)
+     Positive Tertiary Modifiers:  (none)
+     Negative Tertiary Modifiers:  (none)
+     Negative Secondary Modifiers: (none)
+     Negative Primary Modifiers:   (none)
+     Finagle Factor:               -42
+
+*****************************************************************
+Mikhail has an observation bonus of +10%, computed as follows:
+          2 x INT   =  34
+          2 x WIL   =  18
+          ===============
+          Subtotal  = +52
+          Finagle   = -42
+          ===============
+          Total     =  10
+*****************************************************************
+
+                  (Continued in next message)
+
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------

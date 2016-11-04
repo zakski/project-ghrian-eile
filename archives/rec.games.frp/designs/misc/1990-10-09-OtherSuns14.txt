@@ -1,0 +1,108 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/ShSPedilwqU
+TITLE: Other Suns : 14 
+
+----------------------------------------------------------------------------
+
+Tuesday, 9 October 1990 16:20:37 UTC+1 - John Redden:
+------------------ OS.14 ----------------------------------------
+This is being posted to the net by myself for Niall Shapero.
+
+Others Suns is copyright by Niall Shapero.  This gaming material is
+distributed on a shareware basis.  If you do not use the material you
+owe the author nothing.  If you do use it please pay him what you
+think it is worth at a fair price becasue it took a damn lot of work
+to develop and playtest.  The USmail address is:
+
+Niall Shapero
+2536 Short Ave
+Los Angeles CA 90066
+USA
+
+Those of you with modems can dial into his BBS using this phone number:
+(213)822-6729
+
+Please email any comments to my electronic mailing address and I will
+pass them on to Niall.
+
+----------------  end of preamble -------------------------------------------
+
+                         Sleep Patterns
+
+     Sleep  is  a necessity for all the major races  of  the 
+Hegemony  though the sleep patterns of all the races  differ 
+somewhat from the Human norm.  For game purposes, there  are 
+7 stages of sleep deprivation, as follows:
+
+ Stage 1       No deleterious effects
+ Stage 2       END recovery rate drops to 1D6 per 30 minutes
+ Stage 3       END recovery rate drops to 1D6 per 60 minutes
+ Stage 4       No further END recovery from non-sleep rest
+ Stage 5       1 END expenditure per hour wakefulness
+ Stage 6       1D4 END expenditure per hour wakefulness
+ Stage 7       1D6 END expenditure per hour wakefulness
+
+     In  addition, there are time "zones" during  which  the 
+individual  (based  on  his CON and species) will  be  in  a 
+particular  sleep  deprivation  stage.   These  "zones"  are 
+defined as follows:
+
+                        Sleep Zones
+
+       Zone 0      0.0       Hours to 0.5 x CON Hours
+       Zone 1      0.5 x CON Hours to 1.0 x CON Hours
+       Zone 2      1.5 x CON Hours to 2.0 x CON Hours
+       Zone 3      2.0 x CON Hours to 2.5 x CON Hours
+       Zone 4      2.5 x CON Hours to 3.0 x CON Hours
+       Zone 5      3.0 x CON Hours to 3.5 x CON Hours
+       Zone 6      3.5 x CON Hours to 4.0 x CON Hours
+       Zone 7      4.0 x CON Hours to 4.5 x CON Hours
+       Zone 8      4.5 x CON Hours to 5.0 x CON Hours
+       Zone 9      5.0 x CON Hours and beyond        
+
+       Species Sleep Deprivation Stage vs. Sleep Zone
+
+                                 Sleep Zone
+
+            0    1    2    3    4    5    6    7    8     9
+           ---  ---  ---  ---  ---  ---  ---  ---  ---   ---
+Altani      1    2    3    4    6    7    7    7    7     7
+Ata'a       1    1    2    2    3    3    4    5    6     7
+Auuri       1    1    1    2    2    3    3    4    6     7
+Bjora       1    1    1    2    3    4    5    6    6     7
+H'Reli      1    2    3    4    5    6    6    7    7     7
+Human       1    1    2    3    4    5    6    7    7     7
+Korli       1    1    1    2    2    3    3    4    6     7
+L'Drey      1    2    3    4    6    7    7    7    7     7
+Sanchenzii  1    2    3    4    5    6    7    7    7     7
+Silithii    1    2    3    3    4    5    6    7    7     7
+Skiltaire   1    2    3    4    6    6    7    7    7     7
+Uquoi       1    1    2    3    4    5    6    7    7     7
+
+                          Recovery
+
+     The  cumulative "clock" of hours without sleep  is  set 
+back  at  a  specified rate for the  individual  based  upon 
+species, CON, and the amount of time spent sleeping.
+
+         Altani       CON/22 per  15 minutes sleep
+         Ata'a        CON/9  per  37 minutes sleep
+         Auuri        CON/5  per  66 minutes sleep
+         Bjora        CON/2  per 165 minutes sleep
+         H'Reli       CON/22 per  15 minutes sleep
+         Human        CON/2  per 165 minutes sleep
+         Korli        CON/5  per  66 minutes sleep
+         L'Drey       CON/22 per  15 minutes sleep
+         Sanchenzii   CON/22 per  15 minutes sleep
+         Silithii     CON/11 per  30 minutes sleep
+         Skiltaire    CON/33 per  10 minutes sleep
+         Uquoi        CON/2  per 165 minutes sleep
+
+     The  typical  individual, using the above  system  will 
+need roughly 8 hours sleep in 24, but the way he will get it 
+will  vary  depending upon his species.   While  the  Bjora, 
+Humans and Uquoi follow similar wake-sleep patterns (a long, 
+uninterrupted period of wakefulness followed by a long sleep 
+period),   the  Altani,  H'Reli,  L'Drey,   Sanchenzii   and 
+Skiltaire  follow  a more cat-like sleep cycle.   A  typical 
+Altani,  given  the  opportunity, will  "catnap"  for  15-30 
+minutes for every 30-60 minutes of full wakefulness.

@@ -1,0 +1,101 @@
+URL: https://groups.google.com/forum/#!topic/rec.games.frp/ounhEya7A5Y
+TITLE: 'Realism' - was RE: R 
+
+----------------------------------------------------------------------------
+
+Saturday, 18 May 1991 12:15:03 UTC+1 - Nicolai Shapero:
+On <May 07 15:06>, Robert Plamondon wrote in
+<1991May7.1...@jetsun.weitek.COM <>>
+ RP>The first thing they taught me in my Simulations class was, 
+ RP>"Don't
+ RP>trust the simulator."  Simulators are fragile beasts; they have 
+ RP>lots
+ RP>of limitations and built-in assumptions.  And that's GOOD 
+ RP>simulators;
+ RP>simulators that have had their output tested against many, many
+ RP>real-world problems.  You figure out what ballpark the answer is
+ RP>supposed to be in BEFORE running the simulation (using intuition 
+ RP>or
+ RP>back-of-the-envelope techniques), and if the answers differ, you
+ RP>investigate the reasons why before you proceed.  Simulation is a
+ RP>tricky business.
+
+ RP>Most game mechanics are TERRIBLE simulators.  They haven't been
+ RP>tested at all (first rule of design: if you haven't tested it,
+ RP>it's broken), and they have no particular standards to live up 
+ RP>to.
+
+Unfortunately, even if an attempt is made to test simulations, the real
+world data is frequently inadequate or too scattered to give any
+hope of a good simulation fit REGARDLESS of what the designer
+does.  I TRIED to get decent information on gunshot wounds and
+stopping power when I designed OTHER SUNS.  And found out, much
+to my dismay, that NO ONE agreed (more powder has been burned
+since on this subject than I care to think about).
+
+==========================================================
+======== Nicolai...@f524.n102.z1.fidonet.org <> ========
+==========================================================
+
+ 
+
+
+
+--  
+Nicolai Shapero
+Internet: Nicolai...@f524.n102.z1.fidonet.org <>
+Compuserve: >internet:Nic...@f524.n102.z1.fidonet.org <>
+--------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+Tuesday, 21 May 1991 23:51:02 UTC+1 - Robert Plamondon:
+In article <3272.2...@ofa123.fidonet.org <>> 
+Nicolai...@f524.n102.z1.fidonet.org <> (Nicolai Shapero) writes:
+>I TRIED to get decent information on gunshot wounds and
+>stopping power when I designed OTHER SUNS.  And found out, much
+>to my dismay, that NO ONE agreed (more powder has been burned
+>since on this subject than I care to think about).
+Discouraging, isn't it?  But, as the "longbow" and "fencing"
+discussions show, just because everybody has an opinion doesn't mean
+that they know what they're talking about.
+
+One of the things I look for in a game is adherence to basic
+principles: bigger guns do more damage than littler guns, for
+instance.  Skinny high-velocity slugs penetrate better than fat
+low-velocity slugs (even though the fat low-velocity slugs will rip
+you up more).  This is embodied in the Army's abandonment of .38
+pistols in favor of .45 ACP after finding the .38's ineffective in
+the Philippines at the turn of the century, and the eagerness of some
+of our allies to work out deals with American units so they could get
+rid of their 9 mm pistols in favor of .45's.  But the .45 is useless
+against any kind of bulletproof armor, while the 9 mm can sometimes
+get through.
+
+Most game systems can't handle this.  CYBERPUNK can't represent a .45
+as having more stopping power than 9 mm without also giving it
+greater armor penetration.  In a system where armor is so important,
+this is an awfully weak implementation (but typical of unmodified
+"armor absorbs damage" systems). The problem becomes comical when you
+consider soft-nose rifle ammunition (massive damage, minimum
+penetration) vs. fully jacketed ammunition (minimum damage, maximum
+penetration) for the same weapon.
+
+What model you use depends on what you think is important.  My last
+campaign was set in 1908, when there was no effective armor against
+firearms.  My mechanics ignored armor entirely.  No problem.
+
+If the interactions between weapons and armor are important to the
+campaign, you have to be more careful.  CYBERPUNK should have
+separated the concepts of "tissue damage" and "armor penetration."
+
+Perhaps the easiest way around the problem is to have secret (or at
+least unpublished) mechanics.  When it comes right down to it, it's
+hard to guess the underlying details of the mechanics from even a
+large number of combats.  If the players can't see the mechanics, and
+don't keep careful records of the results of each shot, they can't
+see the difference between two vaguely similar weapons.
+
+        -- Robert
+-- 
+    Robert Plamondon
+    robert@weitek.COM
